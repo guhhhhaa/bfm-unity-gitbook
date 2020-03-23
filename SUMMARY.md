@@ -8,6 +8,6 @@
 * [BFM On Java](bfm-on-java.md)
 * [BFM on Verilog & FPGA](bfm-on-verilog-and-fpga.md)
 * [BFM On Python](bfm-on-python.md)
-* [玩梗如何引起新人兴趣](wo-men-zai-wan-de-geng.md)
+* [玩梗:如何引起新人兴趣](wo-men-zai-wan-de-geng.md)
 * [千千的量化世界猴版代码](qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma.md)
 
