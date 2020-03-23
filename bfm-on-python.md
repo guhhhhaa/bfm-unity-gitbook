@@ -1,5 +1,9 @@
 # BFM On Python
 
+{% hint style="info" %}
+本章纯属Ctrl+C&V，不爽可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)。
+{% endhint %}
+
 {% embed url="https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/" %}
 
 Hi there!
