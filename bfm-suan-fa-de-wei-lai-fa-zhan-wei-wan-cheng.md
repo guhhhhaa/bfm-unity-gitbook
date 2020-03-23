@@ -1,9 +1,5 @@
 # BFM算法的未来发展
 
-{% hint style="danger" %}
-本章过于未来，适合技术狂热者，科幻爱好者，泡沫炒作者阅读。
-{% endhint %}
-
 ## 量子退火
 
 {% embed url="https://1qbit.com/whitepaper/arbitrage/" %}

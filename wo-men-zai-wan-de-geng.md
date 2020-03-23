@@ -1,5 +1,11 @@
 # 玩梗：论如何引起新人兴趣
 
+{% hint style="info" %}
+本章纯属娱乐，办公人士可以跳过。
+
+但可能适合设计师，或广告行业相关人士。
+{% endhint %}
+
 ## 我们使用星杯代表我们的理想
 
 ![&#x300A;&#x6E38;&#x620F;&#x4EBA;&#x751F;&#xB7;ZERO&#x300B;](.gitbook/assets/12078662110a8d3bddbd46aa2430b5f44315b4bead.jpg)
