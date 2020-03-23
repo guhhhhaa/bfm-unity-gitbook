@@ -16,6 +16,8 @@
 
 ![&#x5168;&#x89C6;&#x4E4B;&#x773C;](.gitbook/assets/1584962320733.jpeg)
 
+{% embed url="https://baike.baidu.com/item/%E5%85%A8%E7%9F%A5%E4%B9%8B%E7%9C%BC/8219624" %}
+
 ![&#x4E09;&#x89D2;&#x5957;&#x5229;](.gitbook/assets/27f3d63ea07ab8663816d8aa2ae80bb7.png)
 
 ## 我们使用GOC代表多角套利和BFM算法。
