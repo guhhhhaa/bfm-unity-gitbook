@@ -1,6 +1,8 @@
 # BFM算法是什么
 
-## 早日研究BFM，早日粉碎世界九大洲由各国国家信用背书的货币体系，才能早日实现共产主义。
+{% hint style="danger" %}
+本章包含 **核心算法** ，需要 **开发者** 和 **产品经理** 细读
+{% endhint %}
 
 ## 为什么我能得出BFM=共产主义？
 
@@ -19,12 +21,6 @@ BFM算法非常简单，简单到，幼儿园小朋友都能够理解。
 ```c
 世界的本质，不就是 2 * 3 = 6 吗，有什么难的。
 ```
-
-就像动画片[《游戏人生·ZERO》](https://www.bilibili.com/bangumi/play/ep281830?theme=movie)里的特图神一样，伸手一把夺走星杯。
-
-{% hint style="success" %}
-**犹豫就会败北，果断就会白给。**
-{% endhint %}
 
 ![](.gitbook/assets/27f3d63ea07ab8663816d8aa2ae80bb7.png)
 
