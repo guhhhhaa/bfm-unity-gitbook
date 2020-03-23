@@ -1,5 +1,9 @@
 # 如何加入我们的讨论群组
 
+{% hint style="info" %}
+本章 **纯属广告** ，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/wo-men-zai-wan-de-geng)\*\*\*\*
+{% endhint %}
+
 ## QQ群组：708912525
 
 ![QQ&#x7FA4;&#x7EC4;&#xFF1A;708912525](.gitbook/assets/1584954098283.png)
