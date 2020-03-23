@@ -2,7 +2,11 @@
 
 ## BFM是什么？
 
-BFM是Bellman-Ford-Moore算法的简称，该算法于1955年由Alfonso Shimbel创立，我们利用这个算法优化三角套利的推广——多角套利路径的搜索。
+BFM是Bellman-Ford-Moore算法的简称。
+
+该算法于1955年由Alfonso Shimbel创立。
+
+我们利用这个算法优化三角套利的推广——多角套利路径的搜索。
 
 ## 从马克思的“国家消亡论“开始
 
