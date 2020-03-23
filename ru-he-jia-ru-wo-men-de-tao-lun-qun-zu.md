@@ -1,4 +1,4 @@
-# 如何加入我们的讨论群组
+# 如何加入或组建我们的讨论群组
 
 {% hint style="info" %}
 本章 **纯属广告** ，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/wo-men-zai-wan-de-geng)\*\*\*\*
