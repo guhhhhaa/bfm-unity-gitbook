@@ -1,4 +1,4 @@
-# 千千的量化世界猴版代码
+# 三角套利猴版代码
 
 ## [https://www.bilibili.com/video/av85726683](https://www.bilibili.com/video/av85726683)
 

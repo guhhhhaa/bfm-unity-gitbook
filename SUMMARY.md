@@ -9,5 +9,5 @@
 * [BFM On Java](bfm-on-java.md)
 * [BFM on Verilog & FPGA](bfm-on-verilog-and-fpga.md)
 * [BFM On Python](bfm-on-python.md)
-* [千千的量化世界猴版代码](qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma.md)
+* [三角套利猴版代码](qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma.md)
 
