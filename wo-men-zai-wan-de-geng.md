@@ -22,7 +22,7 @@
 
 ![&#x5168;&#x7403;&#x8D85;&#x81EA;&#x7136;&#x8054;&#x76DF;GOC](.gitbook/assets/image.png)
 
-
+{% embed url="http://scp-wiki-cn.wikidot.com/goc-hub-page" %}
 
 ![&#x591A;&#x89D2;&#x5957;&#x5229;&#x548C;BFM&#x7B97;&#x6CD5;](.gitbook/assets/1584962747934.jpeg)
 
