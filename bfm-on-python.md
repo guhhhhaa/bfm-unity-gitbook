@@ -2,6 +2,8 @@
 
 {% hint style="info" %}
 本章纯属Ctrl+C&V，不爽可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)。
+
+但是还是可以参考的。
 {% endhint %}
 
 {% embed url="https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/" %}
