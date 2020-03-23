@@ -216,21 +216,3 @@ end
 endmodule
 ```
 
-## 硬件优化
-
-### FPGA
-
-{% embed url="https://github.com/G-ram/HFT/tree/master/FOREX" %}
-
-[http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/FOREX.pdf](http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/FOREX.pdf)
-
-{% embed url="http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/FOREX.pdf" %}
-
-
-
-[http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf](http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf)
-
-{% embed url="http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf" %}
-
-
-
