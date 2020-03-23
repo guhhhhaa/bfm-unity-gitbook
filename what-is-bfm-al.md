@@ -67,8 +67,6 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
                         x <- π[x]
                 return marked nodes 
     return NIL
-
-
 ```
 
 ## BFM算法的时间复杂度分析
