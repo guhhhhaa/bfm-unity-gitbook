@@ -34,7 +34,7 @@
 
 ![](.gitbook/assets/1584962763119.png)
 
-## 我们使用纳克特抄本代表
+## 我们使用纳克特抄本代表对Algorithhms的汇集
 
 {% embed url="https://baike.baidu.com/item/%E5%A5%88%E5%85%8B%E7%89%B9%E5%9F%8E/3866151" %}
 
