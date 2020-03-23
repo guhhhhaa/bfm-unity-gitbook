@@ -28,6 +28,8 @@
 | :--- | :--- | :--- | :--- |
 | 11/14/03 | Handout 24: Problem Set 6 Solutions | [PostScript](https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.ps) | [Adobe PDF](https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.pdf) |
 
+{% embed url="https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.pdf" %}
+
 ## 我们应该查阅什么文献来具体应用BFM算法
 
 ![](.gitbook/assets/ab33492c185f8c30f5c21cc40d006134.png)
