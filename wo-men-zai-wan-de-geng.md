@@ -1,9 +1,9 @@
 # 玩梗：论如何引起新人兴趣
 
 {% hint style="info" %}
-本章纯属**休闲娱乐**，**商务办公人士**可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-al-ckwx)。
+本章纯属 **休闲娱乐**，**商务办公人士** 可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-al-ckwx)。
 
-可能适合**设计师，ACG或广告行业**相关人士。
+可能适合 **设计师，ACG或广告行业** 相关人士。
 {% endhint %}
 
 ## 我们使用星杯代表我们的理想
