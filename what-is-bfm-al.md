@@ -38,7 +38,7 @@ BFM 算法于 1955 年由 Alfonso Shimbel 创立。
 
 {% embed url="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford\_algorithm" %}
 
-我们利用这个算法优化三角套利的推广——多角套利路径的搜索。
+我们利用 BFM 算法进行交叉套利路径的优化搜索。
 
 {% embed url="https://en.wikipedia.org/wiki/Triangular\_arbitrage" %}
 
