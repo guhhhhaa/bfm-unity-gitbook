@@ -69,8 +69,6 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 
 「进入禁止」阶段，BFM Unity 将基于 BFM Eco System  为 BFM Unit\(s\) 提供期权对冲服务。
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.05.png)
-
 ### 7，「一方通行」
 
 > 机凯种为应对天翼种和森精种的空间转移所设计的空间破碎器。
