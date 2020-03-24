@@ -1,7 +1,7 @@
 # BFM 问题与解答
 
 {% hint style="warning" %}
-本章 **不包含任何代码** ，适合 **金融专业人士** 阅读。
+本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
 
 如果您 **不是** 上述人士，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
 {% endhint %}
