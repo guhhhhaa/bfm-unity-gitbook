@@ -18,7 +18,7 @@ BFM Eco System adopts a 3-layer architecture divided into Storage Layer, Core La
 
  「对未知用战斗演算」阶段，BFM Unity 负责研究，实验 BFM 算法技术在交叉套利上的应用。
 
-
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.38.44.png)
 
 ### 2，「伪典·森空摄」
 
@@ -29,6 +29,8 @@ BFM Unity 尝试推广 BFM 算法技术在交叉套利上的应用。
 BFM Unity 将让市场上一部分成规模的交易者成为 BFM Unit\(s\)。  
 BFM Unity 尝试组织 BFM Unit\(s\) **并行研究**，**并行推动** BFM 算法技术大幅前进。
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.39.35.png)
+
 ### 3，「伪典·焉龙哮」
 
 > 龙精种三王之一焉龙以生命为代价释放的崩啸，机凯种再现了其43.7%输出制成的武装。
@@ -38,7 +40,7 @@ BFM Unity 将整合，开源 BFM 算法技术相关代码，
 并开始广泛推广 BFM 算法技术在交叉套利上的应用。  
 BFM Unity 将让市场上 1/3 以上交易者成为 BFM Unit\(s\)。
 
-
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.39.51.png)
 
 ### 4，「伪典·天击」
 
@@ -50,6 +52,8 @@ BFM Unity 将组织 BFM Unit\(s\) ，通过联合在同一时间，停止套利�
 
 该过程中积累的资源将有助于 BFM Unity 加速发展。
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.40.32.png)
+
 ### 5，「伪典·天移」
 
 > 天翼种的空间转移能力。
@@ -57,11 +61,15 @@ BFM Unity 将组织 BFM Unit\(s\) ，通过联合在同一时间，停止套利�
 「伪典·天移」阶段，BFM Unity 将在以 BTC，ETH为代表的 Cryptocurrency 与 Smart Contract 技术 之上，为 BFM Unit\(s\) 提供一个可以完全自由可依赖的 BFM Eco System 。   
 BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Token，3，一个深度支持 BFM DAO 的 BFM DeFi DApp。
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.05.png)
+
 ### 6，「进入禁止」
 
 > 机凯种的防御武装。
 
 「进入禁止」阶段，BFM Unity 将基于 BFM Eco System  为 BFM Unit\(s\) 提供期权对冲服务。
+
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.05.png)
 
 ### 7，「一方通行」
 
@@ -69,11 +77,13 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 
 「一方通行」阶段，BFM Unity 将建立在以 KMD 为代表的Atomic DEx 跨链技术 之上，为 BFM Unit\(s\) 提供一个真正跨链的去中心化交易所 BFM DEx，并使得 BFM DEx 与 BFM Eco System 中的 BFM DAO，BFM Token，BFM DeFi DApp 有机结合，使 BFM Eco System 升级成 BFM Eco System Plus。
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.40.png)
+
 ### 8，「通行规制」
 
 > 能将所有能量指向扭曲的武装。
 
-「通行规制」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，并将 BFM Smart ontract 逐渐落地，从而不断拓展系统的边界。这使得 BFM Unity 成为世界第一大经济体。
+「通行规制」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，并将 BFM Smart Contract 逐渐落地，从而不断拓展系统的边界。这使得 BFM Unity 成为世界第一大经济体。
 
 ### 9，「制速违反」
 
@@ -92,4 +102,6 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 > 将战神的「神击」、森精种的「虚空第零加护」、地精种的「髓爆」、龙精种的「崩啸」收束而成的能量复制，以72.8%输出再现制成的武装。
 
 「真典·弑星者」阶段，BFM Unity 将在后量子技术 和 硬件优化的基础上，实现共产主义。
+
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.55.png)
 
