@@ -1,5 +1,11 @@
 # 【架构】发展路线
 
+## BFM Unity
+
+BFM Unity adopts a 3-layer architecture divided into Storage Layer, Core Layer, and Application Layer. The BFM protocol adheres to Google Protobuf, which intrinsically supports multi-language extension.
+
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-6.34.38.png)
+
 ## BFM Unity ：数十年的庞大工程
 
 {% embed url="https://www.bilibili.com/bangumi/play/ep281830" %}
