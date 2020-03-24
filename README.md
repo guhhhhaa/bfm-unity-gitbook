@@ -1,9 +1,9 @@
-# BFM 问题与解答
+# 【管理】BFM 问题与解答
 
 {% hint style="warning" %}
 本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
 
-如果您 **不是** 上述人士，想直接从算法开始，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
+对于**软件开发者**，**以下都是废话，**想从算法开始请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
 {% endhint %}
 
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
@@ -187,6 +187,8 @@ BFM 算法不会杀人，只会 ∞ 地循环放大理性和感情的矛盾，�
 ## BFM 算法怎么和平解构货币体系的呢？
 
 它制造了一个黑洞，并把它 ∞ 放大。这会一点点抽干整个货币系统的价值。 它抽取的，本质上是全人类的信用。
+
+{% embed url="https://wiki.mbalib.com/wiki/%E4%BF%A1%E7%94%A8%E5%8D%B1%E6%9C%BA" %}
 
 它在问地球上的每一个人，如果你有能力，你愿不愿意收全人类的保护费？
 
