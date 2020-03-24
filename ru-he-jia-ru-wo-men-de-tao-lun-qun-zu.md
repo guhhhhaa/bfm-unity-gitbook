@@ -18,6 +18,8 @@
 
 ![QQ&#x7FA4;&#x7EC4;&#xFF1A;708912525](.gitbook/assets/1584954098283.png)
 
+## 群名称：BFM Unity Team No.1
+
 ## 群文档
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
