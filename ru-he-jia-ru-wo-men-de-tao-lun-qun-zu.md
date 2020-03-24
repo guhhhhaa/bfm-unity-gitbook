@@ -16,13 +16,19 @@
 
 ![QQ&#x7FA4;&#x7EC4;&#xFF1A;708912525](.gitbook/assets/1584954098283.png)
 
-## 本群官方文档
+## 群文档
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm" caption="" %}
 
-## 本群官方看板
+## 群看板
 
 {% embed url="https://trello.com/b/z4aDgNAL/todolist" caption="" %}
+
+## 群文件备份
+
+{% embed url="https://github.com/guhhhhaa/bfm-group-file" %}
+
+## 群公告
 
 本群是关于 Bellman Ford Moore 算法，  
 在货币三角套利–高频交易，方面的应用，这一问题的研究群。
