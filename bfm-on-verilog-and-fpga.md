@@ -1,5 +1,9 @@
 # BFM on Verilog & FPGA
 
+{% hint style="info" %}
+本章纯属Ctrl+C&V，不爽可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-on-python)。
+{% endhint %}
+
 ```c
 `include "Const.vh"
 
