@@ -17,6 +17,10 @@ BFM是 Bellman-Ford-Moore 算法的简称。
 
 我们利用这个算法优化三角套利的推广——多角套利路径的搜索。
 
+{% embed url="https://baike.baidu.com/item/Bellman-Ford%E7%AE%97%E6%B3%95/1089090" %}
+
+
+
 ![](.gitbook/assets/1584962763119.png)
 
 ## 从马克思的“国家消亡论“开始
