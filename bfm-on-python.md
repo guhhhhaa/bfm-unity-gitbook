@@ -4,7 +4,7 @@
 本章纯属Ctrl+C&V，不爽可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)。
 {% endhint %}
 
-{% embed url="https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/" caption="" %}
+{% embed url="https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/" %}
 
 Hi there!
 
@@ -42,7 +42,8 @@ As a refresher, the Bellman-Ford algorithm is commonly used to find the shortest
 
 Since the longest path in any graph has at most \|V\| - 1 edges, if we take all the direct edges from our source node, then we have all the one-edged shortest paths; once we take edges from there, we have all the two-edged shortest paths; all the way until \|V\| - 1 sized paths.
 
-If, after \|V\| - 1 iterations of this, we can still find a smaller path, then there must be a negative cycle in the graph. We can start our algorithm on any vertex in our graph – since our graph is connected \(by virtue of it being complete\), then if there’s a negative cycle in our graph, we’ll find it.
+If, after \|V\| - 1 iterations of this, we can still find a smaller path, then there must be a negative cycle in the graph. We can start our algorithm on any vertex in our graph – since our graph is connected \(by virtue of it being complete\), then if there’s a negative cycle in our graph, we’ll find it.  
+
 
 ```python
 from math import log

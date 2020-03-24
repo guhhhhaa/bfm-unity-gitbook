@@ -22,7 +22,7 @@
 
 ![&#x5168;&#x89C6;&#x4E4B;&#x773C;](.gitbook/assets/1584962320733.jpeg)
 
-{% embed url="https://baike.baidu.com/item/%E5%85%A8%E7%9F%A5%E4%B9%8B%E7%9C%BC/8219624" caption="" %}
+{% embed url="https://baike.baidu.com/item/%E5%85%A8%E7%9F%A5%E4%B9%8B%E7%9C%BC/8219624" %}
 
 ![&#x4E09;&#x89D2;&#x5957;&#x5229;](.gitbook/assets/27f3d63ea07ab8663816d8aa2ae80bb7.png)
 
@@ -30,29 +30,35 @@
 
 ![&#x5168;&#x7403;&#x8D85;&#x81EA;&#x7136;&#x8054;&#x76DF;GOC](.gitbook/assets/image.png)
 
-{% embed url="http://scp-wiki-cn.wikidot.com/goc-hub-page" caption="" %}
+{% embed url="http://scp-wiki-cn.wikidot.com/goc-hub-page" %}
 
 ![&#x591A;&#x89D2;&#x5957;&#x5229;&#x548C;BFM&#x7B97;&#x6CD5;](.gitbook/assets/1584962747934.jpeg)
 
+
+
 ## 我们使用塞拉伊诺断章代表两种算法表示
 
-{% embed url="https://www.bilibili.com/read/cv276168/" caption="" %}
+{% embed url="https://www.bilibili.com/read/cv276168/" %}
 
 ![](.gitbook/assets/1584962763119.png)
 
 ## 我们使用纳克特抄本代表对Algorithhms的汇集
 
-{% embed url="https://baike.baidu.com/item/%E5%A5%88%E5%85%8B%E7%89%B9%E5%9F%8E/3866151" caption="" %}
+{% embed url="https://baike.baidu.com/item/%E5%A5%88%E5%85%8B%E7%89%B9%E5%9F%8E/3866151" %}
+
+
 
 ![&#x6211;&#x4EEC;&#x8BD5;&#x56FE;&#x5C06;&#x7B97;&#x6CD5;&#x7B2C;&#x56DB;&#x7248;&#x7684;&#x4EE3;&#x7801;&#xFF0C;&#x8A8A;&#x6284;&#x4E0B;&#x6765;&#xFF0C;&#x6C47;&#x96C6;&#x6210;&#x518C;&#x3002;](.gitbook/assets/na-ke-te-chao-ben-1.png)
 
-## 我们使用红宝书代表Algorithhms，因为它的封面是红色的
+## 我们使用红宝书代表Algorithhms，因为它的封面是红色的 
 
 Algorithhms 4th Edition by Robert Sedgewick
 
-{% embed url="https://raw.githubusercontent.com/Mcdonoughd/CS2223/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf" caption="" %}
+{% embed url="https://raw.githubusercontent.com/Mcdonoughd/CS2223/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf" %}
 
 ## 我们使用黑魔书代表Intro to Algorithms，因为它中文版封面是黑色的
 
-{% embed url="https://edutechlearners.com/download/Introduction\_to\_algorithms-3rd%20Edition.pdf" caption="" %}
+{% embed url="https://edutechlearners.com/download/Introduction\_to\_algorithms-3rd%20Edition.pdf" %}
+
+
 

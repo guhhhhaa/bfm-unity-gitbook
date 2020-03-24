@@ -9,23 +9,29 @@
 
 ## 量子退火
 
-{% embed url="https://1qbit.com/whitepaper/arbitrage/" caption="" %}
+{% embed url="https://1qbit.com/whitepaper/arbitrage/" %}
 
 [http://1qbit.com/wp-content/uploads/2016/10/1QBit-White-Paper-%25E2%2580%2593-Finding-Optimal-Arbitrage-Opportunities-Using-a-Quantum-Annealer.pdf](http://1qbit.com/wp-content/uploads/2016/10/1QBit-White-Paper-%25E2%2580%2593-Finding-Optimal-Arbitrage-Opportunities-Using-a-Quantum-Annealer.pdf)
 
-{% embed url="http://qbit.wpengine.com/wp-content/uploads/2016/10/1QBit-White-Paper-%E2%80%93-Finding-Optimal-Arbitrage-Opportunities-Using-a-Quantum-Annealer.pdf" caption="" %}
+{% embed url="http://qbit.wpengine.com/wp-content/uploads/2016/10/1QBit-White-Paper-%E2%80%93-Finding-Optimal-Arbitrage-Opportunities-Using-a-Quantum-Annealer.pdf" %}
+
+
 
 ## 硬件优化
 
 ### FPGA
 
-{% embed url="https://github.com/G-ram/HFT/tree/master/FOREX" caption="" %}
+{% embed url="https://github.com/G-ram/HFT/tree/master/FOREX" %}
 
 [http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/FOREX.pdf](http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/FOREX.pdf)
 
-{% embed url="http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/FOREX.pdf" caption="" %}
+{% embed url="http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/FOREX.pdf" %}
+
+
 
 [http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf](http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf)
 
-{% embed url="http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf" caption="" %}
+{% embed url="http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf" %}
+
+
 
