@@ -13,7 +13,7 @@
 # 策略包含：三角套利、跨市双边、跨市三角。
 # 需要熟悉无风险套利原理的朋友可以查看公众号内历史文章
 # 无风险套利的核心是对下单细节的处理和执行速度的优化 这是猴版 视频中我会告诉大家哪里有提高空间
- 
+
 import ccxt       # 导入ccxt开源库，封装了各交易所rest api，通过 pip install ccxt安装
 import time       # 导入time库，用于获取计时和定时睡眠
 import logging    # 导入logging库，用于记录日志
