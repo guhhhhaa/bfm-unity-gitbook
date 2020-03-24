@@ -1,4 +1,4 @@
-# 加入或组建群组
+# 【运营】加入组建
 
 {% hint style="info" %}
 本章 **纯属广告** ，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/wo-men-zai-wan-de-geng)
@@ -20,7 +20,7 @@
 
 ## 群文档
 
-{% embed url="https://guhhhhaa.gitbook.io/bfm" caption="" %}
+{% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
 
 ## 群看板
 
