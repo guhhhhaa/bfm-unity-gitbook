@@ -1,5 +1,11 @@
 # 玩梗：论如何引起新人兴趣
 
+{% hint style="info" %}
+本章纯属 **休闲娱乐**，**商务办公人士** 可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-al-ckwx)。
+
+但可能适合 **设计师，ACG或广告行业** 相关人士。
+{% endhint %}
+
 ## 我们使用星杯代表我们的理想
 
 ![&#x300A;&#x6E38;&#x620F;&#x4EBA;&#x751F;&#xB7;ZERO&#x300B;](.gitbook/assets/12078662110a8d3bddbd46aa2430b5f44315b4bead.jpg)
@@ -44,13 +50,13 @@
 
 ![&#x6211;&#x4EEC;&#x8BD5;&#x56FE;&#x5C06;&#x7B97;&#x6CD5;&#x7B2C;&#x56DB;&#x7248;&#x7684;&#x4EE3;&#x7801;&#xFF0C;&#x8A8A;&#x6284;&#x4E0B;&#x6765;&#xFF0C;&#x6C47;&#x96C6;&#x6210;&#x518C;&#x3002;](.gitbook/assets/na-ke-te-chao-ben-1.png)
 
-## 我们使用红宝书代表Algorithhms 
+## 我们使用红宝书代表Algorithhms，因为它的封面是红色的 
 
 Algorithhms 4th Edition by Robert Sedgewick
 
 {% embed url="https://raw.githubusercontent.com/Mcdonoughd/CS2223/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf" %}
 
-## 我们使用黑魔书代表Intro to Algorithms
+## 我们使用黑魔书代表Intro to Algorithms，因为它中文版封面是黑色的
 
 {% embed url="https://edutechlearners.com/download/Introduction\_to\_algorithms-3rd%20Edition.pdf" %}
 
