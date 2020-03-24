@@ -1,8 +1,8 @@
 # Table of contents
 
 * [【政经】BFM 问题与解答](README.md)
-* [BFM 程序化描述（算法）](what-is-bfm-al.md)
-* [加入或组建群组（运营）](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
+* [【算法】BFM 程序化描述](what-is-bfm-al.md)
+* [【运营】加入或组建群组](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
 * [【传媒】引起新人兴趣](wo-men-zai-wan-de-geng.md)
 * [【学术】BFM 参考文献](bfm-al-ckwx.md)
 * [【前景】BFM 未来发展](bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng.md)
