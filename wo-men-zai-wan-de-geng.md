@@ -1,9 +1,9 @@
-# 【传媒】引起新人兴趣
+# 引起新人兴趣
 
 {% hint style="info" %}
-本章可能适合 **设计师，ACGN** 或 **广告** 行业相关人士。
+本章可能适合 **设计师，ACG或广告行业** 相关人士。
 
-其他 **商务办公** 人士可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-al-ckwx)。
+其他 **商务办公人士** 可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-al-ckwx)。
 {% endhint %}
 
 ## 我们使用星杯代表我们的理想
