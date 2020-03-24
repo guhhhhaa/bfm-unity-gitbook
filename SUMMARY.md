@@ -1,7 +1,7 @@
 # Table of contents
 
 * [BFM 问题与解答（哲学）](README.md)
-* [BFM 程序化描述](what-is-bfm-al.md)
+* [BFM 程序化描述（算法）](what-is-bfm-al.md)
 * [加入或组建群组](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
 * [引起新人兴趣](wo-men-zai-wan-de-geng.md)
 * [BFM 参考文献](bfm-al-ckwx.md)

@@ -1,7 +1,7 @@
 # 三角套利猴版代码
 
 {% hint style="info" %}
-本章是**最后一章**，如果你后悔一直跳，可跳回[**第二章**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)
+本章是最后一章，如果你后悔一直跳，可跳回[**第二章**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)\*\*\*\*
 {% endhint %}
 
 ## [https://www.bilibili.com/video/av85726683](https://www.bilibili.com/video/av85726683)
