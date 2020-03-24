@@ -71,6 +71,8 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 
 「通行规制」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，并将 BFM Smart contract 逐渐落地，从而不断拓展系统的边界。这使得 BFM Unity 成为世界第一大经济体。
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.42.19.png)
+
 ### 9，「制速违反」
 
 > 将典开的全部武装一齐，以超高浓缩的精灵粒子化后放射出来，一般的生物──就连森精种触碰到的话也会被即死，休比利用超高浓缩精灵指向性使其挥发造成自身超加速。
