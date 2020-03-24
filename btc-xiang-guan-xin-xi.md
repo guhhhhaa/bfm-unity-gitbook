@@ -34,3 +34,5 @@
 
 ## 群主对BTC的分析：
 
+{% embed url="https://www.tradingview.com/chart/BTCUSD/6xNgLlNE-BTC-will-remain-volatile-until-the-second-half-of-2021/" %}
+
