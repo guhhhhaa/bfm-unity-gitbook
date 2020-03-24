@@ -4,7 +4,7 @@
 
 BFM Eco System adopts a 3-layer architecture divided into Storage Layer, Core Layer, and Application Layer. The BFM protocol adheres to Google Protobuf, which intrinsically supports multi-language extension.
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-6.34.38.png)
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.14.14.png)
 
 ## BFM Unity ：数十年的庞大工程
 
@@ -36,6 +36,8 @@ BFM Unity 将整合，开源 BFM 算法技术相关代码，
 并开始广泛推广 BFM 算法技术在交叉套利上的应用。  
 BFM Unity 将让市场上 1/3 以上交易者成为 BFM Unit\(s\)。
 
+
+
 ### 4，「伪典·天击」
 
 > 复制了战神赐予天翼种的力量——天击制成的兵装。
@@ -53,15 +55,11 @@ BFM Unity 将组织 BFM Unit\(s\) ，通过联合在同一时间，停止套利�
 「伪典·天移」阶段，BFM Unity 将在以 BTC，ETH为代表的 Cryptocurrency 与 Smart Contract 技术 之上，为 BFM Unit\(s\) 提供一个可以完全自由可依赖的 BFM Eco System 。   
 BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Token，3，一个深度支持 BFM DAO 的 BFM DeFi DApp。
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.00.27.png)
-
 ### 6，「进入禁止」
 
 > 机凯种的防御武装。
 
 「进入禁止」阶段，BFM Unity 将基于 BFM Eco System  为 BFM Unit\(s\) 提供期权对冲服务。
-
-![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.01.44.png)
 
 ### 7，「一方通行」
 
@@ -69,15 +67,11 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 
 「一方通行」阶段，BFM Unity 将建立在以 KMD 为代表的Atomic DEx 跨链技术 之上，为 BFM Unit\(s\) 提供一个真正跨链的去中心化交易所 BFM DEx，并使得 BFM DEx 与 BFM Eco System 中的 BFM DAO，BFM Token，BFM DeFi DApp 有机结合，使 BFM Eco System 升级成 BFM Eco System Plus。
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.05.09.png)
-
 ### 8，「通行规制」
 
 > 能将所有能量指向扭曲的武装。
 
 「通行规制」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，并将 BFM Smart ontract 逐渐落地，从而不断拓展系统的边界。这使得 BFM Unity 成为世界第一大经济体。
-
-![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.42.19.png)
 
 ### 9，「制速违反」
 
