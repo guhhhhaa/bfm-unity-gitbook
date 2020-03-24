@@ -1,7 +1,7 @@
 # 【研究】BFM 参考文献
 
 {% hint style="success" %}
-本章 **纯理论**，适合 **科研** 和 **校园** 人士阅读。
+本章 **纯理论**，适合 **学术，理论，研究** 人士阅读。
 
 如果您不是上述人士，请大略 **浏览**，或直接 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)  
 仅供日后 **查找** ，**不适合细读**。
