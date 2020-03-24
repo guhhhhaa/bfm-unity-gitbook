@@ -6,8 +6,8 @@
 如果您 **不是** 上述人士，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
 {% endhint %}
 
-本文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
-本文档 GitHub 地址：[https://github.com/guhhhhaa/bfm-gitbook](https://github.com/guhhhhaa/bfm-gitbook)
+文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
+文档 GitHub 地址：[https://github.com/guhhhhaa/bfm-gitbook](https://github.com/guhhhhaa/bfm-gitbook)
 
 ## BFM 是什么？
 
