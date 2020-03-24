@@ -50,7 +50,7 @@ BFM Unity 将组织 BFM Unit\(s\) ，通过联合在同一时间，停止套利�
 
 > 天翼种的空间转移能力。
 
-「伪典·天移」阶段，BFM Unity 将建立在以 BTC，ETH为代表的加密货币与智能合约技术 之上，为 BFM Unit\(s\) 提供一个可以完全自由可依赖的 BFM Eco System 。   
+「伪典·天移」阶段，BFM Unity 将在以 BTC，ETH为代表的 Cryptocurrency 与 Smart ontract 技术 之上，为 BFM Unit\(s\) 提供一个可以完全自由可依赖的 BFM Eco System 。   
 BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Token，3，一个深度支持 BFM DAO 的 BFM DeFi DApp。
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.00.27.png)
@@ -75,7 +75,7 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 
 > 能将所有能量指向扭曲的武装。
 
-「通行规制」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，并将 BFM Smart contract 逐渐落地，从而不断拓展系统的边界。这使得 BFM Unity 成为世界第一大经济体。
+「通行规制」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，并将 BFM Smart ontract 逐渐落地，从而不断拓展系统的边界。这使得 BFM Unity 成为世界第一大经济体。
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.42.19.png)
 
