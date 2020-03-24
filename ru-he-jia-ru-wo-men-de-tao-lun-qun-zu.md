@@ -1,7 +1,7 @@
 # 加入或组建群组
 
 {% hint style="info" %}
-本章 **纯属广告** ，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/wo-men-zai-wan-de-geng)\*\*\*\*
+本章 **纯属广告** ，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/wo-men-zai-wan-de-geng)
 {% endhint %}
 
 ## 以下群组只是作为参考例子，
