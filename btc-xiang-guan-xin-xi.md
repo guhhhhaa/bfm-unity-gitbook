@@ -1,5 +1,9 @@
 # BTC相关信息
 
+## 群主对BTC的分析：
+
+{% embed url="https://www.tradingview.com/chart/BTCUSD/6xNgLlNE-BTC-will-remain-volatile-until-the-second-half-of-2021/" %}
+
 ## 大佬都在看的5个比特币指标 
 
 {% embed url="https://m.jinse.com/blockchain/559650.html" %}
@@ -31,8 +35,4 @@
 梅特卡夫定律（英语：Metcalfe's law）是一个关于网络的价值和网络技术的发展的定律，其内容是： 一个网络的价值等于该网络内的节点数的平方，而且该网络的价值与联网的用户数的平方成正比。 
 
 摩尔定律是由英特尔（Intel）创始人之一戈登·摩尔（Gordon Moore）提出来的。其内容为： 如果集成电路复杂度和内部结构保持不变，每1.5年，贬值一半。
-
-## 群主对BTC的分析：
-
-{% embed url="https://www.tradingview.com/chart/BTCUSD/6xNgLlNE-BTC-will-remain-volatile-until-the-second-half-of-2021/" %}
 
