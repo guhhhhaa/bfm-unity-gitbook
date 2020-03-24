@@ -1,6 +1,6 @@
 # Table of contents
 
-* [有关问题与解答](README.md)
+* [相关问题与解答](README.md)
 * [程序化描述](what-is-bfm-al.md)
 * [加入或组建群组](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
 * [引起新人兴趣](wo-men-zai-wan-de-geng.md)
