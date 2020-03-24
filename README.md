@@ -25,7 +25,7 @@ BFM是 Bellman-Ford-Moore 算法的简称。
 
 ![](.gitbook/assets/1584962763119.png)
 
-## BFM 的组织性质是什么？
+## BFM Unity 的组织性质是什么？
 
 BFM 是 政治上绝对中立，经济上绝对中立，泛世界性的，
 
