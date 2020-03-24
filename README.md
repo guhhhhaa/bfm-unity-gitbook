@@ -3,7 +3,7 @@
 {% hint style="warning" %}
 本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
 
-如果您 **不是** 上述人士，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
+如果您 **不是** 上述人士，想直接从算法开始，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
 {% endhint %}
 
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
@@ -15,11 +15,11 @@ BFM是 Bellman-Ford-Moore 算法的简称。
 
 该算法于 1955 年由 Alfonso Shimbel 创立。
 
-我们利用这个算法优化三角套利的推广——多角套利路径的搜索。
-
 {% embed url="https://baike.baidu.com/item/Bellman-Ford%E7%AE%97%E6%B3%95/1089090" %}
 
+{% embed url="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford\_algorithm" %}
 
+我们利用这个算法优化三角套利的推广——多角套利路径的搜索。
 
 ![](.gitbook/assets/1584962763119.png)
 
