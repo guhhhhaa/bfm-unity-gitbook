@@ -31,7 +31,13 @@ BFM 是 政治上绝对中立，经济上绝对中立，泛世界性的，
 
 智能化，算法驱动，分布式，模块化，自组织，形成 耗散结构的，
 
-一种，微型经济单元，集群。
+一种，微型经济结构单元，集群。
+
+{% embed url="https://baike.baidu.com/item/%E8%87%AA%E7%BB%84%E7%BB%87/6997559" %}
+
+{% embed url="https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/4905336" %}
+
+{% embed url="https://baike.baidu.com/item/%E9%9B%86%E7%BE%A4%E6%8A%80%E6%9C%AF/9774443" %}
 
 ## BFM 的愿景是什么？
 
