@@ -92,13 +92,13 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 
 detect 算法时间复杂度为O\( \|V\| · \|E\| \)，find 算法时间复杂度为O\( N ^ 3 \)，
 
-我们使用的应为 find 算法。
+我们使用应为 find 算法。
 
 推荐数字货币交易所为Kraken，Binance，HuobiPro，OKEx 和 Pionex。
 
 
 
-推荐指定数字货币交易框架为 CCXT ，推荐交易平台为 FMZ 与 1Token。
+推荐交易框架为 CCXT ，推荐交易平台为 FMZ 与 1Token。
 
-或者你应该自己搭建，自己部署。
+或你应该自己搭建，自己部署。
 
