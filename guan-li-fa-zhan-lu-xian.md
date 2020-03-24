@@ -79,7 +79,7 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 
 > 与制速违反同理，将超高浓缩精灵以无指向性的挥发构成“攻势防壁”。
 
-「全方交叉」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，向 BTC 等传统数字货币发起和平解构。
+「全方交叉」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，向 BTC 等传统数字货币 Eco System 发起和平解构。
 
 ## N，「真典·弑星者」
 
