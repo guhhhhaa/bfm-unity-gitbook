@@ -1,10 +1,10 @@
 # BFM 参考文献
 
 {% hint style="success" %}
-本章 **纯理论**，适合 **科研人员** 和 **校园人士** 阅读。
+本章 **纯理论**，适合 **科研** 和 **校园** 人士阅读。
 
-如果您不是上述人士，请 **大略浏览**，或直接 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)  
-仅供日后 **查找引用** ，**不适合细读**。
+如果您不是上述人士，请大略 **浏览**，或直接 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)  
+仅供日后 **查找** ，**不适合细读**。
 {% endhint %}
 
 ## 我们应该查阅什么文献来具体实现BFM算法
@@ -59,5 +59,7 @@
 
 4.4.12 Adapt the DirectedCycle and Topological classes from Section 4.2 to use the EdgeweightedDigraph and DirectedEdge APIs of this section, thus implementing EdgeWeightedCycleFinder and EdgeWeightedTopological classes. [https://algs4.cs.princeton.edu/44sp/EdgeWeightedDirectedCycle.java.html](https://algs4.cs.princeton.edu/44sp/EdgeWeightedDirectedCycle.java.html) [https://algs4.cs.princeton.edu/42digraph/DirectedCycle.java.html](https://algs4.cs.princeton.edu/42digraph/DirectedCycle.java.html) [https://algs4.cs.princeton.edu/44sp/Topological.java.html](https://algs4.cs.princeton.edu/44sp/Topological.java.html) 
 
-### 算法 第四版\(algorithms 4th edition \) 这本书有配套的习题答案吗？[https://www.zhihu.com/question/27876056](https://www.zhihu.com/question/27876056)  
+### 算法 第四版\(algorithms 4th edition \) 这本书有配套的习题答案吗？
+
+[https://www.zhihu.com/question/27876056](https://www.zhihu.com/question/27876056)  
 
