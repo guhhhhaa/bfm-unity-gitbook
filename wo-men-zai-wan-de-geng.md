@@ -1,7 +1,7 @@
 # 引起新人兴趣
 
 {% hint style="info" %}
-本章可能适合 **设计师，ACG或广告行业** 相关人士。
+本章可能适合 **设计师，ACG** 或 **广告行业** 相关人士。
 
 其他 **商务办公人士** 可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-al-ckwx)。
 {% endhint %}
