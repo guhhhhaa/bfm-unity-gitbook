@@ -3,7 +3,7 @@
 {% hint style="warning" %}
 本章 **不包含任何代码** ，适合 **金融专业人士** 阅读。
 
-如果您 **不是** 上述人士，请 [**跳过此篇，看下一篇**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
+如果您 **不是** 上述人士，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
 {% endhint %}
 
 ## BFM是什么？
