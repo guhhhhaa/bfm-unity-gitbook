@@ -5,7 +5,7 @@
 * [加入或组建群组（运营）](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
 * [引起新人兴趣（传媒）](wo-men-zai-wan-de-geng.md)
 * [BFM 参考文献（学术）](bfm-al-ckwx.md)
-* [BFM 未来发展](bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng.md)
+* [BFM 未来发展（前景）](bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng.md)
 * [BFM on Java](bfm-on-java.md)
 * [BFM on Verilog & FPGA](bfm-on-verilog-and-fpga.md)
 * [BFM on Python](bfm-on-python.md)
