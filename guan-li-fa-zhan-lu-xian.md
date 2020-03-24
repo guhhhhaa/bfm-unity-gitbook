@@ -30,7 +30,7 @@ BFM Unity 将组织 BFM Unit\(s\) 通过在同一时间停止套利系统运行�
 
 ## 5，「伪典·天移」：天翼种的空间转移能力。  
 
-「伪典·天移」阶段，BFM Unity 将建立在以 BTC，ETH为代表的加密货币与智能合约技术 之上，为 BFM Unit\(s\) 提供一个可以完全自由可依赖的 Eco System 。   
+「伪典·天移」阶段，BFM Unity 将建立在以 BTC，ETH为代表的加密货币与智能合约技术 之上，为 BFM Unit\(s\) 提供一个可以完全自由可依赖的 BFM Eco System 。   
 BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Token，3，一个深度支持 BFM DAO 的 BFM DeFi DApp。
 
 ## 6，「进入禁止」：机凯种的防御武装。
