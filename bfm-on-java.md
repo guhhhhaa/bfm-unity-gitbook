@@ -1,4 +1,4 @@
-# BFM On Java
+# BFM on Java
 
 {% hint style="info" %}
 本章纯属Ctrl+C&V，不爽可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-on-verilog-and-fpga)。

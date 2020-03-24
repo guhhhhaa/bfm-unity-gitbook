@@ -6,9 +6,9 @@
 * [引起新人兴趣](wo-men-zai-wan-de-geng.md)
 * [BFM 参考文献](bfm-al-ckwx.md)
 * [BFM 未来发展](bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng.md)
-* [BFM On Java](bfm-on-java.md)
+* [BFM on Java](bfm-on-java.md)
 * [BFM on Verilog & FPGA](bfm-on-verilog-and-fpga.md)
-* [BFM On Python](bfm-on-python.md)
+* [BFM on Python](bfm-on-python.md)
 * [三角套利猴版代码](qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma.md)
-* [BTC相关信息](btc-xiang-guan-xin-xi.md)
+* [BTC 相关信息](btc-xiang-guan-xin-xi.md)
 
