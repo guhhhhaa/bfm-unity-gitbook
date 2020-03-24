@@ -1,12 +1,6 @@
 # BFM On Java
 
-{% hint style="info" %}
-本章纯属Ctrl+C&V，不爽可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-on-verilog-and-fpga)。
-{% endhint %}
-
-
-
-## 别看了，下面只是格式，我还没写完。
+## 未完成
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}

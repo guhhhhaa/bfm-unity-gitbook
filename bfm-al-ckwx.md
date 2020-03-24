@@ -1,25 +1,8 @@
 # BFM算法的参考文献有哪些
 
-{% hint style="success" %}
-本章 **纯理论**，适合 **科研人员** 和 **校园人士** 阅读。
-
-如果您不是上述人士，请 **大略浏览**，或直接 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)  
-仅供日后 **查找引用** ，**不适合细读**。
-{% endhint %}
-
 ## 我们应该查阅什么文献来具体实现BFM算法
 
 ![](.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
-
-### [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_lec11.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6_046JS15_lec11.pdf)
-
-{% embed url="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_lec11.pdf" %}
-
-### [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_writtenlec11.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6_046JS15_writtenlec11.pdf)
-
-{% embed url="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_writtenlec11.pdf" %}
-
-
 
 ### [https://courses.csail.mit.edu/6.006/spring11/rec/rec15.pdf](https://courses.csail.mit.edu/6.006/spring11/rec/rec15.pdf)
 
@@ -44,8 +27,6 @@
 | 10/31/03 | Handout 19: Problem Set 6 | [PostScript](https://courses.csail.mit.edu/6.046/fall03/handouts/pset6.ps) | [Adobe PDF](https://courses.csail.mit.edu/6.046/fall03/handouts/pset6.pdf) |
 | :--- | :--- | :--- | :--- |
 | 11/14/03 | Handout 24: Problem Set 6 Solutions | [PostScript](https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.ps) | [Adobe PDF](https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.pdf) |
-
-{% embed url="https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.pdf" %}
 
 ## 我们应该查阅什么文献来具体应用BFM算法
 
