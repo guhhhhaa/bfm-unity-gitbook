@@ -9,7 +9,7 @@
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
 文档 GitHub 地址：[https://github.com/guhhhhaa/bfm-gitbook](https://github.com/guhhhhaa/bfm-gitbook)
 
-## BFM 是什么？
+## BFM 是什么？ 
 
 BFM是 Bellman-Ford-Moore 算法的简称。
 
