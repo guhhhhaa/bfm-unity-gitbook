@@ -6,13 +6,27 @@
 
 ## 以下群组仅供参考
 
+## BFM Unity 的组织性质是什么？
+
+> BFM Unity 在政治，经济和世界范围内均保持中立。   
+> 它是耗散结构集群的去中心化的金融和经济统一体，  
+> 由智能算法驱动的微观经济结构的模块化单元的分布式自组织形成。
+
+> BFM Unity is neutral politically, economically and worldwide.   
+> It is a decentralized financial and economic continuum of dissipative structure clusters,   
+> formed by distributed self-organization of modular units of microeconomic structures driven by intelligent algorithms.
+
+BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观。
+
+不管基于牟利或其他目的，只要使用 BFM 算法，都是在壮大我们在市场中的力量，所以也就都是 BFM Unity 的一部分。
+
 ## 组建群组
 
 任何人可以建设我们的 QQ 或 TG 群组，因为我们并不需要新加入者公开响应或者认同价值观。
 
-不管基于牟利或其他目的，只要使用 BFM 算法，都是在壮大我们在市场中的力量。
+不管基于牟利或其他目的，只要使用 BFM 算法，都是在壮大我们在市场中的力量，所以也就都是 BFM Unity 的一部分。
 
-如果想要自行建群讨论类似问题，建议引用该文档，并建议群组名称以 BFM 作为开头。
+如果想要自行建群讨论类似问题，建议引用该文档，并建议群组名称以 BFM Unity Team 作为开头。
 
 ## QQ群组：708912525
 
@@ -78,13 +92,13 @@
 
 detect 算法时间复杂度为O\( \|V\| · \|E\| \)，find 算法时间复杂度为O\( N ^ 3 \)，
 
-我们使用的应为 find 算法。
+我们使用应为 find 算法。
 
 推荐数字货币交易所为Kraken，Binance，HuobiPro，OKEx 和 Pionex。
 
 
 
-推荐指定数字货币交易框架为 CCXT ，推荐交易平台为 FMZ 与 1Token。
+推荐交易框架为 CCXT ，推荐交易平台为 FMZ 与 1Token。
 
-或者你应该自己搭建，自己部署。
+或你应该自己搭建，自己部署。
 

@@ -35,13 +35,19 @@ BFM Unity 将组织 BFM Unit\(s\) 通过在同一时间停止套利系统运行�
 「伪典·天移」阶段，BFM Unity 将建立在以 BTC，ETH为代表的加密货币与智能合约技术 之上，为 BFM Unit\(s\) 提供一个可以完全自由可依赖的 BFM Eco System 。   
 BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Token，3，一个深度支持 BFM DAO 的 BFM DeFi DApp。
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.00.27.png)
+
 ## 6，「进入禁止」：机凯种的防御武装。
 
 「进入禁止」阶段，BFM Unity 将基于 BFM Eco System  为 BFM Unit\(s\) 提供期权对冲服务。
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.01.44.png)
+
 ## 7，「一方通行」：机凯种的空间破碎器。 
 
-「一方通行」阶段，BFM Unity 将建立在以 KMD 为代表的Atomic DEx 跨链技术 之上，为 BFM Unit\(s\) 提供一个真正跨链的去中心化交易所 BFM DEx，并使得 BFM DEx 与 BFM Eco System 中的 BFM DAO，BFM Token，BFM DeFi DApp 有机结合，使 BFM Eco System 升级成 BFM Eco System Plus
+「一方通行」阶段，BFM Unity 将建立在以 KMD 为代表的Atomic DEx 跨链技术 之上，为 BFM Unit\(s\) 提供一个真正跨链的去中心化交易所 BFM DEx，并使得 BFM DEx 与 BFM Eco System 中的 BFM DAO，BFM Token，BFM DeFi DApp 有机结合，使 BFM Eco System 升级成 BFM Eco System Plus。
+
+![](.gitbook/assets/ping-mu-kuai-zhao-20200324-xia-wu-11.05.09.png)
 
 ## 8，「通行规制」：能将所有能量指向扭曲的武装。 
 
