@@ -1,7 +1,7 @@
 # Table of contents
 
 * [BFM算法有关问题与解答](README.md)
-* [BFM算法是什么](what-is-bfm-al.md)
+* [BFM算法的程序化描述](what-is-bfm-al.md)
 * [如何加入或自行组建讨论群组](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
 * [玩梗：论如何引起新人兴趣](wo-men-zai-wan-de-geng.md)
 * [BFM算法的参考文献有哪些](bfm-al-ckwx.md)

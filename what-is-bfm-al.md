@@ -1,8 +1,10 @@
-# BFM算法是什么
+# BFM算法的程序化描述
 
-## 早日研究BFM，早日粉碎世界九大洲由各国国家信用背书的货币体系，才能早日实现共产主义。
+{% hint style="danger" %}
+本章包含 **核心算法** ，需要 **开发者** 和 **产品经理** 细读
+{% endhint %}
 
-## 为什么我能得出BFM=共产主义？
+## 为什么BFM=共产主义？
 
 1. BFM是世界经济金融系统金字塔的顶端。 
 2. BFM可以被每个人掌握，推广，使用。 
@@ -19,12 +21,6 @@ BFM算法非常简单，简单到，幼儿园小朋友都能够理解。
 ```c
 世界的本质，不就是 2 * 3 = 6 吗，有什么难的。
 ```
-
-就像动画片[《游戏人生·ZERO》](https://www.bilibili.com/bangumi/play/ep281830?theme=movie)里的特图神一样，伸手一把夺走星杯。
-
-{% hint style="success" %}
-**犹豫就会败北，果断就会白给。**
-{% endhint %}
 
 ![](.gitbook/assets/27f3d63ea07ab8663816d8aa2ae80bb7.png)
 
@@ -78,7 +74,7 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 ![&#x672C;&#x56FE;&#x7247;&#x5F15;&#x7528;&#x81EA;&#x300A;&#x554A;&#x54C8;&#xFF01;&#x7B97;&#x6CD5;&#x300B;](.gitbook/assets/ping-mu-kuai-zhao-20200318-shang-wu-9.55.10.png)
 
-## BFM-Find算法和BFM-Detect算法的比较
+## BFM-Detect算法 和 BFM-Find算法 的比较
 
 ![](.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
 
