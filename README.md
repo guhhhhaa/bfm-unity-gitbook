@@ -1,4 +1,4 @@
-# 【管理】BFM 问题与解答
+# 【管理】问题解答
 
 {% hint style="warning" %}
 本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
@@ -9,7 +9,7 @@
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
 文档 GitHub 地址：[https://github.com/guhhhhaa/bfm-gitbook](https://github.com/guhhhhaa/bfm-gitbook)
 
-## BFM 是什么？
+## BFM 是什么？ 
 
 BFM是 Bellman-Ford-Moore 算法的简称。
 
@@ -28,11 +28,11 @@ BFM是 Bellman-Ford-Moore 算法的简称。
 ## BFM Unity 的组织性质是什么？
 
 > BFM Unity 在政治，经济和世界范围内均保持中立。   
-> 它是耗散结构集群的金融和经济统一体，  
+> 它是耗散结构集群的去中心化的金融和经济统一体，  
 > 由智能算法驱动的微观经济结构的模块化单元的分布式自组织形成。
 
 > BFM Unity is neutral politically, economically and worldwide.   
-> It is a financial and economic continuum of dissipative structure clusters,   
+> It is a decentralized financial and economic continuum of dissipative structure clusters,   
 > formed by distributed self-organization of modular units of microeconomic structures driven by intelligent algorithms.
 
 {% embed url="https://wiki.mbalib.com/wiki/%E5%9B%BD%E9%99%85%E7%BB%84%E7%BB%87" %}
