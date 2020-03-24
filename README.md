@@ -27,15 +27,15 @@ BFM是 Bellman-Ford-Moore 算法的简称。
 
 ## BFM Unity 的组织性质是什么？
 
-BFM Unity 在政治，经济和世界范围内均保持中立。 
+> BFM Unity 在政治，经济和世界范围内均保持中立。   
+> 它是耗散结构集群的金融和经济统一体，  
+> 由智能算法驱动的微观经济结构的模块化单元的分布式自组织形成。
+
+> BFM Unity is neutral politically, economically and worldwide.   
+> It is a financial and economic continuum of dissipative structure clusters,   
+> formed by distributed self-organization of modular units of microeconomic structures driven by intelligent algorithms.
 
 {% embed url="https://wiki.mbalib.com/wiki/%E5%9B%BD%E9%99%85%E7%BB%84%E7%BB%87" %}
-
-它是耗散结构集群的金融和经济统一体，
-
-由智能算法驱动的微观经济结构的模块化单元的分布式自组织形成。
-
-BFM Unity is neutral politically, economically and worldwide. It is a financial and economic continuum of dissipative structure clusters, formed by distributed self-organization of modular units of microeconomic structures driven by intelligent algorithms.
 
 {% embed url="https://baike.baidu.com/item/%E8%87%AA%E7%BB%84%E7%BB%87/6997559" %}
 
