@@ -1,4 +1,4 @@
-# 【管理】问题解答
+# 【管理】BFM 问题与解答
 
 {% hint style="warning" %}
 本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
@@ -9,7 +9,7 @@
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
 文档 GitHub 地址：[https://github.com/guhhhhaa/bfm-gitbook](https://github.com/guhhhhaa/bfm-gitbook)
 
-## BFM 是什么？ 
+## BFM 是什么？
 
 BFM是 Bellman-Ford-Moore 算法的简称。
 

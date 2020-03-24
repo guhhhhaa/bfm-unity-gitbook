@@ -1,4 +1,4 @@
-# 【软开】三角套利猴版代码
+# 【软件】三角套利猴版代码
 
 {% hint style="info" %}
 本章是**最后一章**，如果你后悔一直跳，可跳回[**第二章**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)

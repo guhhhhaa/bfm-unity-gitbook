@@ -1,4 +1,4 @@
-# 【硬开】BFM on Verilog & FPGA
+# 【硬件】BFM on Verilog & FPGA
 
 {% hint style="info" %}
 本章纯属 Ctrl + C&V，不爽可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-on-python)。
