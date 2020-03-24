@@ -198,7 +198,9 @@ BFM 算法不会杀人，只会 ∞ 地循环放大理性和感情的矛盾，�
 
 他从不会想到有人会如此认真地反人类，要么，或者，他肯定是故意这么做的。
 
-注：我们使用红宝书代表《 Algorithms, 4th Edition》 by Robert Sedgewick and Kevin Wayne，因为它的封面是红色的
+注：我们使用红宝书代表《 Algorithms, 4th Edition》 by Robert Sedgewick and Kevin Wayne，因为它的封面是红色的。
+
+{% embed url="https://raw.githubusercontent.com/Mcdonoughd/CS2223/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf" caption="" %}
 
 ## 总结
 
