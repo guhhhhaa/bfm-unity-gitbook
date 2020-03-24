@@ -13,25 +13,23 @@
 
 ### [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_lec11.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6_046JS15_lec11.pdf)
 
-{% embed url="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_lec11.pdf" %}
+{% embed url="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_lec11.pdf" caption="" %}
 
 ### [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_writtenlec11.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6_046JS15_writtenlec11.pdf)
 
-{% embed url="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_writtenlec11.pdf" %}
-
-
+{% embed url="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_writtenlec11.pdf" caption="" %}
 
 ### [https://courses.csail.mit.edu/6.006/spring11/rec/rec15.pdf](https://courses.csail.mit.edu/6.006/spring11/rec/rec15.pdf)
 
-{% embed url="https://courses.csail.mit.edu/6.006/spring11/rec/rec15.pdf" %}
+{% embed url="https://courses.csail.mit.edu/6.006/spring11/rec/rec15.pdf" caption="" %}
 
 ### [https://courses.csail.mit.edu/6.006/spring11/lectures/lec15.pdf](https://docs.google.com/viewerng/viewer?url=https://courses.csail.mit.edu/6.006/spring11/lectures/lec15.pdf)
 
-{% embed url="https://courses.csail.mit.edu/6.006/spring11/lectures/lec15.pdf" %}
+{% embed url="https://courses.csail.mit.edu/6.006/spring11/lectures/lec15.pdf" caption="" %}
 
 ### [https://courses.csail.mit.edu/6.006/fall11/lectures/lecture17.pdf](https://courses.csail.mit.edu/6.006/fall11/lectures/lecture17.pdf)
 
-{% embed url="https://courses.csail.mit.edu/6.006/fall11/lectures/lecture17.pdf" %}
+{% embed url="https://courses.csail.mit.edu/6.006/fall11/lectures/lecture17.pdf" caption="" %}
 
 ### [https://courses.csail.mit.edu/6.046/fall02/handouts.html](https://courses.csail.mit.edu/6.046/fall02/handouts.html)
 
@@ -45,13 +43,21 @@
 | :--- | :--- | :--- | :--- |
 | 11/14/03 | Handout 24: Problem Set 6 Solutions | [PostScript](https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.ps) | [Adobe PDF](https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.pdf) |
 
-{% embed url="https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.pdf" %}
+{% embed url="https://courses.csail.mit.edu/6.046/fall03/handouts/pset6-sol.pdf" caption="" %}
 
 ## 我们应该查阅什么文献来具体应用BFM算法
 
 ![](.gitbook/assets/ab33492c185f8c30f5c21cc40d006134.png)
 
-{% embed url="https://algs4.cs.princeton.edu/44sp/" %}
+{% embed url="https://algs4.cs.princeton.edu/44sp/" caption="" %}
 
-{% embed url="https://raw.githubusercontent.com/Mcdonoughd/CS2223/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf" %}
+[http://alvand.basu.ac.ir/~dezfoulian/files/DataStructures & Algorithms/](http://alvand.basu.ac.ir/~dezfoulian/files/DataStructures%20&%20Algorithms/) [https://www.cs.princeton.edu/~rs/](https://www.cs.princeton.edu/~rs/)
+
+### 书后练习题相关代码。 
+
+[https://algs4.cs.princeton.edu/44sp/](https://algs4.cs.princeton.edu/44sp/)
+
+4.4.12 Adapt the DirectedCycle and Topological classes from Section 4.2 to use the EdgeweightedDigraph and DirectedEdge APIs of this section, thus implementing EdgeWeightedCycleFinder and EdgeWeightedTopological classes. [https://algs4.cs.princeton.edu/44sp/EdgeWeightedDirectedCycle.java.html](https://algs4.cs.princeton.edu/44sp/EdgeWeightedDirectedCycle.java.html) [https://algs4.cs.princeton.edu/42digraph/DirectedCycle.java.html](https://algs4.cs.princeton.edu/42digraph/DirectedCycle.java.html) [https://algs4.cs.princeton.edu/44sp/Topological.java.html](https://algs4.cs.princeton.edu/44sp/Topological.java.html) 
+
+### 算法 第四版\(algorithms 4th edition \) 这本书有配套的习题答案吗？[https://www.zhihu.com/question/27876056](https://www.zhihu.com/question/27876056)  
 
