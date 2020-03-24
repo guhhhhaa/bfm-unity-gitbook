@@ -4,7 +4,7 @@
 * [BFM算法的程序化描述](what-is-bfm-al.md)
 * [如何加入或自行组建讨论群组](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
 * [玩梗：论如何引起新人兴趣](wo-men-zai-wan-de-geng.md)
-* [BFM算法的参考文献有哪些](bfm-al-ckwx.md)
+* [BFM算法的参考文献](bfm-al-ckwx.md)
 * [BFM算法的未来发展](bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng.md)
 * [BFM On Java](bfm-on-java.md)
 * [BFM on Verilog & FPGA](bfm-on-verilog-and-fpga.md)
