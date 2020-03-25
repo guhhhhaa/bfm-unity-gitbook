@@ -1,8 +1,12 @@
-# 【软件】BFM on Python
+# 【软件】BFM\(detect\) on Python
 
-{% hint style="info" %}
-本章纯属 Ctrl + C&V，不爽可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)。
+{% hint style="warning" %}
+本章为detect程序，毫无价值。  
+  
+如你想要实用，应该看 [**find程序**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
 {% endhint %}
+
+
 
 {% embed url="https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/" caption="" %}
 
