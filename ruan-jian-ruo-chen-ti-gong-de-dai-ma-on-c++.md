@@ -6,7 +6,8 @@
 
 {% embed url="https://blog.csdn.net/HdUIprince/article/details/89055429" %}
 
-我们通过查阅《Introduction to Algorithms, 3rd Edition》可知，DFS算法时间复杂度是O\(V+E\)，所以清华版蓝皮书误导了很多人。
+《Introduction to Algorithms, 3rd Edition》可知，  
+DFS算法按照临接表表示，时间复杂度是O\(V+E\)。
 
 ```csharp
 DFS(G)
