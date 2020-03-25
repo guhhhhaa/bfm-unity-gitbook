@@ -4,7 +4,7 @@
 本章 **纯属广告** ，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/wo-men-zai-wan-de-geng)
 {% endhint %}
 
-## 以下群组仅供参考
+![](.gitbook/assets/u-3484679372-3178935030-and-fm-15-and-gp-0.jpg)
 
 ## BFM Unity 的组织性质是什么？
 
