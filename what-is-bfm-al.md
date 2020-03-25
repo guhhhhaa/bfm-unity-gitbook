@@ -98,15 +98,3 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 ![](.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
 
-## find算法和predecessor chain有关。
-
-
-
-我们发现了一个术语叫 predecessor chain ，前驱链，这很重要。
-
-{% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
-
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.59.12.png)
-
-
-
