@@ -37,6 +37,10 @@ DFS-VISIT(G,u)
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-4.42.27.png)
 
+图的邻接矩阵和邻接表表示：
+
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.12.24.png)
+
 ## 若尘提供的代码\(DFS-邻接矩阵表示，非BFM\)
 
 | 空间复杂度 | 时间复杂度\(邻接表\) | 时间复杂度\(邻接矩阵\) |
