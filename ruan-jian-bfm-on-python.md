@@ -1,4 +1,4 @@
-# 【软件】BFM on Python
+# 【软件】BFM on Python\(主要\)
 
 {% embed url="https://medium.com/@anilpai/currency-arbitrage-using-bellman-ford-algorithm-8938dcea56ea" %}
 
