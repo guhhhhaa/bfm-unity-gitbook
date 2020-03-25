@@ -1,4 +1,14 @@
-# 【软件】BFM on Python\(主要\)
+# 【软件】BFM\(find\) on Python
+
+{% hint style="success" %}
+恭喜有品位的你翻到了这一页！请**仔细阅读**！
+
+你现在是在 BFM Unity Doc **最重要的一页** 上！  
+  
+看完之后如果有帮助，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****我。
+{% endhint %}
+
+![&#x6211;&#x4EEC;&#x7EC8;&#x4E8E;&#x8FCE;&#x6765;&#x4E86;&#x9ECE;&#x660E;&#x7684;&#x66D9;&#x5149;](.gitbook/assets/u-3153260481-2815876954-and-fm-26-and-gp-0.jpg)
 
 {% embed url="https://medium.com/@anilpai/currency-arbitrage-using-bellman-ford-algorithm-8938dcea56ea" %}
 
@@ -44,11 +54,21 @@ Once all shortest paths have been identified, the algorithm loops through all of
 
 Printing a negative weight cycle is done to show the arbitrage opportunity. `We use the predecessor chain to print the cycle.` Now that we have an edge which can be further relaxed, we have found the source & destination vertex of such an edge. `Let’s` _**`start from the source vertex and go backwards until you see the source vertex again or any other vertex that predecessor chain has already shown us while printing the negative weighted cycle.`**_
 
-我们发现了一个术语叫 predecessor chain，这很重要。
+```python
+打印"负权重周期"以显示套利机会。
+我们使用"前驱链"打印周期。
+现在我们有了可以进一步放松的边缘，我们已经找到了该边缘的源顶点和目标顶点。 
+让我们从源顶点开始，然后返回，
+直到您再次看到源顶点或在打印"负加权循环"时"前驱链"已经向我们显示的任何其他顶点。
+```
+
+## 我们发现了一个术语叫 predecessor chain，这很重要。
 
 {% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.59.12.png)
+
+
+[https://gist.githubusercontent.com/anilpai/dd00a9671c062390c848952eaddbbe1e/raw/0a65b53371470d7565988e3ec12c0d46f594895e/currency\_arbitrage.py](https://gist.githubusercontent.com/anilpai/dd00a9671c062390c848952eaddbbe1e/raw/0a65b53371470d7565988e3ec12c0d46f594895e/currency_arbitrage.py)
 
 
 
