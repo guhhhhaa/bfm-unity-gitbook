@@ -9,7 +9,7 @@ description: Questions & Answers
 
 对于 **开发者**，想从算法开始请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
 
-对于 **投资者**，想直接 **打钱** 给我请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)。
+对于 **投资者**，想直接 [**打钱**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****给我请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)。
 {% endhint %}
 
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
