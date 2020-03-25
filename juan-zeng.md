@@ -12,6 +12,8 @@
 对 Guhhhhaa 和 贝   贝   猫 的打赏并不会完全促进 BFM Unity 的发展。
 {% endhint %}
 
+## 打赏地址
+
 ```cpp
 BTC:bc1qvspjnlckvze7thfukhc6zum67qavujw3e0kwgh
 ETH:0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3
