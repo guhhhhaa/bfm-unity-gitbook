@@ -1,4 +1,4 @@
-# 【参考】DFS-adjacency-matrix on C++
+# 【参考】DFS-adj-matrix on C++
 
 ## DFS算法介绍
 
