@@ -30,6 +30,8 @@ DFS-VISIT(G,u)
 10 u.f = time
 ```
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-4.43.41.png)
+
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-4.42.27.png)
 
 ## 若尘提供的代码\(DFS，非BFM\)
