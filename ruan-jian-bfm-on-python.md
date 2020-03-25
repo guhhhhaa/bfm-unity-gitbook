@@ -139,3 +139,16 @@ if __name__ == "__main__":
 
 {% embed url="https://gist.githubusercontent.com/anilpai/dd00a9671c062390c848952eaddbbe1e/raw/0a65b53371470d7565988e3ec12c0d46f594895e/currency\_arbitrage.py" %}
 
+{% hint style="info" %}
+现在你能回答以下这几个问题了吗？  
+  
+1，BFM-find 和 BFM-detect 步骤有什么不同？   
+2，BFM-find 和 BFM-detect 的时间复杂度有什么不同？  
+3，BFM-find 里面的步骤涉及前驱链，什么是前驱链? 涉及前驱链的步骤到底做了什么？   
+4，为什么算法运行前要对汇率取-ln？   
+5，为什么汇率在取-ln之前要移动小数点再乘以几百？   
+6，BFM 算法基于图的邻接矩阵表示。什么是图的邻接矩阵表示？BFM 算法的步骤中如何使用图的邻接矩阵表示？   
+  
+依然不能？回去，重看：---&gt; [算法](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。  
+{% endhint %}
+
