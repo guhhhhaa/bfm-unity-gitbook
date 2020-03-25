@@ -1,9 +1,7 @@
-# 【算法】算法描述
+# 【算法】程序描述
 
 {% hint style="danger" %}
-本章包含 **核心算法** ，需要 **开发者** 细读，  
-  
-如不想看算法，想直接看**程序，**可跳到[**这一页**](https://guhhhhaa.gitbook.io/bfm/bfm-on-python)\*\*\*\*
+本章包含 **核心算法** ，需要 **开发者** 细读
 {% endhint %}
 
 ![](.gitbook/assets/350714d50313c52b79c51d4dbe932e80.jpeg)
@@ -99,29 +97,4 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 ## BFM-Detect 算法 和 BFM-Find 算法 的比较
 
 ![](.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
-
-## find算法和predecessor chain有关。
-
-
-
-我们发现了一个术语叫 predecessor chain ，前驱链，这很重要。
-
-{% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
-
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.59.12.png)
-
-{% hint style="info" %}
-检验你是否理解了BFM算法，需回答以下几个问题。  
-  
-1，BFM-find 和 BFM-detect 步骤有什么不同？   
-2，BFM-find 和 BFM-detect 的时间复杂度有什么不同？  
-3，BFM-find 里面的步骤涉及前驱链，什么是前驱链? 涉及前驱链的步骤到底做了什么？   
-4，为什么算法运行前要对汇率取-ln？   
-5，为什么汇率在取-ln之前要移动小数点再乘以几百？   
-6，BFM 算法基于图的邻接矩阵表示。什么是图的邻接矩阵表示？BFM 算法的步骤中如何使用图的邻接矩阵表示？   
-  
-这 6 个细节问题，如果你不能回答其中的任何一个，那么 BFM 算法就和你无缘了，所以，坑还是很深的。  
-  
-有些问题回答不出来？可以看看这个：---&gt; ****[**代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
-{% endhint %}
 
