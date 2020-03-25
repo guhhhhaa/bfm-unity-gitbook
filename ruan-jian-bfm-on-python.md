@@ -1,7 +1,7 @@
 # 【软件】BFM\(find\) on Python
 
 {% hint style="success" %}
-恭喜有品位的你！请**仔细阅读**！
+恭喜有品位的你翻到了这一页！请**仔细阅读**！
 
 你现在是在 BFM Unity Doc **最重要的一页** 上！
 {% endhint %}
