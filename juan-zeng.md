@@ -12,7 +12,7 @@ description: Donate
 
 {% hint style="warning" %}
 通过以下方式，只会打赏给 Guhhhhaa 和 贝   贝   猫，不会捐赠给 BFM Unity。  
-理论上，未来 BFM Unity 是由每一个微小的Unit\(s\)组成，Unit\(s\)会通过智能合约组成一个庞大的自组织智能体，进行协同合作，共享套利利润。由于BFM的盈利模式很稳定，所以不需要担心BFM Unity的维持。  
+理论上，未来 BFM Unity 是由每一个微小的Unit\(s\)组成，Unit\(s\)会通过智能合约组成一个庞大的自组织超智能体巨鲸，Unit\(s\)之间会进行协同合作，共享套利利润。由于BFM的盈利模式很稳定，所以不需要担心BFM Unity的维持。  
 但短期内 Guhhhhaa 和 贝   贝   猫 需要吃饭。  
 短期内，如果没有获得新人的帮助，也许只有 Guhhhhaa 和 贝   贝   猫 会延续 BFM Unity 这一概念，并继续进行公开推广。
 {% endhint %}
