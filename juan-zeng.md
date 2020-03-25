@@ -70,7 +70,7 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 {% hint style="info" %}
 赏金的用途可能包括并不限于：
 
-1，日常生活，必需性消费。
+1，日常开支。
 
 2，购买域名，租借VPS。以及其他微型付费\(Github,SDK,Gitbook,Trello,WordPress,QQ群,网盘,JMS ss\)
 
@@ -82,7 +82,7 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 {% hint style="info" %}
 赏金的用途不可能用于：  
   
-1，非必需性消费
+1，非必需消费
 
 2，回购 BFM Token
 {% endhint %}
