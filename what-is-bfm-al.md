@@ -1,7 +1,9 @@
-# 【算法】程序描述
+# 【算法】算法描述
 
 {% hint style="danger" %}
-本章包含 **核心算法** ，需要 **开发者** 细读
+本章包含 **核心算法** ，需要 **开发者** 细读，  
+  
+如不想看算法，想直接看**程序，**可跳到[**这一页**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
 {% endhint %}
 
 ![](.gitbook/assets/350714d50313c52b79c51d4dbe932e80.jpeg)
@@ -97,4 +99,16 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 ## BFM-Detect 算法 和 BFM-Find 算法 的比较
 
 ![](.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
+
+## find算法和predecessor chain有关。
+
+
+
+我们发现了一个术语叫 predecessor chain ，前驱链，这很重要。
+
+{% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
+
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.59.12.png)
+
+
 
