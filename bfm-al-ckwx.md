@@ -7,6 +7,8 @@
 仅供日后 **查找** ，**不适合细读**。
 {% endhint %}
 
+![](.gitbook/assets/timg-2.jpeg)
+
 ## 我们应该查阅什么文献来具体实现BFM算法
 
 ![](.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
