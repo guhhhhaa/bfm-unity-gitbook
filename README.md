@@ -227,5 +227,5 @@ BFM 算法不会杀人，只会 ∞ 地循环放大理性和感情的矛盾，�
 1. BFM 算法，在现存货币基础上，建立共产主义货币。
 2. 共产主义货币本身不存储价值，或者说它存储了整个人类社会的价值。也就是说它存储的价值为 0 ，或者 ∞ 。
 3. BFM 算法造成了共产主义货币的强制力，这种强制力凌驾于军事和武力之上，但是比军事和武力更强有力。因为它是数学规律武器，它的强制力建立在 2 \* 3 = 6 或者类似的乘法数学公理上。 BFM 算法理论上具有通过借助数学公理，让现存所有货币价值归 0 的强制力。
-4. BTC 如果想成为共产主义货币，它的价值为 0，或者 ∞ 。成为 ∞ 的意思是，任何人都无法获得 BTC ，可以用 1 [Satoshi \(unit\)](http://www.baidu.com/link?url=XO4TJQFhmDZHkkTntQ60PY3iges66wOsFvQW-NMCnfzu0by9cWUlKJxmGz12jIU3m0fYTgfVw-D8LGqsuFklvK) 换取世界上所有人类生产物。 成为 0 的意思是，任何人都可以免费获得 BTC 。1 [Satoshi \(unit\)](http://www.baidu.com/link?url=XO4TJQFhmDZHkkTntQ60PY3iges66wOsFvQW-NMCnfzu0by9cWUlKJxmGz12jIU3m0fYTgfVw-D8LGqsuFklvK) 只是作为价值的理论最小量子位存在。
+4. BTC 如果想成为共产主义货币，它的价值为 0，或者 ∞ 。成为 ∞ 意味着，任何人都无法获得 BTC ，可以用 1 [Satoshi \(unit\)](http://www.baidu.com/link?url=XO4TJQFhmDZHkkTntQ60PY3iges66wOsFvQW-NMCnfzu0by9cWUlKJxmGz12jIU3m0fYTgfVw-D8LGqsuFklvK) 换取世界上所有人类生产物。 成为 0 意味着，任何人都可以免费获得 BTC 。1 [Satoshi \(unit\)](http://www.baidu.com/link?url=XO4TJQFhmDZHkkTntQ60PY3iges66wOsFvQW-NMCnfzu0by9cWUlKJxmGz12jIU3m0fYTgfVw-D8LGqsuFklvK) 只是作为价值的理论最小量子位存在。
 

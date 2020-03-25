@@ -70,8 +70,13 @@ BFM Unity 将组织 BFM Unit\(s\) ，通过联合在同一时间，停止套利�
 
 > 天翼种的空间转移能力。
 
-「伪典·天移」阶段，BFM Unity 将在以 BTC，ETH为代表的 Cryptocurrency 与 Smart Contract 技术 之上，为 BFM Unit\(s\) 提供一个可以完全自由可依赖的 BFM Eco System 。   
-BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Token，3，一个深度支持 BFM DAO 的 BFM DeFi DApp。
+「伪典·天移」阶段，BFM Unity 将在以 BTC，ETH为代表的 Cryptocurrency 与 Smart Contract 技术 之上，为 BFM Unit\(s\) 提供一个可以完全自由可依赖的 BFM Eco System 。
+
+{% embed url="https://bitcoin.org/bitcoin.pdf" %}
+
+{% embed url="https://github.com/ethereum/wiki/wiki/White-Paper" %}
+
+ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Token，3，一个深度支持 BFM DAO 的 BFM DeFi DApp。
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.05.png)
 
@@ -85,7 +90,7 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 
 > 机凯种为应对天翼种和森精种的空间转移所设计的空间破碎器。
 
-「一方通行」阶段，BFM Unity 将在 Atomic Swap 跨链技术之上建立 DEx ，为 BFM Unit\(s\) 提供一个真正跨链的去中心化交易所 BFM DEx，并使得 BFM DEx 与 BFM Eco System 中的 BFM DAO，BFM Token，BFM DeFi DApp 有机结合，使 BFM Eco System 升级成 BFM Eco System Plus。
+「一方通行」阶段，BFM Unity 将在 Atomic Swap 跨链技术之上建立 DEX ，为 BFM Unit\(s\) 提供一个真正跨链的去中心化交易所 BFM DEX，并使得 BFM DEX 与 BFM Eco System 中的 BFM DAO，BFM Token，BFM DeFi DApp 有机结合，使 BFM Eco System 升级成 BFM Eco System Plus。
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.40.png)
 
