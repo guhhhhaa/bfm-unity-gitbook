@@ -52,8 +52,7 @@ Google Protocol Buffers official documentation: [https://developers.google.com/p
 
 {% embed url="https://en.bitcoin.it/wiki/Atomic\_swap" %}
 
-  
-[https://komodoplatform.com/komodo-and-the-early-pioneers-of-atomic-swaps](https://komodoplatform.com/komodo-and-the-early-pioneers-of-atomic-swaps)
+{% embed url="https://komodoplatform.com/komodo-and-the-early-pioneers-of-atomic-swaps" %}
 
 [https://developers.atomicdex.io/](https://developers.atomicdex.io/)
 
@@ -149,7 +148,7 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 
 > 与制速违反同理，将超高浓缩精灵以无指向性的挥发构成“攻势防壁”。
 
-「全方交叉」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，向 BTC 等传统数字货币 Eco System 发起和平解构。
+「全方交叉」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，向 BTC 等传统数字货币 Eco System 发起和平解构。该过程中积累的资源将有助于 BFM Unity 加速发展。
 
 ### N，「真典·弑星者」
 
