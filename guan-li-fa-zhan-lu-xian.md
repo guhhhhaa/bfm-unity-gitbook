@@ -46,11 +46,11 @@ BFM Protocol provides a websocket & RESTful HTTP API alternative to the Protobuf
 
 The BFM-VM is a lightweight, Turing complete virtual machine developed for BFM’s ecosystem. The BFM-VM connects seamlessly with the existing development ecosystem to provide millions of global developers with a custom-built blockchain system that is efficient, convenient, stable, secure, and scalable.
 
-6 Decentralized Exchange \(DEX\) &
+6 Decentralized Exchange \(DEX\) & Atomic Swap
 
 Google Protocol Buffers official documentation: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
 
-The BFM network natively supports decentralized exchange functions. A decentralized exchange consists of multiple trading pairs. A trading pair \(notation “Exchange”\) is an Exchange Market between BFMRC-10 tokens, or between a BFMRC-10 token and BFM Token. Any account can create a trading pair between any tokens, even if the same pair already exists on the BFM network. Trading and price fluctuations of the trading pairs follow the Bancor Protocol 6 . The BFM network stipulates that the weights of the two tokens in all trading pairs are equal, so the ratio of their balances is the price between them. For example, consider a trading pair containing two tokens, ABC and DEF. ABC has a balance of 10 million and DEF has a balance of 1 million. Since their weights are equal, 10 ABC = 1 DEF. This means that the ratio of ABC to DEF is 10 ABC per DEF.
+{% embed url="https://en.bitcoin.it/wiki/Atomic\_swap" %}
 
 7 Implementation
 
