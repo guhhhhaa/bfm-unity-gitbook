@@ -93,7 +93,7 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 {% endhint %}
 
 {% hint style="info" %}
-Guhhhhaa 和 贝   贝   猫 一般情况下不能确定赏金的用途，所以赏金会留在地址里保持不动。  
+Guhhhhaa 和 贝   贝   猫 一般情况下不能确定赏金的用途，也就不会贸然使用，所以赏金会留在地址里保持不动。  
 如果 Guhhhhaa 和 贝   贝   猫 使用了赏金，会在此页公布数额和用途。
 {% endhint %}
 
