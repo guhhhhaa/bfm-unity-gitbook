@@ -1,6 +1,6 @@
-# 【参考】not BFM on C++
+# 【参考】DFS on C++
 
-## 若尘提供的代码\(非BFM\)
+## 若尘提供的代码\(DFS，非BFM\)
 
 data.txt
 
