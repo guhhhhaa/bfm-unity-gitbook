@@ -3,7 +3,9 @@
 {% hint style="warning" %}
 本章为detect程序，毫无价值。  
   
-如你想要实用，应该看 [**find程序**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
+如你想要实用，应该看 [**find程序**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) **。  
+  
+不知道 detect 和 find 的区别？参考** [**这一页**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al) **。**
 {% endhint %}
 
 
