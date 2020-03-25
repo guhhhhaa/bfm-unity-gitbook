@@ -13,7 +13,7 @@ description: Donate
 {% hint style="warning" %}
 通过以下方式，只会打赏给 Guhhhhaa 和 贝   贝   猫，不会捐赠给 BFM Unity。  
 理论上，未来 BFM Unity 靠 BFM 算法提供的套利利润完全可以维持，但短期内 Guhhhhaa 和 贝   贝   猫 需要吃饭。  
-短期内，如果没有获得新人的帮助，也许只有 Guhhhhaa 和 贝   贝   猫 会延续这一概念。
+短期内，如果没有获得新人的帮助，也许只有 Guhhhhaa 和 贝   贝   猫 会延续这一概念并继续进行公开推广。
 {% endhint %}
 
 {% hint style="success" %}
