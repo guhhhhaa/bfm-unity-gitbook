@@ -20,6 +20,28 @@ USDT(ERC20):0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3
 USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 ```
 
+{% tabs %}
+{% tab title="BTC" %}
+![](.gitbook/assets/screenshot_2020-03-25-11-16-30-068_com.wallet.cry.png)
+{% endtab %}
+
+{% tab title="ETH" %}
+![](.gitbook/assets/screenshot_2020-03-25-11-16-44-118_com.wallet.cry.png)
+{% endtab %}
+
+{% tab title="BNB" %}
+![](.gitbook/assets/screenshot_2020-03-25-11-16-51-521_com.wallet.cry.png)
+{% endtab %}
+
+{% tab title="USDT\(ERC20\)" %}
+![](.gitbook/assets/screenshot_2020-03-25-11-17-06-241_com.wallet.cry.png)
+{% endtab %}
+
+{% tab title="USDT\(TRC20\)" %}
+![](.gitbook/assets/screenshot_2020-03-25-11-16-59-554_com.wallet.cry.png)
+{% endtab %}
+{% endtabs %}
+
 {% hint style="warning" %}
 如你想非匿名打赏，请通过发送邮件到 guhhhhaa@gmail.com，并在邮件标题开头标注“打赏“字样，并在邮件中说明打赏相关信息 和 你的 name/ID。可以在邮件里指定资金用途。
 
