@@ -21,7 +21,7 @@ DFS-VISIT(G,u)
 1 time = time + 1 // white vertex u has just been discovered
 2 u.d = time
 3 u.color = GRAY
-4 for each v ∈ G.Adj[u] // explore edge .u; /
+4 for each v ∈ G.Adj[u] // explore edge (u,v)
 5     if v.color == WHITE
 6         v.π= u
 7         DFS-VISIT(G,v)
