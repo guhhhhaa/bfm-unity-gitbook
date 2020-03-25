@@ -37,7 +37,7 @@ DFS-VISIT(G,u)
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-4.42.27.png)
 
-图的邻接矩阵和邻接表表示：
+图的邻接\(adjacency\)表\(list\)和邻接\(adjacency\)矩阵\(matrix\)表示：
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.12.24.png)
 
