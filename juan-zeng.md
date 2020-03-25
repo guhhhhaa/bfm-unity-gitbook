@@ -22,14 +22,20 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 
 {% tabs %}
 {% tab title="BTC" %}
+## BTC
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-30-068_com.wallet.cry.png)
 {% endtab %}
 
 {% tab title="ETH" %}
+## ETH
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-44-118_com.wallet.cry.png)
 {% endtab %}
 
 {% tab title="BNB" %}
+## BNB
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-51-521_com.wallet.cry.png)
 {% endtab %}
 
