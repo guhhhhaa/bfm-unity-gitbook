@@ -3,9 +3,7 @@
 {% hint style="success" %}
 恭喜有品位的你翻到了这一页！请**仔细阅读**！
 
-你现在是在 BFM Unity Doc **最重要的一页** 上！  
-  
-看完之后如果有帮助，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****我。
+你现在是在 BFM Unity Doc **最重要的一页** 上！
 {% endhint %}
 
 ![&#x6211;&#x4EEC;&#x7EC8;&#x4E8E;&#x8FCE;&#x6765;&#x4E86;&#x9ECE;&#x660E;&#x7684;&#x66D9;&#x5149;](.gitbook/assets/u-3153260481-2815876954-and-fm-26-and-gp-0.jpg)
