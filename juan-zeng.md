@@ -22,22 +22,32 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 
 {% tabs %}
 {% tab title="BTC" %}
+## BTC
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-30-068_com.wallet.cry.png)
 {% endtab %}
 
 {% tab title="ETH" %}
+## ETH
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-44-118_com.wallet.cry.png)
 {% endtab %}
 
 {% tab title="BNB" %}
+## BNB
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-51-521_com.wallet.cry.png)
 {% endtab %}
 
 {% tab title="USDT\(ERC20\)" %}
+## 注意，是ERC20，别搞错了
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-17-06-241_com.wallet.cry.png)
 {% endtab %}
 
 {% tab title="USDT\(TRC20\)" %}
+## 注意，是TRC20，别搞错了
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-59-554_com.wallet.cry.png)
 {% endtab %}
 {% endtabs %}
@@ -75,9 +85,13 @@ Guhhhhaa 和 贝   贝   猫 一般情况下不能确定赏金的用途，所以
 如果 Guhhhhaa 和 贝   贝   猫 使用了赏金，会在此页公布数额和用途。
 {% endhint %}
 
-| ame/ID | 时间 | 币种 | 数量 | 地址 | 指定用途 |
+## 捐赠登记
+
+| Name/ID | 时间 | 币种 | 数量 | 地址 | 指定用途 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 |  |  |  |  |  |  |
+
+## 使用公示
 
 | 次数 | 时间 | 币种 | 数量 | 转出到 | 用途 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
