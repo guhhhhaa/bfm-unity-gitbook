@@ -34,10 +34,14 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 {% endtab %}
 
 {% tab title="USDT\(ERC20\)" %}
+## 注意是ERC20，别搞错了
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-17-06-241_com.wallet.cry.png)
 {% endtab %}
 
 {% tab title="USDT\(TRC20\)" %}
+## 注意，是TRC20，别搞错了
+
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-59-554_com.wallet.cry.png)
 {% endtab %}
 {% endtabs %}
