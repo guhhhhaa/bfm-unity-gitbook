@@ -18,7 +18,7 @@ description: Donate
 {% endhint %}
 
 {% hint style="success" %}
-**打赏者可能在未来发币后，被优先分配 BFM Token。**
+**打赏者可能在未来发币后，被优先空投分配 BFM Token。**
 {% endhint %}
 
 ## 打赏地址
