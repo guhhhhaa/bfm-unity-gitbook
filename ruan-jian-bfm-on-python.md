@@ -133,5 +133,9 @@ if __name__ == "__main__":
 # Space Complexity: O(N^2)
 ```
 
+{% hint style="info" %}
+看完之后如果有帮助，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****我。
+{% endhint %}
+
 {% embed url="https://gist.githubusercontent.com/anilpai/dd00a9671c062390c848952eaddbbe1e/raw/0a65b53371470d7565988e3ec12c0d46f594895e/currency\_arbitrage.py" %}
 
