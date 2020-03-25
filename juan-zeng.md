@@ -65,7 +65,7 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 {% endtabs %}
 
 {% hint style="info" %}
-打赏之后一定要看 [**这篇文档**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) ****哦，要不然，  
+打赏之后一定要看 [**这篇文档**](https://app.gitbook.com/@guhhhhaa/s/bfm/ruan-jian-bfm-on-python/~/settings/share) ****哦，要不然，  
   
 你就是来到金山，空手而归了。
 {% endhint %}
