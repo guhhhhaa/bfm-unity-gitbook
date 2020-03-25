@@ -133,5 +133,9 @@ Guhhhhaa ：能具体说说怎么。 选取合适的exchg函数 吗？交易所�
 
 Guhhhhaa ：感谢若尘。
 
+## 解释
 
+经过我们的进一步研究，我们发现BFM算法有两种，其中一种是可以找到负环的。所以若尘没有实现BFM。
+
+![](.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
 
