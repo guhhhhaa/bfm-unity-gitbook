@@ -133,7 +133,12 @@ Guhhhhaa：[https://hehejun.blogspot.com/2018/05/algorithshortest-path.html](htt
 
 Guhhhhaa ：你没发现是无向无环图才能用DFS吗，要是有环的，不还得用取反BellmanFord吗。
 
-若尘 ：不是，此dfs非彼dfs，只要把走过的路都用那个avable数组堵死，就能实现环上的dfs，只要选取合适的exchg函数，就能实现有向图，我向你保证，这肯定可行，你只要集中精力考虑接口就好
+```csharp
+若尘 ：不是，此dfs非彼dfs，
+只要把走过的路都用那个avable数组堵死，就能实现环上的dfs，
+只要选取合适的exchg函数，就能实现有向图，
+我向你保证，这肯定可行，你只要集中精力考虑接口就好
+```
 
 Guhhhhaa ：能具体说说怎么。 选取合适的exchg函数 吗？交易所的行情可是随时变动的，
 
@@ -144,7 +149,7 @@ Guhhhhaa ：感谢若尘。
 ## 解释
 
 经过我们的进一步研究，我们发现 BFM 算法有两种，其中一种是可以找到负环的。  
-所以很遗憾，若尘没有实现 BFM 。
+所以很遗憾，若尘没有实现 BFM 。但是
 
 ![](.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
 
