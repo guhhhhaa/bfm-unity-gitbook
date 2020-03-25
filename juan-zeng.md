@@ -1,6 +1,6 @@
 # 捐赠
 
-![](.gitbook/assets/timg-1.jpeg)
+![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-12.40.14.png)
 
 {% hint style="danger" %}
 你的打赏并不会返还，请量力而行。
