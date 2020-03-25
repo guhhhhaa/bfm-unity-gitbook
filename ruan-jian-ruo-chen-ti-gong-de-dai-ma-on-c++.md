@@ -8,7 +8,7 @@
 | :--- | :--- | :--- |
 | O\(N\) | O\(N+E\) | O\(N^2\) |
 
-《Introduction to Algorithms, 3rd Edition》可知，  
+我们查看《Introduction to Algorithms, 3rd Edition》可知，  
 DFS算法按照邻接表表示，时间复杂度是O\(V+E\)。
 
 ```csharp
