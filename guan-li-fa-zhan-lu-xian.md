@@ -46,7 +46,7 @@ BFM Protocol provides a websocket & RESTful HTTP API alternative to the Protobuf
 
 The BFM-VM is a lightweight, Turing complete virtual machine developed for BFM’s ecosystem. The BFM-VM connects seamlessly with the existing development ecosystem to provide millions of global developers with a custom-built blockchain system that is efficient, convenient, stable, secure, and scalable.
 
-6 Decentralized Exchange \(DEX\)
+6 Decentralized Exchange \(DEX\) &
 
 Google Protocol Buffers official documentation: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
 
@@ -124,7 +124,7 @@ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的BFM Toke
 
 > 机凯种为应对天翼种和森精种的空间转移所设计的空间破碎器。
 
-「一方通行」阶段，BFM Unity 将建立在以 KMD 为代表的Atomic DEx 跨链技术 之上，为 BFM Unit\(s\) 提供一个真正跨链的去中心化交易所 BFM DEx，并使得 BFM DEx 与 BFM Eco System 中的 BFM DAO，BFM Token，BFM DeFi DApp 有机结合，使 BFM Eco System 升级成 BFM Eco System Plus。
+「一方通行」阶段，BFM Unity 将在 Atomic Swap 跨链技术之上建立 DEx ，为 BFM Unit\(s\) 提供一个真正跨链的去中心化交易所 BFM DEx，并使得 BFM DEx 与 BFM Eco System 中的 BFM DAO，BFM Token，BFM DeFi DApp 有机结合，使 BFM Eco System 升级成 BFM Eco System Plus。
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.40.png)
 
