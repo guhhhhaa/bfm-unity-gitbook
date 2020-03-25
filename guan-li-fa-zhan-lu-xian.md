@@ -48,7 +48,7 @@ As a comparison, Protocol Buffers is 3 to 10 times smaller and 20 to 100 times f
 
 BFM Protocol provides a websocket & RESTful HTTP API alternative to the Protobuf API. They share the same interface but the HTTP API can be readily used in javascript clients.
 
-### 5 BFM Virtual Machine （BFM-VM\)
+### 5 BFM Virtual Machine \(BFM-VM\)
 
 The BFM-VM is a lightweight, Turing complete virtual machine developed for BFM’s ecosystem. The BFM-VM connects seamlessly with the existing development ecosystem to provide millions of global developers with a custom-built blockchain system that is efficient, convenient, stable, secure, and scalable.
 
