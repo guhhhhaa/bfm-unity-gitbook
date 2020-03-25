@@ -6,6 +6,8 @@ description: BFM Eco System Architecture Design
 
 ## BFM Eco System Architecture Design
 
+
+
 BFM Eco System adopts a 3-layer architecture divided into Storage Layer, Core Layer, and Application Layer. The BFM protocol adheres to Google Protobuf, which intrinsically supports multi-language extension.
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.14.14.png)
