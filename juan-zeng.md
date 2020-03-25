@@ -59,9 +59,11 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 
 未发送邮件，默认为匿名打赏。
 
-你的信息会在本页面公布，但不一定及时。  
-  
-打赏者可能在未来发币后，被优先分配 BFM Token。
+你的信息会在本页面公布，但不一定及时。
+{% endhint %}
+
+{% hint style="success" %}
+**打赏者可能在未来发币后，被优先分配 BFM Token。**
 {% endhint %}
 
 {% hint style="info" %}
