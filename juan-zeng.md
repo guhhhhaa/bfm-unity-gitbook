@@ -1,5 +1,7 @@
 # 捐赠
 
+![](.gitbook/assets/timg-1.jpeg)
+
 {% hint style="danger" %}
 你的打赏并不会返还，请量力而行。
 {% endhint %}
