@@ -54,7 +54,7 @@ Google Protocol Buffers official documentation: [https://developers.google.com/p
 
 {% embed url="https://komodoplatform.com/komodo-and-the-early-pioneers-of-atomic-swaps" %}
 
-[https://developers.atomicdex.io/](https://developers.atomicdex.io/)
+{% embed url="https://developers.atomicdex.io/" %}
 
 ### 7 Implementation
 
