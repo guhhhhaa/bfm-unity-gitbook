@@ -34,7 +34,7 @@ Developers can create a diverse range of DApps and customized wallets on BFM. Si
 
 Protocol Buffers \(Protobuf\) is a flexible, efficient, automated mechanism for serializing structured data, similar to JSON or XML, but much smaller, faster and simpler.
 
-Protobuf \(.proto\) definitions can be used to generate code for C++, Java, C\#, Python, Ruby, Golang Objective-C, and Verilog  languages through the official code generators. Various third-party implementations are also available for many other languages. Protobuf eases development for clients by unifying the API definitions and also optimizing data transfers. Clients can take the API .proto from BFM’s protocol repository and integrate through the automatically-generated code libraries.
+Protobuf \(.proto\) definitions can be used to generate code for C++, Java, C\#, Python, Ruby, Golang Objective-C, and Verilog HDL languages through the official code generators. Various third-party implementations are also available for many other languages. Protobuf eases development for clients by unifying the API definitions and also optimizing data transfers. Clients can take the API .proto from BFM’s protocol repository and integrate through the automatically-generated code libraries.
 
 As a comparison, Protocol Buffers is 3 to 10 times smaller and 20 to 100 times faster than XML, with less ambiguous syntax. Protobuf generates data access classes that are easier to use programmatically.
 
