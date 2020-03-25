@@ -21,13 +21,11 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 ```
 
 {% hint style="warning" %}
-如你想非匿名打赏，请通过发送邮件到 guhhhhaa@gmail.com，并在邮件标题开头标注“打赏“字样，并在邮件中说明打赏相关信息 和 你的 name/ID。
+如你想非匿名打赏，请通过发送邮件到 guhhhhaa@gmail.com，并在邮件标题开头标注“打赏“字样，并在邮件中说明打赏相关信息 和 你的 name/ID。可以在邮件里指定资金用途。
 
-非匿名打赏可以在邮件里指定资金用途。
+未发送邮件，默认为匿名打赏。
 
 你的信息会在本页面公布，但不一定及时。
-
-未发送邮件，默认为匿名打赏，ID 标记为 NULL。
 {% endhint %}
 
 {% hint style="info" %}
