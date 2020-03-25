@@ -1,4 +1,4 @@
-# 【软件】BFM\(find\) on Python
+# 【软件】BFM on Python\(主要\)
 
 {% embed url="https://medium.com/@anilpai/currency-arbitrage-using-bellman-ford-algorithm-8938dcea56ea" %}
 
@@ -43,14 +43,6 @@ The Bellman-Ford algorithm seeks to solve the single-source shortest path proble
 Once all shortest paths have been identified, the algorithm loops through all of the edges and looks for edges that can further decrease the value of the shortest path. If we can still relax the edges, then _**a negative weight cycle has been found**_ since a path can have at most \|V-1\| edges.
 
 Printing a negative weight cycle is done to show the arbitrage opportunity. `We use the predecessor chain to print the cycle.` Now that we have an edge which can be further relaxed, we have found the source & destination vertex of such an edge. `Let’s` _**`start from the source vertex and go backwards until you see the source vertex again or any other vertex that predecessor chain has already shown us while printing the negative weighted cycle.`**_
-
-```python
-打印"负权重周期"以显示套利机会。
-我们使用"前驱链"打印周期。
-现在我们有了可以进一步放松的边缘，我们已经找到了该边缘的源顶点和目标顶点。 
-让我们从源顶点开始，然后返回，
-直到您再次看到源顶点或在打印"负加权循环"时"前驱链"已经向我们显示的任何其他顶点。
-```
 
 我们发现了一个术语叫 predecessor chain，这很重要。
 
