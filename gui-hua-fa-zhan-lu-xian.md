@@ -58,7 +58,11 @@ BFM Unity 将让市场上 1/3 以上交易者成为 BFM Unit\(s\)。
 
 > 复制了战神赐予天翼种的力量——天击制成的兵装。
 
-「伪典·天击」阶段，BFM Unity 将真正向全市场宣告 BFM Unity 的影响力。  
+「伪典·天击」阶段，  
+  
+BFM Unity 将整合 DAO Consensus，开发 Wallet 和 Chain Storage。
+
+同时，BFM Unity 将在此阶段发起一次大规模活动，向全市场宣告 BFM Unity 的影响力。  
 BFM Unity 将组织 BFM Unit\(s\) ，通过联合在同一时间，停止套利系统运行，导致市场短时间流动性稀缺，造成交易踩踏现象，从而引发市场闪崩\(flash crash\)。  
 此前， BFM Unity 将通知 BFM Unit\(s\) 提前持有看跌期权，以获得大规模盈利。
 
