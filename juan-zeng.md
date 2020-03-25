@@ -5,10 +5,7 @@
 {% endhint %}
 
 {% hint style="danger" %}
-你通过以下方式只会打赏给 Guhhhhaa 和 贝   贝   猫，不会捐赠给 BFM Unity。
-{% endhint %}
-
-{% hint style="danger" %}
+你通过以下方式只会打赏给 Guhhhhaa 和 贝   贝   猫，不会捐赠给 BFM Unity。  
 对 Guhhhhaa 和 贝   贝   猫 的打赏并不会完全促进 BFM Unity 的发展。
 {% endhint %}
 
