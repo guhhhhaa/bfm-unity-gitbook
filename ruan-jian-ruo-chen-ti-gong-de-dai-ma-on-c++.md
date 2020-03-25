@@ -2,11 +2,11 @@
 
 ## DFS算法介绍
 
-DFS算法是一一个递归算法，需要借助一个递归工作栈，故它的空间复杂度为O\(N\)。 遍历图的过程实质上是对每个顶点查找其邻接点的过程，其耗费的时间取决于所采用结构。
+{% embed url="https://bbs.csdn.net/topics/50297608" %}
 
-邻接表表示时，查找所有顶点的邻接点所需时间为O\(E\)，访问顶点的邻接点所花时间为O\(N\),此时，总的时间复杂度为O\(N+E\)。
+{% embed url="https://blog.csdn.net/HdUIprince/article/details/89055429" %}
 
-邻接矩阵表示时，查找每个顶点的邻接点所需时间为O\(N\)，要查找整个矩阵，故总的时间度为O\(N^2\)。 
+我们通过查阅《Introduction to Algorithms, 3rd Edition》可知，DFS算法时间复杂度是O\(V+E\)，所以清华版蓝皮书误导了很多人。
 
 ```csharp
 DFS(G)
