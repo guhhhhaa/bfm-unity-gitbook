@@ -64,7 +64,7 @@ Algorithhms 4th Edition by Robert Sedgewick
 
 {% embed url="https://raw.githubusercontent.com/Mcdonoughd/CS2223/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf" caption="" %}
 
-## 我们使用黑魔书代表Intro to Algorithms，因为它中文版封面是黑色的
+## 我们使用黑魔书代表Introduction to Algorithms，因为它中文版封面是黑色的
 
 {% embed url="https://edutechlearners.com/download/Introduction\_to\_algorithms-3rd%20Edition.pdf" caption="" %}
 
