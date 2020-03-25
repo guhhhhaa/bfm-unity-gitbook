@@ -6,20 +6,6 @@
 其他 **商务办公** 人士可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-al-ckwx)。
 {% endhint %}
 
-## BFM Unity 的组织性质是什么？
-
-> BFM Unity 在政治，经济和世界范围内均保持中立。   
-> 它是耗散结构集群的去中心化的金融和经济统一体，  
-> 由智能算法驱动的微观经济结构的模块化单元的分布式自组织形成。
-
-> BFM Unity is neutral politically, economically and worldwide.   
-> It is a decentralized financial and economic continuum of dissipative structure clusters,   
-> formed by distributed self-organization of modular units of microeconomic structures driven by intelligent algorithms.
-
-BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观。
-
-不管基于牟利或其他目的，只要使用 BFM 算法，都是在壮大我们在市场中的力量，所以也就都是 BFM Unity 的一部分。
-
 ## 我们使用星杯代表我们的理想
 
 ![&#x300A;&#x6E38;&#x620F;&#x4EBA;&#x751F;&#xB7;ZERO&#x300B;](.gitbook/assets/12078662110a8d3bddbd46aa2430b5f44315b4bead.jpg)
@@ -37,6 +23,8 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 ![&#x5168;&#x89C6;&#x4E4B;&#x773C;](.gitbook/assets/1584962320733.jpeg)
 
 {% embed url="https://baike.baidu.com/item/%E5%85%A8%E7%9F%A5%E4%B9%8B%E7%9C%BC/8219624" caption="" %}
+
+![&#x4E09;&#x89D2;&#x5957;&#x5229;](.gitbook/assets/27f3d63ea07ab8663816d8aa2ae80bb7.png)
 
 ## 我们使用GOC代表多角套利和BFM算法。
 
