@@ -1,4 +1,4 @@
-# 【软件】not BFM on C++
+# 【参考】not BFM on C++
 
 ## 若尘提供的代码\(非BFM\)
 
