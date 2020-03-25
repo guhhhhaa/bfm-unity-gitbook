@@ -7,12 +7,13 @@ description: Donate
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-12.40.14.png)
 
 {% hint style="danger" %}
-你的打赏并不会返还，请量力而行。
+打赏并不会返还，请量力而行。
 {% endhint %}
 
 {% hint style="warning" %}
-你通过以下方式只会打赏给 Guhhhhaa 和 贝   贝   猫，不会捐赠给 BFM Unity。  
-对 Guhhhhaa 和 贝   贝   猫 的打赏并不会完全促进 BFM Unity 的发展。
+通过以下方式，只会打赏给 Guhhhhaa 和 贝   贝   猫，不会捐赠给 BFM Unity。  
+理论上，未来 BFM Unity 靠 BFM 算法提供的套利利润完全可以维持，但短期内 Guhhhhaa 和 贝   贝   猫 需要吃饭。  
+短期内，如果没有获得新人的帮助，也许只有 Guhhhhaa 和 贝   贝   猫 会延续这一概念。
 {% endhint %}
 
 {% hint style="success" %}
