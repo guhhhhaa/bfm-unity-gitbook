@@ -66,7 +66,7 @@ BFM Unity 将整合 DAO Consensus，开发 Wallet 和 Chain Storage。
 BFM Unity 将组织 BFM Unit\(s\) ，通过联合在同一时间，停止套利系统运行，导致市场短时间流动性稀缺，造成交易踩踏现象，从而引发市场闪崩\(flash crash\)。  
 此前， BFM Unity 将通知 BFM Unit\(s\) 提前持有看跌期权，以获得大规模盈利。
 
-该过程中积累的资源将有助于 BFM Unity 加速发展。
+该过程中积累的资源与经验将有助于 BFM Unity 加速发展。
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.40.32.png)
 
@@ -108,13 +108,17 @@ BFM Unity 将组织 BFM Unit\(s\) ，通过联合在同一时间，停止套利�
 
 > 将典开的全部武装一齐，以超高浓缩的精灵粒子化后放射出来，一般的生物──就连森精种触碰到的话也会被即死，休比利用超高浓缩精灵指向性使其挥发造成自身超加速。
 
-「制速违反」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，向全世界依靠国家信用背书的信用货币发起和平解构。该过程中积累的资源将有助于 BFM Unity 加速发展。
+「制速违反」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，向全世界依靠国家信用背书的信用货币发起和平解构。
+
+该过程中积累的资源与经验将有助于 BFM Unity 加速发展。
 
 ###  10，「全方交叉」
 
 > 与制速违反同理，将超高浓缩精灵以无指向性的挥发构成“攻势防壁”。
 
-「全方交叉」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，向 BTC 等传统数字货币 Eco System 发起和平解构。该过程中积累的资源将有助于 BFM Unity 加速发展。
+「全方交叉」阶段，BFM Unity 将整合 BFM Eco System Plus 的所有资源，向 BTC 等传统数字货币 Eco System 发起和平解构。
+
+该过程中积累的资源与经验将有助于 BFM Unity 加速发展。
 
 ### N，「真典·弑星者」
 
