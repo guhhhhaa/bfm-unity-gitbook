@@ -62,7 +62,7 @@ Printing a negative weight cycle is done to show the arbitrage opportunity. `We 
 直到您再次看到源顶点或在打印"负加权循环"时"前驱链"已经向我们显示的任何其他顶点。
 ```
 
-我们发现了一个术语叫 predecessor chain，这很重要。
+## 我们发现了一个术语叫 predecessor chain，这很重要。
 
 {% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
 
