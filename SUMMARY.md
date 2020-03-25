@@ -1,6 +1,7 @@
 # Table of contents
 
 * [【管理】问题解答](README.md)
+* [捐赠](juan-zeng.md)
 * [【架构】架构设计](guan-li-fa-zhan-lu-xian.md)
 * [【规划】发展路线](gui-hua-fa-zhan-lu-xian.md)
 * [【算法】程序描述](what-is-bfm-al.md)
