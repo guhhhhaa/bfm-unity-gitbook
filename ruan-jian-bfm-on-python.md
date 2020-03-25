@@ -66,8 +66,6 @@ Printing a negative weight cycle is done to show the arbitrage opportunity. `We 
 
 {% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
 
-{% embed url="https://gist.githubusercontent.com/anilpai/dd00a9671c062390c848952eaddbbe1e/raw/0a65b53371470d7565988e3ec12c0d46f594895e/currency\_arbitrage.py" %}
-
 ```python
 from typing import Tuple, List
 from math import log
@@ -134,4 +132,6 @@ if __name__ == "__main__":
 # Time Complexity: O(N^3)
 # Space Complexity: O(N^2)
 ```
+
+{% embed url="https://gist.githubusercontent.com/anilpai/dd00a9671c062390c848952eaddbbe1e/raw/0a65b53371470d7565988e3ec12c0d46f594895e/currency\_arbitrage.py" %}
 
