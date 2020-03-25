@@ -7,7 +7,8 @@ description: Questions & Answers
 {% hint style="warning" %}
 本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
 
-对于 **开发者**，想从算法开始请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。  
+对于 **开发者**，想从算法开始请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
+
 对于 **投资者**，想直接 **打钱** 给我请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)。
 {% endhint %}
 
