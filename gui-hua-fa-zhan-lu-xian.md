@@ -80,7 +80,7 @@ BFM Unity 将组织 BFM Unit\(s\) ，通过联合在同一时间，停止套利�
 
 {% embed url="https://github.com/ethereum/wiki/wiki/White-Paper" %}
 
- BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的 BFM Token，3，一个深度支持 BFM DAO 的 BFM DeFi DApp。
+ BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的 BFM Token，3，一个深度支持 BFM DAO ，整合 Wallet 的 BFM DeFi DApp。
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.05.png)
 
