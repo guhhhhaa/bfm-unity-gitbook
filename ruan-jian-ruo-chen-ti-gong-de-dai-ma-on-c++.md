@@ -1,5 +1,35 @@
 # 【参考】DFS on C++
 
+## DFS算法介绍
+
+DFS算法是一一个递归算法，需要借助一个递归工作栈，故它的空间复杂度为O\(N\)。 遍历图的过程实质上是对每个顶点查找其邻接点的过程，其耗费的时间取决于所采用结构。
+
+邻接表表示时，查找所有顶点的邻接点所需时间为O\(E\)，访问顶点的邻接点所花时间为O\(N\),此时，总的时间复杂度为O\(N+E\)。
+
+邻接矩阵表示时，查找每个顶点的邻接点所需时间为O\(N\)，要查找整个矩阵，故总的时间度为O\(N^2\)。 
+
+```csharp
+DFS(G)
+1 for each vertex u ∈ G.V
+2     u.color = WHITE
+3     u.π= NIL
+4 time = 0
+5 for each vertex u ∈ G.V
+6     if u.color == WHITE
+7         DFS-VISIT(G,u)
+DFS-VISIT(G,u)
+1 time = time + 1 // white vertex u has just been discovered
+2 u.d = time
+3 u.color = GRAY
+4 for each v ∈ G.Adj[u] // explore edge .u; /
+5     if v.color == WHITE
+6         v.π= u
+7         DFS-VISIT(G,v)
+8 u.color = BLACK // blacken u; it is finished
+9 time = time + 1
+10 u.f = time
+```
+
 ## 若尘提供的代码\(DFS，非BFM\)
 
 data.txt
@@ -127,18 +157,36 @@ Guhhhhaa：[https://hehejun.blogspot.com/2018/05/algorithshortest-path.html](htt
 
 Guhhhhaa ：你没发现是无向无环图才能用DFS吗，要是有环的，不还得用取反BellmanFord吗。
 
-若尘 ：不是，此dfs非彼dfs，只要把走过的路都用那个avable数组堵死，就能实现环上的dfs，只要选取合适的exchg函数，就能实现有向图，我向你保证，这肯定可行，你只要集中精力考虑接口就好
+```csharp
+若尘 ：不是，此dfs非彼dfs，
+只要把走过的路都用那个avable数组堵死，就能实现环上的dfs，
+只要选取合适的exchg函数，就能实现有向图，
+我向你保证，这肯定可行，你只要集中精力考虑接口就好
+```
 
 Guhhhhaa ：能具体说说怎么。 选取合适的exchg函数 吗？交易所的行情可是随时变动的，
 
-若尘 ：我之所以选用一个函数而不是数组，就是考虑到还有可能有手续费的情况 我的程序里，exchg函数暂且没有手续费，直接从rates里面读取汇率 实时把汇率输入data.txt再调用程序，就可以得到实时的负环 具体怎么实现，你得把交易所的情况弄清楚 如果有的两种币不能兑换，或者单向兑换，你只需要把exchg调成汇率为零不就好了 exchg表示你有have钱，从u币兑换到v币时得到的钱 具体的实现当然要根据交易所的规则来确定 所以你要做的话，赶紧干实事
+```csharp
+若尘 ：我之所以选用一个函数而不是数组，
+就是考虑到还有可能有手续费的情况 
+我的程序里，exchg函数暂且没有手续费，直接从rates里面读取汇率 
+实时把汇率输入data.txt再调用程序，就可以得到实时的负环 
+具体怎么实现，你得把交易所的情况弄清楚 
+如果有的两种币不能兑换，或者单向兑换，
+你只需要把exchg调成汇率为零不就好了 
+exchg表示你有have钱，从u币兑换到v币时得到的钱 
+具体的实现当然要根据交易所的规则来确定 
+所以你要做的话，赶紧干实事
+```
 
 Guhhhhaa ：感谢若尘。
 
 ## 解释
 
-经过我们的进一步研究，我们发现 BFM 算法有两种，其中一种是可以找到负环的。  
-所以很遗憾，若尘没有实现 BFM 。
+经过我们的进一步研究，我们发现 BFM 算法有两种，其中一种是可以找到负环的。所以很遗憾，若尘没有实现 BFM 。
 
 ![](.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
+
+但他的算法的时间复杂度到底是多少？是不是O\(N^2\)？如果是O\(N^2\)当然优于BFM的O\(N^3\)，但是他说此DFS非彼DFS，所以是O\(N^2\)吗？  
+我其实并没有看懂。要不读者你来看一下？
 
