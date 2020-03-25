@@ -2,12 +2,14 @@
 
 ## DFS算法介绍
 
-{% embed url="https://bbs.csdn.net/topics/50297608" %}
-
 {% embed url="https://blog.csdn.net/HdUIprince/article/details/89055429" %}
 
+| 空间复杂度 | 时间复杂度\(邻接表\) | 时间复杂度\(邻接矩阵\) |
+| :--- | :--- | :--- |
+| O\(N\) | O\(N+E\) | O\(N^2\) |
+
 《Introduction to Algorithms, 3rd Edition》可知，  
-DFS算法按照临接表表示，时间复杂度是O\(V+E\)。
+DFS算法按照邻接表表示，时间复杂度是O\(V+E\)。
 
 ```csharp
 DFS(G)
@@ -35,7 +37,11 @@ DFS-VISIT(G,u)
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-4.42.27.png)
 
-## 若尘提供的代码\(DFS，非BFM\)
+## 若尘提供的代码\(DFS-邻接矩阵表示，非BFM\)
+
+| 空间复杂度 | 时间复杂度\(邻接表\) | 时间复杂度\(邻接矩阵\) |
+| :--- | :--- | :--- |
+| O\(N\) | O\(N+E\) | O\(N^2\) |
 
 data.txt
 
