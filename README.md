@@ -4,6 +4,8 @@ description: Questions & Answers
 
 # 【管理】问题解答
 
+
+
 {% hint style="warning" %}
 本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
 
@@ -13,6 +15,8 @@ description: Questions & Answers
 
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
 文档 GitHub 地址：[https://github.com/guhhhhaa/bfm-gitbook](https://github.com/guhhhhaa/bfm-gitbook)
+
+![](.gitbook/assets/u-3153260481-2815876954-and-fm-26-and-gp-0.jpg)
 
 ## BFM 是什么？ 
 
