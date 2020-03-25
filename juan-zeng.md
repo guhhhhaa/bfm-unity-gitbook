@@ -22,6 +22,12 @@ description: Donate
 **打赏者可能在未来发币后，被优先空投分配一部分的 BFM Token。**
 {% endhint %}
 
+{% hint style="info" %}
+打赏之后一定要看 [**这篇文档**](https://app.gitbook.com/@guhhhhaa/s/bfm/ruan-jian-bfm-on-python/~/settings/share) ****哦，要不然，  
+  
+你就是来到金山，空手而归了。
+{% endhint %}
+
 ## 打赏地址
 
 ```cpp
