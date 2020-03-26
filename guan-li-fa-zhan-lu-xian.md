@@ -8,6 +8,10 @@ description: BFM Eco System Architecture Design
 
 ![](.gitbook/assets/u-929135687-1423845009-and-fm-26-and-gp-0.jpg)
 
+{% hint style="info" %}
+BFM Unity 将基于 Hyperledger 的公链项目 Besu，使用伊斯坦布尔拜占庭式容错（IBFT）作为共识算法。
+{% endhint %}
+
 BFM Eco System adopts a 3-layer architecture divided into Storage Layer, Core Layer, and Application Layer. The BFM protocol adheres to Google Protobuf, which intrinsically supports multi-language extension.
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.14.14.png)
