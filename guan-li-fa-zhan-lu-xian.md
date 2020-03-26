@@ -5,7 +5,9 @@ description: BFM Eco System Architecture Design
 # 【架构】架构设计
 
 {% hint style="success" %}
-BFM Unity 将基于 Hyperledger 的公链项目 Besu，使用伊斯坦布尔拜占庭式容错（IBFT）作为共识算法。
+BFM Unity 将基于 Hyperledger 的公链项目 Besu，
+
+BFM Unity 将使用伊斯坦布尔拜占庭式容错（IBFT）作为共识算法。
 {% endhint %}
 
 ## BFM Eco System Architecture Design
