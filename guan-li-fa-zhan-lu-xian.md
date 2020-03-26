@@ -14,7 +14,7 @@ BFM Unity 将使用伊斯坦布尔拜占庭式容错（IBFT）作为共识算法
 
 {% embed url="https://www.hyperledger.org/projects/besu" %}
 
-{% embed url="https://kaleido.io/consensus-algorithms-poa-ibft-or-raft/" %}
+{% embed url="https://github.com/ethereum/EIPs/issues/650" %}
 
 ## BFM Eco System Architecture Design
 
