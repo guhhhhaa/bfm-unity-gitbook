@@ -4,6 +4,12 @@ description: BFM Unity Roadmap
 
 # 【规划】发展路线
 
+{% hint style="success" %}
+BFM Unity 将基于 Hyperledger 的公链项目 Besu，
+
+BFM Unity 将使用伊斯坦布尔拜占庭式容错（IBFT）作为共识算法。
+{% endhint %}
+
 ![](.gitbook/assets/bc5a675f114bb2cf676d5d87f332b704.jpg)
 
 ## BFM Unity 的组织性质是什么？
