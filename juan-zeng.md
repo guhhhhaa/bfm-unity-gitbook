@@ -10,9 +10,7 @@ description: Donate
 
 {% hint style="success" %}
 ## 可退还本金，只捐赠利息。
-{% endhint %}
 
-{% hint style="success" %}
 ## 通过 pDAI Smart contract，保证1：1刚性兑付。
 
 捐赠后你获得的 **BFM-DAI** 可在日后通过 pDAI Smart contract _**1：1兑换**_ 成美元稳定币 **DAI**。
@@ -30,7 +28,7 @@ description: Donate
 
 ### 如何使用无损失捐赠：
 
-
+1，安装
 
 ## 二，不可退还的捐赠
 
