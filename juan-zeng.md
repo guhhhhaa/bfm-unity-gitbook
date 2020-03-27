@@ -6,7 +6,7 @@ description: Donate
 
 ![&#x7B2C;&#x516D;&#x6761;&#x76DF;&#x7EA6;&#xFF1A;&#xFF08;&#x5411;&#x76DF;&#x7EA6;&#x5BA3;&#x8A93;&#xFF09;&#x6240;&#x6253;&#x7684;&#x8D4C;&#x8981;&#x7EDD;&#x5BF9;&#x9075;&#x5B88;](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-12.40.14.png)
 
-## 一，可退还的捐赠
+## 一，无损失捐赠
 
 {% hint style="success" %}
 ## 可退还本金，只捐赠利息。
@@ -17,16 +17,20 @@ description: Donate
 
 捐赠后你获得的 **BFM-DAI** 可在日后通过 pDAI Smart contract _**1：1兑换**_ 成美元稳定币 **DAI**。
 
-#### pDAI Smart contract 支持绝大多数ERC20币种\(如ETH，USDT，TUSD，USDC，PAX，DAI\)
+#### pDAI Smart contract 支持绝大多数ERC20稳定币种\(如USDT，TUSD，USDC，PAX，DAI\)
 {% endhint %}
 
-### 可退还的捐赠地址：
+### 无损失捐赠地址：
 
 {% embed url="https://zeframlou.github.io/pool-dai/pool/0x988d4ee0952f23579423e7b026eb73c771b2392e" %}
 
 {% hint style="success" %}
 **捐赠者可能在未来发币后，被优先空投分配一部分的 ERC-20 BFM Token。**
 {% endhint %}
+
+### 如何使用无损失捐赠：
+
+
 
 ## 二，不可退还的捐赠
 
@@ -90,7 +94,7 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 未发送邮件，默认为匿名捐赠。
 {% endhint %}
 
-### 您的捐赠我会谨慎对待。
+### 您的捐赠，我会谨慎对待
 
 #### 资金的用途： 
 
