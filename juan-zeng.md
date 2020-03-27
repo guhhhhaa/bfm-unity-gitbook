@@ -15,20 +15,39 @@ description: Donate
 
 捐赠后你获得的 **BFM-DAI** 可在日后通过 pDAI Smart contract _**1：1兑换**_ 成美元稳定币 **DAI**。
 
-#### pDAI Smart contract 支持绝大多数ERC20稳定币种\(如USDT，TUSD，USDC，PAX，DAI\)
+#### pDAI Smart contract 支持绝大多数 ERC20 稳定币种\(如 USDT，TUSD，USDC，PAX，DAI\)
 {% endhint %}
 
 ### 无损失捐赠地址：
 
 {% embed url="https://zeframlou.github.io/pool-dai/pool/0x988d4ee0952f23579423e7b026eb73c771b2392e" %}
 
-{% hint style="success" %}
-**捐赠者可能在未来发币后，被优先空投分配一部分的 ERC-20 BFM Token。**
-{% endhint %}
-
 ### 如何使用无损失捐赠：
 
-1，安装
+1，安装浏览器钱包 metamask \([https://metamask.io/](https://metamask.io/)\)，将稳定币转入 metamask  
+2，打开链接[  
+https://zeframlou.github.io/pool-dai/pool/0x988d4ee0952f23579423e7b026eb73c771b2392e](https://zeframlou.github.io/pool-dai/pool/0x988d4ee0952f23579423e7b026eb73c771b2392e)  
+在 **Deposit to pool** 下面的表格中，输入你想要存入币种\( 如，USDT \)，数量（如不放心可填 0.01 ）  
+点击 check currency balance，确定币足够后 \( 保证 &gt; 0.01 \)，  
+点击 **Deposit to pool** 存入池，你会将你的币（ 0.01 USDT ）存入资金池，资金池会向你发送同等数量的稳定币 0.01 BFM-DAI 。
+
+### 如何退还你的币：
+
+获得 0.01 BFM-DAI 后，可在相同页面 **Withdraw from pool** 下面的表格中，使用同上的方式，使用 BFM-DAI，从资金池中，取走你存入的稳定币 **\(如 USDT，TUSD，USDC，PAX，DAI\)**
+
+### **所以，通过分布式智能合约 pDAI Smart contract，保证**BFM-DAI 和其他稳定币**1：1刚性兑付。**
+
+**由于上述过程，完全通过智能合约完成，背后不涉及人工操作，所以更值得信任。**  
+  
+[https://etherscan.io/address/0x988d4ee0952f23579423e7b026eb73c771b2392e\#code](https://etherscan.io/address/0x988d4ee0952f23579423e7b026eb73c771b2392e#code)
+
+这个是合约代码，代码都是开源的。
+
+![](.gitbook/assets/ping-mu-kuai-zhao-20200327-xia-wu-8.08.27.png)
+
+{% hint style="success" %}
+**通过pDAI，购买BFM-DAI，捐赠利息者，可能在未来发币后，被优先空投分配一部分的 ERC-20 BFM Token。**
+{% endhint %}
 
 ## 二，不可退还的捐赠
 
