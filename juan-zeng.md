@@ -2,19 +2,37 @@
 description: Donate
 ---
 
-# 捐赠打赏
+# 【捐赠】无损失捐赠
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-12.40.14.png)
+![&#x7B2C;&#x516D;&#x6761;&#x76DF;&#x7EA6;&#xFF1A;&#xFF08;&#x5411;&#x76DF;&#x7EA6;&#x5BA3;&#x8A93;&#xFF09;&#x6240;&#x6253;&#x7684;&#x8D4C;&#x8981;&#x7EDD;&#x5BF9;&#x9075;&#x5B88;](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-12.40.14.png)
 
-{% hint style="danger" %}
-打赏并不会返还，请量力而行。
+## 一，可退还的捐赠
+
+{% hint style="success" %}
+## 可退还本金，只捐赠利息。
 {% endhint %}
 
 {% hint style="success" %}
-**打赏者可能在未来发币后，被优先空投分配一部分的 ERC-20 BFM Token。**
+## 通过 pDAI Smart contract，保证1：1刚性兑付。
+
+捐赠后你获得的 **BFM-DAI** 可在日后通过 pDAI Smart contract _**1：1兑换**_ 成美元稳定币 **DAI**。
+
+#### pDAI Smart contract 支持绝大多数ERC20币种\(如ETH，USDT，TUSD，USDC，PAX，DAI\)
 {% endhint %}
 
-## 打赏地址
+### 可退还的捐赠地址：
+
+{% embed url="https://zeframlou.github.io/pool-dai/pool/0x988d4ee0952f23579423e7b026eb73c771b2392e" %}
+
+{% hint style="success" %}
+**捐赠者可能在未来发币后，被优先空投分配一部分的 ERC-20 BFM Token。**
+{% endhint %}
+
+## 二，不可退还的捐赠
+
+{% hint style="danger" %}
+## 该方式不可退还，请谨慎使用
+{% endhint %}
 
 ```cpp
 BTC:bc1qvspjnlckvze7thfukhc6zum67qavujw3e0kwgh
@@ -56,48 +74,33 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 {% endtab %}
 {% endtabs %}
 
+## 捐赠说明
+
 {% hint style="info" %}
-打赏之后一定要看 [**这篇文档**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) ****哦，要不然，  
+捐赠之后一定要看 [**这篇文档**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) ****哦，要不然，  
   
 你就是来到金山，空手而归了。
 {% endhint %}
 
-## 打赏说明
-
 {% hint style="warning" %}
-如你想非匿名打赏，请通过发送邮件到 guhhhhaa@gmail.com，并在邮件标题开头标注“打赏“字样，并在邮件中说明打赏相关信息 和 你的 name/ID。可以在邮件里指定资金用途。
+非匿名捐赠，请发邮件到 guhhhhaa@gmail.com，在邮件标注“捐赠“字样，  
+可在邮件中说明捐赠相关信息 和 你的 name/ID。  
+可以在邮件里指定捐赠资金用途。你的信息会在本页面公布，但不一定及时。
 
-未发送邮件，默认为匿名打赏。
-
-你的信息会在本页面公布，但不一定及时。
+未发送邮件，默认为匿名捐赠。
 {% endhint %}
 
-{% hint style="info" %}
-赏金的用途可能包括并不限于：
+### 您的捐赠我会谨慎对待。
 
-1，日常开支。
+#### 资金的用途： 
 
-2，购买域名，租借VPS。以及其他微型付费\(Github,SDK,Gitbook,Trello,WordPress,QQ群,网盘,JMS ss\)
+1，日常开支。 2，购买域名，租借VPS。以及其他微型付费\(Github,SDK,Gitbook,Trello,WordPress,QQ群,网盘,JMS ss，DeFi部署的Gas费用\) 3，必要的硬件成本。 4，招募开发者等人员。 
 
-3，必要的硬件成本。
+#### 资金不可能用于：
 
-4，招募开发者等人员。
-{% endhint %}
+1，非必需消费 2，回购 BFM Token 
 
-{% hint style="info" %}
-赏金的用途不可能用于：  
-  
-1，非必需消费
-
-2，回购 BFM Token
-{% endhint %}
-
-{% hint style="info" %}
-Guhhhhaa 和 贝   贝   猫 一般情况下不能确定赏金的用途，也就不会贸然使用，所以赏金会留在地址里保持不动。  
-如果 Guhhhhaa 和 贝   贝   猫 使用了赏金，会在此页公布数额和用途。
-{% endhint %}
-
-## 捐赠登记
+## 登记
 
 | Name/ID | 时间 | 币种 | 数量 | 来自地址 | 指定用途 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
