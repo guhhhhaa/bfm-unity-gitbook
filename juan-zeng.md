@@ -11,7 +11,7 @@ description: Donate
 {% endhint %}
 
 {% hint style="success" %}
-**打赏者可能在未来发币后，被优先空投分配一部分的 BFM Token。**
+**打赏者可能在未来发币后，被优先空投分配一部分的 ERC-20 BFM Token。**
 {% endhint %}
 
 ## 打赏地址

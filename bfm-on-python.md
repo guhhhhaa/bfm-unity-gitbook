@@ -1,14 +1,8 @@
-# 【软件】BFM\(detect\) on Python
+# 【软件】BFM on Python
 
-{% hint style="warning" %}
-本章为detect程序，毫无价值。  
-  
-如你想要实用，应该看 [**find程序**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) **。  
-  
-不知道 detect 和 find 的区别？参考** [**这一页**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al) **。**
+{% hint style="info" %}
+本章纯属 Ctrl + C&V，不爽可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)。
 {% endhint %}
-
-
 
 {% embed url="https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/" caption="" %}
 
