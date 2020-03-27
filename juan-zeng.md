@@ -2,20 +2,12 @@
 description: Donate
 ---
 
-# 捐赠
+# 捐赠打赏
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-12.40.14.png)
 
 {% hint style="danger" %}
 打赏并不会返还，请量力而行。
-{% endhint %}
-
-{% hint style="warning" %}
-通过以下方式，只会打赏给 Guhhhhaa 和 贝   贝   猫，不会捐赠给 BFM Unity。  
-理论上，未来 BFM Unity 是由每一个微小的BFM Unit\(s\)组成，BFM Unit\(s\)会通过智能合约组成一个庞大的自组织超智能体巨鲸，BFM Unit\(s\)之间会进行协同合作，共享套利利润。  
-由于 BFM 的盈利模式很稳定，所以不需要担心 BFM Unity 的维持。  
-但短期内 Guhhhhaa 和 贝   贝   猫 需要吃饭。  
-短期内，如果没有获得新人的帮助，也许只有 Guhhhhaa 和 贝   贝   猫 会延续 BFM Unity 这一概念，并继续进行公开推广。
 {% endhint %}
 
 {% hint style="success" %}
@@ -65,7 +57,7 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 {% endtabs %}
 
 {% hint style="info" %}
-打赏之后一定要看 [**这篇文档**](https://app.gitbook.com/@guhhhhaa/s/bfm/ruan-jian-bfm-on-python/~/settings/share) ****哦，要不然，  
+打赏之后一定要看 [**这篇文档**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) ****哦，要不然，  
   
 你就是来到金山，空手而归了。
 {% endhint %}
