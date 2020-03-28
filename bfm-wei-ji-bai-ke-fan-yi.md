@@ -1,7 +1,5 @@
 # BFM 维基百科翻译
 
-
-
 ## Bellman–Ford算法 <a id="firstHeading"></a>
 
 维基百科，自由的百科全书[跳转到导航](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm#mw-head)[跳转到搜索](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm#p-search)
