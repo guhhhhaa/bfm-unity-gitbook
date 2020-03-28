@@ -6,7 +6,7 @@
 如不想看算法，想直接看**程序，**可跳到[**这一页**](https://guhhhhaa.gitbook.io/bfm/bfm-on-python)\*\*\*\*
 {% endhint %}
 
-![](.gitbook/assets/350714d50313c52b79c51d4dbe932e80.jpeg)
+![](../.gitbook/assets/350714d50313c52b79c51d4dbe932e80.jpeg)
 
 ## 为什么 BFM = 共产主义？
 
@@ -94,11 +94,11 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 ## BFM 算法的时间复杂度分析
 
-![&#x672C;&#x56FE;&#x7247;&#x5F15;&#x7528;&#x81EA;&#x300A;&#x554A;&#x54C8;&#xFF01;&#x7B97;&#x6CD5;&#x300B;](.gitbook/assets/ping-mu-kuai-zhao-20200318-shang-wu-9.55.10.png)
+![&#x672C;&#x56FE;&#x7247;&#x5F15;&#x7528;&#x81EA;&#x300A;&#x554A;&#x54C8;&#xFF01;&#x7B97;&#x6CD5;&#x300B;](../.gitbook/assets/ping-mu-kuai-zhao-20200318-shang-wu-9.55.10.png)
 
 ## BFM-Detect 算法 和 BFM-Find 算法 的比较
 
-![](.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
+![](../.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
 
 ## find算法和predecessor chain有关。
 
@@ -108,7 +108,7 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 {% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.59.12.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.59.12.png)
 
 {% hint style="info" %}
 检验你是否理解了BFM算法，需回答以下几个问题。  
