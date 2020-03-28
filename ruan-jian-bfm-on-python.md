@@ -10,7 +10,9 @@
 
 {% embed url="https://medium.com/@anilpai/currency-arbitrage-using-bellman-ford-algorithm-8938dcea56ea" %}
 
+[https://gist.github.com/anilpai/fe4e11b5c59d8c02813900813396400b](https://gist.github.com/anilpai/fe4e11b5c59d8c02813900813396400b)
 
+[https://gist.github.com/anilpai/dd00a9671c062390c848952eaddbbe1e](https://gist.github.com/anilpai/dd00a9671c062390c848952eaddbbe1e)
 
 > How do we solve this?
 
