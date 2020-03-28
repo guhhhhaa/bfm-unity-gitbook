@@ -1,4 +1,4 @@
-# Untitled
+# 【软件】Graph algorithms and currency arbitrage
 
 {% embed url="https://reasonabledeviations.com/2019/03/02/currency-arbitrage-graphs/" %}
 
