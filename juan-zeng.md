@@ -39,9 +39,7 @@ https://zeframlou.github.io/pool-dai/pool/0x988d4ee0952f23579423e7b026eb73c771b2
 
 **由于上述过程，完全通过智能合约完成，背后不涉及人工操作，所以更值得信任。**  
   
-[https://etherscan.io/address/0x988d4ee0952f23579423e7b026eb73c771b2392e\#code](https://etherscan.io/address/0x988d4ee0952f23579423e7b026eb73c771b2392e#code)
-
-这个是合约代码，代码都是开源的。
+[https://etherscan.io/address/0x988d4ee0952f23579423e7b026eb73c771b2392e\#code](https://etherscan.io/address/0x988d4ee0952f23579423e7b026eb73c771b2392e#code)，这个是合约代码，代码都是开源的。
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200327-xia-wu-8.08.27.png)
 
