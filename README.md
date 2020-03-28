@@ -4,8 +4,6 @@ description: Questions & Answers
 
 # 【管理】问题解答
 
-
-
 {% hint style="warning" %}
 本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
 
