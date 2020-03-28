@@ -17,4 +17,5 @@
 * [【参考】DFS-adj-matrix on C++](ruan-jian-ruo-chen-ti-gong-de-dai-ma-on-c++.md)
 * [BTC 相关信息](btc-xiang-guan-xin-xi.md)
 * [【捐赠】如何使用无损失捐赠](juan-zeng-ru-he-shi-yong-wu-sun-shi-juan-zeng.md)
+* [BFM 维基百科翻译](bfm-wei-ji-bai-ke-fan-yi.md)
 
