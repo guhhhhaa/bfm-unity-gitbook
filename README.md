@@ -19,7 +19,7 @@ description: Questions & Answers
 
 {% embed url="https://www.bilibili.com/bangumi/play/ep4371" %}
 
-## 世界的入口：
+## 世界入口：
 
 {% embed url="https://defipulse.com/" %}
 
