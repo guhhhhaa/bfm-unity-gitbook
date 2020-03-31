@@ -4,11 +4,13 @@
 
 {% embed url="https://arbtoken.stitthappens.com/" %}
 
+{% embed url="https://medium.com/multitoken/multitoken-vs-competitors-3bd989ddef4" %}
+
 ## Hummingbot
 
 {% embed url="https://docs.hummingbot.io/strategies/cross-exchange-market-making/" %}
 
-{% embed url="https://medium.com/multitoken/multitoken-vs-competitors-3bd989ddef4" %}
+{% embed url="https://infura.io/" %}
 
 ## 看不懂，可以看动画片：
 
