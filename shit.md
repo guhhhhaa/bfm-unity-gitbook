@@ -16,6 +16,8 @@
 
 {% embed url="https://defiprime.com/infrastructure" %}
 
+{% embed url="https://defiprime.com/decentralized\_marketplaces" %}
+
 {% embed url="https://district0x.io/" %}
 
 ## 看不懂，可以看动画片：
