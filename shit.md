@@ -1,8 +1,12 @@
 # 我们走的弯路
 
-{% embed url="https://medium.com/multitoken/multitoken-vs-competitors-3bd989ddef4" %}
+## Pooled Arbitrage
 
 {% embed url="https://arbtoken.stitthappens.com/" %}
+
+{% embed url="https://docs.hummingbot.io/strategies/cross-exchange-market-making/" %}
+
+{% embed url="https://medium.com/multitoken/multitoken-vs-competitors-3bd989ddef4" %}
 
 {% embed url="http://www.dilidili3.com/play/3998/135852.html" %}
 
