@@ -4,7 +4,7 @@
 
 {% embed url="https://arbtoken.stitthappens.com/" %}
 
-## ummingbot
+## Hummingbot
 
 {% embed url="https://docs.hummingbot.io/strategies/cross-exchange-market-making/" %}
 
