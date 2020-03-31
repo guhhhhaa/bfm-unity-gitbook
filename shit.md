@@ -10,6 +10,8 @@
 
 {% embed url="https://medium.com/multitoken/multitoken-vs-competitors-3bd989ddef4" %}
 
+## 看不懂，可以看动画片：
+
 {% embed url="http://www.dilidili3.com/play/3998/135852.html" %}
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20200330-xia-wu-9.39.59.png)
