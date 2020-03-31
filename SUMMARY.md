@@ -3,6 +3,7 @@
 * [【管理】问题解答](README.md)
 * [【架构】架构设计](guan-li-fa-zhan-lu-xian.md)
 * [【规划】发展路线](gui-hua-fa-zhan-lu-xian.md)
+* [我们走的弯路](shit.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [BFM 维基百科翻译](what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)
 * [【捐赠】无损失捐赠](juan-zeng.md)
@@ -17,5 +18,4 @@
 * [【参考】三角套利猴版代码](qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma.md)
 * [【参考】DFS-adj-matrix on C++](ruan-jian-ruo-chen-ti-gong-de-dai-ma-on-c++.md)
 * [【软件】Graph algorithms and currency arbitrage](untitled.md)
-* [Shit](shit.md)
 
