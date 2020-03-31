@@ -1,5 +1,7 @@
 # 我们走的弯路
 
+## 以下都是弯路，想进入请做好必死的准备。
+
 ## Pooled Arbitrage
 
 {% embed url="https://arbtoken.stitthappens.com/" %}
