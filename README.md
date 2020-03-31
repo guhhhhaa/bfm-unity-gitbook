@@ -19,12 +19,6 @@ description: Questions & Answers
 
 {% embed url="https://www.bilibili.com/bangumi/play/ep4371" %}
 
-## 新世界的大门：
-
-{% embed url="https://defipulse.com/" %}
-
-{% embed url="https://defiprime.com/" %}
-
 ## BFM 是什么？ 
 
 BFM是 Bellman-Ford-Moore 算法的简称。
