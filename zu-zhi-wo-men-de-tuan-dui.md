@@ -1,5 +1,22 @@
 # 【组织】团队背景
 
+## BFM Unity 的组织性质是什么？
+
+> BFM Unity 在政治，经济和世界范围内均保持中立。   
+> 它是耗散结构集群的去中心化的金融和经济统一体，  
+> 由智能算法驱动的微观经济结构的模块化单元的分布式自组织形成。
+
+> BFM Unity is neutral politically, economically and worldwide.   
+> It is a decentralized financial and economic continuum of dissipative structure clusters,   
+> formed by distributed self-organization of modular units of microeconomic structures driven by intelligent algorithms.
+
+BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观。
+
+不管基于牟利或其他目的，只要使用 BFM 算法，都是在壮大我们在市场中的力量，所以也就都是 BFM Unity 的一部分。
+
+## BFM Unity 的团队背景是什么？
+
+  
 **我们领导，都是北海幼儿园毕业，带他们的班主任都是硕士博士，学的是马克思主义政治经济学。**
 
 **我们算法工程师，初二就会水上一堆顶会，ICCV，ECCV，CVPR，NIPS，随便灌水，他们都会做奥数题，做奥数题做到什么程度？非常勤奋，甚至，腱鞘炎发作。**
