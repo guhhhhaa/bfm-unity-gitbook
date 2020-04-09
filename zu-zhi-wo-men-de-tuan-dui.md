@@ -8,15 +8,15 @@
 
 ```c
 1，三角套利，交叉套利，多角套利，BFM：Bellman-Ford-Moore 算法
-    —— 阿撒托斯(Azathoth) 
+    —— 阿撒托斯"Azathoth"
 2，期货合约以及其他衍生品，期现跨期套利，期权对冲，金融工程(各种希腊字母),期权定价(蒙特卡洛,B-S-M Model)
-    —— 犹格·索托斯（Yog-Sothoth） 
+    —— 犹格·索托斯"Yog·Sothoth"
 3，动态平衡，包括凯利准则，香农恶魔，马科维兹 MPT，APT，随机折现因子 sdf,单因子 sim，Fama French 三因子，多因子，Smart Beta 策略
-    —— 奈亚拉托提普（Nyarlathotep） 
+    —— 奈亚拉托提普"Nyarlathotep" 
 4，网格交易，马丁策略，布林带策略，均线策略，技术指标分析(Boll,ATR,RSI)，剥头皮策略
-    —— 莎布·尼古拉丝（Shub-Niggurath） 
+    —— 莎布·尼古拉丝"Shub·Niggurath" 
 5，MWU(multiplicative weight update method)：乘法权更新算法
-    —— 格赫罗斯（Ghroth）
+    —— 格赫罗斯"Ghroth"
 ```
 
 这个金融市场，是围绕五个“神”自发产生的规则运行的。这五个神都不是空虚的概念，而是我们可以确定的算法。我们可以借助它们的力量。  
@@ -24,15 +24,15 @@
 
 ```c
 1，是整个市场的核心。
-
+    —— 阿撒托斯"Azathoth"
 2，是整个市场规则的基础。 
-
+    —— 犹格·索托斯"Yog·Sothoth"
 3，是市场的配置者。 
-
+    —— 奈亚拉托提普"Nyarlathotep" 
 4，是所有策略之母，它可以衍生出各种策略。 
-
+    —— 莎布·尼古拉丝"Shub·Niggurath"
 5，是让这个市场收敛到一个正确的位置的方式。
-
+    —— 格赫罗斯"Ghroth"
 ```
 
 因为这些算法所代表的力量，在金融系统中是自发产生，普遍存在的。  
