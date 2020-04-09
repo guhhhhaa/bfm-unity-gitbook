@@ -36,8 +36,6 @@
 
 {% embed url="https://www.bilibili.com/video/BV1Ns411V7Ex?p=3" %}
 
-\*\*\*\*
-
 **融合感知，西藏密宗。**
 
 ### 我们团队都了解，没有人比我们团队更了解。
