@@ -14,7 +14,7 @@
 * [【创新】未来发展](bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng.md)
 * [【软件】BFM on Java](bfm-on-java.md)
 * [【硬件】BFM on Verilog & FPGA](bfm-on-verilog-and-fpga.md)
-* [Untitled](untitled-1.md)
+* [【软件】BFM\(detect\) on Python](untitled-1.md)
 * [【软件】BFM\(find\) on Python](ruan-jian-bfm-on-python.md)
 * [【参考】三角套利猴版代码](qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma.md)
 * [【参考】DFS-adj-matrix on C++](ruan-jian-ruo-chen-ti-gong-de-dai-ma-on-c++.md)
