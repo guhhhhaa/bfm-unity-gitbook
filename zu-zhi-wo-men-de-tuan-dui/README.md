@@ -15,7 +15,7 @@
     —— 奈亚拉托提普"Nyarlathotep" 
 4，网格交易，马丁策略，布林带策略，均线策略，技术指标分析(Boll,ATR,RSI)，剥头皮策略
     —— 莎布·尼古拉丝"Shub·Niggurath" 
-5，MWU(multiplicative weight update method)：乘法权更新算法
+5，MWU(multiplicative weight update method)：乘法权更新算法，联合曲线（bonding curve）
     —— 格赫罗斯"Ghroth"
 ```
 
