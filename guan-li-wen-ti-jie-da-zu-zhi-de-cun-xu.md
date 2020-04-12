@@ -109,7 +109,7 @@ BFM Unity 建立了，基于 Code 和 Algorithm 的，新的执政，执法方�
 ## 总结：
 
 ```text
-BFM Unity，建立了01城，建立了Matrix。
+BFM Unity，建立了 01 城，建立了 Matrix。
 BFM Unity，建立了游戏世界，迪斯波德。
 
 BFM Unity，基于，机器逻辑，
