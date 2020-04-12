@@ -15,7 +15,8 @@ BFM Unity，要避开一切，基于人类的，主观**`价值判断`**。
 ```text
 创造价值，是货币层面，完全靠机器的，逻辑判断。被固定为算法。
 
-Code & Algorithm , its value , create , from market.
+By Code & Algorithm , 
+its value , create , from market.
 ```
 
 ### BFM Unity 创造价值，具体依靠哪些算法？
@@ -29,7 +30,8 @@ Code & Algorithm , its value , create , from market.
 ```text
 获得价值，是靠 BFM 算法以及其他的固定为算法的金融方式。
 
-Code & Algorithm , its value , get , from market.
+By Code & Algorithm , 
+its value , get , from market.
 ```
 
 ## BFM Unity 靠什么分配价值？
