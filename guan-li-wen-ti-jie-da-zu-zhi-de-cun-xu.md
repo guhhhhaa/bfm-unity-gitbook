@@ -104,7 +104,7 @@ BFM Unity 建立了，基于DAO和Token的，新的共识机制。
 BFM Unity 建立了，基于Code和Algorithm的，新的执政，执法方式。
 ```
 
-## 总结
+## 总结：
 
 ```text
 BFM Unity，建立了01城,建立了Matrix。
