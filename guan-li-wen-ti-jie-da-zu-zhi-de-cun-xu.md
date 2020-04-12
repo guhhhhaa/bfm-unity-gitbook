@@ -110,9 +110,10 @@ BFM Unity 建立了，基于Code和Algorithm的，新的执政，执法方式。
 BFM Unity，建立了01城，建立了Matrix。
 BFM Unity，建立了游戏世界，迪斯波德。
 
-BFM Unity，基于机器逻辑，建立了，
-可以服务于人类社会的，
+BFM Unity，基于，机器逻辑，
+建立了，可以服务于人类社会的，
 有经济意义的，可持续发展的，
+
 共产主义。
 ```
 
