@@ -12,7 +12,7 @@ description: Questions & Answers
 对于 **开发者**，想从**算法**开始，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
 
 对于 **投资者**，想直接 [**打钱**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****给我，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)。  
-\(这个打赏只是短期，不会长期需要。在系统建构好之后，我们有确定的方式，来自发创造价值，以维持系统的运转\)
+\(这个打赏只是短期，只在系统形成初期需要，不会长期需要。在系统建构好之后，我们已有确定方式，自发创造价值，以维持系统的运转\)
 {% endhint %}
 
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
