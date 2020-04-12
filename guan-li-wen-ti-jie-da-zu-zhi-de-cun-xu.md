@@ -98,7 +98,7 @@ Code & Algorithm , is aw.
 ## 总结
 
 ```text
-BFM Unity，建立了01城,建立了Matrix
+BFM Unity，建立了01城,建立了Matrix。
 BFM Unity，建立了游戏世界，迪斯波德。
 
 BFM Unity，建立了，
