@@ -72,7 +72,7 @@ DAO & Token , is Politics.
 ## BFM Unity 靠什么执行法律？
 
 ```text
-Code & Algorithm , is law.
+Code & Algorithm , is aw.
 ```
 
 ## BFM Unity 如何解构市场经济，金融系统，和资本主义？
