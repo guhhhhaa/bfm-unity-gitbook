@@ -10,11 +10,11 @@ description: Questions & Answers
 对于怀疑我们是不是传销，如何存续，请看 [**下一篇**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu)。
 
 对于 **开发者**，想从**算法**开始，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
-
-对于 **投资者**，想直接 [**打钱**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****给我，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)。
 {% endhint %}
 
 {% hint style="warning" %}
+对于 **投资者**，想直接 [**打钱**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****给我，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)。
+
 \(这个打赏只是短期，只在系统形成初期需要，不会长期需要。在系统建构好之后，我们已有 [**确定方式**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu) ****，创造价值，维持系统。  
 我们可以保证，系统脱离外部投资后，依然能持续运转\)
 {% endhint %}
