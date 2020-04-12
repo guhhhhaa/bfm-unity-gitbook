@@ -14,9 +14,12 @@ description: Questions & Answers
 
 \(这个打赏只是短期，只在系统形成初期需要，不会长期需要。  
 在系统建构好之后，  
+  
 我们已有 [**确定方式**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu) ****，创造价值，维持系统。  
 对于怀疑我们是不是传销，如何存续，请看 [**下一篇**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu)。  
-**我们可以保证，脱离外部投资后，机器系统依然能持续运转。并可创造超过机器系统存续需要的额外价值，提供给人类。\)**
+  
+**我们可以保证，脱离外部投资后，机器系统依然能持续运转。  
+并可创造超过机器系统存续需要的额外价值，提供给人类。\)**
 {% endhint %}
 
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
