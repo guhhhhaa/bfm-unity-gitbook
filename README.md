@@ -2,14 +2,14 @@
 description: Questions & Answers
 ---
 
-# 【管理】问题解答1:引入
+# 【管理】问题解答1:解构&引入
 
 {% hint style="warning" %}
 本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
 
 对于 **开发者**，想从**算法**开始，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
 
-对于 **投资者**，想直接 [**打钱**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****给我，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)。
+对于 **投资者**，想直接 [**打钱**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****给我，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)。\(这个打赏只是短期，不会长期需要\)
 {% endhint %}
 
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
