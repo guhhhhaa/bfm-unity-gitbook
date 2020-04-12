@@ -101,6 +101,10 @@ Code & Algorithm , is aw.
 BFM Unity，建立了01城,建立了Matrix
 BFM Unity，建立了游戏世界，迪斯波德。
 
-BFM Unity，建立了可以服务于人类的，共产主义。
+BFM Unity，建立了，
+可以服务于人类社会的，
+有经济意义的，
+可持续发展的，
+共产主义。
 ```
 
