@@ -2,7 +2,7 @@
 
 ## BFM Unity 的组织性质是什么？
 
-{% embed url="https://www.bilibili.com/video/BV1Ns411V7Ex?p=3" %}
+{% embed url="https://www.bilibili.com/bangumi/play/ep114882" %}
 
 > BFM Unity 是以算法为核心驱动的去中心化自治组织（DAO）。
 
