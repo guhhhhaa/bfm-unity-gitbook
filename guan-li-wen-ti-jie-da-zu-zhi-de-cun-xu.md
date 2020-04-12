@@ -52,23 +52,23 @@ Token , is value Allocation.
 
 我们可以直接继承目前人类的市场经济体系。
 
-```text
-DeFi , is value rotate.
-```
-
 流转价值，依靠市场经济，由机器统一规则，
 
 流转价值，是靠DeFi
+
+```text
+DeFi , is value rotate.
+```
 
 ## BFM Unity 靠什么统一决策？
 
 靠Token进行代币投票，形成去中心化自治组织\(DAO\)
 
+通过这样的方式，我们解构了政治和法律。
+
 ```text
 DAO & Token , is Politics.
 ```
-
-通过这样的方式，我们解构了政治和法律。
 
 ## BFM Unity 靠什么执行法律？
 
