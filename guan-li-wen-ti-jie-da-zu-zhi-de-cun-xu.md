@@ -15,7 +15,7 @@ BFM Unity，要避开一切，基于人类的，主观**`价值判断`**。
 ```text
 创造价值，是货币层面，完全靠机器的，逻辑判断。被固定为算法。
 
-Code & Algorithm , is value create , from market.
+Code & Algorithm , its value , create , from market.
 ```
 
 ### BFM Unity 创造价值，具体依靠哪些算法？
@@ -27,9 +27,9 @@ Code & Algorithm , is value create , from market.
 获得价值，是靠BFM算法以及其他的固定为算法的金融方式。 
 
 ```text
-获得价值，是靠BFM算法以及其他的固定为算法的金融方式。
+获得价值，是靠 BFM 算法以及其他的固定为算法的金融方式。
 
-Code & Algorithm , is value get , from market.
+Code & Algorithm , its value , get , from market.
 ```
 
 ## BFM Unity 靠什么分配价值？
@@ -87,8 +87,8 @@ Code & Algorithm , is Law.
 也就是说，解构了金融系统。解构了资本主义。
 
 ```text
-BFM Unity 建立了，基于DeFi和Token的，新的经济体制。
-BFM Unity 建立了，基于Code和Algorithm的，新的价值创造方式。
+BFM Unity 建立了，基于 DeFi 和 Token 的，新的经济体制。
+BFM Unity 建立了，基于 Code 和 Algorithm 的，新的价值创造方式。
 ```
 
 ## BFM Unity 如何解构：统一决策，统一组织，和社会主义？
@@ -100,8 +100,8 @@ BFM Unity 建立了，基于Code和Algorithm的，新的价值创造方式。
 也就是说，解构了宗教与政治。进而解构了社会主义。
 
 ```text
-BFM Unity 建立了，基于DAO和Token的，新的共识机制。
-BFM Unity 建立了，基于Code和Algorithm的，新的执政，执法方式。
+BFM Unity 建立了，基于 DAO 和 Token 的，新的共识机制。
+BFM Unity 建立了，基于 Code 和 Algorithm 的，新的执政，执法方式。
 ```
 
 ## 总结：
