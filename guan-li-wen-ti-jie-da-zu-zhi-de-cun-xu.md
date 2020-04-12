@@ -32,7 +32,7 @@ Code & Algorithm , is value create , from market.
 Code & Algorithm , is value get , from market.
 ```
 
-## BFM Unity靠什么分配价值？
+## BFM Unity 靠什么分配价值？
 
 分配和流转价值，是靠Token
 
