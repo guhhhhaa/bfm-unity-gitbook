@@ -1,4 +1,4 @@
-# 【管理】问题解答2:建构&存续
+# 【管理】问题解答2:存续
 
 ## BFM Unity 靠什么创造价值？
 
@@ -17,10 +17,6 @@ BFM Unity，要避开一切，基于人类的，主观**`价值判断`**。
 Code & Algorithm , is value create.
 Value create from financial market.
 ```
-
-## BFM Unity 创造价值具体依靠哪些算法？
-
-{% embed url="https://guhhhhaa.gitbook.io/bfm/zu-zhi-wo-men-de-tuan-dui" %}
 
 ## BFM Unity 靠什么获得价值？
 
