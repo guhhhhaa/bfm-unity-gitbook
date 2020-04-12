@@ -41,7 +41,7 @@ Value get from financial market.
 Token , is value Allocation.
 ```
 
-## BFM Unity靠什么流转价值？
+## BFM Unity 靠什么流转价值？
 
 流转价值，是靠DeFi
 
@@ -57,7 +57,7 @@ DeFi , is value rotate.
 
 流转价值，是靠DeFi
 
-## BFM Unity靠什么统一决策？
+## BFM Unity 靠什么统一决策？
 
 靠Token进行代币投票，形成去中心化自治组织\(DAO\)
 
@@ -65,7 +65,7 @@ DeFi , is value rotate.
 DAO , is Politics.
 ```
 
-## 我们如何解构市场经济，金融系统，和资本主义？
+## 如何解构市场经济，金融系统，和资本主义？
 
 这就是我们实现的，可以完全靠机器逻辑和真理来创造价值，而非人类的劳动。
 
@@ -75,7 +75,7 @@ DAO , is Politics.
 
 也就是说，解构了金融系统。解构了资本主义。
 
-## 我们如何解构统一决策，统一组织领导，和社会主义？
+## 如何解构统一决策，统一组织，和社会主义？
 
 我们将把共识的统一过程， 脱离人类的决策 和 人类的组织，   
 用DAO的机器共识机制，来统一决策，统一组织，人类，则位于边缘。
