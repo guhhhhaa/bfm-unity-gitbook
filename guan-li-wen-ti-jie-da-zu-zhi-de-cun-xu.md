@@ -62,7 +62,7 @@ DeFi , is value rotate.
 靠Token进行代币投票，形成去中心化自治组织\(DAO\)
 
 ```text
-DAO , is Politics.
+DAO & Token , is Politics.
 ```
 
 ## 如何解构市场经济，金融系统，和资本主义？
