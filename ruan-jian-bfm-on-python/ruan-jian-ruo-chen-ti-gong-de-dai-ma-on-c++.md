@@ -33,13 +33,13 @@ DFS-VISIT(G,u)
 10 u.f = time
 ```
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-4.43.41.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-4.43.41.png)
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-4.42.27.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-4.42.27.png)
 
 图的邻接\(adjacency\)表\(list\)和邻接\(adjacency\)矩阵\(matrix\)表示：
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.12.24.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.12.24.png)
 
 ## 若尘提供的代码\(DFS-邻接矩阵表示，非BFM\)
 
@@ -116,7 +116,7 @@ int main()
 
 ## 运行结果
 
-![](.gitbook/assets/7932d328fe052223.jpg)
+![](../.gitbook/assets/7932d328fe052223.jpg)
 
 ## 对若尘的专访
 
@@ -200,7 +200,7 @@ Guhhhhaa ：感谢若尘。
 
 经过我们的进一步研究，我们发现 BFM 算法有两种，其中一种是可以找到负环的。所以很遗憾，若尘没有实现 BFM 。
 
-![](.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
+![](../.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
 
 但他的算法的时间复杂度到底是多少？是不是O\(N^2\)？如果是O\(N^2\)当然优于BFM的O\(N^3\)，
 

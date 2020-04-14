@@ -6,7 +6,7 @@
 你现在是在 BFM Unity Doc **最重要的一页** 上！
 {% endhint %}
 
-![&#x6211;&#x4EEC;&#x7EC8;&#x4E8E;&#x8FCE;&#x6765;&#x4E86;&#x9ECE;&#x660E;&#x7684;&#x66D9;&#x5149;](.gitbook/assets/u-3153260481-2815876954-and-fm-26-and-gp-0.jpg)
+![&#x6211;&#x4EEC;&#x7EC8;&#x4E8E;&#x8FCE;&#x6765;&#x4E86;&#x9ECE;&#x660E;&#x7684;&#x66D9;&#x5149;](../.gitbook/assets/u-3153260481-2815876954-and-fm-26-and-gp-0.jpg)
 
 {% embed url="https://medium.com/@anilpai/currency-arbitrage-using-bellman-ford-algorithm-8938dcea56ea" %}
 
@@ -64,7 +64,7 @@ Printing a negative weight cycle is done to show the arbitrage opportunity. `We 
 
 ## 我们发现了一个术语叫 predecessor chain，这很重要。
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.59.12.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.59.12.png)
 
 {% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
 
