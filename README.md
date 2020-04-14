@@ -33,7 +33,7 @@ it's just Frankenstein, a stitching monster.**
 {% hint style="success" %}
 你是 **小白**，想用 **现成** 的东西？  
   
-推荐你使用[🐱🐱玩具车](https://www.fmz.com/bbs-topic/5371)，DeFi Zap。
+推荐你使用[🐱🐱玩具车](https://www.fmz.com/bbs-topic/5371)，[DeFi Zap](https://defizap.com/zaps)。
 {% endhint %}
 
 {% hint style="info" %}
