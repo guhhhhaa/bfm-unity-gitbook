@@ -8,7 +8,6 @@
   * [【硬件】BFM on Verilog & FPGA](ruan-jian-bfm-on-python/bfm-on-verilog-and-fpga.md)
   * [【参考】三角套利猴版代码](ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma.md)
   * [【软件】BFM\(detect\) on Python](ruan-jian-bfm-on-python/untitled-1.md)
-  * [【软件】BFM on Java](ruan-jian-bfm-on-python/bfm-on-java.md)
   * [【参考】DFS-adj-matrix on C++](ruan-jian-bfm-on-python/ruan-jian-ruo-chen-ti-gong-de-dai-ma-on-c++.md)
   * [【软件】Graph algorithms and currency arbitrage](ruan-jian-bfm-on-python/untitled.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
