@@ -4,7 +4,7 @@
 * [【管理】新人指导](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/README.md)
   * [【管理】宪章说明](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
   * [【传媒】引起兴趣](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/wo-men-zai-wan-de-geng.md)
-* [【软件】BFM\(find\) on Python](ruan-jian-bfm-on-python/README.md)
+* [【软件】行动员手册](ruan-jian-bfm-on-python/README.md)
   * [【硬件】BFM on Verilog & FPGA](ruan-jian-bfm-on-python/bfm-on-verilog-and-fpga.md)
   * [【参考】三角套利猴版代码](ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma.md)
   * [【软件】BFM\(detect\) on Python](ruan-jian-bfm-on-python/untitled-1.md)
