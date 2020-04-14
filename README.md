@@ -44,12 +44,12 @@ it's just Frankenstein, a stitching monster.**
 {% endhint %}
 
 {% hint style="info" %}
-你只是想在上 **撤硕** 的时候找点乐子？
+你只是想在上 [**撤硕**](https://www.bilibili.com/video/BV1TJ411Q7o5) ****的时候找点乐子？
 
 看看我们的，傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，  
 以及，懵逼 [**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。
 
-他们都是 加帕里动物园 二级保护动物🐒。
+他们都是 [加帕里动物园](https://www.bilibili.com/bangumi/media/md5796/?from=search&seid=10381876217258722607) 二级保护动物🐒。
 {% endhint %}
 
 ![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
