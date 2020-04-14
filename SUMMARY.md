@@ -5,7 +5,6 @@
   * [【管理】宪章说明](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
   * [【传媒】引起兴趣](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/wo-men-zai-wan-de-geng.md)
 * [【软件】行动员手册](ruan-jian-bfm-on-python/README.md)
-  * [【参考】DFS-adj-matrix on C++](ruan-jian-bfm-on-python/ruan-jian-ruo-chen-ti-gong-de-dai-ma-on-c++.md)
   * [【软件】Graph algorithms and currency arbitrage](ruan-jian-bfm-on-python/untitled.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [BFM 维基百科翻译](what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)
