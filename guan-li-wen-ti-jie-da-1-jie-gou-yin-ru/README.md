@@ -29,8 +29,6 @@
 
 ## 新世界的大门：
 
-{% embed url="https://bzx.network/" %}
-
 {% embed url="https://defipulse.com/" %}
 
 {% embed url="https://defiprime.com/" %}
