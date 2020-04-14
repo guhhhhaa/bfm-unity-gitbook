@@ -16,18 +16,17 @@ it's just Frankenstein, a stitching monster.**
 {% hint style="danger" %}
 ## **我们进行大规模施工的原因：**
 
-\*\*\*\*[**DeFi-AMM**](https://guhhhhaa.gitbook.io/bfm/defi-amm) **加速发展，  
-超出我们的预料，  
-  
-干扰到了之前的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
+## \*\*\*\*[**DeFi-AMM**](https://guhhhhaa.gitbook.io/bfm/defi-amm) **，自动化坐市商，加速发展， 超出我们的预料，**
+
+**干扰到了之前的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
 {% endhint %}
 
 ## **以下列出了你在施工现场，垃圾堆里，可以淘到的内容：**
 
 {% hint style="info" %}
-你是 **超级英雄**，你想 **拯救系统**？  
-  
-[核心代码在这里](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)
+你是 **超级英雄**，你想 **拯救系统**？
+
+## [核心代码在这里](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)
 {% endhint %}
 
 {% hint style="success" %}
@@ -54,5 +53,5 @@ it's just Frankenstein, a stitching monster.**
 
 ![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
 
-## 我就喜欢坐在 [SCP-2950](https://www.bilibili.com/video/BV1ts411g7Qw) 上，静看你们打架呢。
+### 我就喜欢坐在 [SCP-2950](https://www.bilibili.com/video/BV1ts411g7Qw) 上，静静看。
 
