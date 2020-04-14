@@ -1,6 +1,6 @@
 # Table of contents
 
-* [【管理】问题解答1:解构&引入](README.md)
+* [shit](README.md)
 * [【管理】问题解答1:解构&引入](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru.md)
 * [【管理】问题解答2:建构&存续](guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
 * [【架构】架构设计](guan-li-fa-zhan-lu-xian.md)
