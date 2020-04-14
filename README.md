@@ -16,7 +16,7 @@ it's just Frankenstein, a stitching monster.**
 {% hint style="danger" %}
 ## **我们进行大规模施工的原因：**
 
-## \*\*\*\*[**DeFi-AMM**](https://guhhhhaa.gitbook.io/bfm/defi-amm) **，自动化坐市商，加速发展， 超出我们的预料，**
+## \*\*\*\*[**DeFi-AMM**](https://guhhhhaa.gitbook.io/bfm/defi-amm)**\(自动化坐市商\) ，加速发展， 超出我们的预料，**
 
 **干扰到了之前的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
 {% endhint %}
@@ -31,8 +31,9 @@ it's just Frankenstein, a stitching monster.**
 
 {% hint style="success" %}
 你是 **小白**，想用 **现成** 的东西？  
-  
-推荐你使用[🐱🐱玩具车](https://www.fmz.com/bbs-topic/5371)，[DeFi Zap](https://defizap.com/zaps)。
+
+
+### 推荐你使用[🐱🐱玩具车](https://www.fmz.com/bbs-topic/5371)，[DeFi Zap](https://defizap.com/zaps)。
 {% endhint %}
 
 {% hint style="info" %}
