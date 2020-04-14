@@ -38,10 +38,9 @@ watching it, will waste your time.**
 {% hint style="info" %}
 你只是想在上 **撤硕** 的时候找点乐子？
 
-看看我们的，傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，以及，懵逼 [**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。
+看看我们的，傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，  
+以及，懵逼 [**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。
 
 他们都是 加帕里动物园 二级保护动物🐒。
 {% endhint %}
-
-
 
