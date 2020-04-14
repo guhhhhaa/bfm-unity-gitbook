@@ -30,3 +30,9 @@ description: Questions & Answers
 捐款看这里：[https://guhhhhaa.gitbook.io/bfm/juan-zeng](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
 {% endhint %}
 
+{% hint style="info" %}
+什么？想在上撤硕的时候找点乐子？
+
+快看看我们的傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，以及懵逼[**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。
+{% endhint %}
+
