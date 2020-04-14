@@ -1,4 +1,12 @@
-# 【规划】AMM & Pool-Arbitrage
+# 【规划】AMM下潜
+
+{% hint style="danger" %}
+币圈一日，世界一年。 
+
+DeFi一日，币圈一年。 
+
+AMM一日，DeFi一年。
+{% endhint %}
 
 {% embed url="https://www.chainnews.com/articles/445280995309.htm" %}
 
@@ -41,6 +49,18 @@
 
 ![&#x8BFB;&#x61C2;&#x4EE5;&#x592A;&#x574A; DeFi &#x6B63;&#x5728;&#x5D1B;&#x8D77;&#x7684;&#x70ED;&#x95E8;&#x54C1;&#x7C7B;&#xFF1A;&#x81EA;&#x52A8;&#x5316;&#x505A;&#x5E02;&#x5546;](https://img.chainnews.com/material/images/a270f56827348926c9d504561acd44e6.jpg-article.content2)_Curve \(又名 Stableswap\) 的联合曲线与 Uniswap 联合曲线的对比_
 
+{% embed url="https://www.curve.fi/" %}
+
+{% embed url="https://iearn.finance/" %}
+
+{% embed url="https://docs.iearn.finance/curve" %}
+
+{% embed url="https://www.defisnap.io/\#/" %}
+
+{% embed url="https://pools.fyi/\#/" %}
+
+\_\_
+
 以太坊很快还会迎来多个新的 AMM 项目：
 
 **Balancer – 预计 2020 年推出**
@@ -53,7 +73,9 @@
 * 权重的引入增加了 gas 成本
 * [了解更多](https://medium.com/balancer-protocol/bonding-surfaces-balancer-protocol-ff6d3d05d577)
 
-![&#x8BFB;&#x61C2;&#x4EE5;&#x592A;&#x574A; DeFi &#x6B63;&#x5728;&#x5D1B;&#x8D77;&#x7684;&#x70ED;&#x95E8;&#x54C1;&#x7C7B;&#xFF1A;&#x81EA;&#x52A8;&#x5316;&#x505A;&#x5E02;&#x5546;](https://img.chainnews.com/material/images/ceec13fee58367786f578994f5dc02da.jpg-article.content2)_Balancer 可以创建许多由多种代币构成的池_
+![Balancer &#x53EF;&#x4EE5;&#x521B;&#x5EFA;&#x8BB8;&#x591A;&#x7531;&#x591A;&#x79CD;&#x4EE3;&#x5E01;&#x6784;&#x6210;&#x7684;&#x6C60;](https://img.chainnews.com/material/images/ceec13fee58367786f578994f5dc02da.jpg-article.content2)
+
+{% embed url="https://balancer.exchange/" %}
 
 **Shell 协议 – 预计 2020 年推出**
 
@@ -65,9 +87,15 @@
 * 缓冲了某个稳定币违约的风险
 * 将套利收益转移给流动性提供商
 
-![&#x8BFB;&#x61C2;&#x4EE5;&#x592A;&#x574A; DeFi &#x6B63;&#x5728;&#x5D1B;&#x8D77;&#x7684;&#x70ED;&#x95E8;&#x54C1;&#x7C7B;&#xFF1A;&#x81EA;&#x52A8;&#x5316;&#x505A;&#x5E02;&#x5546;](https://img.chainnews.com/material/images/216b32df99db5862c374196ed60e0a7f.jpg-article.content2)_Balancer 可以创建由多种代币构成的流动性池_
+\_\_
+
+![](https://img.chainnews.com/material/images/216b32df99db5862c374196ed60e0a7f.jpg-article.content2)
+
+## Pooling Arbitrage\(已废弃\)
 
 {% embed url="https://arbtoken.stitthappens.com/" %}
+
+
 
 
 
