@@ -7,12 +7,19 @@ description: warnings
 ![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
 
 {% hint style="danger" %}
-**DeFi-AMM 加速发展，超出我们的预料，  
-干扰到了之前的顶层设计。  
-BFM Unity 文档大规模施工，请绕道。  
+**BFM Unity 文档大规模施工，请绕道。  
   
 Please don't look at this doc, it's not perfect yet,   
 it's just Frankenstein, a stitching monster.**
+{% endhint %}
+
+{% hint style="danger" %}
+**我们进行大规模施工的原因：**
+
+**DeFi-AMM 加速发展，  
+超出我们的预料，  
+  
+干扰到了之前的顶层设计。**
 {% endhint %}
 
 ## **以下列出了你在施工现场，垃圾堆里，可以淘到的内容：**
