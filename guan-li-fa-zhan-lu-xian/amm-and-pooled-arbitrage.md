@@ -65,9 +65,14 @@
 * 缓冲了某个稳定币违约的风险
 * 将套利收益转移给流动性提供商
 
-![&#x8BFB;&#x61C2;&#x4EE5;&#x592A;&#x574A; DeFi &#x6B63;&#x5728;&#x5D1B;&#x8D77;&#x7684;&#x70ED;&#x95E8;&#x54C1;&#x7C7B;&#xFF1A;&#x81EA;&#x52A8;&#x5316;&#x505A;&#x5E02;&#x5546;](https://img.chainnews.com/material/images/216b32df99db5862c374196ed60e0a7f.jpg-article.content2)_Balancer 可以创建由多种代币构成的流动性池_
+![&#x8BFB;&#x61C2;&#x4EE5;&#x592A;&#x574A; DeFi &#x6B63;&#x5728;&#x5D1B;&#x8D77;&#x7684;&#x70ED;&#x95E8;&#x54C1;&#x7C7B;&#xFF1A;&#x81EA;&#x52A8;&#x5316;&#x505A;&#x5E02;&#x5546;](https://img.chainnews.com/material/images/216b32df99db5862c374196ed60e0a7f.jpg-article.content2)_Balancer 可以创建由多种代币构成的流动性池_  
+
+
+## Pooling Arbitrage
 
 {% embed url="https://arbtoken.stitthappens.com/" %}
+
+
 
 
 
