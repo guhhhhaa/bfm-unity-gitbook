@@ -16,3 +16,11 @@ description: Questions & Answers
 核心代码在这里：[https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)
 {% endhint %}
 
+{% hint style="success" %}
+什么？你是小白想用现成的东西？  
+  
+推荐你使用🐱🐱玩具车。
+
+[https://www.fmz.com/bbs-topic/5371](https://www.fmz.com/bbs-topic/5371)
+{% endhint %}
+
