@@ -5,16 +5,16 @@ description: warnings
 # 施工警示
 
 {% hint style="danger" %}
-**BFM Unity 文档大规模施工，请绕道。  
-  
-Please don't look at this doc, it's not perfect yet,   
+## **BFM Unity 文档大规模施工，请绕道。**
+
+**Please don't look at this doc, it's not perfect yet,   
 it's just Frankenstein, a stitching monster.**
 {% endhint %}
 
 ![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
 
 {% hint style="danger" %}
-**我们进行大规模施工的原因：**
+## **我们进行大规模施工的原因：**
 
 \*\*\*\*[**DeFi-AMM**](https://guhhhhaa.gitbook.io/bfm/defi-amm) **加速发展，  
 超出我们的预料，  
