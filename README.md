@@ -37,8 +37,7 @@ it's just Frankenstein, a stitching monster.**
 {% endhint %}
 
 {% hint style="info" %}
-[加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)  
-
+[加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
 
 [捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
 {% endhint %}
