@@ -41,6 +41,12 @@
 
 ![&#x8BFB;&#x61C2;&#x4EE5;&#x592A;&#x574A; DeFi &#x6B63;&#x5728;&#x5D1B;&#x8D77;&#x7684;&#x70ED;&#x95E8;&#x54C1;&#x7C7B;&#xFF1A;&#x81EA;&#x52A8;&#x5316;&#x505A;&#x5E02;&#x5546;](https://img.chainnews.com/material/images/a270f56827348926c9d504561acd44e6.jpg-article.content2)_Curve \(又名 Stableswap\) 的联合曲线与 Uniswap 联合曲线的对比_
 
+{% embed url="https://docs.iearn.finance/curve" %}
+
+\_\_
+
+\_\_
+
 以太坊很快还会迎来多个新的 AMM 项目：
 
 **Balancer – 预计 2020 年推出**
