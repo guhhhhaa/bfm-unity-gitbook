@@ -24,5 +24,9 @@ description: Questions & Answers
 推荐你使用🐱🐱玩具车。[https://www.fmz.com/bbs-topic/5371](https://www.fmz.com/bbs-topic/5371)
 {% endhint %}
 
-
+{% hint style="info" %}
+加群看这里：[https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)  
+  
+捐款看这里：[https://guhhhhaa.gitbook.io/bfm/juan-zeng](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
+{% endhint %}
 
