@@ -55,6 +55,8 @@
 
 ![Balancer &#x53EF;&#x4EE5;&#x521B;&#x5EFA;&#x8BB8;&#x591A;&#x7531;&#x591A;&#x79CD;&#x4EE3;&#x5E01;&#x6784;&#x6210;&#x7684;&#x6C60;](https://img.chainnews.com/material/images/ceec13fee58367786f578994f5dc02da.jpg-article.content2)
 
+{% embed url="https://balancer.exchange/" %}
+
 **Shell 协议 – 预计 2020 年推出**
 
 * 交易的滑点低
