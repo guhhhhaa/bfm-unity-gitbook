@@ -7,8 +7,9 @@ description: warnings
 ![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
 
 {% hint style="danger" %}
-**由于DeFi，AMM加速发展，超出预料，  
-BFM Unity 文档大规模施工中，请绕道。  
+**DeFi-AMM 加速发展，超出我们的预料，  
+干扰到了之前的顶层设计。  
+BFM Unity 文档大规模施工，请绕道。  
   
 Please don't look at this doc, it's not perfect yet,   
 it's just Frankenstein, a stitching monster.**
