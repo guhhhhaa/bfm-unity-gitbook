@@ -54,3 +54,5 @@ it's just Frankenstein, a stitching monster.**
 
 ![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
 
+我就喜欢坐在 [SCP-2950](https://www.bilibili.com/video/BV1ts411g7Qw?from=search&seid=11567039890261199592) 上，静看你们，用炮弹，慢慢聊吧。
+
