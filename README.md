@@ -21,13 +21,14 @@ description: Questions & Answers
   
 你是小白，想用现成的东西？  
   
-推荐你使用🐱🐱玩具车。[https://www.fmz.com/bbs-topic/5371](https://www.fmz.com/bbs-topic/5371)
+推荐你使用[🐱🐱玩具车](https://www.fmz.com/bbs-topic/5371)。
 {% endhint %}
 
 {% hint style="info" %}
-加群看这里：[https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)  
-  
-捐款看这里：[https://guhhhhaa.gitbook.io/bfm/juan-zeng](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
+[加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)  
+
+
+[捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
 {% endhint %}
 
 {% hint style="info" %}
