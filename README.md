@@ -2,25 +2,14 @@
 description: Questions & Answers
 ---
 
-# 【管理】问题解答1:解构&引入
+# 【管理】问题解答1:引入
 
 {% hint style="warning" %}
-本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。  
-  
-对于 **开发者**，想从**算法**开始，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。因为以下内容，只会在**开发者**上撤硕时，派上用场。
-{% endhint %}
+本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。
 
-{% hint style="warning" %}
+对于 **开发者**，想从**算法**开始，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。
+
 对于 **投资者**，想直接 [**打钱**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****给我，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)。
-
-\(这个打赏只是短期，只在系统形成初期需要，不会长期需要。  
-在系统建构好之后，  
-  
-我们已有 [**确定方式**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu) ****，创造价值，维持系统。  
-对于怀疑我们是不是传销，如何存续，请看 [**下一篇**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu)。  
-  
-**我们可以保证，脱离外部投资后，机器系统依然能持续运转。  
-并可创造超过机器系统存续需要的额外价值，提供给人类。\)**
 {% endhint %}
 
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
