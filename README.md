@@ -4,8 +4,6 @@ description: warnings
 
 # 施工警示
 
-![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
-
 {% hint style="danger" %}
 **BFM Unity 文档大规模施工中，请绕道。  
   
@@ -42,4 +40,6 @@ it's just Frankenstein, a stitching monster.**
 
 他们都是 加帕里动物园 二级保护动物🐒。
 {% endhint %}
+
+![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
 
