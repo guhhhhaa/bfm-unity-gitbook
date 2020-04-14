@@ -43,6 +43,10 @@
 
 {% embed url="https://docs.iearn.finance/curve" %}
 
+{% embed url="https://www.defisnap.io/\#/" %}
+
+{% embed url="https://pools.fyi/\#/" %}
+
 \_\_
 
 \_\_
