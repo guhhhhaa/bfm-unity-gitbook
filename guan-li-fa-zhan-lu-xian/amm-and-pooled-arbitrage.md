@@ -1,4 +1,4 @@
-# 【规划】AMM & Pooled-Arbitrage
+# 【规划】AMM & Pool-Arbitrage
 
 {% embed url="https://www.chainnews.com/articles/445280995309.htm" %}
 
