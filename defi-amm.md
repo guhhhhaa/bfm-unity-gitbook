@@ -4,7 +4,7 @@
 
 {% embed url="https://www.chainnews.com/articles/856091908353.htm" %}
 
-## 其他 DeFi 基础知识：
+## DeFi 基础知识：
 
 {% embed url="https://guhhhhaa.gitbook.io/blockchain/defi" %}
 
