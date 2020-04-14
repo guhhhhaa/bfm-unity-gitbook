@@ -12,7 +12,7 @@ it's just Frankenstein, a stitching monster,
 watching it, will waste your time.**
 {% endhint %}
 
-## **以下列出了你在施工垃圾堆里可以淘到的内容：**
+## **以下列出了你在施工现场，垃圾堆里，可以淘到的内容，它们很有可能是古董：**
 
 {% hint style="info" %}
 你是超级英雄，你想拯救系统？  
