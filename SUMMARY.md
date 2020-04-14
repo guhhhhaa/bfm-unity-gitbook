@@ -18,7 +18,7 @@
 * [【研究】参考文献](bfm-al-ckwx.md)
 * [【架构】架构设计](guan-li-fa-zhan-lu-xian/README.md)
   * [【规划】发展路线](guan-li-fa-zhan-lu-xian/gui-hua-fa-zhan-lu-xian.md)
-  * [AMM & Pooled-Arbitrage](guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage.md)
+  * [【规划】AMM & Pooled-Arbitrage](guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage.md)
   * [我们走过的弯路](guan-li-fa-zhan-lu-xian/shit.md)
 * [【捐赠】无损失捐赠](juan-zeng.md)
 * [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/README.md)
