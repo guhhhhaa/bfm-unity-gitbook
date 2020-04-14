@@ -5,7 +5,11 @@ description: Questions & Answers
 # 施工警示
 
 {% hint style="danger" %}
-**BFM Unity 文档大规模施工中，请绕道。**
+**BFM Unity 文档大规模施工中，请绕道。**  
+  
+Please don't look at this doc, it's not perfect yet,   
+it's just Frankenstein, a stitching monster,   
+watching it, will waste your time.
 {% endhint %}
 
 {% hint style="info" %}
