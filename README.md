@@ -44,7 +44,7 @@ it's just Frankenstein, a stitching monster.**
 {% endhint %}
 
 {% hint style="info" %}
-你只是想在上 [**撤硕**](https://www.bilibili.com/video/BV1TJ411Q7o5) ****的时候 [**找点乐子**](https://www.bilibili.com/video/BV1gW411J7eP?from=search&seid=2920722205747377231)？
+你只是想在上 [**撤硕**](https://www.bilibili.com/video/BV1TJ411Q7o5) ****的时候 [**找点乐子**](https://www.bilibili.com/video/BV1gW411J7eP)？
 
 看看我们的，傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，  
 以及，懵逼 [**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。
