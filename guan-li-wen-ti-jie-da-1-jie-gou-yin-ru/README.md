@@ -22,7 +22,7 @@
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
 文档 GitHub 地址：[https://github.com/guhhhhaa/bfm-gitbook](https://github.com/guhhhhaa/bfm-gitbook)
 
-![](.gitbook/assets/timg-3.jpeg)
+![](../.gitbook/assets/timg-3.jpeg)
 
 {% embed url="https://www.bilibili.com/bangumi/play/ep4371" %}
 
@@ -48,7 +48,7 @@ BFM是 Bellman-Ford-Moore 算法的简称。
 
 {% embed url="https://en.wikipedia.org/wiki/Triangular\_arbitrage" %}
 
-![](.gitbook/assets/1584962763119.png)
+![](../.gitbook/assets/1584962763119.png)
 
 ## BFM Unity 的组织性质是什么？
 
