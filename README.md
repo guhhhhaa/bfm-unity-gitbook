@@ -33,7 +33,8 @@ description: Questions & Answers
 {% hint style="info" %}
 什么？你只是想在上撤硕的时候找点乐子？
 
-快看看我们的傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，以及懵逼 [**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。  
+快看看我们的傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，以及懵逼 [**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。
+
 他们都是 加帕里动物园 二级保护动物🐒。
 {% endhint %}
 
