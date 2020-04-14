@@ -1,5 +1,7 @@
 # 【创新】DeFi - AMM
 
+{% embed url="https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage" %}
+
 {% embed url="https://www.chainnews.com/articles/127470240340.htm" %}
 
 {% embed url="https://www.chainnews.com/articles/856091908353.htm" %}
