@@ -25,6 +25,8 @@ AMM一日，DeFi一年。
 * 通过一个枢纽辐射模式以连接多个资金池
 * 很不幸，采用了 **BNT 代币**作为其枢纽货币 （而不是 Ether）
 
+{% embed url="https://www.bancor.network/" %}
+
 **Uniswap 2018**
 
 * 主要目标：服务于**代币流动性**的去中心化协议
