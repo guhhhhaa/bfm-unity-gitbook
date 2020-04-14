@@ -17,10 +17,10 @@ description: Questions & Answers
 {% endhint %}
 
 {% hint style="success" %}
-什么？你是小白想用现成的东西？  
+什么？  
   
-推荐你使用🐱🐱玩具车。
-
-[https://www.fmz.com/bbs-topic/5371](https://www.fmz.com/bbs-topic/5371)
+你是小白，想用现成的东西？  
+  
+推荐你使用🐱🐱玩具车。[https://www.fmz.com/bbs-topic/5371](https://www.fmz.com/bbs-topic/5371)
 {% endhint %}
 
