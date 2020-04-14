@@ -17,9 +17,9 @@
   * [【参考】DFS-adj-matrix on C++](ruan-jian-bfm-on-python/ruan-jian-ruo-chen-ti-gong-de-dai-ma-on-c++.md)
   * [【软件】Graph algorithms and currency arbitrage](ruan-jian-bfm-on-python/untitled.md)
 * [【捐赠】无损失捐赠](juan-zeng.md)
-* [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
-* [【组织】团队构成](zu-zhi-wo-men-de-tuan-dui/README.md)
-  * [【组织】团队背景](zu-zhi-wo-men-de-tuan-dui/untitled-2.md)
+* [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/README.md)
+  * [【组织】团队构成](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/zu-zhi-wo-men-de-tuan-dui.md)
+  * [【组织】团队背景](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/untitled-2.md)
 * [【研究】参考文献](bfm-al-ckwx.md)
 * [【创新】未来发展](bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng.md)
 
