@@ -1,8 +1,8 @@
 # Table of contents
 
 * [施工警示](README.md)
-* [【管理】问题解答1:解构&引入](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/README.md)
-  * [【管理】问题解答2:建构&存续](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
+* [【管理】新人指导](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/README.md)
+  * [【管理】宪章说明](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
   * [【传媒】引起兴趣](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/wo-men-zai-wan-de-geng.md)
 * [【软件】BFM\(find\) on Python](ruan-jian-bfm-on-python/README.md)
   * [【硬件】BFM on Verilog & FPGA](ruan-jian-bfm-on-python/bfm-on-verilog-and-fpga.md)
