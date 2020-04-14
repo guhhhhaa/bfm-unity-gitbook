@@ -14,7 +14,6 @@
 * [【架构】架构设计](guan-li-fa-zhan-lu-xian/README.md)
   * [【规划】发展路线](guan-li-fa-zhan-lu-xian/gui-hua-fa-zhan-lu-xian.md)
   * [【规划】AMM下潜](guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage.md)
-  * [【规划】AMM细化](guan-li-fa-zhan-lu-xian/untitled.md)
 * [【捐赠】无损失捐赠](juan-zeng.md)
 * [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/README.md)
   * [【组织】团队构成](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/zu-zhi-wo-men-de-tuan-dui.md)
