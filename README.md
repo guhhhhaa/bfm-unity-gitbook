@@ -4,14 +4,13 @@ description: warnings
 
 # 施工警示
 
-![](.gitbook/assets/u-3087129350-1754402087-and-fm-11-and-gp-0.jpg)
+![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
 
 {% hint style="danger" %}
 **BFM Unity 文档大规模施工中，请绕道。  
   
 Please don't look at this doc, it's not perfect yet,   
-it's just Frankenstein, a stitching monster,   
-watching it, will waste your time.**
+it's just Frankenstein, a stitching monster.**
 {% endhint %}
 
 ## **以下列出了你在施工现场，垃圾堆里，可以淘到的内容：**
