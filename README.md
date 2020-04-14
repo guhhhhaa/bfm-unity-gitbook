@@ -1,5 +1,5 @@
 ---
-description: Questions & Answers
+description: warnings
 ---
 
 # 施工警示
@@ -9,7 +9,9 @@ description: Questions & Answers
   
 Please don't look at this doc, it's not perfect yet,   
 it's just Frankenstein, a stitching monster,   
-watching it, will waste your time.**
+watching it, will waste your time.  
+  
+以下列出了你在施工垃圾堆里可以淘到的内容：**
 {% endhint %}
 
 {% hint style="info" %}
@@ -34,7 +36,7 @@ watching it, will waste your time.**
 {% hint style="info" %}
 你只是想在上**撤硕**的时候找点乐子？
 
-快看看我们的傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，以及懵逼 [**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。
+看看我们的傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，以及懵逼 [**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。
 
 他们都是 加帕里动物园 二级保护动物🐒。
 {% endhint %}
