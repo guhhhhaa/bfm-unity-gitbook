@@ -16,7 +16,7 @@ it's just Frankenstein, a stitching monster.**
 {% hint style="danger" %}
 **我们进行大规模施工的原因：**
 
-**DeFi-AMM 加速发展，  
+\*\*\*\*[**DeFi-AMM**](https://guhhhhaa.gitbook.io/bfm/defi-amm) **加速发展，  
 超出我们的预料，  
   
 干扰到了之前的顶层设计。**
