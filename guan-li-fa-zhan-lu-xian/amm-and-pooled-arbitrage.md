@@ -1,5 +1,13 @@
 # 【规划】AMM & Pool-Arbitrage
 
+{% hint style="danger" %}
+币圈一日，世界一年。 
+
+DeFi一日，币圈一年。 
+
+AMM一日，DeFi一年。
+{% endhint %}
+
 {% embed url="https://www.chainnews.com/articles/445280995309.htm" %}
 
 ![](../.gitbook/assets/1fa205fb-8ff3-57b0-aabd-03bbfbe01a6b.jpg)
