@@ -4,6 +4,8 @@ description: warnings
 
 # 施工警示
 
+![](.gitbook/assets/u-3087129350-1754402087-and-fm-11-and-gp-0.jpg)
+
 {% hint style="danger" %}
 **BFM Unity 文档大规模施工中，请绕道。  
   
