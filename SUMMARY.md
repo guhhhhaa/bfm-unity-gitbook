@@ -22,5 +22,5 @@
   * [【组织】团队背景](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/untitled-2.md)
 * [【研究】参考文献](bfm-al-ckwx.md)
 * [【创新】未来发展](bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng.md)
-* [DeFi - AMM](defi-amm.md)
+* [【创新】DeFi - AMM](defi-amm.md)
 
