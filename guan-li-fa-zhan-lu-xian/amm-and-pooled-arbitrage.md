@@ -14,6 +14,8 @@ AMM一日，DeFi一年。
 
 {% embed url="https://www.chainnews.com/articles/127470240340.htm" %}
 
+{% embed url="https://www.chainnews.com/articles/501270184713.htm" %}
+
 让我们浏览一下以太坊当前主要的几个 AMM 项目：
 
 **Bancor 2017**
