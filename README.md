@@ -18,7 +18,7 @@ it's just Frankenstein, a stitching monster.**
 {% hint style="danger" %}
 ### **我们进行大规模施工的原因：**
 
-## \*\*\*\*[**DeFi-AMM**](https://guhhhhaa.gitbook.io/bfm/defi-amm)**\(自动化坐市商\) ，**
+## \*\*\*\*[**DeFi-AMM**](https://guhhhhaa.gitbook.io/bfm/defi-amm)**\(自动化坐市商\) ，进入寒武纪生命大爆发。**
 
 ## **AMM 开始** [**加速发展**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage)**，并超出了我们的预料，**
 
