@@ -67,8 +67,6 @@ AMM一日，DeFi一年。
 
 {% embed url="https://pools.fyi/\#/" %}
 
-\_\_
-
 以太坊很快还会迎来多个新的 AMM 项目：
 
 **Balancer – 预计 2020 年推出**
