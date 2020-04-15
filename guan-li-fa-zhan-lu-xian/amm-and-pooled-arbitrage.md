@@ -79,6 +79,10 @@ AMM一日，DeFi一年。
 
 {% embed url="https://balancer.exchange/" %}
 
+{% embed url="https://pools.balancer.exchange/\#/list" %}
+
+
+
 **Shell 协议 – 预计 2020 年推出**
 
 * 交易的滑点低
