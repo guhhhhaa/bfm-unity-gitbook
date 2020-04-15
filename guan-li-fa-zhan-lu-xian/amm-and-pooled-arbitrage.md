@@ -101,15 +101,3 @@ AMM一日，DeFi一年。
 
 ![](https://img.chainnews.com/material/images/216b32df99db5862c374196ed60e0a7f.jpg-article.content2)
 
-## Pooling Arbitrage\(已废弃\)
-
-{% embed url="https://arbtoken.stitthappens.com/" %}
-
-
-
-
-
-
-
-
-
