@@ -8,7 +8,8 @@ description: warnings
 ## **BFM Unity 文档大规模施工，请绕道。**
 
 **Please don't look at this doc, it's not perfect yet,   
-it's just Frankenstein, a stitching monster.**
+it's just Frankenstein, a stitching monster.  
+怀念旧版：**[**https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)\*\*\*\*
 {% endhint %}
 
 ![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
