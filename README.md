@@ -50,8 +50,6 @@ it's just Frankenstein, a stitching monster.**
 ## 比如，DeFi Zap，和 Balancer。
 {% endhint %}
 
-
-
 {% hint style="info" %}
 [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
 
