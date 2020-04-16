@@ -53,7 +53,7 @@ description: warnings
 
 解决交易所出现的各种问题，绝招是，
 
-## 提币，到 Uniswap。
+## 提币，到 [Uniswap](https://uniswapdex.com/)。
 {% endhint %}
 
 {% hint style="info" %}
