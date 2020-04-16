@@ -28,7 +28,7 @@ NOTE: These docs are still being worked on.
 
 ## Resources <a id="resources"></a>
 
-### **取代币安**
+### **取代** [**币安**](https://www.binance.com/)\*\*\*\*
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)
 
