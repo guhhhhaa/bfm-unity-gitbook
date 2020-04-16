@@ -37,7 +37,7 @@ NOTE: These docs are still being worked on.
 * [**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)
 
-### 取代 [FMZ](https://www.fmz.com/) 和 [阿里云](https://us.alibabacloud.com/)， 币优 和 Pionex，
+### 取代 [FMZ](https://www.fmz.com/) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://www.bituniverse.org/) 和 Pionex，
 
 * [**DeFi Zap**](https://defizap.com/zaps)
 * [**Balancer**](https://pools.balancer.exchange/#/list)
