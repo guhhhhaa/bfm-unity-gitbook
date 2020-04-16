@@ -4,7 +4,7 @@
 本章 **不包含任何代码** ，适合 **金融，经济，管理，法律** 人士阅读。  
   
 对于 **开发者**，想从**算法**开始，请 [**跳过**](https://guhhhhaa.gitbook.io/bfm/what-is-bfm-al)。  
-以下内容，只会在**开发者**上撤硕时，派上用场。
+以下内容，只会在**开发者**上**撤硕**时，派上用场。
 {% endhint %}
 
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)  
