@@ -32,7 +32,7 @@ NOTE: These docs are still being worked on.
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)
 
-### 取代 Bitmex 和 [OKEx](https://www.okex.com/)
+### 取代 [Bitmex](https://www.bitmex.com/) 和 [OKEx](https://www.okex.com/)
 
 * [**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)
