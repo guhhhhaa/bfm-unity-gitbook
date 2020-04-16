@@ -17,7 +17,7 @@ description: warnings
 
 ### **AMM 开始** [**加速发展**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage)**，并超出了我们的预料，**
 
-### **干扰到了之前的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
+**干扰到了之前的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
 {% endhint %}
 
 ### **以下列出了你在施工现场，垃圾堆里，可以淘到的内容：**
