@@ -20,25 +20,32 @@ NOTE: These docs are still being worked on.
 **干扰到了之前的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
 {% endhint %}
 
-### **以下列出了你在施工现场，垃圾堆里，可以淘到的内容：**
-
 {% hint style="info" %}
 你是 **超级英雄**，你想 **拯救系统**？
 
-## [核心代码在这里](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)
+### [核心代码在这里](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)
 {% endhint %}
 
-{% hint style="success" %}
 ## Resources <a id="resources"></a>
 
-* \*\*\*\*[**Uniswap**](https://uniswapdex.com/) ****
+### **取代币安**
+
+* \*\*\*\*[**Uniswap**](https://uniswapdex.com/)
+
+### 取代 Bitmex 和 OKEx
+
 * [**dYdX**](https://dydx.exchange/) ****
-* \*\*\*\*[**Synthetix**](https://synthetix.io/) ****
-* \*\*\*\*[**DeFi Zap**](https://defizap.com/zaps)
-* [**Balancer**](https://pools.balancer.exchange/#/list) ****
+* [**Synthetix**](https://synthetix.io/)
+
+### 取代 FMZ 和 阿里云， 币优 和 ionex，
+
+* [**DeFi Zap**](https://defizap.com/zaps)
+* [**Balancer**](https://pools.balancer.exchange/#/list)
+
+### BFM Unity相关
+
 * [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
 * [捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
-{% endhint %}
 
 ![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
 
