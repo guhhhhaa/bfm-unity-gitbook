@@ -46,13 +46,13 @@ description: warnings
 {% endhint %}
 
 {% hint style="success" %}
-## 解决在 Binance 坐市，出现的各种问题，绝招是，
+### 解决在 Binance 坐市，出现的各种问题，绝招是，
 
 ## 提币，到 [Uniswap](https://uniswapdex.com/)。
 {% endhint %}
 
 {% hint style="success" %}
-## 懒得研究 OKEx 和 Bitmex 各种乱七八糟的合约规则？
+### 懒得研究 OKEx 和 Bitmex 各种乱七八糟的合约规则？
 
 ## 提币，到 [dYdX](https://dydx.exchange/) 和 [Synthetix](https://synthetix.io/)。
 {% endhint %}
