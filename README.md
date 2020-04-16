@@ -44,7 +44,7 @@ description: warnings
 
 我们更喜欢使用即插即用的，热插拔解决方案，
 
-## 比如，DeFi Zap，和 [Balancer](https://pools.balancer.exchange/#/list)。
+## 比如，[DeFi Zap](https://defizap.com/zaps)，和 [Balancer](https://pools.balancer.exchange/#/list)。
 {% endhint %}
 
 {% hint style="info" %}
