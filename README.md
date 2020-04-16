@@ -18,11 +18,9 @@ it's just Frankenstein, a stitching monster.**
 {% hint style="danger" %}
 ### **我们进行大规模施工的原因：**
 
-## \*\*\*\*[**DeFi-AMM**](https://guhhhhaa.gitbook.io/bfm/defi-amm)**\(自动化坐市商\) ，进入寒武纪生命大爆发。**
+### **AMM 开始** [**加速发展**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage)**，并超出了我们的预料，**
 
-## **AMM 开始** [**加速发展**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage)**，并超出了我们的预料，**
-
-**干扰到了之前的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
+### **干扰到了之前的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
 {% endhint %}
 
 ## **以下列出了你在施工现场，垃圾堆里，可以淘到的内容：**
@@ -37,25 +35,26 @@ it's just Frankenstein, a stitching monster.**
 你是 **小白**，想用 **现成** 的东西？  
 
 
-### 推荐你使用[🐱🐱玩具车](https://www.fmz.com/bbs-topic/5371)，[DeFi Zap](https://defizap.com/zaps)。
+我们小白， 超级懒惰的，
+
+我们连 API Key 都懒得申请。
+
+更别提购买服务器， 再部署一堆垃圾代码了。
+
+我们小白， 并不想学习，
+
+我们懒得复制粘贴，编程调试，再部署，还得维护。
+
+我们更喜欢使用即插即用的，热插拔解决方案，
+
+## 比如，DeFi Zap，和 Balancer。
 {% endhint %}
+
+
 
 {% hint style="info" %}
 [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
 
 [捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
 {% endhint %}
-
-{% hint style="info" %}
-你只是想在上 [**撤硕**](https://www.bilibili.com/video/BV1TJ411Q7o5) ****的时候 [**找点乐子**](https://www.bilibili.com/video/BV1gW411J7eP)？
-
-看看我们的，傻逼 ****[**行政**](https://guhhhhaa.gitbook.io/bfm/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru)，  
-以及，懵逼 [**架构师**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian)。
-
-他们都是 ****[**加帕里动物园**](https://www.bilibili.com/bangumi/media/md5796/?from=search&seid=10381876217258722607) ****二级保护动物🐒。
-{% endhint %}
-
-![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
-
-我喜欢坐在 [SCP-2950](https://www.bilibili.com/video/BV1ts411g7Qw) 上，静静看。
 
