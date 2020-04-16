@@ -15,9 +15,9 @@ NOTE: These docs are still being worked on.
 {% hint style="danger" %}
 ### **我们进行大规模施工的原因：**
 
-### **AMM 开始** [**加速发展**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage)**，并超出了我们的预料，**
+### **DeFi - AMM 开始** [**加速发展**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage)**，超出了我们的预料，**
 
-**干扰到了之前的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
+**干扰到了之前基于 CeFi 的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
 {% endhint %}
 
 {% hint style="info" %}
