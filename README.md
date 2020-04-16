@@ -46,15 +46,21 @@ description: warnings
 
 ## 比如，[DeFi Zap](https://defizap.com/zaps)，和 [Balancer](https://pools.balancer.exchange/#/list)。
 
-如果你不能解决系统性的问题，
+## 如果你不能解决系统性的问题，
 
-那么你还有一种，最优的解决方案  
-——直接解决掉那个系统。
+### 那么你还有一种，最优的解决方案 ——直接解决掉那个系统。
 
-解决交易所出现的各种问题，绝招是，
+## 解决交易所出现的各种问题，绝招是，
 
 ## 提币，到 [Uniswap](https://uniswapdex.com/)。
+
+## 懒得研究 OKEx 和 Bitmex 各种乱七八糟的合约规则？
+
+## 提币，到 dYdX 和 [Synthetix](https://synthetix.io/)。
 {% endhint %}
+
+  
+
 
 {% hint style="info" %}
 [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
