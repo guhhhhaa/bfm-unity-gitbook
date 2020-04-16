@@ -5,9 +5,9 @@ description: warnings
 # 施工警示
 
 {% hint style="danger" %}
-NOTE: These docs are still being worked on.        
-  
-   [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)
+## **BFM Unity 文档大规模施工，请绕道。**
+
+**怀念旧版：**[**https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)\*\*\*\*
 {% endhint %}
 
 ![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
@@ -28,17 +28,34 @@ NOTE: These docs are still being worked on.
 ## [核心代码在这里](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)
 {% endhint %}
 
-{% hint style="info" %}
-## Resources <a id="resources"></a>
+{% hint style="success" %}
+解决在 Binance 坐市，出现的各种问题，绝招是，
 
-* \*\*\*\*[**Uniswap**](https://uniswapdex.com/) ****
-* [**dYdX**](https://dydx.exchange/) ****
-* \*\*\*\*[**Synthetix**](https://synthetix.io/) ****
-* \*\*\*\*[**DeFi Zap**](https://defizap.com/zaps)
-* [**Balancer**](https://pools.balancer.exchange/#/list) ****
-* [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
-* [捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
+#### 提币，到 [Uniswap](https://uniswapdex.com/)。
 {% endhint %}
 
-![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
+{% hint style="success" %}
+懒得研究 OKEx 和 Bitmex 各种乱七八糟的合约规则？
+
+#### 提币，到 [dYdX](https://dydx.exchange/) 和 [Synthetix](https://synthetix.io/)。
+{% endhint %}
+
+{% hint style="success" %}
+你是 **小白**，想用 **现成** 的东西？  
+
+
+我们小白， 超级懒惰的，
+
+我们小白， 并不想学习，
+
+我们更喜欢使用即插即用的，热插拔解决方案，
+
+## 比如，[DeFi Zap](https://defizap.com/zaps)，和 [Balancer](https://pools.balancer.exchange/#/list)。
+{% endhint %}
+
+{% hint style="info" %}
+[加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
+
+[捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
+{% endhint %}
 
