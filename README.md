@@ -56,7 +56,7 @@ description: warnings
 
 ## 懒得研究 OKEx 和 Bitmex 各种乱七八糟的合约规则？
 
-## 提币，到 dYdX 和 [Synthetix](https://synthetix.io/)。
+## 提币，到 [dYdX](https://dydx.exchange/) 和 [Synthetix](https://synthetix.io/)。
 {% endhint %}
 
   
