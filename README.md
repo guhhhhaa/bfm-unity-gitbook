@@ -42,7 +42,7 @@ NOTE: These docs are still being worked on.
 * [**DeFi Zap**](https://defizap.com/zaps)
 * [**Balancer**](https://pools.balancer.exchange/#/list)
 
-### BFM Unity 相关
+### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
 * [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
 * [捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
