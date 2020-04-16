@@ -29,6 +29,18 @@ description: warnings
 {% endhint %}
 
 {% hint style="success" %}
+解决在 Binance 坐市，出现的各种问题，绝招是，
+
+#### 提币，到 [Uniswap](https://uniswapdex.com/)。
+{% endhint %}
+
+{% hint style="success" %}
+懒得研究 OKEx 和 Bitmex 各种乱七八糟的合约规则？
+
+#### 提币，到 [dYdX](https://dydx.exchange/) 和 [Synthetix](https://synthetix.io/)。
+{% endhint %}
+
+{% hint style="success" %}
 你是 **小白**，想用 **现成** 的东西？  
 
 
@@ -39,18 +51,6 @@ description: warnings
 我们更喜欢使用即插即用的，热插拔解决方案，
 
 ## 比如，[DeFi Zap](https://defizap.com/zaps)，和 [Balancer](https://pools.balancer.exchange/#/list)。
-{% endhint %}
-
-{% hint style="success" %}
-解决在 Binance 坐市，出现的各种问题，绝招是，
-
-#### 提币，到 [Uniswap](https://uniswapdex.com/)。
-{% endhint %}
-
-{% hint style="success" %}
-懒得研究 OKEx 和 Bitmex 各种乱七八糟的合约规则？
-
-#### 提币，到 [dYdX](https://dydx.exchange/) 和 [Synthetix](https://synthetix.io/)。
 {% endhint %}
 
 {% hint style="info" %}
