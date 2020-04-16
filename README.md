@@ -28,8 +28,6 @@ NOTE: These docs are still being worked on.
 ## [核心代码在这里](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)
 {% endhint %}
 
-
-
 {% hint style="success" %}
 ## Resources <a id="resources"></a>
 
