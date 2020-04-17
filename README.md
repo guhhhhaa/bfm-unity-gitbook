@@ -45,10 +45,8 @@ NOTE: These docs are still being worked on.
 {% hint style="success" %}
 ## 解决 [FMZ](https://www.fmz.com/) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://www.bituniverse.org/) 和 [Pionex](https://www.pionex.com/)，
 
-
-
 * [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
-* [**Balancer**](https://pools.balancer.exchange/#/list)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   实验性武器。**
+* [**Balancer**](https://pools.balancer.exchange/#/list)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   找死专用，实验性武器。**
 {% endhint %}
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
