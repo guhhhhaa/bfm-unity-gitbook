@@ -31,7 +31,7 @@ NOTE: These docs are still being worked on.
 {% hint style="success" %}
 ## 解决 [FMZ](https://www.fmz.com/) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://www.bituniverse.org/) 和 [Pionex](https://www.pionex.com/)，
 
-* [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
+* [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
 * [**Balancer**](https://pools.balancer.exchange/#/list)  **&lt;&lt;&lt; 找死专用，实验性武器。**
 {% endhint %}
 
@@ -40,8 +40,8 @@ NOTE: These docs are still being worked on.
 * [https://defipulse.com/](https://defipulse.com/)
 * [https://defiprime.com/](https://defiprime.com/)
 * \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)
-* [**Uniwap使用说明**](https://www.chainnews.com/articles/522868612900.htm) **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白，你看看这个使用说明书，我懒得教你。**
-* \*\*\*\*[**完全没有帮助的回答**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白，你看看这个使用说明书，我懒得教你。**
+* [**Uniwap使用说明**](https://www.chainnews.com/articles/522868612900.htm) **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白，你看看这个使用说明书，我懒得教你。**
+* \*\*\*\*[**完全没有帮助的回答**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白，你看看这个使用说明书，我懒得教你。**
 
 ### **解决** [**币安**](https://www.binance.com/)\*\*\*\*
 
