@@ -59,3 +59,5 @@ NOTE: These docs are still being worked on.
 
 ![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
 
+我喜欢坐在 SCP-2950 上，看 GOC 的传销公告。
+
