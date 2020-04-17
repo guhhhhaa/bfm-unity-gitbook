@@ -30,7 +30,9 @@ NOTE: These docs are still being worked on.
 
 ### 了解DeFi
 
-* 
+* [https://defipulse.com/](https://defipulse.com/)
+* [https://defiprime.com/](https://defiprime.com/)
+
 ### **解决** [**币安**](https://www.binance.com/)\*\*\*\*
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)
