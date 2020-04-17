@@ -31,17 +31,17 @@ NOTE: These docs are still being worked on.
 ### 了解DeFi
 
 * 
-### **取代** [**币安**](https://www.binance.com/)\*\*\*\*
+### **解决** [**币安**](https://www.binance.com/)\*\*\*\*
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)
 
-### 取代 [Bitmex](https://www.bitmex.com/) 和 [OKEx](https://www.okex.com/)
+### 解决 [Bitmex](https://www.bitmex.com/) 和 [OKEx](https://www.okex.com/)
 
 * [**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)
 
 {% hint style="success" %}
-## 取代 [FMZ](https://www.fmz.com/) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://www.bituniverse.org/) 和 [Pionex](https://www.pionex.com/)，
+## 解决 [FMZ](https://www.fmz.com/) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://www.bituniverse.org/) 和 [Pionex](https://www.pionex.com/)，
 
 
 
