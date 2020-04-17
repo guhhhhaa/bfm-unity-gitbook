@@ -28,28 +28,26 @@ NOTE: These docs are still being worked on.
 
 ## Resources <a id="resources"></a>
 
-{% hint style="success" %}
-## 解决 [FMZ](https://www.fmz.com/) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://www.bituniverse.org/) 和 [Pionex](https://www.pionex.com/)，
-
-* [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
-* [**Balancer**](https://pools.balancer.exchange/#/list)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   找死专用，实验性武器。**
-{% endhint %}
-
 ### 了解DeFi
 
-* [https://defipulse.com/](https://defipulse.com/)
-* [https://defiprime.com/](https://defiprime.com/)
-* \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)
-* [**Uniwap使用说明**](https://www.chainnews.com/articles/522868612900.htm)\*\*\*\*
-
-### **解决** [**币安**](https://www.binance.com/)\*\*\*\*
+* 
+### **取代** [**币安**](https://www.binance.com/)\*\*\*\*
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)
 
-### 解决 [Bitmex](https://www.bitmex.com/) 和 [OKEx](https://www.okex.com/)
+### 取代 [Bitmex](https://www.bitmex.com/) 和 [OKEx](https://www.okex.com/)
 
 * [**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)
+
+{% hint style="success" %}
+## 取代 [FMZ](https://www.fmz.com/) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://www.bituniverse.org/) 和 [Pionex](https://www.pionex.com/)，
+
+
+
+* [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
+* [**Balancer**](https://pools.balancer.exchange/#/list)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   神风特工学院专用，实验性反物质武器。**
+{% endhint %}
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
