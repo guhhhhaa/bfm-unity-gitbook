@@ -45,8 +45,8 @@ NOTE: These docs are still being worked on.
 
 ## 
 
-* [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)\*\*\*\*
-* [**Balancer**](https://pools.balancer.exchange/#/list)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   实验性大伊万。**
+* [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)\*\*\*\*
+* [**Balancer**](https://pools.balancer.exchange/#/list)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   实验性大伊万，神风特工学院专用。**
 {% endhint %}
 
 
