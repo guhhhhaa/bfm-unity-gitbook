@@ -32,7 +32,8 @@ NOTE: These docs are still being worked on.
 
 * [https://defipulse.com/](https://defipulse.com/)
 * [https://defiprime.com/](https://defiprime.com/)
-* \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)\*\*\*\*
+* \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)
+* [**Uniwap使用说明**](https://www.chainnews.com/articles/522868612900.htm)\*\*\*\*
 
 ### **解决** [**币安**](https://www.binance.com/)\*\*\*\*
 
