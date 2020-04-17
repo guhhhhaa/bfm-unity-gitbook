@@ -40,8 +40,8 @@ NOTE: These docs are still being worked on.
 * [https://defipulse.com/](https://defipulse.com/)
 * [https://defiprime.com/](https://defiprime.com/)
 * \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)
-* [**Uniwap使用说明**](https://www.chainnews.com/articles/522868612900.htm) **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白，你看看这个使用说明书，我懒得教你。**
-* \*\*\*\*[**完全没有帮助的回答**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白，你看看这个使用说明书，我懒得教你。**
+* [**Uniwap使用说明**](https://www.chainnews.com/articles/522868612900.htm) **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白，你看看这个使用说明书，我懒得教你。**
+* \*\*\*\*[**完全没有帮助的回答**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白，你看看这个使用说明书，我懒得教你。**
 
 ### **解决** [**币安**](https://www.binance.com/)\*\*\*\*
 
