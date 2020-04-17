@@ -59,5 +59,5 @@ NOTE: These docs are still being worked on.
 
 ![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
 
-我喜欢坐在 SCP-2950 上，看 GOC 的传销公告。
+我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的传销公告。
 
