@@ -51,7 +51,7 @@ NOTE: These docs are still being worked on.
 
 * [**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)
-* **FutureSwap**
+* \*\*\*\*[**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3)\*\*\*\*
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
