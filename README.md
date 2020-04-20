@@ -29,7 +29,7 @@ NOTE: These docs are still being worked on.
 ## Resources <a id="resources"></a>
 
 {% hint style="success" %}
-## 解决掉 [FMZ](https://www.fmz.com/) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://www.bituniverse.org/) 和 [Pionex](https://www.pionex.com/)，
+## 解决掉 [FMZ](https://www.fmz.com/sign-up/2698267) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://candy.biyou.tech/candy_bub/web/get_grid_diamond.html?invite_code=QReVWxY2&from=account) 和 [Pionex](https://www.pionex.com/zh-CN?r=VvZxKR3M)，
 
 * [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
 * [**Balancer**](https://pools.balancer.exchange/#/list)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**
@@ -43,7 +43,7 @@ NOTE: These docs are still being worked on.
 * [**Uniwap   使用说明**](https://www.chainnews.com/articles/522868612900.htm)   **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   Uniswap 零基础使用教程**
 * \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   DeFi Zap 零基础使用教程  不能理解，可以看看**[**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)\*\*\*\*
 
-### **解决** [**币安**](https://www.binance.com/)\*\*\*\*
+### **解决** [**币安**](https://www.binancezh.com/cn/register?ref=38334607)\*\*\*\*
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)
 
@@ -51,6 +51,7 @@ NOTE: These docs are still being worked on.
 
 * [**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)
+* **FutureSwap**
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
