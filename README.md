@@ -29,7 +29,7 @@ NOTE: These docs are still being worked on.
 ## Resources <a id="resources"></a>
 
 {% hint style="success" %}
-## 解决掉 [FMZ](https://www.fmz.com/sign-up/2698267) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://candy.biyou.tech/candy_bub/web/get_grid_diamond.html?invite_code=QReVWxY2&from=account) 和 [Pionex](https://www.pionex.com/)，
+## 解决掉 [FMZ](https://www.fmz.com/sign-up/2698267) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://candy.biyou.tech/candy_bub/web/get_grid_diamond.html?invite_code=QReVWxY2&from=account) 和 [Pionex](https://www.pionex.com/zh-CN?r=VvZxKR3M)，
 
 * [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
 * [**Balancer**](https://pools.balancer.exchange/#/list)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**
