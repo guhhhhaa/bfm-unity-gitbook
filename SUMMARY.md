@@ -1,8 +1,7 @@
 # Table of contents
 
 * [施工警示](README.md)
-* [AMM 导航](amm-dao-hang.md)
-* [DeFi 导航](defi-dao-hang.md)
+* [AMM 导航](defi-dao-hang.md)
 * [【管理】新人指导](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/README.md)
   * [【管理】宪章说明](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
   * [【传媒】引起兴趣](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/wo-men-zai-wan-de-geng.md)
