@@ -26,22 +26,18 @@ NOTE: These docs are still being worked on.
 ### [核心代码在这里](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)
 {% endhint %}
 
-## Resources <a id="resources"></a>
-
 {% hint style="success" %}
-## 解决 [FMZ](https://www.fmz.com/sign-up/2698267) 和 [阿里云](https://us.alibabacloud.com/)， [币优](https://candy.biyou.tech/candy_bub/web/get_grid_diamond.html?invite_code=QReVWxY2&from=account) 和 [Pionex](https://www.pionex.com/zh-CN?r=VvZxKR3M)，
-
 * [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
 * [**Balancer**](https://pools.balancer.exchange/#/list)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**
+* \*\*\*\*[**Uniwap   使用说明**](https://www.chainnews.com/articles/522868612900.htm)   **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   Uniswap 零基础使用教程**
+* \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   DeFi Zap 零基础使用教程**
 {% endhint %}
 
 ### 了解DeFi
 
 * [https://defipulse.com/](https://defipulse.com/)
 * [https://defiprime.com/](https://defiprime.com/)
-* \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)
-* [**Uniwap   使用说明**](https://www.chainnews.com/articles/522868612900.htm)   **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   Uniswap 零基础使用教程**
-* \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   DeFi Zap 零基础使用教程  不能理解，可以看看**[**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)\*\*\*\*
+* \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)  **不能理解，可以看看**[**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)\*\*\*\*
 
 ### **解决** [**币安**](https://www.binancezh.com/cn/register?ref=38334607)\*\*\*\*
 
@@ -49,9 +45,9 @@ NOTE: These docs are still being worked on.
 
 ### 解决 [Bitmex](https://www.bitmex.com/) 和 [OKEx](https://www.okex.com/)
 
-* [**dYdX**](https://dydx.exchange/) ****
-* [**Synthetix**](https://synthetix.io/)
 * \*\*\*\*[**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3)\*\*\*\*
+* \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
+* [**Synthetix**](https://synthetix.io/)
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
