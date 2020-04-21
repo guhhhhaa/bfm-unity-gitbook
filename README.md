@@ -39,11 +39,11 @@ NOTE: These docs are still being worked on.
 * [https://defiprime.com/](https://defiprime.com/)
 * \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)  **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)\*\*\*\*
 
-### **解决** [**币安**](https://www.binancezh.com/cn/register?ref=38334607)\*\*\*\*
+### 交易所
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)
 
-### 解决 [Bitmex](https://www.bitmex.com/) 和 [OKEx](https://www.okex.com/)
+### 合约/杠杆 交易所
 
 * \*\*\*\*[**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3)\*\*\*\*
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
