@@ -33,7 +33,8 @@ NOTE: These docs are still being worked on.
 
 ### 普通交易所
 
-* \*\*\*\*[**Uniswap**](https://uniswapdex.com/)  ****（抱歉，我没列出，不代表你不优秀，只代表你是个优秀的垃圾）
+* \*\*\*\*[**Uniswap**](https://uniswapdex.com/)\*\*\*\*
+* \*\*\*\*[**1inch**](https://1inch.exchange/)  ****（抱歉，我没列出，不代表你不优秀，只代表你是个优秀的垃圾）
 
 ### 合约/杠杆 交易所
 
