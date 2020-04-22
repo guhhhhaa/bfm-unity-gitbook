@@ -49,7 +49,7 @@ NOTE: These docs are still being worked on.
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)
 
-### AMM 工具 \(本身也是交易所\)
+### AMM 工具
 
 * [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
 * \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   DeFi Zap 零基础使用教程**
