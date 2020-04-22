@@ -28,7 +28,15 @@ NOTE: These docs are still being worked on.
 
 * [https://defipulse.com/](https://defipulse.com/)
 * [https://defiprime.com/](https://defiprime.com/)
-* \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)  **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)\*\*\*\*
+* \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)  **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
+
+### 量化平台
+
+（抱歉，在座的各位都是垃圾）
+
+### 量化APP
+
+（抱歉，在座的各位都是垃圾）
 
 ### 交易所
 
