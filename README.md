@@ -32,7 +32,7 @@ NOTE: These docs are still being worked on.
 * [https://defiprime.com/](https://defiprime.com/)
 * \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)  **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
 
-### 普通交易所
+### 普通 交易所
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)\*\*\*\*
 * \*\*\*\*[**1inch**](https://1inch.exchange/)  ****（抱歉，我没列出，不代表你不优秀，只代表你是个优秀的垃圾）
