@@ -24,7 +24,7 @@ NOTE: These docs are still being worked on.
 
 **我们团队的，**[**核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)**，可以裸奔，其他团队不行，这就是我们牛逼的地方。**
 
-        **（抱歉，不能开源的量化代码，都是垃圾。）**
+        **（抱歉，不能开源，不能固定的量化代码，都是垃圾。）**
 
 ### 了解 DeFi
 
