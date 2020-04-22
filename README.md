@@ -38,7 +38,7 @@ NOTE: These docs are still being worked on.
 
          （抱歉，我没列出，不代表你不优秀，只代表在座的各位，都是优秀的垃圾）
 
-### 交易所
+### 普通交易所
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)  ****（抱歉，我没列出，不代表你不优秀，只代表你是个优秀的垃圾）
 
