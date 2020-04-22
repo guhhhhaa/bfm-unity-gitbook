@@ -24,7 +24,9 @@ NOTE: These docs are still being worked on.
 你是 **超级英雄**，你想 **拯救系统**？
 {% endhint %}
 
-## \*\*\*\*[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
+### \*\*\*\*[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
+
+**我们团队的，核心代码，可以裸奔，其他团队不行，这就是我们牛逼的地方。**
 
 ### 了解 DeFi
 
