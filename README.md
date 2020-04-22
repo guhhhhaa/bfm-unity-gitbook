@@ -48,6 +48,10 @@ NOTE: These docs are still being worked on.
   * \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   DeFi Zap 零基础使用教程**
   * [**Uniwap   使用说明**](https://www.chainnews.com/articles/522868612900.htm)   **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   Uniswap 零基础使用教程**
 * \*\*\*\*[**Balancer**](https://pools.balancer.exchange/#/list)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**
+* \*\*\*\*[**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**
+
+  
+  ****
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
