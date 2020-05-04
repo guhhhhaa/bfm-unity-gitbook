@@ -21,4 +21,5 @@
 * [【捐赠】无损失捐赠](juan-zeng.md)
 * [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/README.md)
   * [【组织】团队构成](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/zu-zhi-wo-men-de-tuan-dui.md)
+* [教育是shit](jiao-yu-shi-shit.md)
 
