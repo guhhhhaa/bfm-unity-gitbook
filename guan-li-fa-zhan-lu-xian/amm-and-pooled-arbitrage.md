@@ -14,7 +14,7 @@ AMM一日，DeFi一年。
 
 {% embed url="https://www.chainnews.com/articles/616642213529.htm" %}
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 {% embed url="https://www.chainnews.com/articles/127470240340.htm" %}
 
