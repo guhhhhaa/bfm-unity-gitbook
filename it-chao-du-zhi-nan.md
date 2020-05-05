@@ -3,7 +3,7 @@
 ### 相关帖子：如何论证博士=幼儿园：[https://www.joinquant.com/view/community/detail/26296](https://www.joinquant.com/view/community/detail/26296)
 
 你咋不发篇论文讨论一下（SCIgen，Mathgen）  
-我幼儿园没毕业\(认识论\)  
+我幼儿园没毕业，\(认识论\)  
 我0和1分不清，\(离散数学\)  
 2\*3=6不会算，\(图论\)  
 积木也不会搭。\(架构设计\)  
