@@ -2,6 +2,7 @@
 
 * [施工警示](README.md)
 * [AMM 导航](defi-dao-hang.md)
+* [《IT超度指南》](it-chao-du-zhi-nan.md)
 * [【管理】新人指导](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/README.md)
   * [【管理】宪章说明](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
   * [【传媒】引起兴趣](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/wo-men-zai-wan-de-geng.md)
