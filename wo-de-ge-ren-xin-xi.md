@@ -5,9 +5,9 @@
 QQ：1207866211（最好使用这个），3146741560  
   
 （希望腾讯不要封我号，我本来就想从事科幻，是社会逼我的，我要活下去。）  
-  
-我的论文（基本作废）：[https://francis-press.com/papers/258](https://francis-press.com/papers/258)  
 
+
+## 我的论文（基本作废）：[https://francis-press.com/papers/258](https://francis-press.com/papers/258) 
 
 
 
