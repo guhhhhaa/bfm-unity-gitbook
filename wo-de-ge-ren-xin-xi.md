@@ -1,8 +1,8 @@
 # 我的个人信息
 
 邮箱：guhhhhaa@gmail.com  
-电话：15603202102，13614926893  
-QQ：1207866211  
+电话：13614926893，15603202102\(已停机\)，  
+QQ：1207866211（最好使用这个）  
   
 我的论文（基本作废）：[https://francis-press.com/papers/258](https://francis-press.com/papers/258)  
 
