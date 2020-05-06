@@ -35,13 +35,13 @@ NOTE: These docs are still being worked on.
 ### 普通 交易所
 
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)\*\*\*\*
-* \*\*\*\*[**1inch**](https://1inch.exchange/)  ****（抱歉，我没列出，他们都死了）
+* \*\*\*\*[**1inch**](https://1inch.exchange/)  ****（抱歉，我没列出，不代表你不优秀，只代表你是个优秀的垃圾）
 
 ### 合约/杠杆 交易所
 
 * \*\*\*\*[**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3)\*\*\*\*
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
-* [**Synthetix**](https://synthetix.io/)  ****（抱歉，我没列出，他们都死了）
+* [**Synthetix**](https://synthetix.io/)  ****（抱歉，我没列出，不代表你不优秀，只代表你是个优秀的垃圾）
 
 ### AMM 工具
 
@@ -49,19 +49,19 @@ NOTE: These docs are still being worked on.
   * \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   DeFi Zap 零基础使用教程**
   * [**Uniwap   使用说明**](https://www.chainnews.com/articles/522868612900.htm)   **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   Uniswap 零基础使用教程**
 * \*\*\*\*[**Balancer**](https://pools.balancer.exchange/#/list)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**
-* \*\*\*\*[**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**  （抱歉，我没列出，他们都死了）
+* \*\*\*\*[**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**  （抱歉，我没列出，不代表你不优秀，只代表你是个优秀的垃圾）
 
 ### 量化平台
 
-          （抱歉，我都没列出，他们都死了）
+          （抱歉，我都没列出，不代表大家都不优秀，只代表在座的各位，都是优秀的垃圾）
 
 ### 量化APP
 
-         （抱歉，我都没列出，他们都死了）
+         （抱歉，我都没列出，不代表大家都不优秀，只代表在座的各位，都是优秀的垃圾）
 
 ### 云服务器
 
-         （抱歉，我都没列出，他们都死了）
+         （抱歉，我都没列出，不代表大家都不优秀，只代表在座的各位，都是优秀的垃圾）
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
