@@ -2,6 +2,8 @@
 
 ### 相关帖子：如何论证博士=幼儿园：[https://www.joinquant.com/view/community/detail/26296](https://www.joinquant.com/view/community/detail/26296)
 
+### 我的聚宽账号被封了，你可以看看我的其他文章，不过大部分都是屎。
+
 你咋不发篇论文讨论一下（SCIgen，Mathgen）  
 我幼儿园没毕业，\(认识论\)  
 我0和1分不清，\(离散数学\)  
