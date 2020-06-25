@@ -10,5 +10,5 @@ QQ：1207866211（最好使用这个），3146741560
 
 ![&#x6211;&#x7684;&#x672C;&#x79D1;&#x8BFE;&#x7A0B;](.gitbook/assets/hua-bei-dian-li-da-xue-dian-zi-ben-ke-ke-cheng-.png)
 
-![&#x6211;&#x7684;&#x672C;&#x79D1;&#x8BFE;&#x7A0B;&#x5B58;&#x5728;&#x95EE;&#x9898;](.gitbook/assets/hua-bei-dian-li-da-xue-dian-zi-ben-ke-ke-cheng-%20%281%29.png)
+![&#x6211;&#x7684;&#x672C;&#x79D1;&#x8BFE;&#x7A0B;&#x5B58;&#x5728;&#x95EE;&#x9898;](.gitbook/assets/ben-ke-ke-cheng-cun-zai-wen-ti-.png)
 
