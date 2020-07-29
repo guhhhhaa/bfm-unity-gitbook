@@ -22,11 +22,53 @@ NOTE: These docs are still being worked on.
 
 ## \*\*\*\*[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
 
-### 了解 DeFi
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">&#x4E86;&#x89E3; DeFi</th>
+      <th style="text-align:center">&#x7406;&#x89E3; DeFi</th>
+      <th style="text-align:center">&#x8DDF;&#x4E0A; DeFi &#x7684;&#x6B65;&#x4F10;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p></p>
+        <ul>
+          <li><a href="https://defipulse.com/">https://defipulse.com/</a>
+          </li>
+          <li><a href="https://defiprime.com/">https://defiprime.com/</a>
+          </li>
+          <li>&lt;b&gt;&lt;/b&gt;<a href="https://www.chainnews.com/tag_9336.htm"><b>&#x94FE;&#x95FB;&#xFF1A;DeFi</b></a>&lt;b&gt;&lt;/b&gt;</li>
+        </ul>
+      </td>
+      <td style="text-align:center">
+        <p></p>
+        <ul>
+          <li><a href="https://link.zhihu.com/?target=https%3A//medium.com/alethio/the-defi-series-an-overview-of-the-ecosystem-and-major-protocols-da27d7b11191">The DeFi Series</a>
+          </li>
+          <li><a href="https://link.zhihu.com/?target=https%3A//medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3ee">Decentralized Lending</a>
+          </li>
+          <li><a href="https://link.zhihu.com/?target=https%3A//defiprime.com/">DeFi Prime</a>
+          </li>
+        </ul>
+      </td>
+      <td style="text-align:center">
+        <p></p>
+        <ul>
+          <li><a href="https://link.zhihu.com/?target=https%3A//thedefiant.substack.com/">The Defiant newsletter</a>
+          </li>
+          <li><a href="https://link.zhihu.com/?target=https%3A//compound.substack.com/">Compound Digest newsletter</a>
+          </li>
+          <li><a href="https://link.zhihu.com/?target=https%3A//defipulse.com/">DeFi Pulse</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-* [https://defipulse.com/](https://defipulse.com/)
-* [https://defiprime.com/](https://defiprime.com/)
-* \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)  **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
+**不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
 
 ### 普通 交易所
 
@@ -41,9 +83,9 @@ NOTE: These docs are still being worked on.
 
 ### AMM 工具
 
-* [**DeFi Zap**](https://defizap.com/zaps)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
+* [**DeFi Zap**](https://defizap.com/zaps)  **，或** [**Zapper.fi** ](https://www.zapper.fi/)**&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
   * \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   DeFi Zap 零基础使用教程**
-  * [**Uniwap   使用说明**](https://www.chainnews.com/articles/522868612900.htm)   **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   Uniswap 零基础使用教程**
+  * [**Uniwap    使用说明**](https://www.chainnews.com/articles/522868612900.htm)   **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   Uniswap 零基础使用教程**
 * \*\*\*\*[**Balancer**](https://pools.balancer.exchange/#/list)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**
 * \*\*\*\*[**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**  （抱歉，我没列出，他们都死了）
 
