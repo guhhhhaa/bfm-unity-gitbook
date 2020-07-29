@@ -20,7 +20,7 @@ NOTE: These docs are still being worked on.
 **干扰到了之前基于 CeFi 的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
 {% endhint %}
 
-## \*\*\*\*[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
+##                      ****[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
 
 | 了解 DeFi | 理解 DeFi | 跟上 DeFi 的步伐 |
 | :---: | :---: | :---: |
