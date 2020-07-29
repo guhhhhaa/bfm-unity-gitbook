@@ -1,7 +1,7 @@
 # Table of contents
 
 * [施工警示](README.md)
-* [黑曜石祭祀刀](defi-dao-hang.md)
+* [AMM 工具](defi-dao-hang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [【研究】参考文献](what-is-bfm-al/bfm-al-ckwx.md)
   * [BFM 维基百科翻译](what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)
