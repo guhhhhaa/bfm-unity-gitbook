@@ -22,51 +22,11 @@ NOTE: These docs are still being worked on.
 
 ## \*\*\*\*[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">&#x4E86;&#x89E3; DeFi</th>
-      <th style="text-align:center">&#x7406;&#x89E3; DeFi</th>
-      <th style="text-align:center">&#x8DDF;&#x4E0A; DeFi &#x7684;&#x6B65;&#x4F10;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <p></p>
-        <ul>
-          <li><a href="https://defipulse.com/">https://defipulse.com/</a>
-          </li>
-          <li><a href="https://defiprime.com/">https://defiprime.com/</a>
-          </li>
-          <li>&lt;b&gt;&lt;/b&gt;<a href="https://www.chainnews.com/tag_9336.htm"><b>&#x94FE;&#x95FB;&#xFF1A;DeFi</b></a>&lt;b&gt;&lt;/b&gt;</li>
-        </ul>
-      </td>
-      <td style="text-align:center">
-        <p></p>
-        <ul>
-          <li><a href="https://link.zhihu.com/?target=https%3A//medium.com/alethio/the-defi-series-an-overview-of-the-ecosystem-and-major-protocols-da27d7b11191">The DeFi Series</a>
-          </li>
-          <li><a href="https://link.zhihu.com/?target=https%3A//medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3ee">Decentralized Lending</a>
-          </li>
-          <li><a href="https://link.zhihu.com/?target=https%3A//defiprime.com/">DeFi Prime</a>
-          </li>
-        </ul>
-      </td>
-      <td style="text-align:center">
-        <p></p>
-        <ul>
-          <li><a href="https://link.zhihu.com/?target=https%3A//thedefiant.substack.com/">The Defiant newsletter</a>
-          </li>
-          <li><a href="https://link.zhihu.com/?target=https%3A//compound.substack.com/">Compound Digest newsletter</a>
-          </li>
-          <li><a href="https://link.zhihu.com/?target=https%3A//defipulse.com/">DeFi Pulse</a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| 了解 DeFi | 理解 DeFi | 跟上 DeFi 的步伐 |
+| :---: | :---: | :---: |
+| [https://defipulse.com/](https://defipulse.com/) | [The DeFi Series](https://link.zhihu.com/?target=https%3A//medium.com/alethio/the-defi-series-an-overview-of-the-ecosystem-and-major-protocols-da27d7b11191) | [The Defiant newsletter](https://link.zhihu.com/?target=https%3A//thedefiant.substack.com/) |
+| [https://defiprime.com/](https://defiprime.com/) | [Decentralized Lending](https://link.zhihu.com/?target=https%3A//medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3ee) | [Compound Digest newsletter](https://link.zhihu.com/?target=https%3A//compound.substack.com/) |
+| \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)\*\*\*\* | [DeFi Prime](https://link.zhihu.com/?target=https%3A//defiprime.com/) | [DeFi Pulse](https://link.zhihu.com/?target=https%3A//defipulse.com/) |
 
 **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
 
