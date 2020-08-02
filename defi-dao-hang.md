@@ -4,6 +4,8 @@
 
 ## 黑曜石祭祀刀：
 
+![](.gitbook/assets/image%20%281%29.png)
+
 {% hint style="success" %}
 * [**Zapper.fi** ](https://www.zapper.fi/)**&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
 
