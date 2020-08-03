@@ -8,7 +8,6 @@
   * [陵墓](what-is-bfm-al/lo-st.md)
 * [【软件】行动员手册](ruan-jian-bfm-on-python/README.md)
   * [【软件】Graph algorithms and currency arbitrage](ruan-jian-bfm-on-python/untitled.md)
-  * [Untitled](ruan-jian-bfm-on-python/untitled-1.md)
   * [【创新】未来发展](ruan-jian-bfm-on-python/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng.md)
   * [【创新】DeFi - AMM](ruan-jian-bfm-on-python/defi-amm.md)
 * [【架构】架构设计](guan-li-fa-zhan-lu-xian/README.md)
