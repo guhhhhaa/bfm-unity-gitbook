@@ -110,11 +110,8 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 5，为什么汇率在取 -ln 之前要移动小数点再乘以几百？   
 6，BFM 算法基于图的邻接矩阵表示。什么是图的邻接矩阵表示？BFM 算法的步骤中如何使用图的邻接矩阵表示？   
   
-这 6 个细节问题，如果你不能回答其中的任何一个，那么 BFM 算法就和你无缘了，所以，坑还是很深的。
-{% endhint %}
-
+这 6 个细节问题，如果你不能回答其中的任何一个，那么 BFM 算法就和你无缘了，所以，坑还是很深的。  
   
-有些问题回答不出来？可以看看这个：
-
-{% page-ref page="../ruan-jian-bfm-on-python/" %}
+有些问题回答不出来？可以看看这个：---&gt; ****[**代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
+{% endhint %}
 
