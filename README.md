@@ -63,8 +63,8 @@ NOTE: These docs are still being worked on.
 {% endtab %}
 
 {% tab title="量化" %}
-量化平台  
-量化APP  
+量化平台 [https://trello.com/c/nVRi2EFC/34-bituniverse](https://trello.com/c/nVRi2EFC/34-bituniverse)  
+量化APP   
 云服务器
 {% endtab %}
 {% endtabs %}
