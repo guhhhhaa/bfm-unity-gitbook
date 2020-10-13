@@ -12,14 +12,6 @@ NOTE: These docs are still being worked on.
 
 ![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
 
-{% hint style="danger" %}
-### **我们进行大规模施工的原因：**
-
-### **DeFi - AMM 开始** [**加速发展**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage)**，超出了我们的预料，**
-
-**干扰到了之前基于 CeFi 的** [**顶层设计**](https://guhhhhaa.gitbook.io/bfm/guan-li-fa-zhan-lu-xian) **。**
-{% endhint %}
-
 ## \*\*\*\*
 
 ##                      ****[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
@@ -43,6 +35,7 @@ NOTE: These docs are still being worked on.
 
 {% tab title="交易所" %}
 * \*\*\*\*[**Uniswap**](https://uniswapdex.com/)\*\*\*\*
+* \*\*\*\*[**https://app.uniswap.org/**](https://app.uniswap.org/)\*\*\*\*
 * \*\*\*\*[**1inch**](https://1inch.exchange/)\*\*\*\*
 {% endtab %}
 
