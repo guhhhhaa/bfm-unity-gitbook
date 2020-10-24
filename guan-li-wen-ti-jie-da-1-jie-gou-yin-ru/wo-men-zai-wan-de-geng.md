@@ -68,3 +68,5 @@ Algorithhms 4th Edition by Robert Sedgewick
 
 {% embed url="https://edutechlearners.com/download/Introduction\_to\_algorithms-3rd%20Edition.pdf" caption="" %}
 
+![](../.gitbook/assets/cb8065380cd79123f83b4e89a1345982b3b78070.jpeg)
+
