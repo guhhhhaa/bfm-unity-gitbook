@@ -1,10 +1,18 @@
 # 我的个人信息
 
+## 联系方
+
+## 
+
 邮箱：guhhhhaa@gmail.com  
 电话：13614926893（推荐），15603202102  
 QQ：1207866211（推荐），3146741560
 
+## 论文
+
 我的论文：[https://francis-press.com/papers/258](https://francis-press.com/papers/258)
+
+论文清晰版：[https://share.weiyun.com/usBIwBsk](https://share.weiyun.com/usBIwBsk)
 
 
 
