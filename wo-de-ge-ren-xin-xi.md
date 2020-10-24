@@ -1,8 +1,6 @@
 # 我的个人信息
 
-## 联系方
-
-## 
+## 联系方式
 
 邮箱：guhhhhaa@gmail.com  
 电话：13614926893（推荐），15603202102  
@@ -14,9 +12,7 @@ QQ：1207866211（推荐），3146741560
 
 论文清晰版：[https://share.weiyun.com/usBIwBsk](https://share.weiyun.com/usBIwBsk)
 
-
-
-
+## 学历
 
 ![&#x6211;&#x7684;&#x672C;&#x79D1;&#x8BFE;&#x7A0B;](.gitbook/assets/hua-bei-dian-li-da-xue-dian-zi-ben-ke-ke-cheng-.png)
 
