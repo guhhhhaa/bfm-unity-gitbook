@@ -86,10 +86,12 @@ USDT(TRC20):TWjbFpcFWxeBkttF8PpmwfC7ZzX2KNiGJB
 ![](.gitbook/assets/screenshot_2020-03-25-11-17-06-241_com.wallet.cry.png)
 {% endtab %}
 
-{% tab title="USDT\(TRC20\)" %}
-## USDT - TRC20
+{% tab title="支付宝" %}
 
-![](.gitbook/assets/screenshot_2020-03-25-11-16-59-554_com.wallet.cry.png)
+{% endtab %}
+
+{% tab title="微信支付" %}
+![](.gitbook/assets/1779f6a2493c2649cf67b84b11733d3f.jpg)
 {% endtab %}
 {% endtabs %}
 
