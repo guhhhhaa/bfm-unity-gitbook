@@ -49,7 +49,7 @@ NOTE: These docs are still being worked on.
 * [**Zapper.fi** ](https://www.zapper.fi/)**&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
   * \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   DeFi Zap 零基础使用教程**
   * [**Uniwap    使用说明**](https://www.chainnews.com/articles/522868612900.htm)   **&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;   Uniswap 零基础使用教程**
-  * Uniswap Curve Balancer 1Inch CHAI，cDAI， 一切，尽在———————— [zapper.fi](https://zapper.fi) ****
+  * \*\*\*\*[**Uniswap**](https://app.uniswap.org/) [**Curve**](https://www.curve.com/) [**Balancer**](https://balancer.finance/) 1Inch CHAI，cDAI， 一切，尽在———————— [**zapper.fi**](https://zapper.fi) ****
 * \*\*\*\*[**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3)  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    找死专用，实验性武器。**
 
 {% page-ref page="defi-dao-hang.md" %}
