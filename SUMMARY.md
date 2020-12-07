@@ -2,6 +2,7 @@
 
 * [施工警示](README.md)
 * [AMM 工具](defi-dao-hang.md)
+* [捐赠打赏](juan-zeng-da-shang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [【研究】参考文献](what-is-bfm-al/bfm-al-ckwx.md)
   * [BFM 维基百科翻译](what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)
@@ -17,7 +18,6 @@
 * [【管理】新人指导](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/README.md)
   * [【管理】宪章说明](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
   * [【传媒】引起兴趣](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/wo-men-zai-wan-de-geng.md)
-* [捐赠打赏](juan-zeng-da-shang.md)
 * [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/README.md)
   * [【组织】团队构成](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/zu-zhi-wo-men-de-tuan-dui.md)
 * [《IT超度指南》](it-chao-du-zhi-nan/README.md)
