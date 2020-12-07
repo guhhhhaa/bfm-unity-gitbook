@@ -30,6 +30,8 @@ NOTE: These docs are still being worked on.
 | [https://defiprime.com/](https://defiprime.com/) | [Decentralized Lending](https://link.zhihu.com/?target=https%3A//medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3ee) | [Compound Digest newsletter](https://link.zhihu.com/?target=https%3A//compound.substack.com/) |
 | \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)\*\*\*\* | [DeFi Prime](https://link.zhihu.com/?target=https%3A//defiprime.com/) | [DeFi Pulse](https://link.zhihu.com/?target=https%3A//defipulse.com/) |
 
+![](.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
+
 **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
 {% endtab %}
 
