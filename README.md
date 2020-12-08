@@ -10,19 +10,25 @@ NOTE: These docs are still being worked on.
    [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)
 {% endhint %}
 
+![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
+
+## \*\*\*\*
+
 ##                      ****[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
 
-## **DeFi：**
+## \*\*\*\*
+
+## **精神隶属机：**
 
 {% tabs %}
 {% tab title="DeFi" %}
 
 
-| 了解 DeFi |
-| :---: |
-| [https://defipulse.com/](https://defipulse.com/) |
-| [https://defiprime.com/](https://defiprime.com/) |
-| \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)\*\*\*\* |
+| 了解 DeFi | 理解 DeFi | 跟上 DeFi 的步伐 |
+| :---: | :---: | :---: |
+| [https://defipulse.com/](https://defipulse.com/) | [The DeFi Series](https://link.zhihu.com/?target=https%3A//medium.com/alethio/the-defi-series-an-overview-of-the-ecosystem-and-major-protocols-da27d7b11191) | The Defiant newsletter |
+| [https://defiprime.com/](https://defiprime.com/) | [Decentralized Lending](https://link.zhihu.com/?target=https%3A//medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3ee) | [Compound Digest newsletter](https://link.zhihu.com/?target=https%3A//compound.substack.com/) |
+| \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)\*\*\*\* | [DeFi Prime](https://link.zhihu.com/?target=https%3A//defiprime.com/) | [DeFi Pulse](https://link.zhihu.com/?target=https%3A//defipulse.com/) |
 
 ![](.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
 
@@ -52,23 +58,18 @@ NOTE: These docs are still being worked on.
 {% endtab %}
 
 {% tab title="量化" %}
-币安   
 量化平台 [https://trello.com/c/nVRi2EFC/34-bituniverse](https://trello.com/c/nVRi2EFC/34-bituniverse)  
 量化APP   
 云服务器
 {% endtab %}
 {% endtabs %}
 
-## **云算力：**
-
-\*\*\*\*[**https://www.rhy.com/**](https://www.rhy.com/)  
-****[**http://www.slfyyzx.com/**](http://www.slfyyzx.com/)  
-****[**https://www.suanlifeng.com.cn/**](https://www.suanlifeng.com.cn/)\*\*\*\*
-
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
 * [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
-* [捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang)
+* [捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng)
+
+![](.gitbook/assets/9lddq5-53hnx10z9wt3cs1hc-u0.png)
 
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
 
