@@ -52,11 +52,18 @@ NOTE: These docs are still being worked on.
 {% endtab %}
 
 {% tab title="量化" %}
+币安   
 量化平台 [https://trello.com/c/nVRi2EFC/34-bituniverse](https://trello.com/c/nVRi2EFC/34-bituniverse)  
 量化APP   
 云服务器
 {% endtab %}
 {% endtabs %}
+
+## **云算力：**
+
+\*\*\*\*[**https://www.rhy.com/**](https://www.rhy.com/)  
+****[**http://www.slfyyzx.com/**](http://www.slfyyzx.com/)  
+****[**https://www.suanlifeng.com.cn/**](https://www.suanlifeng.com.cn/)\*\*\*\*
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
