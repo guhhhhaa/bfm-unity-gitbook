@@ -10,11 +10,7 @@ NOTE: These docs are still being worked on.
    [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)
 {% endhint %}
 
-## \*\*\*\*
-
 ##                      ****[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
-
-## \*\*\*\*
 
 ## **DeFi：**
 
