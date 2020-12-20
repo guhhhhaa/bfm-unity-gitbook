@@ -71,6 +71,10 @@ NOTE: These docs are still being worked on.
 {% endtab %}
 {% endtabs %}
 
+## **投资方法论：**
+
+\*\*\*\*[**https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)\*\*\*\*
+
 ## **云算力：**
 
 \*\*\*\*[**https://www.rhy.com/**](https://www.rhy.com/)  
