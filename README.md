@@ -50,6 +50,8 @@ NOTE: These docs are still being worked on.
 {% tab title="美股" %}
 [https://mirror.finance/](https://mirror.finance/)  
 教程：[https://www.douban.com/group/topic/204847108/](https://www.douban.com/group/topic/204847108/)
+
+[https://guhhhhaa.gitbook.io/blockchain/defi/mirror.finance-wa-kuang-tao-li](https://guhhhhaa.gitbook.io/blockchain/defi/mirror.finance-wa-kuang-tao-li)
 {% endtab %}
 
 {% tab title="交易所" %}
