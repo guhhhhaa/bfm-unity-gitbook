@@ -54,7 +54,7 @@ NOTE: These docs are still being worked on.
 {% tab title="量化" %}
 币安   
 量化平台 [https://trello.com/c/nVRi2EFC/34-bituniverse](https://trello.com/c/nVRi2EFC/34-bituniverse)  
-量化APP   
+量化APP [https://www.pionex.com/](https://www.pionex.com/)  
 云服务器
 {% endtab %}
 
