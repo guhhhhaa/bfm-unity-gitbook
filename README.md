@@ -75,7 +75,7 @@ NOTE: These docs are still being worked on.
 
 \*\*\*\*[**https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)\*\*\*\*
 
-## **云算力：**
+## **云算力（不建议投资）：**
 
 \*\*\*\*[**https://www.rhy.com/**](https://www.rhy.com/)  
 ****[**http://www.slfyyzx.com/**](http://www.slfyyzx.com/)  
