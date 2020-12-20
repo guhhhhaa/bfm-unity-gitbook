@@ -48,7 +48,8 @@ NOTE: These docs are still being worked on.
 {% endtab %}
 
 {% tab title="美股" %}
-[https://mirror.finance/](https://mirror.finance/)
+[https://mirror.finance/](https://mirror.finance/)  
+教程：[https://www.douban.com/group/topic/204847108/](https://www.douban.com/group/topic/204847108/)
 {% endtab %}
 
 {% tab title="交易所" %}
