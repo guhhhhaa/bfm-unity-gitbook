@@ -86,7 +86,7 @@ NOTE: These docs are still being worked on.
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
 
-* [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu)
+* [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) （包括[看板](https://trello.com/b/z4aDgNAL/todolist)）
 * [捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang)
 
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
