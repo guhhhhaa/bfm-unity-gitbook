@@ -47,7 +47,7 @@ NOTE: These docs are still being worked on.
 * 交易类聚合器， [1inch Exchange](https://1inch.exchange/)、Matcha、Meta Mask Swap、[ParaSwap](https://paraswap.io/#/)、[Insta Dapp](https://defi.instadapp.io/) 
 * 收益类聚合器，[YFI](https://yearn.finance/)、YFII、Rari Capital 
 * 稳定币聚合协议， [mStable](https://mstable.app/)
-* 资产管理平台，如 [Zapper Finance](https://zapper.fi/)、[Zerion](https://zerion.io/)、Debank 
+* 资产管理平台，如 [Zapper Finance](https://zapper.fi/)、[Zerion](https://zerion.io/)、[Debank](https://debank.com/)
 * 信息聚合， [DeFi Pulse](https://defipulse.com/)、[DeFi Prime](https://defiprime.com/)、[DeFiRate](https://defirate.com/) 这类门户网站
 {% endtab %}
 
