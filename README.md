@@ -44,7 +44,7 @@ NOTE: These docs are still being worked on.
 {% endtab %}
 
 {% tab title="聚合器" %}
-* 交易类聚合器， 1inch Exchange、Matcha、Meta Mask 钱包内置 Meta Mask Swap、[ParaSwap](https://paraswap.io/#/)、[Insta Dapp](https://defi.instadapp.io/) 
+* 交易类聚合器， 1inch Exchange、Matcha、Meta Mask Swap、[ParaSwap](https://paraswap.io/#/)、[Insta Dapp](https://defi.instadapp.io/) 
 * 收益类聚合器，YFI、YFII、Rari Capital 
 * 稳定币聚合协议， mStable；
 * 资产管理平台，如 Zapper Finance、Zerion, Debank 
