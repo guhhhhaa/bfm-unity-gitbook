@@ -44,14 +44,11 @@ NOTE: These docs are still being worked on.
 {% endtab %}
 
 {% tab title="聚合器" %}
-**无论是交易类聚合器，或者收益类聚合器如 Yield Finance 这类，都通过提供优化价格、提高收益的方式，服务用户。**
-
-另外一种类型的聚合应用，往资产管理方向拓展，如 Zerion、Zapper。除此之外 DeFi 还有信息聚合的需求， [DeFi Pulse](https://defipulse.com/)、DeBank、DeFi Prime、[DeFiRate](https://defirate.com/) 这类门户网站的作用就在于此。
-
-* 交易类聚合器，如 1inch Exchange、Matcha、Meta Mask 钱包内置 Meta Mask Swap、[ParaSwap](https://paraswap.io/#/)、[Insta Dapp](https://defi.instadapp.io/) 等，这是最为常见的一种类型；
-* 收益类聚合器，YFI、YFII、Rari Capital 等；
+* 交易类聚合器， 1inch Exchange、Matcha、Meta Mask 钱包内置 Meta Mask Swap、[ParaSwap](https://paraswap.io/#/)、[Insta Dapp](https://defi.instadapp.io/) 
+* 收益类聚合器，YFI、YFII、Rari Capital 
 * 稳定币聚合协议， mStable；
-* 资产管理平台，如 Zapper Finance、Zapion, Debank 等。
+* 资产管理平台，如 Zapper Finance、Zerion, Debank 
+* 信息聚合， [DeFi Pulse](https://defipulse.com/)、DeFi Prime、[DeFiRate](https://defirate.com/) 这类门户网站。
 {% endtab %}
 
 {% tab title="闪电贷" %}
