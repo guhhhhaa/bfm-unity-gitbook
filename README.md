@@ -4,8 +4,8 @@ description: warnings
 
 # 施工警示
 
-{% hint style="danger" %}
-NOTE: These docs are still being worked on.        
+{% hint style="warning" %}
+NOTE: **This project is in beta. Use at your own risk.**    
   
    [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)
 {% endhint %}
@@ -54,7 +54,7 @@ NOTE: These docs are still being worked on.
 {% tab title="稳定币" %}
 * [Curve](https://www.curve.fi/)
 * [mStable](https://mstable.app/#/save)
-* [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool)
+* [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool) , YFI API
 {% endtab %}
 
 {% tab title="闪电贷" %}
