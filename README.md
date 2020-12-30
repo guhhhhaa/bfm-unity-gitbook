@@ -53,7 +53,7 @@ NOTE: These docs are still being worked on.
 
 {% tab title="稳定币" %}
 * [Curve](https://www.curve.fi/)
-* [mStable](https://mstable.org/)
+* [mStable](https://mstable.app/#/mint)
 {% endtab %}
 
 {% tab title="闪电贷" %}
