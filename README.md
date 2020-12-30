@@ -4,7 +4,7 @@ description: warnings
 
 # 施工警示
 
-{% hint style="warning" %}
+{% hint style="info" %}
 NOTE: **This project is in beta. Use at your own risk.**    
   
    [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)
