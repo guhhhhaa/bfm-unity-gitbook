@@ -51,6 +51,13 @@ NOTE: These docs are still being worked on.
 * 信息聚合， [DeFi Pulse](https://defipulse.com/)、[DeFi Prime](https://defiprime.com/)、[DeFiRate](https://defirate.com/) 这类门户网站
 {% endtab %}
 
+{% tab title="稳定币" %}
+[Curve](https://www.curve.fi/)
+
+[  
+mStable](https://mstable.org/)
+{% endtab %}
+
 {% tab title="闪电贷" %}
 [https://app.aave.com/](https://app.aave.com/)
 
