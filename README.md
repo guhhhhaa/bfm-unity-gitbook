@@ -52,10 +52,8 @@ NOTE: These docs are still being worked on.
 {% endtab %}
 
 {% tab title="稳定币" %}
-[Curve](https://www.curve.fi/)
-
-[  
-mStable](https://mstable.org/)
+* [Curve](https://www.curve.fi/)
+* [mStable](https://mstable.org/)
 {% endtab %}
 
 {% tab title="闪电贷" %}
