@@ -92,8 +92,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 {% endtabs %}
 
-\*\*\*\*
-
 ## **云算力（不建议投资）：**
 
 \*\*\*\*[**https://www.rhy.com/**](https://www.rhy.com/)  
