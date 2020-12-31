@@ -61,7 +61,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="稳定币" %}
 * [Curve](https://www.curve.fi/)
 * [mStable](https://mstable.app/#/save)
-* [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool)[Aave](https://app.aave.com/)
+* [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool)
 {% endtab %}
 
 {% tab title="闪电贷" %}
