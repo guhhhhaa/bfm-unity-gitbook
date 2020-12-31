@@ -8,12 +8,9 @@
 
 {% hint style="success" %}
 * [**Zapper.fi** ](https://www.zapper.fi/) **小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
-
   * \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  ****
   * [**Uniwap    使用说明**](https://www.chainnews.com/articles/522868612900.htm)  ****
-  * \*\*\*\*[**Uniswap**](https://app.uniswap.org/) [**Curve**](https://www.curve.com/) [**Balancer**](https://balancer.finance/) [**1Inch**](https://1inch.exchange/) CHAI，cDAI
-
-  [**FutureSwap**](https://exchange.futureswap.com/?src=0x6c5bfa4A535ab2B742520056C4A1912853C8f5B3) **找死专用，实验性武器**
+  * \*\*\*\*[**Uniswap**](https://app.uniswap.org/) [**Curve**](https://www.curve.com/) [**Balancer**](https://balancer.finance/) [**1Inch**](https://1inch.exchange/)
 {% endhint %}
 
 ## 游戏地图：
