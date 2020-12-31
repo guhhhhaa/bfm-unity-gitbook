@@ -73,9 +73,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="美股" %}
 * [**Mirror.finance**](https://mirror.finance/)
 
-教程：[https://www.douban.com/group/topic/204847108/](https://www.douban.com/group/topic/204847108/)
-
-[https://guhhhhaa.gitbook.io/blockchain/defi/mirror.finance-wa-kuang-tao-li](https://guhhhhaa.gitbook.io/blockchain/defi/mirror.finance-wa-kuang-tao-li)
+\*\*\*\*[**教程**](https://www.douban.com/group/topic/204847108/)\*\*\*\*
 {% endtab %}
 
 {% tab title="合约/杠杆 交易所" %}
