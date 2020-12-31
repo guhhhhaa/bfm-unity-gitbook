@@ -93,9 +93,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/image%20%285%29.png)
 
-量化平台 [https://trello.com/c/nVRi2EFC/34-bituniverse](https://trello.com/c/nVRi2EFC/34-bituniverse)  
-量化APP [https://www.pionex.com/](https://www.pionex.com/)  
-云服务器
+币优 [https://trello.com/c/nVRi2EFC/34-bituniverse](https://trello.com/c/nVRi2EFC/34-bituniverse)  
+Pionex [https://www.pionex.com/](https://www.pionex.com/)
 {% endtab %}
 {% endtabs %}
 
