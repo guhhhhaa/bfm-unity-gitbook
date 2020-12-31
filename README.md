@@ -96,13 +96,5 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 {% endtabs %}
 
-## **云算力（不建议投资）：**
-
-\*\*\*\*[**https://www.rhy.com/**](https://www.rhy.com/)  
-****[**http://www.slfyyzx.com/**](http://www.slfyyzx.com/)  
-****[**https://www.suanlifeng.com.cn/**](https://www.suanlifeng.com.cn/)\*\*\*\*
-
-### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
-
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
 
