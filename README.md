@@ -10,7 +10,9 @@ NOTE: **This project is in beta. Use at your own risk.**
    [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)
 {% endhint %}
 
-##                      ****[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
+## [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)  **，** [**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
+
+## [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) ，[看板](https://trello.com/b/z4aDgNAL/todolist) ，[捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang)
 
 ## **DeFi：**
 
@@ -90,9 +92,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 {% endtabs %}
 
-## **投资方法论：**
-
-\*\*\*\*[**https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)\*\*\*\*
+\*\*\*\*
 
 ## **云算力（不建议投资）：**
 
@@ -101,9 +101,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 ****[**https://www.suanlifeng.com.cn/**](https://www.suanlifeng.com.cn/)\*\*\*\*
 
 ### [BFM Unity](https://guhhhhaa.gitbook.io/bfm/) 相关
-
-* [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) （包括[看板](https://trello.com/b/z4aDgNAL/todolist)）
-* [捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang)
 
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
 
