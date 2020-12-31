@@ -46,6 +46,10 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% page-ref page="defi-dao-hang.md" %}
 {% endtab %}
 
+{% tab title="PMM" %}
+[**DodoEx**](https://app.dodoex.io/)\*\*\*\*
+{% endtab %}
+
 {% tab title="聚合器" %}
 * 资产管理平台，如 [Zapper Finance](https://zapper.fi/)、[Zerion](https://zerion.io/)、[Debank](https://debank.com/)
 * 交易类聚合器， [1inch Exchange](https://1inch.exchange/)、Matcha、Meta Mask Swap、[ParaSwap](https://paraswap.io/#/)、[Insta Dapp](https://defi.instadapp.io/) 
