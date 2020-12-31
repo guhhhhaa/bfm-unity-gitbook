@@ -37,7 +37,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
 {% endtab %}
 
-{% tab title="AMM 工具" %}
+{% tab title="AMM" %}
 * [**Zapper.fi** ](https://www.zapper.fi/) **小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
 
   * \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  ****
@@ -75,12 +75,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 教程：[https://www.douban.com/group/topic/204847108/](https://www.douban.com/group/topic/204847108/)
 
 [https://guhhhhaa.gitbook.io/blockchain/defi/mirror.finance-wa-kuang-tao-li](https://guhhhhaa.gitbook.io/blockchain/defi/mirror.finance-wa-kuang-tao-li)
-{% endtab %}
-
-{% tab title="交易所" %}
-* \*\*\*\*[**Uniswap**](https://uniswapdex.com/)\*\*\*\*
-* \*\*\*\*[**https://app.uniswap.org/**](https://app.uniswap.org/)\*\*\*\*
-* \*\*\*\*[**1inch**](https://1inch.exchange/)\*\*\*\*
 {% endtab %}
 
 {% tab title="合约/杠杆 交易所" %}
