@@ -84,7 +84,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 
 {% tab title="量化" %}
-* **币安** 
+* \*\*\*\*[**币安**](https://www.binance.com/cn) ****
 
 ![](.gitbook/assets/image%20%285%29.png)
 

@@ -1,6 +1,6 @@
 # AMM 工具
 
-## [https://www.binance.com/cn](https://www.binance.com/cn)
+## [币安](https://www.binance.com/cn)
 
 ## 黑曜石祭祀刀：
 
@@ -8,9 +8,13 @@
 
 {% hint style="success" %}
 * [**Zapper.fi** ](https://www.zapper.fi/) **小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**。**
+
   * \*\*\*\*[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)  ****
   * [**Uniwap    使用说明**](https://www.chainnews.com/articles/522868612900.htm)  ****
   * \*\*\*\*[**Uniswap**](https://app.uniswap.org/) [**Curve**](https://www.curve.com/) [**Balancer**](https://balancer.finance/) [**1Inch**](https://1inch.exchange/)
+
+  PMM：[**DodoEx**](https://app.dodoex.io/)  
+  **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)\*\*\*\*
 {% endhint %}
 
 ## 游戏地图：
