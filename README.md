@@ -84,12 +84,12 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 
 {% tab title="量化" %}
-币安 
+* **币安** 
 
 ![](.gitbook/assets/image%20%285%29.png)
 
-币优 [https://trello.com/c/nVRi2EFC/34-bituniverse](https://trello.com/c/nVRi2EFC/34-bituniverse)  
-Pionex [https://www.pionex.com/](https://www.pionex.com/)
+* \*\*\*\*[**币优**](https://www.biyou.tech/)
+* \*\*\*\*[**Pionex**](https://www.pionex.com/)
 {% endtab %}
 {% endtabs %}
 
