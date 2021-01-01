@@ -91,5 +91,33 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 {% endtabs %}
 
+## 融资渠道（如何加杠杆）
+
+{% tabs %}
+{% tab title="信用卡套现" %}
+1，申请信用卡
+
+* 51信用卡管家，卡牛信用卡管家
+
+2，激活信用卡
+
+3，信用卡套现
+
+* 易钱包APP
+{% endtab %}
+
+{% tab title="币安" %}
+币安可以抵押借币，日息万五，年18%
+{% endtab %}
+
+{% tab title="DeFi" %}
+DeFi有闪电贷
+{% endtab %}
+
+{% tab title="合约，期货" %}
+群主不了解，不建议
+{% endtab %}
+{% endtabs %}
+
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
 
