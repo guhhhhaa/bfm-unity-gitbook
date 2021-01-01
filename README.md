@@ -95,6 +95,10 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tabs %}
 {% tab title="信用卡套现" %}
+{% hint style="success" %}
+推荐，费率最低，如使用如下周转方案，每月只需0.38%
+{% endhint %}
+
 1，申请信用卡
 
 * \*\*\*\*[**51信用卡管家**](https://www.u51.com/)，[**卡牛信用卡管家**](https://www.kaniu.com/)，各大手机银行
