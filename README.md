@@ -103,7 +103,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 3，信用卡套现
 
-* 易钱包APP
+* [**易钱包**](https://yqb.net.cn/)
 {% endtab %}
 
 {% tab title="币安" %}
