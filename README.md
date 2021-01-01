@@ -24,7 +24,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tabs %}
 {% tab title="DeFi" %}
-
+**DeFi Pulse Index \(DPI\)**
 
 | 了解 DeFi |
 | :---: |
