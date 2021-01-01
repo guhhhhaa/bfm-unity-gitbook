@@ -47,7 +47,7 @@ NOTE: **This project is in beta. Use at your own risk.**
   **PMM：**[**DodoEx**](https://app.dodoex.io/)  
   **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)\*\*\*\*
 
-* **Uniswap相关 TradingView版本：**[**https://www.chartex.pro/**](https://www.chartex.pro/)\*\*\*\*
+* **Uniswap相关 TradingView版本：**[**https://uniswap.vision/**](https://uniswap.vision/) **或** [**https://www.chartex.pro/**](https://www.chartex.pro/)\*\*\*\*
 * 其他工具：[https://www.bilibili.com/video/BV13D4y1o7Wh?p=1](https://www.bilibili.com/video/BV13D4y1o7Wh?p=1)
 
 {% page-ref page="defi-dao-hang.md" %}
