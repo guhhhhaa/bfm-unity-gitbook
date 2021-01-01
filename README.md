@@ -94,11 +94,11 @@ NOTE: **This project is in beta. Use at your own risk.**
 ## 融资加杠杆
 
 {% tabs %}
-{% tab title="信用卡套现" %}
+{% tab title="信用卡" %}
 {% hint style="success" %}
 推荐，**费率最低**，
 
-使用如下**资金周转方案**，只需**0.38%/月**
+使用如下**资金周转方案**，只需手续费**0.38%/月**
 {% endhint %}
 
 1，申请信用卡
@@ -109,7 +109,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 * 需**本人**带**身份证**和**信用卡**去各大银行**线下实体网点**激活
 
-3，信用卡套现
+3，刷卡方式
 
 * [**易钱包**](https://yqb.net.cn/)**（建议使用云闪付，费率0.38%）**
 * **激活序列成本：¥0.5**
