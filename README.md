@@ -101,6 +101,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 2，激活信用卡
 
+* 需本人带身份证和信用卡去各大银行线下实体网点激活
+
 3，信用卡套现
 
 * [**易钱包**](https://yqb.net.cn/)**（建议使用云闪付，费率0.38%）**
