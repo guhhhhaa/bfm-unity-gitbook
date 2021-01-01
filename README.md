@@ -24,7 +24,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tabs %}
 {% tab title="DeFi" %}
-**DeFi Pulse Index \(DPI\)** [**https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b**](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b)\*\*\*\*
+\*\*\*\*[**DeFi Pulse Index \(DPI\)** ](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b)\*\*\*\*
 
 | 了解 DeFi |
 | :---: |
