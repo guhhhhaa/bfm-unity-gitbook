@@ -91,7 +91,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 {% endtabs %}
 
-## 融资渠道（如何加杠杆）
+## 融资加杠杆
 
 {% tabs %}
 {% tab title="信用卡套现" %}
