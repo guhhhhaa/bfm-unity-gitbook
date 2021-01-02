@@ -93,7 +93,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 * \*\*\*\*[**Pionex**](https://www.pionex.com/)
 {% endtab %}
 
-{% tab title="Polkadot" %}
+{% tab title="PolkaDot" %}
 * [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
 * \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
 {% endtab %}
