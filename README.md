@@ -144,7 +144,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 {% endtabs %}
 
-### MetaMask清除Pending状态方法：点头像-设置-高级-重设账户
+### MetaMask 清除 Pending 状态方法：点头像-设置-高级-重设账户
 
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
 
