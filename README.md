@@ -20,7 +20,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 比特币指标
 
-* MVRV
+* \*\*\*\*[**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)\*\*\*\*
+* \*\*\*\*[**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/)\*\*\*\*
 
 ## **DeFi**
 
