@@ -24,8 +24,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 * \*\*\*\*[**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/)**（NVT触及卖出线离场，NVTS大于150离场）**
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/)**（下跌至第二条布林线离场）**
 
-\*\*\*\*
-
 ## **DeFi**
 
 ![](.gitbook/assets/btc.png)
