@@ -96,6 +96,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="量化" %}
 * \*\*\*\*[**币安**](https://www.binance.com/cn) ****
 
+![](.gitbook/assets/image%20%284%29.png)
+
 * \*\*\*\*[**币优**](https://www.biyou.tech/)
 * \*\*\*\*[**Pionex**](https://www.pionex.com/)
 {% endtab %}

@@ -30,8 +30,6 @@
 
 BFM 算法于 1955 年由 Alfonso Shimbel 创立。
 
-{% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.451.4085&rep=rep1&type=pdf" %}
-
 {% embed url="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford\_algorithm" %}
 
 我们利用 BFM 算法进行交叉套利路径的优化搜索。
