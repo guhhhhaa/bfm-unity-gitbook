@@ -12,7 +12,7 @@ NOTE: **This project is in beta. Use at your own risk.**
    [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)
 {% endhint %}
 
-![](.gitbook/assets/bfm%20%283%29.png)
+![](.gitbook/assets/bfm-unity.png)
 
 ## [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)  **，** [**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
 
@@ -28,6 +28,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 ## **DeFi**
 
 ![](.gitbook/assets/btc.png)
+
+![](.gitbook/assets/binance-lp.png)
 
 {% tabs %}
 {% tab title="DeFi" %}
@@ -93,8 +95,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tab title="量化" %}
 * \*\*\*\*[**币安**](https://www.binance.com/cn) ****
-
-![](.gitbook/assets/image%20%285%29.png)
 
 * \*\*\*\*[**币优**](https://www.biyou.tech/)
 * \*\*\*\*[**Pionex**](https://www.pionex.com/)
