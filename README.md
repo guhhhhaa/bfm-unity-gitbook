@@ -29,6 +29,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/btc.png)
 
+## Binance LP
+
 ![](.gitbook/assets/binance-lp.png)
 
 {% tabs %}
