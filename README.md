@@ -23,6 +23,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 * \*\*\*\*[**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **MVRV大于4离场**
 * \*\*\*\*[**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **NVT触及卖出线离场 NVTS大于150离场，小于45时入场**
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/) **下跌至第二条布林线离场**
+* \*\*\*\*[**USDT发行量与比特币价格**](https://www.longhash.com/cn/livecharts/USDT-circulation-and-bitcoin-prices)\*\*\*\*
 
 ## **DeFi**
 
@@ -153,4 +154,10 @@ NOTE: **This project is in beta. Use at your own risk.**
 ### MetaMask 清除 Pending 状态方法：点头像-设置-高级-重设账户
 
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
+
+
+
+
+
+2020.3.23 - 至今
 
