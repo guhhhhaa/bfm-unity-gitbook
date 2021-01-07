@@ -21,7 +21,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 ## 比特币指标
 
 * \*\*\*\*[**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **MVRV：网络价值/已实现价值\(基于UTXO数据\)** 历史阈值：**3.7**（表示高估）和 **1**（表示低估）
-* \*\*\*\*[**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **NVT：90**（表示高估）和 **40**（表示低估） **如果价格下跌后，NVT依然&gt;90，说明是泡沫。** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/)**大于150离场，小于45时入场**
+* \*\*\*\*[**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **NVT：90**（表示高估）和 **40**（表示低估） **如果价格小幅下跌后，NVT依然&gt;90，说明是泡沫，应该立即离场。** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/)**大于150离场，小于45时入场**
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/) **下跌至第二条布林线离场**
 * [**USDT市值TradingView**](https://www.tradingview.com/symbols/CRYPTOCAP-USDT/) **&** [**USDT发行量与比特币价格**](https://www.longhash.com/cn/livecharts/USDT-circulation-and-bitcoin-prices) **&** [**USDT市值**](https://coinmarketcap.com/currencies/tether/) ****
 
