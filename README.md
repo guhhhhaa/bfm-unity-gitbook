@@ -134,9 +134,10 @@ NOTE: **This project is in beta. Use at your own risk.**
 
   上方**ETH**, 下方输入**yCRV**
 
-  合约地址：**0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8**
+  合约地址：**0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8**  
+  [**https://info.uniswap.org/token/0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8**](https://info.uniswap.org/token/0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8)\*\*\*\*
 
-  ![](https://docs.dfi.money/zh-cn/img/buy-token06.png)
+![](https://docs.dfi.money/zh-cn/img/buy-token06.png)
 {% endtab %}
 
 {% tab title="闪电贷" %}
