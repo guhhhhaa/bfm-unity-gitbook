@@ -31,12 +31,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 ## 传统区块链
 
 {% tabs %}
-{% tab title="交易所" %}
-* \*\*\*\*[**币安**](https://www.binance.com/cn) ****
-
-![](.gitbook/assets/image%20%284%29.png)
-{% endtab %}
-
 {% tab title="法币OTC/C2C交易" %}
 * [**比特派钱包**](https://bitpie.com/)（**推荐**）
 * \*\*\*\*[**币安**](https://www.binance.com/cn) **（不推荐，需要交提币手续费）**
@@ -47,6 +41,12 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="钱包" %}
 * [**TrustWallet**](https://trustwallet.com/)**（**BIP44钱包**）**
 * [**比特派钱包**](https://bitpie.com/)**（**多功能钱包，非BIP44）
+{% endtab %}
+
+{% tab title="交易所" %}
+* \*\*\*\*[**币安**](https://www.binance.com/cn) ****
+
+![](.gitbook/assets/image%20%284%29.png)
 {% endtab %}
 
 {% tab title="量化" %}
