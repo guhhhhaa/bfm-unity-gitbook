@@ -120,6 +120,23 @@ NOTE: **This project is in beta. Use at your own risk.**
 * [mStable](https://mstable.app/#/save)
 * [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool)
 * [https://yearn.finance/zap](https://yearn.finance/zap) 或 [https://yearn.finance/earn](https://yearn.finance/earn)
+* \*\*\*\*[**yCRV兑换**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2)\*\*\*\*
+
+  **如果你的资金量在1万美元以上**：
+
+  首先进入Curve的Y池：[https://www.curve.fi/iearn/deposit](https://www.curve.fi/iearn/deposit) 抵押（**Deposit**）**USDT/DAI/USDC/TUSD** 任意一种币或多种币即可兑换出**yCRV**，也就是你的Y池权益Token。生成**yCRV**的交易费在0.15ETH左右，不建议小额资金使用。
+
+  参考以下Curve官网兑换yCRV视频教程：
+
+  **如果你的资金量在1万美元以下：**
+
+  通过[**Uniswap**](https://uniswap.exchange/swap)兑换 **yCRV**更合适.
+
+  上方**ETH**, 下方输入**yCRV**
+
+  合约地址：**0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8**
+
+  ![](https://docs.dfi.money/zh-cn/img/buy-token06.png)
 {% endtab %}
 
 {% tab title="闪电贷" %}
