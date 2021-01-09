@@ -45,13 +45,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 
 {% tab title="钱包" %}
-多功能钱包（非BIP44）
-
-* [**比特派钱包**](https://bitpie.com/)
-
-BIP44钱包
-
-* [**TrustWallet**](https://trustwallet.com/)\*\*\*\*
+* [**TrustWallet**](https://trustwallet.com/)**（**BIP44钱包**）**
+* [**比特派钱包**](https://bitpie.com/)**（**多功能钱包，非BIP44）
 {% endtab %}
 
 {% tab title="量化" %}
