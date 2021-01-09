@@ -42,8 +42,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 
 {% tab title="钱包" %}
-* [**TrustWallet**](https://trustwallet.com/)**（**BIP44钱包**）**
-* [**比特派钱包**](https://bitpie.com/)**（**多功能钱包，非BIP44）
+* [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
+* [**比特派钱包**](https://bitpie.com/)**（**多功能钱包，非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)）
 {% endtab %}
 
 {% tab title="交易所" %}
@@ -193,9 +193,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
 
+#### 创建时间：2020.3.23 - 至今
 
-
-
-
-2020.3.23 - 至今
+* [管理员入口](https://app.gitbook.com/@guhhhhaa/s/bfm/)
 
