@@ -67,6 +67,11 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% page-ref page="defi-dao-hang.md" %}
 {% endtab %}
 
+{% tab title="FARM" %}
+* [**Badger**](https://app.badger.finance/)\*\*\*\*
+* [**Harvest**](https://harvest.finance/)\*\*\*\*
+{% endtab %}
+
 {% tab title="聚合器" %}
 * 资产管理平台， [Zapper Finance](https://zapper.fi/)、[Zerion](https://zerion.io/)、[Debank](https://debank.com/)
 * 交易类聚合器， [1inch Exchange](https://1inch.exchange/)、[Matcha](https://matcha.xyz/)、[ParaSwap](https://paraswap.io/#/)、[InstaDapp](https://defi.instadapp.io/) 
