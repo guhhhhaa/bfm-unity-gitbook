@@ -36,6 +36,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 ![](.gitbook/assets/cefi.png)
 
 * [**比特派钱包**](https://bitpie.com/)（**推荐**）
+
+![](.gitbook/assets/fei-shuai-bi-jiao-.png)
+
 * \*\*\*\*[**币安**](https://www.binance.com/cn) **（不推荐，需要交提币手续费）**
 
 ![](.gitbook/assets/image%20%284%29.png)
