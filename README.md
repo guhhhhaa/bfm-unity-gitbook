@@ -32,6 +32,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tabs %}
 {% tab title="法币OTC/C2C交易" %}
+![](.gitbook/assets/cefi.png)
+
 * [**比特派钱包**](https://bitpie.com/)（**推荐**）
 * \*\*\*\*[**币安**](https://www.binance.com/cn) **（不推荐，需要交提币手续费）**
 
@@ -65,7 +67,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="DeFi" %}
 \*\*\*\*[**DeFi Pulse Index \(DPI\)** ](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b)\*\*\*\*
 
-![](.gitbook/assets/btc.png)
+![](.gitbook/assets/defi.png)
 
 | 了解 DeFi |
 | :---: |
