@@ -117,6 +117,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 * [Curve](https://www.curve.fi/)
 * [mStable](https://mstable.app/#/save)
 * [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool)
+* [https://yearn.finance/zap](https://yearn.finance/zap) 或 [https://yearn.finance/earn](https://yearn.finance/earn)
 {% endtab %}
 
 {% tab title="闪电贷" %}
