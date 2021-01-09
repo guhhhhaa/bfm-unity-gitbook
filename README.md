@@ -106,18 +106,20 @@ NOTE: **This project is in beta. Use at your own risk.**
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
 {% endtab %}
 
-{% tab title="量化" %}
-* \*\*\*\*[**币安**](https://www.binance.com/cn) ****
-
-![](.gitbook/assets/image%20%284%29.png)
-
-* \*\*\*\*[**币优**](https://www.biyou.tech/)
-* \*\*\*\*[**Pionex**](https://www.pionex.com/)
-{% endtab %}
-
 {% tab title="PolkaDot" %}
 * [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
 * \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
+{% endtab %}
+
+{% tab title="法币入金" %}
+* \*\*\*\*[**币安**](https://www.binance.com/cn) ****
+
+![](.gitbook/assets/image%20%284%29.png)
+{% endtab %}
+
+{% tab title="量化" %}
+* \*\*\*\*[**币优**](https://www.biyou.tech/)
+* \*\*\*\*[**Pionex**](https://www.pionex.com/)
 {% endtab %}
 {% endtabs %}
 
