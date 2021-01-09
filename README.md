@@ -109,6 +109,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 * 稳定币聚合协议， [mStable](https://mstable.app/)
 * 信息聚合， [DeFi Pulse](https://defipulse.com/)、[DeFi Prime](https://defiprime.com/)、[DeFiRate](https://defirate.com/) 、[CoinGecko](https://www.coingecko.com/) 这类门户网站
 * 比较收益，[https://pools.fyi/](https://pools.fyi/) 
+* 机枪池 [**YFV-Vault**](https://valuedefi.io/value-vaults)\*\*\*\*
 
   
 {% endtab %}
