@@ -100,6 +100,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="FARM" %}
 * [**Badger**](https://app.badger.finance/)\*\*\*\*
 * [**Harvest**](https://harvest.finance/)\*\*\*\*
+* 收益类聚合器，[YFI](https://yearn.finance/)、[YFII](https://dfi.money/)、[YFV](https://valuedefi.io/)、[Rari Capital](https://app.rari.capital/)
 {% endtab %}
 
 {% tab title="聚合器" %}
