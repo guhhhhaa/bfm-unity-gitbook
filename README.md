@@ -37,6 +37,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 ![](.gitbook/assets/binance-lp.png)
 
 {% tabs %}
+{% tab title="法币入金" %}
+* \*\*\*\*[**比特派钱包**](https://bitpie.com/) **（推荐）**
+* \*\*\*\*[**币安**](https://www.binance.com/cn) ****
+
+![](.gitbook/assets/image%20%284%29.png)
+{% endtab %}
+
 {% tab title="DeFi" %}
 \*\*\*\*[**DeFi Pulse Index \(DPI\)** ](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b)\*\*\*\*
 
@@ -109,12 +116,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="PolkaDot" %}
 * [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
 * \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
-{% endtab %}
-
-{% tab title="法币入金" %}
-* \*\*\*\*[**币安**](https://www.binance.com/cn) ****
-
-![](.gitbook/assets/image%20%284%29.png)
 {% endtab %}
 
 {% tab title="量化" %}
