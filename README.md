@@ -26,26 +26,51 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 * [**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **或** [**NVT**](https://www.blockchain.com/charts/nvt) **&** [**NVTS**](https://www.blockchain.com/charts/nvts) ****[**NVT**](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/#fnref2)**：90**（表示高估）和 **40**（表示低估） **如果价格小幅下跌后，NVT依然&gt;90，说明是泡沫，应该立即离场。** [**NVTS**](https://woobull.com/nvt-signal-a-new-trading-indicator-to-pick-tops-and-bottoms/)**：150**（表示高估）和 **45**（表示低估）
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/) **下跌至第二条布林线离场**
-* [**USDT市值TradingView**](https://www.tradingview.com/symbols/CRYPTOCAP-USDT/) **&** [**USDT发行量与比特币价格**](https://www.longhash.com/cn/livecharts/USDT-circulation-and-bitcoin-prices) **&** [**USDT市值**](https://coinmarketcap.com/currencies/tether/) ****
+* [**USDT市值TradingView**](https://www.tradingview.com/symbols/CRYPTOCAP-USDT/) **&** [**USDT发行量与比特币价格**](https://www.longhash.com/cn/livecharts/USDT-circulation-and-bitcoin-prices) **&** [**USDT市值**](https://coinmarketcap.com/currencies/tether/)
 
-## **DeFi**
-
-![](.gitbook/assets/btc.png)
-
-## Binance LP，牛转熊策略
-
-![](.gitbook/assets/binance-lp.png)
+## 传统区块链
 
 {% tabs %}
-{% tab title="法币入金" %}
-* \*\*\*\*[**比特派钱包**](https://bitpie.com/) **（推荐）**
+{% tab title="交易所" %}
 * \*\*\*\*[**币安**](https://www.binance.com/cn) ****
 
 ![](.gitbook/assets/image%20%284%29.png)
 {% endtab %}
 
+{% tab title="法币OTC/C2C交易" %}
+* [**比特派钱包**](https://bitpie.com/)（**推荐**）
+* \*\*\*\*[**币安**](https://www.binance.com/cn) **（不推荐，需要交提币手续费）**
+
+![](.gitbook/assets/image%20%284%29.png)
+{% endtab %}
+
+{% tab title="钱包" %}
+多功能钱包（非BIP44）
+
+* [**比特派钱包**](https://bitpie.com/)
+
+BIP44钱包
+
+* [**TrustWallet**](https://trustwallet.com/)\*\*\*\*
+{% endtab %}
+
+{% tab title="量化" %}
+* \*\*\*\*[**币优**](https://www.biyou.tech/)
+* \*\*\*\*[**Pionex**](https://www.pionex.com/)
+{% endtab %}
+
+{% tab title="币安流动性挖矿" %}
+![](.gitbook/assets/binance-lp.png)
+{% endtab %}
+{% endtabs %}
+
+## **DeFi**
+
+{% tabs %}
 {% tab title="DeFi" %}
 \*\*\*\*[**DeFi Pulse Index \(DPI\)** ](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b)\*\*\*\*
+
+![](.gitbook/assets/btc.png)
 
 | 了解 DeFi |
 | :---: |
@@ -116,11 +141,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="PolkaDot" %}
 * [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
 * \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
-{% endtab %}
-
-{% tab title="量化" %}
-* \*\*\*\*[**币优**](https://www.biyou.tech/)
-* \*\*\*\*[**Pionex**](https://www.pionex.com/)
 {% endtab %}
 {% endtabs %}
 
