@@ -169,6 +169,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 建议不要集中一天，而是在还款期之前分散多天操作。
 
 注意先多预留出少量的手续费。
+
+![](.gitbook/assets/ping-mu-kuai-zhao-20201222-xia-wu-7.19.25.png)
 {% endtab %}
 
 {% tab title="币安" %}
