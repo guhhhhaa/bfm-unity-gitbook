@@ -18,9 +18,12 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 比特币指标
 
+![](.gitbook/assets/mvrv.png)
+
 * [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **或** [**MVRV**](https://www.blockchain.com/charts/mvrv)\*\*\*\*
 
-  \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
+  \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）  
+  推荐仓位计算方式：
 
 * [**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **或** [**NVT**](https://www.blockchain.com/charts/nvt) **&** [**NVTS**](https://www.blockchain.com/charts/nvts) ****[**NVT**](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/#fnref2)**：90**（表示高估）和 **40**（表示低估） **如果价格小幅下跌后，NVT依然&gt;90，说明是泡沫，应该立即离场。** [**NVTS**](https://woobull.com/nvt-signal-a-new-trading-indicator-to-pick-tops-and-bottoms/)**：150**（表示高估）和 **45**（表示低估）
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/) **下跌至第二条布林线离场**
@@ -33,7 +36,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tabs %}
 {% tab title="法币OTC/C2C交易" %}
-![](.gitbook/assets/cefi.png)
+![](.gitbook/assets/defi.png)
 
 * [**比特派钱包**](https://bitpie.com/)（**推荐**）
 
@@ -62,6 +65,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tab title="币安流动性挖矿" %}
 ![](.gitbook/assets/binance-lp.png)
+
+![](.gitbook/assets/mvrv.png)
 {% endtab %}
 {% endtabs %}
 
@@ -71,7 +76,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="DeFi" %}
 \*\*\*\*[**DeFi Pulse Index \(DPI\)** ](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b)\*\*\*\*
 
-![](.gitbook/assets/defi.png)
+![](.gitbook/assets/defi%20%281%29.png)
 
 | 了解 DeFi |
 | :---: |
