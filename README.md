@@ -98,7 +98,8 @@ NOTE: **This project is in beta. Use at your own risk.**
   * \*\*\*\*[**比较各个AMM**](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)\*\*\*\*
 
   **PMM：**[**DodoEx**](https://app.dodoex.io/)  
-  **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)\*\*\*\*
+  **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)  
+  ****
 
 * \*\*\*\*[**Uniswap Info**](https://info.uniswap.org/) **Uniswap TradingView版本：**[**https://uniswap.vision/**](https://uniswap.vision/) **或** [**https://www.chartex.pro/**](https://www.chartex.pro/)\*\*\*\*
 * [其他工具](https://www.bilibili.com/video/BV13D4y1o7Wh?p=1)
@@ -149,6 +150,12 @@ NOTE: **This project is in beta. Use at your own risk.**
 ![](https://docs.dfi.money/zh-cn/img/buy-token06.png)
 {% endtab %}
 
+{% tab title="借贷" %}
+* Compound
+* [Aave](https://app.aave.com/)
+* [KeeperDAO](https://app.keeperdao.com/)
+{% endtab %}
+
 {% tab title="闪电贷" %}
 * [**Aave**](https://app.aave.com/)\*\*\*\*
 
@@ -161,14 +168,19 @@ NOTE: **This project is in beta. Use at your own risk.**
 \*\*\*\*[**教程**](https://www.douban.com/group/topic/204847108/)\*\*\*\*
 {% endtab %}
 
-{% tab title="合约/杠杆 交易所" %}
+{% tab title="合约/杠杆/衍生品" %}
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
+* [**BarnBridge**](https://barnbridge.com/)\*\*\*\*
 {% endtab %}
 
 {% tab title="二层协议和零知识证明" %}
 * [Loopring](https://loopring.io/#/)
 * [Loopring Swap](https://exchange.loopring.io/)
+{% endtab %}
+
+{% tab title="Link" %}
+* [**YFLink**](https://yflink.io/#/)
 {% endtab %}
 
 {% tab title="PolkaDot" %}
