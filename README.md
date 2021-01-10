@@ -166,14 +166,14 @@ NOTE: **This project is in beta. Use at your own risk.**
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
 {% endtab %}
 
-{% tab title="PolkaDot" %}
-* [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
-* \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
-{% endtab %}
-
 {% tab title="二层协议和零知识证明" %}
 * [Loopring](https://loopring.io/#/)
 * [Loopring Swap](https://exchange.loopring.io/)
+{% endtab %}
+
+{% tab title="PolkaDot" %}
+* [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
+* \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
