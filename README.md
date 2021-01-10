@@ -148,6 +148,10 @@ NOTE: **This project is in beta. Use at your own risk.**
   [**https://info.uniswap.org/token/0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8**](https://info.uniswap.org/token/0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8)\*\*\*\*
 
 ![](https://docs.dfi.money/zh-cn/img/buy-token06.png)
+
+最近资金涌入了 ESD、DSD、Basis 和 Frax 等二三四代算法型稳定币，反而一代的 AMPL 无人问津。
+
+* Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
 {% endtab %}
 
 {% tab title="借贷" %}
@@ -172,7 +176,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
 * Hegic——如果说 Oypn 是订单簿式的期权，Hegic 就是 AMM 版期权，正如 Idex 与 Uniswap 的区别；
-* Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
 * [**Barnbridge**](https://barnbridge.com/) 一个把圈内各种波动率 Token 化的协议，通过建立分级收益债券来对冲圈内各种风险。
 {% endtab %}
 
