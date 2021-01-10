@@ -171,7 +171,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% tab title="合约/杠杆/衍生品" %}
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
-* [**BarnBridge**](https://barnbridge.com/)\*\*\*\*
+* Hegic——如果说 Oypn 是订单簿式的期权，Hegic 就是 AMM 版期权，正如 Idex 与 Uniswap 的区别；
+* Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
+* [**Barnbridge**](https://barnbridge.com/) 一个把圈内各种波动率 Token 化的协议，通过建立分级收益债券来对冲圈内各种风险。
 {% endtab %}
 
 {% tab title="二层协议和零知识证明" %}
