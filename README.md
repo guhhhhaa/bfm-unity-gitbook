@@ -81,6 +81,8 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 
 {% tab title="USDT发行量" %}
 * [**USDT市值TradingView**](https://www.tradingview.com/symbols/CRYPTOCAP-USDT/) **&** [**USDT发行量与比特币价格**](https://www.longhash.com/cn/livecharts/USDT-circulation-and-bitcoin-prices) **&** [**USDT市值**](https://coinmarketcap.com/currencies/tether/)
+
+USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 {% endtabs %}
 
