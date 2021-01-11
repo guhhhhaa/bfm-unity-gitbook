@@ -1,6 +1,6 @@
 # 捐赠打赏
 
-## 社区Token/NFT拍卖
+## 社区Token/NFT拍卖（由[OpenSea](https://opensea.io/collections)支持）
 
 {% tabs %}
 {% tab title="BFM Unity Token" %}
