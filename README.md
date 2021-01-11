@@ -107,6 +107,8 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 {% tab title="交易所" %}
 * \*\*\*\*[**币安**](https://www.binance.com/cn) ****
 
+![](.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
+
 ![](.gitbook/assets/image%20%284%29.png)
 {% endtab %}
 
