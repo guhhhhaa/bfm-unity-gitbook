@@ -284,5 +284,7 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
 
+
+
 #### 创建时间：2020.3.23 - 至今  [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/)_\*\*\*\*_
 
