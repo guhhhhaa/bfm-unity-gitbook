@@ -24,7 +24,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
   \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
 
-![](.gitbook/assets/mvrv.png)
+![](.gitbook/assets/mvrv%20%281%29.png)
 
 MVRV 由两部分组成，市值（MV）和实现市值（RV），是二者的比率。市值好理解，理解实现市值是理解这个指标的关键。
 
