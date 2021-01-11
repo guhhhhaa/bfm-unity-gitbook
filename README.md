@@ -107,7 +107,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="交易所" %}
-* \*\*\*\*[**币安**](https://www.binance.com/cn) ****
+* \*\*\*\*[**币安**](https://www.binance.com/cn)
 
 ![](.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
 
