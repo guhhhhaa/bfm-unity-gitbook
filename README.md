@@ -50,6 +50,8 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 {% endtab %}
 
 {% tab title="RVT" %}
+* [**RVT介绍**](https://medium.com/@_Checkmatey_/the-bitcoin-rvt-ratio-a-high-conviction-macro-indicator-615b68715b77)\*\*\*\*
+
 ![](.gitbook/assets/image%20%289%29.png)
 
 * RVT \(90D\) 在顶部的翻转往往意味着市场的熊转牛，在市场在成本未提升的情况下开始活跃； 随着价格的升高，在人们的交易作用下，市场成本开始与交易量同步放大，
