@@ -34,10 +34,10 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 
 ## BFM Unity 的 MVRV 评级：
 
-| 时间 | 2021. 1.11 | 2021. 1.11 | 2021. 1.12 | 2021. 1.12 |  |  |  |  |  |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 评级 | B | C | D |  |  |  |  |  |  |
-| 仓位 | 25% | 0 | -20% | 0 |  |  |  |  |  |
+| 时间 | 2021. 1.11 | 2021. 1.11 |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 评级 | B | C |  |  |  |  |  |
+| 仓位 | 25% | 0 |  |  |  |  |  |
 {% endtab %}
 
 {% tab title="减半" %}
@@ -214,6 +214,22 @@ USDT市值增长的导数，决定了比特币的涨跌
 * Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
 {% endtab %}
 
+{% tab title="美股" %}
+* [**Mirror.finance**](https://mirror.finance/)
+
+\*\*\*\*[**教程**](https://www.douban.com/group/topic/204847108/)\*\*\*\*
+{% endtab %}
+
+{% tab title="二层协议和零知识证明" %}
+* [Loopring](https://loopring.io/#/)
+* [Loopring Swap](https://exchange.loopring.io/)
+{% endtab %}
+
+{% tab title="PolkaDot" %}
+* [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
+* \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
+{% endtab %}
+
 {% tab title="借贷" %}
 * Compound
 * [Aave](https://app.aave.com/)
@@ -226,12 +242,6 @@ USDT市值增长的导数，决定了比特币的涨跌
 闪电贷一般需要用户通过编程实现，但目前也出现了一些工具，比如 [CollateralSwap](https://collateralswap.com/)、[DeFi Saver](https://app.defisaver.com/)、[Furucombo](https://furucombo.app/) 等，使得用户不需要编程也能使用闪电贷。
 {% endtab %}
 
-{% tab title="美股" %}
-* [**Mirror.finance**](https://mirror.finance/)
-
-\*\*\*\*[**教程**](https://www.douban.com/group/topic/204847108/)\*\*\*\*
-{% endtab %}
-
 {% tab title="合约/杠杆/衍生品" %}
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
@@ -239,69 +249,12 @@ USDT市值增长的导数，决定了比特币的涨跌
 * [**Barnbridge**](https://barnbridge.com/) 一个把圈内各种波动率 Token 化的协议，通过建立分级收益债券来对冲圈内各种风险。
 {% endtab %}
 
-{% tab title="二层协议和零知识证明" %}
-* [Loopring](https://loopring.io/#/)
-* [Loopring Swap](https://exchange.loopring.io/)
-{% endtab %}
-
 {% tab title="Link" %}
 * [**YFLink**](https://yflink.io/#/)
 {% endtab %}
-
-{% tab title="PolkaDot" %}
-* [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
-* \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
-{% endtab %}
 {% endtabs %}
 
-## 融资加杠杆
-
-{% tabs %}
-{% tab title="信用卡" %}
-{% hint style="success" %}
-推荐，**费率最低**，
-
-使用如下**资金周转方案**，只需手续费**0.38%/月**
-{% endhint %}
-
-1，申请信用卡
-
-* \*\*\*\*[**51信用卡管家**](https://www.u51.com/)，[**卡牛信用卡管家**](https://www.kaniu.com/)，各大手机银行
-
-2，激活信用卡
-
-* 需**本人**带**身份证**和**信用卡**去各大银行**线下实体网点**激活
-
-3，刷卡收款
-
-* [**易钱包**](https://yqb.net.cn/)**（建议使用**[**云闪付**](https://yunshanfu.unionpay.com/)**，费率0.38%）**
-* \*\*\*\*[**激活序列**](https://ac.yqb.net.cn/product/)**成本：¥0.5**
-
-4，资金周转方案：如借了1.5W，手中只有1k，那么将1k还进刷出，重复15次即可还清该期欠款，延后到下一期。理论上可以无限延后，这样每个月只需交手续费，无需交利息。
-
-建议不要集中一天，而是在还款期之前分散多天操作。
-
-注意先多预留出少量的手续费。
-
-![](.gitbook/assets/ping-mu-kuai-zhao-20201222-xia-wu-7.19.25.png)
-{% endtab %}
-
-{% tab title="币安" %}
-币安可以抵押借币，日息万五，年18%
-{% endtab %}
-
-{% tab title="DeFi" %}
-* [**Aave**](https://app.aave.com/)\*\*\*\*
-
-闪电贷一般需要用户通过编程实现，但目前也出现了一些工具，比如 [CollateralSwap](https://collateralswap.com/)、[DeFi Saver](https://app.defisaver.com/)、[Furucombo](https://furucombo.app/) 等，使得用户不需要编程也能使用闪电贷。
-{% endtab %}
-
-{% tab title="合约，期货" %}
-群主不了解，不建议
-{% endtab %}
-{% endtabs %}
-
-### MetaMask 清除 Pending 状态方法：点头像-设置-高级-重设账户
+## MetaMask 清除 Pending 状态方法：点头像-设置-高级-重设账户
 
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
 
