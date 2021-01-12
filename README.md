@@ -126,7 +126,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
   \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
 
-![](.gitbook/assets/mvrv.png)
+![](.gitbook/assets/mvrv%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
