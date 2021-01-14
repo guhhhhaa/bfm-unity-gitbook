@@ -89,6 +89,11 @@ USDT市值增长的导数，决定了比特币的涨跌
 ## 传统区块链
 
 {% tabs %}
+{% tab title="导航网站" %}
+* [QKL123数据](https://www.qkl123.com/data)
+* [BlockSite](https://www.blocksite.org/)
+{% endtab %}
+
 {% tab title="法币OTC/C2C交易" %}
 ![](.gitbook/assets/cefi.png)
 
