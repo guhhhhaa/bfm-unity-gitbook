@@ -103,7 +103,9 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 {% tab title="钱包" %}
 * [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
-* [**比特派钱包**](https://bitpie.com/)**（**多功能钱包，非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)）
+* [**比特派钱包**](https://bitpie.com/)**（**多功能钱包，非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
+* BitKeep（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
+* TokenPocket（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
 {% endtab %}
 
 {% tab title="交易所" %}
@@ -215,7 +217,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="锚定BTC代币" %}
-[**RenProject**](https://bridge.renproject.io/)\*\*\*\*
+\*\*\*\*[**RenBridge**](https://bridge.renproject.io/)\*\*\*\*
 {% endtab %}
 
 {% tab title="美股" %}
