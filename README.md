@@ -185,7 +185,7 @@ USDT市值增长的导数，决定了比特币的涨跌
   
 {% endtab %}
 
-{% tab title="稳定币" %}
+{% tab title="美元稳定币" %}
 * [Curve](https://www.curve.fi/)
 * [mStable](https://mstable.app/#/save)
 * [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool)
@@ -212,6 +212,10 @@ USDT市值增长的导数，决定了比特币的涨跌
 最近资金涌入了 ESD、DSD、Basis 和 Frax 等二三四代算法型稳定币，反而一代的 AMPL 无人问津。
 
 * Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
+{% endtab %}
+
+{% tab title="锚定BTC代币" %}
+[**RenProject**](https://bridge.renproject.io/)\*\*\*\*
 {% endtab %}
 
 {% tab title="美股" %}
