@@ -192,24 +192,23 @@ USDT市值增长的导数，决定了比特币的涨跌
 * 信息聚合， [DeFi Pulse](https://defipulse.com/)、[DeFi Prime](https://defiprime.com/)、[DeFiRate](https://defirate.com/) 、[CoinGecko](https://www.coingecko.com/) 这类门户网站
 * 比较收益，[https://pools.fyi/](https://pools.fyi/) 
 * 机枪池 [**YFV-Vault**](https://valuedefi.io/value-vaults)\*\*\*\*
-
-  
 {% endtab %}
 
-{% tab title="美元稳定币" %}
+{% tab title="锚定币" %}
+* [**RenBridge**](https://bridge.renproject.io/)\*\*\*\*
 * [Curve](https://www.curve.fi/)
 * [mStable](https://mstable.app/#/save)
 * [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool)
 * [https://yearn.finance/zap](https://yearn.finance/zap) 或 [https://yearn.finance/earn](https://yearn.finance/earn)
 * \*\*\*\*[**yCRV兑换**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2)\*\*\*\*
 
-  **如果你的资金量在1万美元以上**：
+  * **如果你的资金量在1万美元以上**：
 
   首先进入Curve的Y池：[https://www.curve.fi/iearn/deposit](https://www.curve.fi/iearn/deposit) 抵押（**Deposit**）**USDT/DAI/USDC/TUSD** 任意一种币或多种币即可兑换出**yCRV**，也就是你的Y池权益Token。生成**yCRV**的交易费在0.15ETH左右，不建议小额资金使用。
 
   参考以下Curve官网兑换yCRV视频教程：
 
-  **如果你的资金量在1万美元以下：**
+  * **如果你的资金量在1万美元以下：**
 
   通过[**Uniswap**](https://uniswap.exchange/swap)兑换 **yCRV**更合适.
 
@@ -223,10 +222,6 @@ USDT市值增长的导数，决定了比特币的涨跌
 最近资金涌入了 ESD、DSD、Basis 和 Frax 等二三四代算法型稳定币，反而一代的 AMPL 无人问津。
 
 * Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
-{% endtab %}
-
-{% tab title="锚定BTC代币" %}
-\*\*\*\*[**RenBridge**](https://bridge.renproject.io/)\*\*\*\*
 {% endtab %}
 
 {% tab title="美股" %}
@@ -246,13 +241,15 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="借贷" %}
+借贷
+
 * Compound
 * [Aave](https://app.aave.com/)
 * [KeeperDAO](https://app.keeperdao.com/)
-{% endtab %}
 
-{% tab title="闪电贷" %}
-* [**Aave**](https://app.aave.com/)\*\*\*\*
+闪电贷
+
+* [**Aave**](https://app.aave.com/)
 
 闪电贷一般需要用户通过编程实现，但目前也出现了一些工具，比如 [CollateralSwap](https://collateralswap.com/)、[DeFi Saver](https://app.defisaver.com/)、[Furucombo](https://furucombo.app/) 等，使得用户不需要编程也能使用闪电贷。
 {% endtab %}
