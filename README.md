@@ -150,7 +150,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
   * \*\*\*\*[**Uniswap**](https://app.uniswap.org/)**（**[**Uniwap 使用说明**](https://www.chainnews.com/articles/522868612900.htm)**） 数据：**[**Uniswap Info**](https://info.uniswap.org/) **&** [**Uniswap ROI**](https://www.uniswaproi.com/) **TV版：**[**uniswap.vision**](https://uniswap.vision/) **或** [**ChartEx**](https://www.chartex.pro/)
   * [**Curve**](https://www.curve.com/)
-  * [**Balancer**](https://balancer.finance/)
+  * \*\*\*\*[**Balancer**](https://balancer.exchange/)**（**[**pools**](https://pools.balancer.exchange/)**）**
   * [**1Inch**](https://1inch.exchange/)**，**[**Mooniswap**](https://mooniswap.exchange/)\*\*\*\*
   * \*\*\*\*[**比较各个AMM**](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)
 
