@@ -94,6 +94,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% tab title="导航网站" %}
 * [**QKL123数据**](https://www.qkl123.com/data)\*\*\*\*
 * [**BlockSite**](https://www.blocksite.org/)\*\*\*\*
+* \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true)\*\*\*\*
 * \*\*\*\*[**巴比特**](https://www.8btc.com/) **&** [**链闻**](https://www.chainnews.com/)\*\*\*\*
 {% endtab %}
 
