@@ -212,6 +212,8 @@ BTC
 {% endtab %}
 
 {% tab title="DOT" %}
+PolkaDot
+
 * [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
 * \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
 {% endtab %}
