@@ -92,7 +92,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% tab title="导航网站" %}
 * [**QKL123数据**](https://www.qkl123.com/data)\*\*\*\*
 * [**BlockSite**](https://www.blocksite.org/)\*\*\*\*
-* \*\*\*\*[**巴比特**](https://www.8btc.com/)\*\*\*\*
+* \*\*\*\*[**巴比特**](https://www.8btc.com/) **&** [**链闻**](https://www.chainnews.com/)\*\*\*\*
 {% endtab %}
 
 {% tab title="法币OTC/C2C交易" %}
@@ -181,7 +181,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="锚定币" %}
-BTC
+**BTC**
 
 * WBTC
 * [**RenBridge**](https://bridge.renproject.io/)\*\*\*\*
