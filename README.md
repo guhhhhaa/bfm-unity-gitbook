@@ -144,22 +144,6 @@ USDT市值增长的导数，决定了比特币的涨跌
 ## **DeFi**
 
 {% tabs %}
-{% tab title="DeFi" %}
-\*\*\*\*[**DeFi Pulse Index \(DPI\)** ](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b)\*\*\*\*
-
-![](.gitbook/assets/defi.png)
-
-| 了解 DeFi |
-| :---: |
-| [https://defipulse.com/](https://defipulse.com/) |
-| [https://defiprime.com/](https://defiprime.com/) |
-| \*\*\*\*[**链闻：DeFi**](https://www.chainnews.com/tag_9336.htm)\*\*\*\* |
-
-![](.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
-
-**不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
-{% endtab %}
-
 {% tab title="AMM" %}
 * [**Zapper.fi** ](https://www.zapper.fi/) **（**[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)**，小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**）** 
 
@@ -178,6 +162,8 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="聚合器" %}
+![](.gitbook/assets/defi.png)
+
 * 资产管理平台， [Zapper Finance](https://zapper.fi/)、[Zerion](https://zerion.io/)、[Debank](https://debank.com/)
 * 交易类聚合器， [1inch Exchange](https://1inch.exchange/)、[Matcha](https://matcha.xyz/)、[ParaSwap](https://paraswap.io/#/)、[InstaDapp](https://defi.instadapp.io/) 
 * 收益类聚合器，[YFI](https://yearn.finance/)、[YFII](https://dfi.money/)、[YFV](https://valuedefi.io/)、[Rari Capital](https://app.rari.capital/)
@@ -185,8 +171,12 @@ USDT市值增长的导数，决定了比特币的涨跌
 * FARM，[**Badger**](https://app.badger.finance/)**，**[**Harvest**](https://harvest.finance/)\*\*\*\*
 * 稳定币聚合协议， [mStable](https://mstable.app/)
 * 信息聚合，门户网站，[**DeFi Pulse**](https://defipulse.com/)、[**DeFi Prime**](https://defiprime.com/)、[DeFi Rate](https://defirate.com/)、[CoinGecko](https://www.coingecko.com/)、[**链闻**](https://www.chainnews.com/tag_9336.htm)\*\*\*\*
-* 比较收益，[https://pools.fyi/](https://pools.fyi/)
-* 指数，
+* 比较收益，[pools.yfi](https://pools.fyi/)
+* 指数，[**DeFi Pulse Index \(DPI\)** ](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b)\*\*\*\*
+
+![](.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
+
+**不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
 {% endtab %}
 
 {% tab title="锚定币" %}
