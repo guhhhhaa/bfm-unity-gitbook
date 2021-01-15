@@ -26,6 +26,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/mvrv.png)
 
+![](.gitbook/assets/mvrv-jian-ban-.png)
+
 MVRV 由两部分组成，市值（MV）和实现市值（RV），是二者的比率。市值好理解，理解实现市值是理解这个指标的关键。
 
 实现市值是指市场中比特币 UTXO （产生时）的价格的总和，大体体现了市场参与者的持币成本——交易所的交易不完全体现为 UTXO 的变动，因此这里只能是"大体体现"。
@@ -150,7 +152,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
   * \*\*\*\*[**Uniswap**](https://app.uniswap.org/)**（**[**Uniwap 使用说明**](https://www.chainnews.com/articles/522868612900.htm)**） 数据：**[**Uniswap Info**](https://info.uniswap.org/) **&** [**Uniswap ROI**](https://www.uniswaproi.com/) **TV版：**[**uniswap.vision**](https://uniswap.vision/) **或** [**ChartEx**](https://www.chartex.pro/)
   * [**Curve**](https://www.curve.com/)
-  * \*\*\*\*[**Balancer**](https://balancer.exchange/)**（**[**pools**](https://pools.balancer.exchange/)**）**
+  * \*\*\*\*[**Balancer**](https://balancer.exchange/)**（**[**pools**](https://pools.balancer.exchange/)**）（**[**0.01%**](https://pools.balancer.exchange/#/pool/0x2ee268541b96b2b8129a06b006fd247b467f6118) **&** [**2.5%**](https://pools.balancer.exchange/#/pool/0x7a672f0f4f67496d7179c1626ee9adead175e719/)**）**
   * [**1Inch**](https://1inch.exchange/)**，**[**Mooniswap**](https://mooniswap.exchange/)\*\*\*\*
   * \*\*\*\*[**比较各个AMM**](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)
 
