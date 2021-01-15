@@ -204,12 +204,14 @@ BTC
 \*\*\*\*[**教程**](https://www.douban.com/group/topic/204847108/)\*\*\*\*
 {% endtab %}
 
-{% tab title="二层协议和零知识证明" %}
+{% tab title="二层协议" %}
+二层协议和零知识证明
+
 * [Loopring](https://loopring.io/#/)
 * [Loopring Swap](https://exchange.loopring.io/)
 {% endtab %}
 
-{% tab title="PolkaDot" %}
+{% tab title="DOT" %}
 * [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
 * \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
 {% endtab %}
@@ -235,7 +237,7 @@ BTC
 * [**Barnbridge**](https://barnbridge.com/) 一个把圈内各种波动率 Token 化的协议，通过建立分级收益债券来对冲圈内各种风险。
 {% endtab %}
 
-{% tab title="Link" %}
+{% tab title="LINK" %}
 * [**YFLink**](https://yflink.io/#/)
 {% endtab %}
 {% endtabs %}
