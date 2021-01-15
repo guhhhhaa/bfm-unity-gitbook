@@ -230,7 +230,7 @@ BTC
 闪电贷一般需要用户通过编程实现，但目前也出现了一些工具，比如 [CollateralSwap](https://collateralswap.com/)、[DeFi Saver](https://app.defisaver.com/)、[Furucombo](https://furucombo.app/) 等，使得用户不需要编程也能使用闪电贷。
 {% endtab %}
 
-{% tab title="合约/杠杆/衍生品" %}
+{% tab title="衍生品" %}
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
 * Hegic——如果说 Oypn 是订单簿式的期权，Hegic 就是 AMM 版期权，正如 Idex 与 Uniswap 的区别；
