@@ -102,7 +102,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ![](.gitbook/assets/fei-shuai-bi-jiao-.png)
 
-* \*\*\*\*[**币安**](https://www.binance.com/cn) **（不推荐，需要交提币手续费）**
+* \*\*\*\*[**币安**](https://www.binance.com/cn) **（需要交提币手续费）**
 
 ![](.gitbook/assets/image%20%284%29.png)
 {% endtab %}
