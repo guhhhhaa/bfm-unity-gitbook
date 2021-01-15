@@ -184,8 +184,9 @@ USDT市值增长的导数，决定了比特币的涨跌
 * 机枪池，[**YFV-Vault**](https://valuedefi.io/value-vaults)
 * FARM，[**Badger**](https://app.badger.finance/)**，**[**Harvest**](https://harvest.finance/)\*\*\*\*
 * 稳定币聚合协议， [mStable](https://mstable.app/)
-* 信息聚合，门户网站 [DeFi Pulse](https://defipulse.com/)、[DeFi Prime](https://defiprime.com/)、[DeFiRate](https://defirate.com/) 、[CoinGecko](https://www.coingecko.com/)
+* 信息聚合，门户网站，[**DeFi Pulse**](https://defipulse.com/)、[**DeFi Prime**](https://defiprime.com/)、[DeFi Rate](https://defirate.com/)、[CoinGecko](https://www.coingecko.com/)、[**链闻**](https://www.chainnews.com/tag_9336.htm)\*\*\*\*
 * 比较收益，[https://pools.fyi/](https://pools.fyi/)
+* 指数，
 {% endtab %}
 
 {% tab title="锚定币" %}
