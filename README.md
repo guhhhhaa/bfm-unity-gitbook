@@ -18,7 +18,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 比特币指标
 
-\*\*\*\*[**The total market capitalization of Nasdaq Stock Market**](https://www.macrotrends.net/stocks/charts/NDAQ/nasdaq/market-cap)\*\*\*\*
+\*\*\*\*[**The total market capitalization of Nasdaq Stock Market**](https://markets.businessinsider.com/index/market-capitalization/nasdaq_100)\*\*\*\*
 
 {% tabs %}
 {% tab title="MVRV" %}
@@ -96,10 +96,10 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 {% tabs %}
 {% tab title="导航网站" %}
-* [**QKL123数据**](https://www.qkl123.com/data)\*\*\*\*
-* [**BlockSite**](https://www.blocksite.org/)\*\*\*\*
-* \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true)\*\*\*\*
-* \*\*\*\*[**巴比特**](https://www.8btc.com/) **&** [**链闻**](https://www.chainnews.com/)\*\*\*\*
+* [**QKL123**](https://www.qkl123.com/data)**（比特币数据）**
+* [**BlockSite**](https://www.blocksite.org/)**（项目介绍）**
+* \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true)**（市值比较）**
+* \*\*\*\*[**巴比特**](https://www.8btc.com/) **&** [**链闻**](https://www.chainnews.com/)**（新闻消息）**
 {% endtab %}
 
 {% tab title="法币OTC/C2C交易" %}
