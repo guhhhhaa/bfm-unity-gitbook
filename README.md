@@ -18,6 +18,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 比特币指标
 
+\*\*\*\*[**The total market capitalization of Nasdaq Stock Market**](https://www.macrotrends.net/stocks/charts/NDAQ/nasdaq/market-cap)\*\*\*\*
+
 {% tabs %}
 {% tab title="MVRV" %}
 * [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)**（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
