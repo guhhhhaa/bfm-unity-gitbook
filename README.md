@@ -100,6 +100,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 * [**BlockSite**](https://www.blocksite.org/)**（项目介绍）**
 * \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true)**（市值比较）**
 * \*\*\*\*[**巴比特**](https://www.8btc.com/) **&** [**链闻**](https://www.chainnews.com/)**（新闻消息）**
+* \*\*\*\*[**CoinMarketCap**](https://coinmarketcap.com/)**（**[**CMC DeFi**](https://coinmarketcap.com/defi/)**）**
 {% endtab %}
 
 {% tab title="法币OTC/C2C交易" %}
