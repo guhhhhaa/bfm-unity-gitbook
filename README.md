@@ -81,6 +81,8 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 
 {% tab title="布林带" %}
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/) **下跌至第二条布林线离场**
+
+![](.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
 {% endtab %}
 
 {% tab title="USDT发行量" %}
