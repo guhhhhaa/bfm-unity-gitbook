@@ -18,7 +18,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 比特币指标
 
-\*\*\*\*[**The total market capitalization of Nasdaq Stock Market**](https://markets.businessinsider.com/index/market-capitalization/nasdaq_100)\*\*\*\*
+\*\*\*\*[**The total market capitalization of Nasdaq 100**](https://markets.businessinsider.com/index/market-capitalization/nasdaq_100)\*\*\*\*
 
 {% tabs %}
 {% tab title="MVRV" %}
@@ -154,7 +154,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 {% tabs %}
 {% tab title="AMM" %}
-* [**Zapper.fi** ](https://www.zapper.fi/) **（**[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)**，小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**）** 
+* [**Zapper.fi**](https://www.zapper.fi/)**（**[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)**，小白专用，**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**）** 
 
   * \*\*\*\*[**Uniswap**](https://app.uniswap.org/)**（**[**Uniwap 使用说明**](https://www.chainnews.com/articles/522868612900.htm)**） 数据：**[**Uniswap Info**](https://info.uniswap.org/) **&** [**Uniswap ROI**](https://www.uniswaproi.com/)**（**[**DAI/ETH**](%20https://info.uniswap.org/pair/0xa478c2975ab1ea89e8196811f51a7b7ade33eb11) **&** [**RenBTC/ETH**](https://info.uniswap.org/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d)**） TV版：**[**uniswap.vision**](https://uniswap.vision/) **或** [**ChartEx**](https://www.chartex.pro/)
   * [**Curve**](https://www.curve.com/)
