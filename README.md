@@ -162,6 +162,7 @@ USDT市值增长的导数，决定了比特币的涨跌
   * [**Curve**](https://www.curve.com/)
   * \*\*\*\*[**Balancer**](https://balancer.exchange/)**（**[**pools**](https://pools.balancer.exchange/)**）（**[**0.01%**](https://pools.balancer.exchange/#/pool/0x2ee268541b96b2b8129a06b006fd247b467f6118) **&** [**2.5%**](https://pools.balancer.exchange/#/pool/0x7a672f0f4f67496d7179c1626ee9adead175e719/)**）**
   * [**1Inch**](https://1inch.exchange/)**，**[**Mooniswap**](https://mooniswap.exchange/)\*\*\*\*
+  * \*\*\*\*[**Paraswap**](https://paraswap.io/)**，Matcha，**[**Totle**](https://totle.exchange/)\*\*\*\*
   * \*\*\*\*[**比较各个AMM**](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)
 
   **PMM：**[**DodoEx**](https://app.dodoex.io/)  
