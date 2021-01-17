@@ -1,5 +1,5 @@
 ---
-description: Main Page
+description: Home Page
 ---
 
 # 主页
