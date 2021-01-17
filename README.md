@@ -175,11 +175,11 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% tab title="聚合器" %}
 ![](.gitbook/assets/defi.png)
 
-* 资产管理平台， [Zapper Finance](https://zapper.fi/)、[Zerion](https://zerion.io/)、[Debank](https://debank.com/)、[TokenSets](https://tokensets.com/)
-* 交易类聚合器， [1inch Exchange](https://1inch.exchange/)、[Matcha](https://matcha.xyz/)、[ParaSwap](https://paraswap.io/#/)、[InstaDapp](https://defi.instadapp.io/) 
-* 收益类聚合器，[YFI](https://yearn.finance/)、[YFII](https://dfi.money/)、[YFV](https://valuedefi.io/)、[Rari Capital](https://app.rari.capital/)
+* 资产管理平台， [**Zapper Finance**](https://zapper.fi/)**、**[**Zerion**](https://zerion.io/)**、**[**Debank**](https://debank.com/)**、**[**TokenSets**](https://tokensets.com/)\*\*\*\*
+* 交易类聚合器， [**1inch Exchange**](https://1inch.exchange/)、[Matcha](https://matcha.xyz/)、[ParaSwap](https://paraswap.io/#/)、[InstaDapp](https://defi.instadapp.io/) 
+* 收益类聚合器，[**YFI**](https://yearn.finance/)**、**[**YFII**](https://dfi.money/)**、**[**YFV**](https://valuedefi.io/)、[Rari Capital](https://app.rari.capital/)
 * 机枪池，[**YFV-Vault**](https://valuedefi.io/value-vaults)
-* FARM，[**Badger**](https://app.badger.finance/)**，**[**Harvest**](https://harvest.finance/)\*\*\*\*
+* FARM，[Badger](https://app.badger.finance/)**，**[**Harvest**](https://harvest.finance/)\*\*\*\*
 * 稳定币聚合协议， [mStable](https://mstable.app/)
 * 信息聚合，门户网站，[**DeFi Pulse**](https://defipulse.com/)、[**DeFi Prime**](https://defiprime.com/)、[CoinGecko](https://www.coingecko.com/)、[**链闻**](https://www.chainnews.com/tag_9336.htm)\*\*\*\*
 * 比较收益，[pools.fyi](https://pools.fyi/)、[DeFi Rate](https://defirate.com/)
