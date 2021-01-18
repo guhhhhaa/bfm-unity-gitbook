@@ -81,19 +81,44 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tabs %}
 {% tab title="资产" %}
+## **ETH**
+
+**智能合约，DeFi入金渠道**
+
+## **BTC**
+
+* WBTC
+* [**RenBridge**](https://bridge.renproject.io/)\*\*\*\*
+
+## **USD**
+
+### [**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
+
+融合了利息，机枪池，流动性挖矿
+
 * **USDT —— 币圈入金渠道**
 * **DAI —— 去中心化稳定币**
-* **ETH —— 智能合约，DeFi入金渠道**
-* **WBTC，RenBTC —— DeFi大饼**
+* [Curve](https://www.curve.fi/)
+* [mStable](https://mstable.app/#/save)
+* [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool)
+* [https://yearn.finance/zap](https://yearn.finance/zap) 或 [https://yearn.finance/earn](https://yearn.finance/earn)
+
+最近资金涌入了 ESD、DSD、Basis 和 Frax 等二三四代算法型稳定币，反而一代的 AMPL 无人问津。
+
+* Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
 
 ## \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
 
-## \*\*\*\*[**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
+## 美股 
 
-融合了利息，机枪池，流动性挖矿
+* [**Mirror.finance**](https://mirror.finance/)
+
+\*\*\*\*[**教程**](https://www.douban.com/group/topic/204847108/)\*\*\*\*
 {% endtab %}
 
-{% tab title="AMM" %}
+{% tab title="工具" %}
+## **AMM**
+
 * [**Zapper.fi**](https://www.zapper.fi/)**（**[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)**，小白专用，🎵**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**）**
 * \*\*\*\*[**Zerion**](https://app.zerion.io/exchange)\*\*\*\*
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
@@ -113,12 +138,10 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 * [其他工具](https://www.bilibili.com/video/BV13D4y1o7Wh?p=1)
 
-## [**项目列表-DeBank**](https://debank.com/projects)\*\*\*\*
+### [**项目列表-DeBank**](https://debank.com/projects)\*\*\*\*
 
-{% page-ref page="defi-dao-hang.md" %}
-{% endtab %}
+## **聚合器**
 
-{% tab title="聚合器" %}
 ![](.gitbook/assets/defi.png)
 
 * 资产管理平台， [**Zapper Finance**](https://zapper.fi/)**、**[**Zerion**](https://zerion.io/)**、**[**Debank**](https://debank.com/)**、**[**TokenSets**](https://tokensets.com/)\*\*\*\*
@@ -133,70 +156,41 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
 
-**不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
-{% endtab %}
-
-{% tab title="锚定币" %}
-**BTC**
-
-* WBTC
-* [**RenBridge**](https://bridge.renproject.io/)\*\*\*\*
-
-**USD**
-
-* [Curve](https://www.curve.fi/)
-* [mStable](https://mstable.app/#/save)
-* [Curve mUSD-3POOL](https://www.curve.fi/musd/deposit) , [mStable API](https://mstable.app/#/earn/curve-musd-3pool)
-* [https://yearn.finance/zap](https://yearn.finance/zap) 或 [https://yearn.finance/earn](https://yearn.finance/earn)
-* \*\*\*\*[**yCRV兑换**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2)\*\*\*\*
-
-最近资金涌入了 ESD、DSD、Basis 和 Frax 等二三四代算法型稳定币，反而一代的 AMPL 无人问津。
-
-* Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
-{% endtab %}
-
-{% tab title="美股" %}
-* [**Mirror.finance**](https://mirror.finance/)
-
-\*\*\*\*[**教程**](https://www.douban.com/group/topic/204847108/)\*\*\*\*
-{% endtab %}
-
-{% tab title="二层协议" %}
-二层协议和零知识证明
-
-* [Loopring](https://loopring.io/#/)
-* [Loopring Swap](https://exchange.loopring.io/)
-{% endtab %}
-
-{% tab title="DOT" %}
-PolkaDot
-
-* [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
-* \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
-{% endtab %}
-
-{% tab title="借贷" %}
-借贷
+## 借贷
 
 * Compound
 * [Aave](https://app.aave.com/)
 * [KeeperDAO](https://app.keeperdao.com/)
 
-闪电贷
+### 闪电贷
 
 * [**Aave**](https://app.aave.com/)
 
 闪电贷一般需要用户通过编程实现，但目前也出现了一些工具，比如 [CollateralSwap](https://collateralswap.com/)、[DeFi Saver](https://app.defisaver.com/)、[Furucombo](https://furucombo.app/) 等，使得用户不需要编程也能使用闪电贷。
-{% endtab %}
 
-{% tab title="衍生品" %}
+## **衍生品**
+
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
 * Hegic——如果说 Oypn 是订单簿式的期权，Hegic 就是 AMM 版期权，正如 Idex 与 Uniswap 的区别；
 * [**Barnbridge**](https://barnbridge.com/) 一个把圈内各种波动率 Token 化的协议，通过建立分级收益债券来对冲圈内各种风险。
+
+**不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
 {% endtab %}
 
-{% tab title="LINK" %}
+{% tab title="前沿" %}
+## 二层协议和零知识证明
+
+* [Loopring](https://loopring.io/#/)
+* [Loopring Swap](https://exchange.loopring.io/)
+
+## PolkaDot
+
+* [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
+* \*\*\*\*[**Reef**](https://reef.finance/)\*\*\*\*
+
+## **LINK**
+
 * [**YFLink**](https://yflink.io/#/)
 {% endtab %}
 {% endtabs %}
