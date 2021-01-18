@@ -99,6 +99,7 @@ NOTE: **This project is in beta. Use at your own risk.**
   **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)
 
 * [其他工具](https://www.bilibili.com/video/BV13D4y1o7Wh?p=1)
+* [**项目列表-DeBank**](https://debank.com/projects)\*\*\*\*
 
 {% page-ref page="defi-dao-hang.md" %}
 {% endtab %}
@@ -114,7 +115,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 * 稳定币聚合协议， [mStable](https://mstable.app/)
 * 信息聚合，门户网站，[**DeFi Pulse**](https://defipulse.com/)、[**DeFi Prime**](https://defiprime.com/)、[CoinGecko](https://www.coingecko.com/)、[**链闻**](https://www.chainnews.com/tag_9336.htm)\*\*\*\*
 * 比较收益，[pools.fyi](https://pools.fyi/)、[DeFi Rate](https://defirate.com/)
-* 指数，[**DeFi Pulse Index \(DPI\)**](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b) **或**[ **DPI（Tokensets）**](https://www.tokensets.com/portfolio/dpi) ****[**https://www.coingecko.com/en/coins/defipulse-index**](https://www.coingecko.com/en/coins/defipulse-index) ****[**https://www.indexcoop.com/**](https://www.indexcoop.com/)\*\*\*\*
+* 指数，[**DeFi Pulse Index \(DPI\)**](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b) **或**[ **DPI（Tokensets）**](https://www.tokensets.com/portfolio/dpi) ****[**https://www.coingecko.com/en/coins/defipulse-index**](https://www.coingecko.com/en/coins/defipulse-index) ****[**https://www.indexcoop.com/**](https://www.indexcoop.com/)\*\*\*\*[**https://www.indexcoop.com/dpi**](https://www.indexcoop.com/dpi)\*\*\*\*[**https://www.indexcoop.com/farm**](https://www.indexcoop.com/farm)\*\*\*\*
 
 ![](.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
 
