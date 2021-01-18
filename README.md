@@ -92,6 +92,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 * WBTC
 * [**RenBridge**](https://bridge.renproject.io/)\*\*\*\*
 
+## [**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
+
 ## **USD**
 
 ### [**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
@@ -109,7 +111,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 * Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
 
-## \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
+## \*\*\*\*
 
 ## 美股 
 
