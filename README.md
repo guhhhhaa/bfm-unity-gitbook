@@ -85,10 +85,12 @@ NOTE: **This project is in beta. Use at your own risk.**
 * **DAI —— 去中心化稳定币**
 * **ETH —— 智能合约，DeFi入金渠道**
 * **WBTC，RenBTC —— DeFi大饼**
-* \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
-* \*\*\*\*[**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
 
-\*\*\*\*
+## \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
+
+## \*\*\*\*[**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
+
+融合了利息，机枪池，流动性挖矿
 {% endtab %}
 
 {% tab title="AMM" %}
@@ -110,7 +112,8 @@ NOTE: **This project is in beta. Use at your own risk.**
   **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)
 
 * [其他工具](https://www.bilibili.com/video/BV13D4y1o7Wh?p=1)
-* [**项目列表-DeBank**](https://debank.com/projects)\*\*\*\*
+
+## [**项目列表-DeBank**](https://debank.com/projects)\*\*\*\*
 
 {% page-ref page="defi-dao-hang.md" %}
 {% endtab %}
