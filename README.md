@@ -81,10 +81,14 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tabs %}
 {% tab title="资产" %}
+* **USDT —— 币圈入金渠道**
+* **DAI —— 去中心化稳定币**
+* **ETH —— 智能合约，DeFi入金渠道**
+* **WBTC，RenBTC —— DeFi大饼**
 * \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
 * \*\*\*\*[**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
-* **ETH —— 智能合约**
-* **WBTC，RenBTC —— 大饼**
+
+\*\*\*\*
 {% endtab %}
 
 {% tab title="AMM" %}
