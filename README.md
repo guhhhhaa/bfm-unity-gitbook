@@ -52,19 +52,21 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 
 {% tab title="交易所" %}
+## **交易所**
+
 * \*\*\*\*[**币安**](https://www.binance.com/cn)
 
 ![](.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
 
 ![](.gitbook/assets/image%20%284%29.png)
-{% endtab %}
 
-{% tab title="量化" %}
+## 量化
+
 * \*\*\*\*[**币优**](https://www.biyou.tech/)
 * \*\*\*\*[**Pionex**](https://www.pionex.com/)
-{% endtab %}
 
-{% tab title="币安流动性挖矿" %}
+## 流动性挖矿
+
 ![](.gitbook/assets/binance-lp.png)
 
 * [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
