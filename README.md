@@ -52,19 +52,21 @@ NOTE: **This project is in beta. Use at your own risk.**
 {% endtab %}
 
 {% tab title="交易所" %}
+## **交易所**
+
 * \*\*\*\*[**币安**](https://www.binance.com/cn)
 
 ![](.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
 
 ![](.gitbook/assets/image%20%284%29.png)
-{% endtab %}
 
-{% tab title="量化" %}
+## 量化
+
 * \*\*\*\*[**币优**](https://www.biyou.tech/)
 * \*\*\*\*[**Pionex**](https://www.pionex.com/)
-{% endtab %}
 
-{% tab title="币安流动性挖矿" %}
+## 流动性挖矿
+
 ![](.gitbook/assets/binance-lp.png)
 
 * [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
@@ -90,6 +92,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 * WBTC
 * [**RenBridge**](https://bridge.renproject.io/)\*\*\*\*
 
+## [**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
+
 ## **USD**
 
 ### [**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
@@ -107,7 +111,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 * Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
 
-## \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
+## \*\*\*\*
 
 ## 美股 
 
@@ -118,6 +122,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tab title="工具" %}
 ## **AMM**
+
+### [**项目列表-DeBank**](https://debank.com/projects)\*\*\*\*
 
 * [**Zapper.fi**](https://www.zapper.fi/)**（**[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)**，小白专用，🎵**[**Atom bomb baby**](https://music.163.com/song?id=567215077&userid=273670441)**）**
 * \*\*\*\*[**Zerion**](https://app.zerion.io/exchange)\*\*\*\*
@@ -137,8 +143,6 @@ NOTE: **This project is in beta. Use at your own risk.**
   **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)
 
 * [其他工具](https://www.bilibili.com/video/BV13D4y1o7Wh?p=1)
-
-### [**项目列表-DeBank**](https://debank.com/projects)\*\*\*\*
 
 ## **聚合器**
 
@@ -201,9 +205,10 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% tabs %}
 {% tab title="MVRV" %}
-* [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)**（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
+* [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）或** [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)**（Woobull）**
 
-  \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
+  \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）  
+  （以7天平均为准）
 
 ![](.gitbook/assets/mvrv.png)
 
