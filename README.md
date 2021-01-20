@@ -220,6 +220,8 @@ MVRV 由两部分组成，市值（MV）和实现市值（RV），是二者的�
 
 MVRV 可以简单地理解为目前的市场价格和成本的比率。
 
+[https://share.weiyun.com/vQT1HpPe](https://share.weiyun.com/vQT1HpPe) —— BTC仓位表格
+
 ## BFM Unity 的 MVRV 评级：（以四分之一为准）
 
 | 时间 | 2021. 1.11 | 2021. 1.11 |  |  |  |  |  |
