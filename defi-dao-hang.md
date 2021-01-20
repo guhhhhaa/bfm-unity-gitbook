@@ -2,9 +2,7 @@
 
 ## [币安](https://www.binance.com/cn)
 
-## 黑曜石祭祀刀：
-
-![](.gitbook/assets/image%20%281%29.png)
+### 黑曜石祭祀刀：
 
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
@@ -13,6 +11,8 @@
 * \*\*\*\*[**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2)\*\*\*\*
 * \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi)
 {% endhint %}
+
+![](.gitbook/assets/image%20%281%29.png)
 
 ## 游戏地图：
 
