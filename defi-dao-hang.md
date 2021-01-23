@@ -1,6 +1,6 @@
 # 简版主页
 
-## [币安](https://www.binance.com/cn)，币优，Trust Wallet，比特派
+## [币安](https://www.binance.com/cn)
 
 ### 黑曜石祭祀刀：
 

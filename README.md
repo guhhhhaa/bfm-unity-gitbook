@@ -4,7 +4,7 @@ description: Home Page
 
 # 主页
 
-{% page-ref page="./" %}
+{% page-ref page="defi-dao-hang.md" %}
 
 {% hint style="info" %}
 NOTE: **This project is in beta. Use at your own risk.**    
