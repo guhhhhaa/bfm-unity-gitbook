@@ -1,8 +1,8 @@
 # 简版主页
 
-### [币安](https://www.binance.com/cn)，[币优](https://www.biyou.tech/)，[Trust Wallet](https://trustwallet.com/)
+## [币安](https://www.binance.com/cn)
 
-### [MVRV](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/FtuY7Cpy)
+### 黑曜石祭祀刀：
 
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
