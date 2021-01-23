@@ -1,6 +1,7 @@
 # Table of contents
 
 * [主页](README.md)
+* [融资加杠杆](zhe-die.md)
 * [简版主页](defi-dao-hang.md)
 * [捐赠打赏](juan-zeng-da-shang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
@@ -24,6 +25,5 @@
   * [动漫](it-chao-du-zhi-nan/dong-man.md)
   * [01城密咒](it-chao-du-zhi-nan/untitled.md)
 * [我的个人信息](wo-de-ge-ren-xin-xi.md)
-* [折叠](zhe-die.md)
 * [SS 翻墙](ss-fan-qiang.md)
 
