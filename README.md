@@ -199,6 +199,10 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 * [**YFLink**](https://yflink.io/#/)
 {% endtab %}
+
+{% tab title="指标" %}
+您还可以参考数据分析网站 [Nansen](https://nansen.ai/)、[Intotheblock](https://app.intotheblock.com/insights/defi)、[TokenTerminal](https://www.tokenterminal.com/)、[Santiment](https://graphs.santiment.net/) 等创建的某些指标或模型。这是 **TokenTerminal** 设计的一个 P/S 指标，代币价格与销售比率的示例。如图所示，Uniswap 和 Sushiswap 均被低估。
+{% endtab %}
 {% endtabs %}
 
 ## 比特币指标
