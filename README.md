@@ -226,7 +226,7 @@ MVRV 由两部分组成，市值（MV）和实现市值（RV），是二者的�
 
 MVRV 可以简单地理解为目前的市场价格和成本的比率。
 
-[https://share.weiyun.com/OGL0q1e1](https://share.weiyun.com/OGL0q1e1)—— BTC仓位表格
+[https://share.weiyun.com/ZAYny91K](https://share.weiyun.com/ZAYny91K) —— BTC仓位表格
 
 | MVRV | 1 | 3 | 4 | x |
 | :--- | :--- | :--- | :--- | :--- |
