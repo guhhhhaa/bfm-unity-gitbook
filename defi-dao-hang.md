@@ -14,7 +14,7 @@
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-## [上面这个标志的由来](http://www.dilidili3.com/play/3998/135852.html)
+## [上面这个标志的由来](http://www.dilidili3.com/play/3998/135852.html)（请直接跳到01:27:52）
 
 ## 游戏地图：
 
