@@ -1,8 +1,8 @@
 # 简版主页
 
-## [币安](https://www.binance.com/cn)
+### [币安](https://www.binance.com/cn)，[币优](https://www.biyou.tech/)，[Trust Wallet](https://trustwallet.com/)
 
-### 黑曜石祭祀刀：
+### [MVRV](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/FtuY7Cpy)
 
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
@@ -13,6 +13,8 @@
 {% endhint %}
 
 ![](.gitbook/assets/image%20%281%29.png)
+
+## [上面这个标志的由来](http://www.dilidili3.com/play/3998/135852.html)
 
 ## 游戏地图：
 

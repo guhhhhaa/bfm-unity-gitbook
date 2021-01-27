@@ -28,7 +28,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 * \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true)**（市值比较）**
 * \*\*\*\*[**巴比特**](https://www.8btc.com/) **&** [**链闻**](https://www.chainnews.com/)**（新闻消息）**
 * \*\*\*\*[**CoinMarketCap**](https://coinmarketcap.com/)**（**[**CMC DeFi**](https://coinmarketcap.com/defi/)**）**
-* \*\*\*\*[**其他区块链数据分析网站**](https://medium.com/@chainnews/%E9%80%81%E4%BD%A0-22-%E4%B8%AA%E9%93%BE%E4%B8%8A%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%A9%E5%99%A8-%E6%B4%9E%E7%A9%BF%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E9%87%8D%E9%87%8D%E8%BF%B7%E9%9B%BE-b57f5b4b5727)\*\*\*\*
 {% endtab %}
 
 {% tab title="法币OTC/C2C交易" %}
@@ -217,8 +216,6 @@ NOTE: **This project is in beta. Use at your own risk.**
   \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）  
   （以7天平均为准）
 
-## [BTC仓位智能投资决策Excel表格](https://share.weiyun.com/wifF75W2)（[介绍视频](https://www.bilibili.com/video/BV12N411d7nj/)）
-
 ![](.gitbook/assets/mvrv.png)
 
 ![](.gitbook/assets/mvrv-jian-ban-.png)
@@ -228,6 +225,8 @@ MVRV 由两部分组成，市值（MV）和实现市值（RV），是二者的�
 实现市值是指市场中比特币 UTXO （产生时）的价格的总和，大体体现了市场参与者的持币成本——交易所的交易不完全体现为 UTXO 的变动，因此这里只能是"大体体现"。
 
 MVRV 可以简单地理解为目前的市场价格和成本的比率。
+
+[https://share.weiyun.com/OGL0q1e1](https://share.weiyun.com/OGL0q1e1)—— BTC仓位表格
 
 | MVRV | 1 | 3 | 4 | x |
 | :--- | :--- | :--- | :--- | :--- |
@@ -252,52 +251,14 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 |  |  |  |  |  |
 | 仓位熊 |  |  |  | y\_BEAR=\(3\*y1+2\*y2\)/5 |
 
+## 
+
 ## BFM Unity 的 MVRV 评级：（以四分之一为准）
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">&#x65F6;&#x95F4;</th>
-      <th style="text-align:left">2021.
-        <br />1.11</th>
-      <th style="text-align:left">2021.
-        <br />1.11</th>
-      <th style="text-align:left">
-        <p>2021.</p>
-        <p>1.21</p>
-      </th>
-      <th style="text-align:left">
-        <p>2021.</p>
-        <p>1.27</p>
-      </th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">&#x8BC4;&#x7EA7;</td>
-      <td style="text-align:left">B</td>
-      <td style="text-align:left">C</td>
-      <td style="text-align:left">C</td>
-      <td style="text-align:left">C</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x4ED3;&#x4F4D;</td>
-      <td style="text-align:left">25%</td>
-      <td style="text-align:left">0</td>
-      <td style="text-align:left">2.53%</td>
-      <td style="text-align:left">4.36%</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+| 时间 | 2021. 1.11 | 2021. 1.11 | 2021.1.21 |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 评级 | B | C | C |  |  |  |  |
+| 仓位 | 25% | 0 | 2.53% |  |  |  |  |
 {% endtab %}
 
 {% tab title="减半" %}
