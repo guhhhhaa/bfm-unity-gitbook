@@ -115,7 +115,7 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 这 6 个细节问题，如果你不能回答其中的任何一个，那么 BFM 算法就和你无缘了，所以，坑还是很深的。
 {% endhint %}
 
-
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210127-xia-wu-10.54.01.png)
 
 有些问题回答不出来？可以看看这个：
 
