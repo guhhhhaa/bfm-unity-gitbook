@@ -117,7 +117,7 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210127-xia-wu-10.54.01.png)
 
-有些问题回答不出来？可以看看这个：
+## 有些问题回答不出来？可以看看这个：
 
 {% page-ref page="../ruan-jian-bfm-on-python/" %}
 
