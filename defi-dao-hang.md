@@ -2,7 +2,7 @@
 
 ### [币安](https://www.binance.com/cn)，[币优](https://www.biyou.tech/)，[Trust Wallet](https://trustwallet.com/)
 
-### [MVRV](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/wifF75W2)（[视频](https://www.bilibili.com/video/BV12N411d7nj)）
+### [MVRV](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/UZfIjrcC)（[视频](https://www.bilibili.com/video/BV12N411d7nj)）
 
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
