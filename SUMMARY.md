@@ -2,7 +2,7 @@
 
 * [主页](README.md)
 * [融资加杠杆](zhe-die.md)
-* [简版主页](defi-dao-hang.md)
+* [原版主页](defi-dao-hang.md)
 * [捐赠打赏](juan-zeng-da-shang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [【研究】参考文献](what-is-bfm-al/bfm-al-ckwx.md)
