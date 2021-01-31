@@ -78,6 +78,12 @@
 
 ## [**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
 
+## \*\*\*\*[**PieDAO**](https://www.piedao.org/)\*\*\*\*
+
+**DeFi++**
+
+[**BCP \(PieDAO Balanced Crypto Pie\)**](https://pools.piedao.org/#/swap) **\(**[**Oven**](https://pools.piedao.org/#/oven)**\)**
+
 ## **USD**
 
 ### [**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
@@ -94,12 +100,6 @@
 最近资金涌入了 ESD、DSD、Basis 和 Frax 等二三四代算法型稳定币，反而一代的 AMPL 无人问津。
 
 * Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
-
-## **PieDAO**
-
-**DeFi++**
-
-[**BCP \(PieDAO Balanced Crypto Pie\)**](https://pools.piedao.org/#/swap) **\(**[**Oven**](https://pools.piedao.org/#/oven)**\)**
 
 ## 美股 
 
