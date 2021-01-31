@@ -116,6 +116,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## **PieDAO**
 
+**DeFi++**
+
 **PieDAO Balanced Crypto Pie**
 
 ## 美股 
