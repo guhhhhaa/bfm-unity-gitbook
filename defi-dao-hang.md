@@ -80,9 +80,9 @@
 
 ## \*\*\*\*[**PieDAO**](https://www.piedao.org/)\*\*\*\*
 
-**DeFi++**
+\*\*\*\*[**DeFi++**](https://www.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033)\*\*\*\*
 
-[**BCP \(PieDAO Balanced Crypto Pie\)**](https://pools.piedao.org/#/swap) **\(**[**Oven**](https://pools.piedao.org/#/oven)**\)**
+[**BCP \(PieDAO Balanced Crypto Pie\)**](https://pools.piedao.org/#/swap) **\(**[**Oven**](https://pools.piedao.org/#/oven)**\) \(**[**介绍**](https://medium.com/piedao/announcing-balanced-crypto-pie-bcp-btc-eth-and-defi-7a2423c5d94e)**\)**
 
 ## **USD**
 
