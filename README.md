@@ -114,7 +114,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 * Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
 
-## \*\*\*\*
+## **PieDAO**
+
+**PieDAO Balanced Crypto Pie**
 
 ## 美股 
 
