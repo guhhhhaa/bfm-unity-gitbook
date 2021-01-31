@@ -29,7 +29,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 * \*\*\*\*[**Zerion**](https://app.zerion.io/exchange) ****
 * \*\*\*\*[**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2)\*\*\*\*
 * \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi)
-* **BCP \(PieDAO Balanced Crypto Pie\)**
+* \*\*\*\*[**BCP \(PieDAO Balanced Crypto Pie\)**](https://pools.piedao.org/#/swap) **\(**[**Oven**](https://pools.piedao.org/#/oven)**\)**
 {% endhint %}
 
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
