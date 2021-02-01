@@ -196,6 +196,10 @@
 \*\*\*\*[**The total market capitalization of Nasdaq 100**](https://markets.businessinsider.com/index/market-capitalization/nasdaq_100)\*\*\*\*
 
 {% tabs %}
+{% tab title="Sharpe Ratio" %}
+\*\*\*\*[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)\*\*\*\*
+{% endtab %}
+
 {% tab title="MVRV" %}
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）或** [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)**（Woobull）**
 
