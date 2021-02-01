@@ -23,8 +23,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ### [MVRV](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/3Wu8sdaX)（[视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
 
-[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)\*\*\*\*
-
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
 * [**Zapper.fi**](https://www.zapper.fi/)
