@@ -196,13 +196,17 @@
 \*\*\*\*[**The total market capitalization of Nasdaq 100**](https://markets.businessinsider.com/index/market-capitalization/nasdaq_100)\*\*\*\*
 
 {% tabs %}
+{% tab title="Sharpe Ratio" %}
+\*\*\*\*[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)\*\*\*\*
+{% endtab %}
+
 {% tab title="MVRV" %}
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）或** [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)**（Woobull）**
 
   \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）  
   （以7天平均为准）
 
-## [BTC仓位智能投资决策Excel表格](https://share.weiyun.com/3Wu8sdaX)（[介绍视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
+## [BTC仓位智能投资决策Excel表格](https://share.weiyun.com/TG4HxGnT)（[介绍视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
 
 ![](.gitbook/assets/mvrv.png)
 
