@@ -206,7 +206,7 @@
   \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）  
   （以7天平均为准）
 
-## [BTC仓位智能投资决策Excel表格](https://share.weiyun.com/GwuntcqE)（[介绍视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
+## [BTC仓位智能投资决策Excel表格](https://share.weiyun.com/ksYpyVWG)（[介绍视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
 
 ![](.gitbook/assets/mvrv.png)
 
