@@ -42,5 +42,5 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 
 
-#### ฿FM Unity™ 2020.3.23 - 至今  [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/)_\*\*\*\*_
+#### ฿FM Unity™ \| 2020.3.23 - 至今 \| [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/)_\*\*\*\*_
 
