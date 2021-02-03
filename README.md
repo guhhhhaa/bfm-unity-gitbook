@@ -34,6 +34,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 * \*\*\*\*[**BCP \(PieDAO Balanced Crypto Pie\)**](https://pools.piedao.org/#/pie/0xe4f726adc8e89c6a6017f01eada77865db22da14) **\(**[**Oven**](https://pools.piedao.org/#/oven)**\) \(**[**介绍**](https://medium.com/piedao/announcing-balanced-crypto-pie-bcp-btc-eth-and-defi-7a2423c5d94e)**\)**
 {% endhint %}
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20210203-shang-wu-11.33.58.png)
+
 我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
 
 
