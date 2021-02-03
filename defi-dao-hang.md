@@ -208,6 +208,8 @@
 
 ## [BTC仓位智能投资决策Excel表格](https://share.weiyun.com/JVQDigJ5)（[介绍视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
 
+{% embed url="https://docs.google.com/spreadsheets/d/1AWqs2NtlfHxTnAWkWg0Et9mQux61A9O-/edit\#gid=1620029108" %}
+
 ![](.gitbook/assets/mvrv.png)
 
 ![](.gitbook/assets/mvrv-jian-ban-.png)
