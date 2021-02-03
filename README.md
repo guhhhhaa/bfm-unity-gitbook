@@ -23,7 +23,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ### [MVRV](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/JVQDigJ5)（[视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
 
-[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)\*\*\*\*
+[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)**，**[**市值比较**](https://assetdash.com/?all=true)\*\*\*\*
 
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
