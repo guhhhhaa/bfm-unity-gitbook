@@ -2,13 +2,7 @@
 
 {% embed url="https://free-ss.site/" %}
 
-
-
-
-
-
-
-
+![](.gitbook/assets/direct_access.png)
 
 {% embed url="https://guhhhhaa.gitbook.io/-5/" %}
 
