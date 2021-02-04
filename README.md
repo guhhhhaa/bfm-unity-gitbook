@@ -21,7 +21,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ### [币安](https://www.binance.com/cn)，[币优](https://www.biyou.tech/)，[Trust Wallet](https://trustwallet.com/)
 
-### [MVRV](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/JVQDigJ5)（[视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)），[Assets](https://share.weiyun.com/s6DJ9fiz)
+### [MVRV](https://www.blockchain.com/charts/mvrv)，[S2F](https://www.qkl123.com/data/s2f/btc)，[MVRV表格](https://share.weiyun.com/JVQDigJ5)（[视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)），[Assets](https://share.weiyun.com/s6DJ9fiz)
 
 [**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)**，**[**市值比较**](https://assetdash.com/?all=true)\*\*\*\*
 
