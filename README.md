@@ -25,23 +25,20 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ### 比特币
 
-[MVRV泡沫程度](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/JVQDigJ5)（[视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
-
-[S2F目标价格](https://www.qkl123.com/data/s2f/btc)
+* [MVRV泡沫程度](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/44u0qX55)（[视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
+* [S2F目标价格](https://www.qkl123.com/data/s2f/btc)
 
 ### 纳指
 
-[巴菲特指标](http://www.currentmarketvaluation.com/models/buffett-indicator.php)以股市总市值占GNP（或GDP）的比例来衡量一国股市的估值水平，又被称作资产证券化率指标。（[https://www.sohu.com/a/437526687\_146833](https://www.sohu.com/a/437526687_146833)）一般情况，巴菲特指标位于70%至80%之间时是买入美股的好时机。如果巴菲特指标超过100%，则投资者需要关注美国股市的风险，并应该考虑持币观察。
-
-[超额收益指数（ECY）](https://www.macromicro.me/charts/27100/us-shiller-ecy)=（1/周期性调节市盈率（CAPE））-10年实际利率（[https://www.sohu.com/a/436891292\_146833](https://www.sohu.com/a/436891292_146833)）（+正数具有投资价值，-负数没有投资价值）
-
-[周期性调节市盈率（CAPE）](https://ycharts.com/indicators/cyclically_adjusted_pe_ratio)。周期性调节市盈率=实际（通货膨胀调节后）股价/10年平均美股收益（[https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be](https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be)）&gt;40泡沫，&lt;10正常，仓位\(40-x\)/30\*100
-
-VIX
+* [巴菲特指标](http://www.currentmarketvaluation.com/models/buffett-indicator.php)以股市总市值占GNP（或GDP）的比例来衡量一国股市的估值水平，又被称作资产证券化率指标。（[https://www.sohu.com/a/437526687\_146833](https://www.sohu.com/a/437526687_146833)）一般情况，巴菲特指标位于70%至80%之间时是买入美股的好时机。如果巴菲特指标超过100%，则投资者需要关注美国股市的风险，并应该考虑持币观察。
+* [超额收益指数（ECY）](https://www.macromicro.me/charts/27100/us-shiller-ecy)=（1/周期性调节市盈率（CAPE））-10年实际利率（[https://www.sohu.com/a/436891292\_146833](https://www.sohu.com/a/436891292_146833)）（+正数具有投资价值，-负数没有投资价值）
+* [周期性调节市盈率（CAPE）](https://ycharts.com/indicators/cyclically_adjusted_pe_ratio)。周期性调节市盈率=实际（通货膨胀调节后）股价/10年平均美股收益（[https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be](https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be)）&gt;40泡沫，&lt;10正常，仓位\(40-x\)/30\*100
+* VIX
 
 ### 综合
 
-[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)**，**[**市值比较**](https://assetdash.com/?all=true)\*\*\*\*
+* [**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)
+* [**市值比较**](https://assetdash.com/?all=true)\*\*\*\*
 
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
