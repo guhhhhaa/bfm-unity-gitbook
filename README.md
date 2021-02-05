@@ -29,7 +29,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 [S2F目标价格](https://www.qkl123.com/data/s2f/btc)
 
-## 纳指
+### 纳指
 
 [巴菲特指标](http://www.currentmarketvaluation.com/models/buffett-indicator.php)以股市总市值占GNP（或GDP）的比例来衡量一国股市的估值水平，又被称作资产证券化率指标。（[https://www.sohu.com/a/437526687\_146833](https://www.sohu.com/a/437526687_146833)）一般情况，巴菲特指标位于70%至80%之间时是买入美股的好时机。如果巴菲特指标超过100%，则投资者需要关注美国股市的风险，并应该考虑持币观察。
 
@@ -41,7 +41,7 @@ PE
 
 VIX
 
-## 综合
+### 综合
 
 [**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)**，**[**市值比较**](https://assetdash.com/?all=true)\*\*\*\*
 
