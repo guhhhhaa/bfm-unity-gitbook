@@ -35,9 +35,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 [超额收益指数（ECY）](https://www.macromicro.me/charts/27100/us-shiller-ecy)=（1/周期性调节市盈率（CAPE））-10年实际利率（[https://www.sohu.com/a/436891292\_146833](https://www.sohu.com/a/436891292_146833)）（+正数具有投资价值，-负数没有投资价值）
 
-周期性调节市盈率（CAPE）。周期性调节市盈率=实际（通货膨胀调节后）股价/10年平均美股收益（[https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be](https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be)）&gt;40泡沫，&lt;10正常，仓位\(40-x\)/30\*100
-
-CAPE
+[周期性调节市盈率（CAPE）](https://ycharts.com/indicators/cyclically_adjusted_pe_ratio)。周期性调节市盈率=实际（通货膨胀调节后）股价/10年平均美股收益（[https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be](https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be)）&gt;40泡沫，&lt;10正常，仓位\(40-x\)/30\*100
 
 VIX
 
