@@ -21,7 +21,25 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ### [币安](https://www.binance.com/cn)，[币优](https://www.biyou.tech/)，[Trust Wallet](https://trustwallet.com/)
 
-### [MVRV泡沫程度](https://www.blockchain.com/charts/mvrv)，[S2F目标价格](https://www.qkl123.com/data/s2f/btc)，[MVRV表格](https://share.weiyun.com/JVQDigJ5)（[视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)），[Assets](https://share.weiyun.com/s6DJ9fiz)
+[Assets](https://share.weiyun.com/s6DJ9fiz)
+
+### 比特币
+
+[MVRV泡沫程度](https://www.blockchain.com/charts/mvrv)，[MVRV表格](https://share.weiyun.com/JVQDigJ5)（[视频](https://www.bilibili.com/video/BV1RK4y1H7Xn/)）
+
+[S2F目标价格](https://www.qkl123.com/data/s2f/btc)
+
+## 纳指
+
+巴菲特指标以股市总市值占GNP（或GDP）的比例来衡量一国股市的估值水平，又被称作资产证券化率指标。
+
+超额收益指数（ECY）=（1/周期性调节市盈率）-10年实际利率。
+
+PE
+
+VIX
+
+## 综合
 
 [**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)**，**[**市值比较**](https://assetdash.com/?all=true)\*\*\*\*
 
