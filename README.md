@@ -34,7 +34,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 * [超额收益指数（ECY）](https://www.macromicro.me/charts/27100/us-shiller-ecy)=（1/周期性调节市盈率（CAPE））-10年实际利率（[**介绍**](https://www.sohu.com/a/436891292_146833)）（+正数具有投资价值，-负数没有投资价值）
 * [巴菲特指标](http://www.currentmarketvaluation.com/models/buffett-indicator.php) 或 [巴菲特指标](https://www.gurufocus.cn/indicator/buffett-market-valuation)。以股市总市值占GNP（或GDP）的比例来衡量一国股市的估值水平，又被称作资产证券化率指标。（[**介绍**](https://www.sohu.com/a/437526687_146833)）一般情况，巴菲特指标位于70%至80%之间时是买入美股的好时机。如果巴菲特指标超过100%，则投资者需要关注美国股市的风险，并应该考虑持币观察。
 * VIX
-* [价值大师网](https://www.gurufocus.cn/)
+* \*\*\*\*[**价值大师网**](https://www.gurufocus.cn/)\*\*\*\*
 
 ### 综合
 
