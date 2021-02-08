@@ -55,11 +55,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 购买方式：ETH钱包+MetaMask+DeBank，然后用Zerion观赏
 
 月化100%，现在投1万，一年后收获1000万，直接财富自由
-
-得，得得得得，得得得得得，   
-得，得得得得，得得得得得，   
-得，得得得得，得得得得得，   
-得得得，得得得，得，得得得得得
 {% endhint %}
 
 ![](.gitbook/assets/defi_2.png)
