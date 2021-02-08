@@ -27,7 +27,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ### 比特币
 
-* [MVRV泡沫程度](https://www.blockchain.com/charts/mvrv)，[**MVRV表格**](https://share.weiyun.com/44u0qX55)（[视频](https://www.bilibili.com/video/BV1uA411g7Sn)）
+* [MVRV泡沫程度](https://www.blockchain.com/charts/mvrv)，[**MVRV表格**](https://share.weiyun.com/a0QaKX11)（[视频](https://www.bilibili.com/video/BV1uA411g7Sn)）
 * [S2F目标价格](https://www.qkl123.com/data/s2f/btc)，[减半时间](https://www.qkl123.com/data/halve/btc)
 
 ### 纳指
