@@ -188,7 +188,7 @@
 
 {% tab title="指标" %}
 参考数据分析网站 [Nansen](https://nansen.ai/)、[Intotheblock](https://app.intotheblock.com/insights/defi)、[TokenTerminal](https://www.tokenterminal.com/)、[Santiment](https://graphs.santiment.net/) 等创建的某些指标或模型。  
-这是 [**TokenTerminal**](https://terminal.tokenterminal.com/dashboard/Dapps) ****设计的一个 P/S 指标，代币价格与销售比率的示例。  
+这是 [**TokenTerminal**](https://terminal.tokenterminal.com/dashboard/Dapps) ****设计的一个 P/S 指标  
 [参考链接](https://xueqiu.com/6882996444/169711082)
 {% endtab %}
 {% endtabs %}

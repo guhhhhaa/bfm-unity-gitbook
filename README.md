@@ -43,6 +43,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 * [**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)
 * [**市值比较**](https://assetdash.com/?all=true)\*\*\*\*
 
+## **DeFi操作主面板**
+
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
 * [**Zapper.fi**](https://www.zapper.fi/)
@@ -54,7 +56,10 @@ NOTE: **This project is in beta. Use at your own risk.**
 新财富密码，DPI，BCP，YPIE，DEFI++，  
 购买方式：ETH钱包+MetaMask+DeBank，然后用Zerion观赏
 
-月化100%，现在投1万，一年后收获1000万，直接财富自由
+月化100%，现在投1万，一年后收获1000万，直接财富自由  
+  
+[**TokenTerminal**](https://terminal.tokenterminal.com/dashboard/Dapps) ****设计的一个 P/S 指标，代币价格与销售比率的示例。  
+[参考链接](https://xueqiu.com/6882996444/169711082)
 {% endhint %}
 
 ![](.gitbook/assets/defi_2.png)
