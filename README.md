@@ -59,7 +59,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 月化100%，现在投1万，一年后收获1000万，直接财富自由  
   
 [**TokenTerminal**](https://terminal.tokenterminal.com/dashboard/Dapps) ****设计的一个 P/S 指标，代币价格与销售比率的示例。  
-[参考链接](https://xueqiu.com/6882996444/169711082)
+[参考链接](https://www.chainnews.com/articles/649261412781.htm)
 {% endhint %}
 
 ![](.gitbook/assets/defi_2.png)
