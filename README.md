@@ -2,7 +2,7 @@
 description: Home Page
 ---
 
-# 主页
+# 舰桥
 
 {% page-ref page="defi-dao-hang.md" %}
 

@@ -1,7 +1,7 @@
 # Table of contents
 
-* [主页](README.md)
-* [原版主页](defi-dao-hang.md)
+* [舰桥](README.md)
+* [指挥室](defi-dao-hang.md)
 * [融资加杠杆](zhe-die.md)
 * [捐赠打赏](juan-zeng-da-shang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
