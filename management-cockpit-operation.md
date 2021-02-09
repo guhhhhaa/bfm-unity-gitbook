@@ -7,9 +7,9 @@ description: Management Cockpit (Operation)
 ## 核心显示界面
 
 {% hint style="info" %}
-* [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
+* [**同架策略**](https://share.weiyun.com/xUw40P4l)  **\|**  [**原始策略**](https://share.weiyun.com/a0QaKX11)\*\*\*\*
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)  **\|**  [**S2F**](https://www.qkl123.com/data/s2f/btc)
-* \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)\*\*\*\*
+* \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)   **\|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation)\*\*\*\*
 {% endhint %}
 
 ##  **DeFi 操作面板**

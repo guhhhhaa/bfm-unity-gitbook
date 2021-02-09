@@ -202,17 +202,15 @@ description: Command Room (Discovery)
 \*\*\*\*[**The total market capitalization of Nasdaq 100**](https://markets.businessinsider.com/index/market-capitalization/nasdaq_100)\*\*\*\*
 
 {% tabs %}
-{% tab title="Sharpe Ratio" %}
-\*\*\*\*[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)\*\*\*\*
-{% endtab %}
-
 {% tab title="MVRV" %}
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）或** [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)**（Woobull）**
 
   \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）  
   （以7天平均为准）
 
-## [MVRV表格](https://share.weiyun.com/a0QaKX11)（[介绍视频](https://www.bilibili.com/video/BV1uA411g7Sn)）
+* [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
+
+#### [原始策略](https://share.weiyun.com/a0QaKX11)（[介绍视频](https://www.bilibili.com/video/BV1uA411g7Sn)）
 
 ![](.gitbook/assets/mvrv.png)
 
@@ -295,8 +293,16 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 </table>
 {% endtab %}
 
+{% tab title="S2F" %}
+* \*\*\*\*[**S2F目标价格**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
+{% endtab %}
+
 {% tab title="减半" %}
 * \*\*\*\*[**比特币减半-QKL123**](https://www.qkl123.com/data/halve/btc) ****[**其他数据**](https://www.qkl123.com/data)\*\*\*\*
+{% endtab %}
+
+{% tab title="Sharpe Ratio" %}
+\*\*\*\*[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)\*\*\*\*
 {% endtab %}
 
 {% tab title="活跃地址数" %}
@@ -340,6 +346,30 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 * [**USDT市值TradingView**](https://www.tradingview.com/symbols/CRYPTOCAP-USDT/) **&** [**USDT发行量与比特币价格**](https://www.longhash.com/cn/livecharts/USDT-circulation-and-bitcoin-prices) **&** [**USDT市值**](https://coinmarketcap.com/currencies/tether/)
 
 USDT市值增长的导数，决定了比特币的涨跌
+{% endtab %}
+{% endtabs %}
+
+## 纳指指标
+
+{% tabs %}
+{% tab title="CAPE" %}
+* [周期性调节市盈率（CAPE）](https://ycharts.com/indicators/cyclically_adjusted_pe_ratio)或 [席勒市盈率](https://www.gurufocus.cn/indicator/shiller_pe)。周期性调节市盈率=实际（通货膨胀调节后）股价/10年平均美股收益（[**介绍**](https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be)）&gt;40泡沫，&lt;10正常，仓位\(40-x\)/30\*100
+{% endtab %}
+
+{% tab title="ECY" %}
+* [超额收益指数（ECY）](https://www.macromicro.me/charts/27100/us-shiller-ecy)=（1/周期性调节市盈率（CAPE））-10年实际利率（[**介绍**](https://www.sohu.com/a/436891292_146833)）（+正数具有投资价值，-负数没有投资价值）
+{% endtab %}
+
+{% tab title="巴菲特指标" %}
+* [巴菲特指标](http://www.currentmarketvaluation.com/models/buffett-indicator.php) 或 [巴菲特指标](https://www.gurufocus.cn/indicator/buffett-market-valuation)。以股市总市值占GNP（或GDP）的比例来衡量一国股市的估值水平，又被称作资产证券化率指标。（[**介绍**](https://www.sohu.com/a/437526687_146833)）一般情况，巴菲特指标位于70%至80%之间时是买入美股的好时机。如果巴菲特指标超过100%，则投资者需要关注美国股市的风险，并应该考虑持币观察。
+{% endtab %}
+
+{% tab title="VIX" %}
+
+{% endtab %}
+
+{% tab title="价值大师网" %}
+* [**价值大师网**](https://www.gurufocus.cn/)\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
