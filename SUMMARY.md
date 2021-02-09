@@ -1,6 +1,6 @@
 # Table of contents
 
-* [舰桥](README.md)
+* [主舰桥](README.md)
 * [驾驶室](jia-shi-shi.md)
 * [指挥室](defi-dao-hang.md)
 * [融资加杠杆](zhe-die.md)

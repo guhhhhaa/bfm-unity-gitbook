@@ -1,3 +1,7 @@
+---
+description: Management Cockpit
+---
+
 # 驾驶室
 
 {% hint style="info" %}
