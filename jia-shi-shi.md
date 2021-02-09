@@ -1,6 +1,12 @@
 # 驾驶室
 
-## **DeFi操作主面板**
+{% hint style="info" %}
+* [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
+* [**MVRV**](https://www.blockchain.com/charts/mvrv)  **\|**  [**S2F**](https://www.qkl123.com/data/s2f/btc)
+* \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)\*\*\*\*
+{% endhint %}
+
+##  **DeFi操作主面板**
 
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
@@ -17,11 +23,5 @@
   
 [**TokenTerminal**](https://terminal.tokenterminal.com/dashboard/Dapps) ****设计的一个 P/S 指标，代币价格与销售比率的示例。  
 [参考链接](https://www.chainnews.com/articles/649261412781.htm)
-{% endhint %}
-
-{% hint style="info" %}
-* [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
-* [**MVRV**](https://www.blockchain.com/charts/mvrv)  **\|**  [**S2F**](https://www.qkl123.com/data/s2f/btc)
-* \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)\*\*\*\*
 {% endhint %}
 
