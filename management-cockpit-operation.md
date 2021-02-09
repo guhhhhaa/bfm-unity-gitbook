@@ -20,14 +20,7 @@ description: Management Cockpit (Operation)
 * \*\*\*\*[**Zerion**](https://app.zerion.io/exchange) ****
 * \*\*\*\*[**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=_5-ycrv%e5%85%91%e6%8d%a2)\*\*\*\*
 * \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi)
-* \*\*\*\*[**BCP \(PieDAO Balanced Crypto Pie\)**](https://pools.piedao.org/#/pie/0xe4f726adc8e89c6a6017f01eada77865db22da14) **\(**[**Oven**](https://pools.piedao.org/#/oven)**\) \(**[**介绍**](https://medium.com/piedao/announcing-balanced-crypto-pie-bcp-btc-eth-and-defi-7a2423c5d94e)**\)  ---**
-
-新财富密码，DPI，BCP，YPIE，DEFI++，  
-购买方式：ETH钱包+MetaMask+DeBank，然后用Zerion观赏
-
-月化100%，现在投1万，一年后收获1000万，直接财富自由  
-  
-[**TokenTerminal**](https://terminal.tokenterminal.com/dashboard/Dapps) ****设计的一个 P/S 指标，代币价格与销售比率的示例。  
-[参考链接](https://www.chainnews.com/articles/649261412781.htm)
+* \*\*\*\*[**BCP \(PieDAO Balanced Crypto Pie\)**](https://pools.piedao.org/#/pie/0xe4f726adc8e89c6a6017f01eada77865db22da14) **\(**[**Oven**](https://pools.piedao.org/#/oven)**\) \(**[**介绍**](https://medium.com/piedao/announcing-balanced-crypto-pie-bcp-btc-eth-and-defi-7a2423c5d94e)**\)**
+* YPIE，DEFI++  [**估值**](https://terminal.tokenterminal.com/dashboard/Dapps)**（**[**参考链接**](https://www.chainnews.com/articles/649261412781.htm)**）**
 {% endhint %}
 
