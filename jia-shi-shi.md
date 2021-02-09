@@ -2,7 +2,7 @@
 description: Management Cockpit (Operation)
 ---
 
-# 驾驶室（运行）
+# 驾驶舱（运行）
 
 ## 核心显示界面
 

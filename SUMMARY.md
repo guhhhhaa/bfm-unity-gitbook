@@ -1,7 +1,7 @@
 # Table of contents
 
 * [主舰桥（引导）](README.md)
-* [驾驶室（运行）](jia-shi-shi.md)
+* [驾驶舱（运行）](jia-shi-shi.md)
 * [指挥室（探索）](defi-dao-hang.md)
 * [融资加杠杆](zhe-die.md)
 * [捐赠打赏](juan-zeng-da-shang.md)
