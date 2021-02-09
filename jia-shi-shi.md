@@ -4,13 +4,15 @@ description: Management Cockpit
 
 # 驾驶室（运行）
 
+## 核心显示界面
+
 {% hint style="info" %}
 * [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)  **\|**  [**S2F**](https://www.qkl123.com/data/s2f/btc)
 * \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)\*\*\*\*
 {% endhint %}
 
-##  **DeFi操作主面板**
+##  **DeFi操作面板**
 
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
