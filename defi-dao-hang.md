@@ -2,7 +2,7 @@
 description: Command Room
 ---
 
-# 指挥室
+# 指挥室（探索）
 
 ## 传统区块链
 

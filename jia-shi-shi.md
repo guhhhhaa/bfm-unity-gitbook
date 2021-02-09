@@ -2,7 +2,7 @@
 description: Management Cockpit
 ---
 
-# 驾驶室
+# 驾驶室（运行）
 
 {% hint style="info" %}
 * [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*

@@ -2,7 +2,7 @@
 description: Main Bridge
 ---
 
-# 主舰桥
+# 主舰桥（引导）
 
 {% page-ref page="defi-dao-hang.md" %}
 
