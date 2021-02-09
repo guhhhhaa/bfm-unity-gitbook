@@ -1,5 +1,5 @@
 ---
-description: Main Bridge
+description: Main Bridge (Guidance)
 ---
 
 # 主舰桥（引导）

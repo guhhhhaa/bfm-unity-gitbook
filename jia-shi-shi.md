@@ -1,5 +1,5 @@
 ---
-description: Management Cockpit
+description: Management Cockpit (Operation)
 ---
 
 # 驾驶室（运行）
