@@ -4,7 +4,7 @@ description: Management Cockpit (Operation)
 
 # 驾驶舱（运行）
 
-## 主炮
+## 核心显示界面
 
 {% hint style="info" %}
 * [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
