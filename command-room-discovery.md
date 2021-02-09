@@ -4,6 +4,8 @@ description: Command Room (Discovery)
 
 # 指挥室（探索）
 
+![](.gitbook/assets/src-http___i0.hdslb.com_bfs_article_497d71233da5f31a2da1d12be5013baa9a6f62af.png-and-refer-http___i0.hdslb.jpeg)
+
 ## 传统区块链
 
 {% tabs %}
