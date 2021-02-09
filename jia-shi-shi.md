@@ -12,7 +12,7 @@ description: Management Cockpit (Operation)
 * \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)\*\*\*\*
 {% endhint %}
 
-##  **DeFi操作面板**
+##  **DeFi 操作面板**
 
 {% hint style="success" %}
 * \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
