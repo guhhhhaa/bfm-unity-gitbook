@@ -143,7 +143,7 @@ description: Command Room (Discovery)
 
 ![](../.gitbook/assets/defi.png)
 
-* 资产管理平台， [**Zapper Finance**](https://zapper.fi/)**、**[**Zerion**](https://zerion.io/)**、**[**Debank**](https://debank.com/)**、**[**TokenSets**](https://tokensets.com/)\*\*\*\*
+* 资产管理平台， [**Zapper Finance**](https://zapper.fi/)**、**[**Zerion**](https://zerion.io/)**、**[**Debank**](https://debank.com/)**、**[**TokenSets**](https://tokensets.com/)
 * 交易类聚合器， [**1inch Exchange**](https://1inch.exchange/)、[Matcha](https://matcha.xyz/)、[ParaSwap](https://paraswap.io/#/)、[InstaDapp](https://defi.instadapp.io/) 
 * 收益类聚合器，[**YFI**](https://yearn.finance/)**、**[**YFII**](https://dfi.money/)**、**[**YFV**](https://valuedefi.io/)、[Rari Capital](https://app.rari.capital/)
 * 机枪池，[**YFV-Vault**](https://valuedefi.io/value-vaults)
@@ -152,6 +152,9 @@ description: Command Room (Discovery)
 * 信息聚合，门户网站，[**DeFi Pulse**](https://defipulse.com/)、[**DeFi Prime**](https://defiprime.com/)、[CoinGecko](https://www.coingecko.com/)、[**链闻**](https://www.chainnews.com/tag_9336.htm)\*\*\*\*
 * 比较收益，[pools.fyi](https://pools.fyi/)、[DeFi Rate](https://defirate.com/)
 * 指数，[**DeFi Pulse Index \(DPI\)**](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b) **或**[ **DPI（Tokensets）**](https://www.tokensets.com/portfolio/dpi) ****[**https://www.coingecko.com/en/coins/defipulse-index**](https://www.coingecko.com/en/coins/defipulse-index) ****[**https://www.indexcoop.com/**](https://www.indexcoop.com/)\*\*\*\*[**https://www.indexcoop.com/dpi**](https://www.indexcoop.com/dpi)\*\*\*\*[**https://www.indexcoop.com/farm**](https://www.indexcoop.com/farm)\*\*\*\*
+* **理财，**[**Indexed.finance**](https://indexed.finance/)**、**[**Rari Capital**](http://rari.capital/)**、**[**PieDAO**](https://www.piedao.org/)\*\*\*\*
+
+  \*\*\*\*
 
 ![](../.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
 
