@@ -12,6 +12,9 @@ QQ：1207866211（推荐），3146741560
 
 论文清晰版：[https://share.weiyun.com/usBIwBsk](https://share.weiyun.com/usBIwBsk)
 
+知网链接：  
+[https://schlr.cnki.net/Detail/index/WWMERGEJ02/SJIWA0B089883AB93D7BB0C1186893EC87EA](https://schlr.cnki.net/Detail/index/WWMERGEJ02/SJIWA0B089883AB93D7BB0C1186893EC87EA)
+
 ## 学历
 
 ![&#x6211;&#x7684;&#x672C;&#x79D1;&#x8BFE;&#x7A0B;](.gitbook/assets/hua-bei-dian-li-da-xue-dian-zi-ben-ke-ke-cheng-.png)
