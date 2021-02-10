@@ -26,3 +26,5 @@ description: Management Cockpit (Operation)
 * [**YPIE**](https://pools.piedao.org/#/pie/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31)  ,  [**DEFI++**](https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033)  [**估值**](https://terminal.tokenterminal.com/dashboard/Dapps)**（**[**参考链接**](https://www.chainnews.com/articles/649261412781.htm)**）**
 {% endhint %}
 
+{% page-ref page="zhe-die.md" %}
+
