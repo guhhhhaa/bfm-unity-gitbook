@@ -217,6 +217,8 @@ Optimistic Rollup\(乐观卷叠\)
   （以7天平均为准）
 
 * [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
+
+{% page-ref page="mvrv-bei-zhe-die.md" %}
 {% endtab %}
 
 {% tab title="S2F" %}
