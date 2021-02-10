@@ -204,6 +204,12 @@ Optimistic Rollup\(乐观卷叠\)
 这是 [**TokenTerminal**](https://terminal.tokenterminal.com/dashboard/Dapps) ****设计的一个 P/S 指标  
 [参考链接](https://www.chainnews.com/articles/649261412781.htm)
 {% endtab %}
+
+{% tab title="发行基金" %}
+**T**[**okenSets**](https://www.tokensets.com/create)（需要约$1000）
+
+[Balancer](https://pools.balancer.exchange/#/pool/new)（未知）
+{% endtab %}
 {% endtabs %}
 
 ## 比特币指标
