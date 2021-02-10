@@ -4,7 +4,7 @@ description: Command Room (Discovery)
 
 # 指挥室（探索）
 
-![&#x6307;&#x6325;&#x5BA4;&#xFF08;&#x63A2;&#x7D22;&#xFF09;](.gitbook/assets/src-http___i0.hdslb.com_bfs_article_497d71233da5f31a2da1d12be5013baa9a6f62af.png-and-refer-http___i0.hdslb.jpeg)
+![&#x6307;&#x6325;&#x5BA4;&#xFF08;&#x63A2;&#x7D22;&#xFF09;](../.gitbook/assets/src-http___i0.hdslb.com_bfs_article_497d71233da5f31a2da1d12be5013baa9a6f62af.png-and-refer-http___i0.hdslb.jpeg)
 
 ## 传统区块链
 
@@ -19,26 +19,26 @@ description: Command Room (Discovery)
 {% endtab %}
 
 {% tab title="法币OTC/C2C交易" %}
-![](.gitbook/assets/cefi.png)
+![](../.gitbook/assets/cefi.png)
 
 * [**比特派钱包**](https://bitpie.com/)（**推荐**）
 
-![](.gitbook/assets/fei-shuai-bi-jiao-.png)
+![](../.gitbook/assets/fei-shuai-bi-jiao-.png)
 
 * \*\*\*\*[**币安**](https://www.binance.com/cn) **（需要交提币手续费）**
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 {% endtab %}
 
 {% tab title="钱包" %}
-![](.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.26.51.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.26.51.png)
 
 * [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
 * [**比特派钱包**](https://bitpie.com/)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
 * [**BitKeep**](https://bitkeep.org/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
 * [**TokenPocket**](https://www.tokenpocket.pro/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.25.29.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.25.29.png)
 {% endtab %}
 
 {% tab title="交易所" %}
@@ -46,9 +46,9 @@ description: Command Room (Discovery)
 
 * \*\*\*\*[**币安**](https://www.binance.com/cn)
 
-![](.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
+![](../.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## 量化
 
@@ -57,15 +57,15 @@ description: Command Room (Discovery)
 
 ## 流动性挖矿
 
-![](.gitbook/assets/binance-lp.png)
+![](../.gitbook/assets/binance-lp.png)
 
 * [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
 
   \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
 
-![](.gitbook/assets/mvrv.png)
+![](../.gitbook/assets/mvrv.png)
 
-![](.gitbook/assets/mvrv-jian-ban-.png)
+![](../.gitbook/assets/mvrv-jian-ban-.png)
 {% endtab %}
 {% endtabs %}
 
@@ -140,7 +140,7 @@ description: Command Room (Discovery)
 
 ## **聚合器**
 
-![](.gitbook/assets/defi.png)
+![](../.gitbook/assets/defi.png)
 
 * 资产管理平台， [**Zapper Finance**](https://zapper.fi/)**、**[**Zerion**](https://zerion.io/)**、**[**Debank**](https://debank.com/)**、**[**TokenSets**](https://tokensets.com/)\*\*\*\*
 * 交易类聚合器， [**1inch Exchange**](https://1inch.exchange/)、[Matcha](https://matcha.xyz/)、[ParaSwap](https://paraswap.io/#/)、[InstaDapp](https://defi.instadapp.io/) 
@@ -152,7 +152,7 @@ description: Command Room (Discovery)
 * 比较收益，[pools.fyi](https://pools.fyi/)、[DeFi Rate](https://defirate.com/)
 * 指数，[**DeFi Pulse Index \(DPI\)**](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b) **或**[ **DPI（Tokensets）**](https://www.tokensets.com/portfolio/dpi) ****[**https://www.coingecko.com/en/coins/defipulse-index**](https://www.coingecko.com/en/coins/defipulse-index) ****[**https://www.indexcoop.com/**](https://www.indexcoop.com/)\*\*\*\*[**https://www.indexcoop.com/dpi**](https://www.indexcoop.com/dpi)\*\*\*\*[**https://www.indexcoop.com/farm**](https://www.indexcoop.com/farm)\*\*\*\*
 
-![](.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
+![](../.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
 
 ## 借贷
 
@@ -211,88 +211,6 @@ description: Command Room (Discovery)
   （以7天平均为准）
 
 * [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
-
-#### [原始策略](https://share.weiyun.com/a0QaKX11)（[介绍视频](https://www.bilibili.com/video/BV1uA411g7Sn)）
-
-![](.gitbook/assets/mvrv.png)
-
-![](.gitbook/assets/mvrv-jian-ban-.png)
-
-MVRV 由两部分组成，市值（MV）和实现市值（RV），是二者的比率。市值好理解，理解实现市值是理解这个指标的关键。
-
-实现市值是指市场中比特币 UTXO （产生时）的价格的总和，大体体现了市场参与者的持币成本——交易所的交易不完全体现为 UTXO 的变动，因此这里只能是"大体体现"。
-
-MVRV 可以简单地理解为目前的市场价格和成本的比率。
-
-| MVRV | 1 | 3 | 4 | x |
-| :--- | :--- | :--- | :--- | :--- |
-|  | 0 | 2 | 3 | x-1 |
-|  | 4 | 2 | 1 | 4-x+1 |
-|  | 2 | 1 | 0 | LOG\(4-x+1,2\) |
-|  | 0 | 1 | 2 | 2-LOG\(4-x+1,2\) |
-|  | 0 | 1 | 4 | POWER\(2-LOG\(4-x+1,2\)\) |
-|  | 0 | 0.25 | 1 | 1-y=\(POWER\(2-LOG\(4-x+1,2\),2\)/4\) |
-| 仓位牛 | **1** | 0.75 | 0 | y\_BULL=1-\(POWER\(2-LOG\(4-x+1,2\),2\)/4\) |
-|  |  |  |  |  |
-|  | 1 | 2 | 4 | x |
-|  | 0 | 1 | 2 | LOG\(x,2\) |
-|  | 2 | 1 | 0 | 2-LOG\(x,2\) |
-|  | 4 | 1 | 0 | 4\*y=POWER\(2-LOG\(x,2\),2\) |
-| 仓位1 | 1 | 0.25 | 0 | y1=POWER\(2-LOG\(x,2\),2\)/4 |
-|  |  |  |  |  |
-| MVRV | 1 | 1.5 | 4 | x |
-|  | 6 | 5 | 0 | 8-2\*x |
-|  | 4096 | 1024 | 1 | POWER\(8-2\*x,4\) |
-| 仓位2 | 1 | 0.25 | ≈0 | y2=POWER\(8-2\*x,4\)/4096 |
-|  |  |  |  |  |
-| 仓位熊 |  |  |  | y\_BEAR=\(3\*y1+2\*y2\)/5 |
-
-## BFM Unity 的 MVRV 评级：（以四分之一为准）
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">&#x65F6;&#x95F4;</th>
-      <th style="text-align:left">2021.
-        <br />1.11</th>
-      <th style="text-align:left">2021.
-        <br />1.11</th>
-      <th style="text-align:left">
-        <p>2021.</p>
-        <p>1.21</p>
-      </th>
-      <th style="text-align:left">
-        <p>2021.</p>
-        <p>1.27</p>
-      </th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">&#x8BC4;&#x7EA7;</td>
-      <td style="text-align:left">B</td>
-      <td style="text-align:left">C</td>
-      <td style="text-align:left">C</td>
-      <td style="text-align:left">C</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x4ED3;&#x4F4D;</td>
-      <td style="text-align:left">25%</td>
-      <td style="text-align:left">0</td>
-      <td style="text-align:left">2.53%</td>
-      <td style="text-align:left">4.36%</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
 {% endtab %}
 
 {% tab title="S2F" %}
@@ -314,20 +232,20 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 {% tab title="NVT & NVTS" %}
 * [**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **（Woobull）或** [**NVT**](https://www.blockchain.com/charts/nvt) **&** [**NVTS**](https://www.blockchain.com/charts/nvts)**（Blockchain.com）** [**NVT**](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/#fnref2)**：90**（表示高估）和 **40**（表示低估） **如果价格小幅下跌后，NVT依然&gt;90，说明是泡沫，应该立即离场。** [**NVTS**](https://woobull.com/nvt-signal-a-new-trading-indicator-to-pick-tops-and-bottoms/)**：150**（表示高估）和 **45**（表示低估）
 
-![](.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 {% endtab %}
 
 {% tab title="RVT" %}
 * [**RVT介绍**](https://medium.com/@_Checkmatey_/the-bitcoin-rvt-ratio-a-high-conviction-macro-indicator-615b68715b77)\*\*\*\*
 
-![](.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 * RVT \(90D\) 在顶部的翻转往往意味着市场的熊转牛，在市场在成本未提升的情况下开始活跃； 随着价格的升高，在人们的交易作用下，市场成本开始与交易量同步放大，
 * RVT 持续维持在底部代表着市场的狂热，虽然难以预知顶部，但是投资者需要变得更加保守；
 * 牛转熊后，交易量的萎缩往往要比市场成本更多，所以 RVT 会升高，交易量持续萎缩的情况下，投资者可以考虑更激进一些。
 * 极端行情使得市场成本下降的同时放大了交易量，RVT 有所下降，不能作为进入牛市的讯号，需稳定后再做观察。
 
-![](.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 {% endtab %}
 
 {% tab title="UTXO" %}
@@ -341,7 +259,7 @@ MVRV 可以简单地理解为目前的市场价格和成本的比率。
 {% tab title="布林带" %}
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/) **下跌至第二条布林线离场**
 
-![](.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
+![](../.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
 {% endtab %}
 
 {% tab title="USDT发行量" %}
@@ -377,7 +295,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ## MetaMask 清除 Pending 状态方法：点头像-设置-高级-重设账户
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ## [上面这个标志的由来](http://www.dilidili3.com/play/3998/135852.html)（请直接跳到01:27:52）
 

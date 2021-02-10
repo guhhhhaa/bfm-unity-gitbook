@@ -8,7 +8,7 @@ description: Main Bridge (Guidance)
 
 {% page-ref page="management-cockpit-operation.md" %}
 
-{% page-ref page="command-room-discovery.md" %}
+{% page-ref page="command-room-discovery/" %}
 
 {% hint style="info" %}
 NOTE: **This project is in beta. Use at your own risk.**    
