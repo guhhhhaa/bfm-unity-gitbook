@@ -6,12 +6,17 @@ description: Management Cockpit (Operation)
 
 ![&#x9A7E;&#x9A76;&#x8231;&#xFF08;&#x8FD0;&#x884C;&#xFF09;](../.gitbook/assets/src-http___i-3.yiwan.com_2019_6_25_6ff39329-443c-45c6-b034-9940ee759162.jpg_width-1820-and-height-1024-and-refer-http___i-3.yiwan.jpeg)
 
+## 基本驾驶模块
+
+[**币安**](https://www.binance.com/cn)，[**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)\*\*\*\*
+
 ## 核心显示界面
 
 {% hint style="info" %}
 * [**同架策略**](https://share.weiyun.com/xUw40P4l)  **\|**  [**原始策略**](https://share.weiyun.com/a0QaKX11)\*\*\*\*
-* [**MVRV**](https://www.blockchain.com/charts/mvrv)  **\|**  [**S2F**](https://www.qkl123.com/data/s2f/btc)
+* [**MVRV**](https://www.blockchain.com/charts/mvrv)  **\|**  [**S2F**](https://www.qkl123.com/data/s2f/btc)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)
 * \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)   **\|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation)\*\*\*\*
+* [**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  **\|**  [**市值比较**](https://assetdash.com/?all=true)\*\*\*\*
 {% endhint %}
 
 ##  **DeFi 操作面板**

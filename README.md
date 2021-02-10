@@ -23,24 +23,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) ，[看板](https://trello.com/b/z4aDgNAL/todolist) ，[捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang)
 
-### [币安](https://www.binance.com/cn)，[币优](https://www.biyou.tech/)，[Trust Wallet](https://trustwallet.com/)
-
 [Assets](https://share.weiyun.com/s6DJ9fiz)
-
-### 比特币
-
-* [MVRV泡沫程度](https://www.blockchain.com/charts/mvrv)，[**MVRV表格**](https://share.weiyun.com/a0QaKX11)（[视频](https://www.bilibili.com/video/BV1uA411g7Sn)）
-* [S2F目标价格](https://www.qkl123.com/data/s2f/btc)，[减半时间](https://www.qkl123.com/data/halve/btc)
-
-### 纳指
-
-* \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)\*\*\*\*
-* \*\*\*\*[**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation)\*\*\*\*
-
-### 综合
-
-* [**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)
-* [**市值比较**](https://assetdash.com/?all=true)\*\*\*\*
 
 ![](.gitbook/assets/defi_2.png)
 
