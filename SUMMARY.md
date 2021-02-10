@@ -1,10 +1,10 @@
 # Table of contents
 
 * [主舰桥（引导）](README.md)
-* [驾驶舱（运行）](management-cockpit-operation.md)
+* [驾驶舱（运行）](management-cockpit-operation/README.md)
+  * [融资加杠杆](management-cockpit-operation/zhe-die.md)
 * [指挥室（探索）](command-room-discovery/README.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
-* [融资加杠杆](zhe-die.md)
 * [捐赠打赏](juan-zeng-da-shang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [【研究】参考文献](what-is-bfm-al/bfm-al-ckwx.md)
