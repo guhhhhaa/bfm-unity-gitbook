@@ -27,8 +27,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 [Assets](https://share.weiyun.com/s6DJ9fiz)
 
-{% embed url="https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve" %}
-
 ### 比特币
 
 * [MVRV泡沫程度](https://www.blockchain.com/charts/mvrv)，[**MVRV表格**](https://share.weiyun.com/a0QaKX11)（[视频](https://www.bilibili.com/video/BV1uA411g7Sn)）
