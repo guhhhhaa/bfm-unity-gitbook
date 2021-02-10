@@ -3,6 +3,7 @@
 * [主舰桥（引导）](README.md)
 * [驾驶舱（运行）](management-cockpit-operation/README.md)
   * [融资加杠杆](management-cockpit-operation/zhe-die.md)
+  * [基金投资](management-cockpit-operation/ji-jin-tou-zi.md)
 * [指挥室（探索）](command-room-discovery/README.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
 * [捐赠打赏](juan-zeng-da-shang.md)
