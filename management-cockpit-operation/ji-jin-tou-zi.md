@@ -12,3 +12,7 @@
 
 ![](../.gitbook/assets/2836d1dd67fb0fb86288f409a551e21e.png)
 
+#### \*\*\*\*[**嘉实沪港深精选股票\[001878\]**](http://fund.eastmoney.com/001878.html)\*\*\*\*
+
+#### \*\*\*\*[前海开源人工智能主题混合\[001986\]](http://fund.eastmoney.com/001986.html)
+
