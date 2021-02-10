@@ -177,10 +177,16 @@ description: Command Room (Discovery)
 {% endtab %}
 
 {% tab title="前沿" %}
-## 二层协议和零知识证明
+## Layer-2
+
+### Rollup\(卷叠\)
+
+ZK Rollup\(零知卷叠\)
 
 * [Loopring](https://loopring.io/#/)
 * [Loopring Swap](https://exchange.loopring.io/)
+
+Optimistic Rollup\(乐观卷叠\)
 
 ## PolkaDot
 
