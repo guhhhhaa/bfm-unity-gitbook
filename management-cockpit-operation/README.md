@@ -35,12 +35,6 @@ description: Management Cockpit (Operation)
 
 {% page-ref page="ji-jin-tou-zi.md" %}
 
-## 薅羊毛
-
-{% page-ref page="ke-zhuan-zhai-da-xin.md" %}
-
-{% page-ref page="guo-zhai-ni-hui-gou.md" %}
-
 ## 氮气加速系统\(NOS\)
 
 {% page-ref page="zhe-die.md" %}
