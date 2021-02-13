@@ -8,7 +8,7 @@
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [指挥室（探索）](command-room-discovery/README.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
-* [活动经费捐赠](juan-zeng-da-shang.md)
+* [活动经费捐赠/众筹](juan-zeng-da-shang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [【研究】参考文献](what-is-bfm-al/bfm-al-ckwx.md)
   * [BFM 维基百科翻译](what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)

@@ -1,4 +1,4 @@
-# 活动经费捐赠
+# 活动经费捐赠/众筹
 
 ## 社区Token/NFT拍卖（由[OpenSea](https://opensea.io/collections)支持）
 
