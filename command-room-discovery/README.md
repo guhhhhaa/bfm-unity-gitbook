@@ -70,7 +70,7 @@ description: Command Room (Discovery)
 {% endtab %}
 
 {% tab title="技术社区" %}
-[**ETHfans**](https://ethfans.org/)\*\*\*\*
+* [**ETHfans**](https://ethfans.org/)\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
