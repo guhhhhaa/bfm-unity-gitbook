@@ -13,7 +13,7 @@ description: Management Cockpit (Operation)
 ## 核心显示界面
 
 {% hint style="info" %}
-* [**同架策略**](https://share.weiyun.com/xUw40P4l)  **\|**  [**原始策略**](https://share.weiyun.com/a0QaKX11) ****
+* \([**同架策略**](https://share.weiyun.com/xUw40P4l)**\(**[**介绍**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)**\)  \|**  [**原始策略**](https://share.weiyun.com/a0QaKX11)**\)——表格** 
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)  **\|**  [**S2F**](https://www.qkl123.com/data/s2f/btc)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)
 * \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)   **\|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation) ****
 * [Sharpe Ratio](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  \|  [市值比较](https://assetdash.com/?all=true)
@@ -34,6 +34,12 @@ description: Management Cockpit (Operation)
 ## 基金投资
 
 {% page-ref page="ji-jin-tou-zi.md" %}
+
+## 薅羊毛
+
+{% page-ref page="ke-zhuan-zhai-da-xin.md" %}
+
+{% page-ref page="guo-zhai-ni-hui-gou.md" %}
 
 ## 氮气加速系统\(NOS\)
 
