@@ -4,6 +4,8 @@ description: Main Bridge (Guidance)
 
 # 主舰桥（引导）
 
+![](.gitbook/assets/bfm-unity-logo.png)
+
 ![&#x4E3B;&#x8230;&#x6865;&#xFF08;&#x5F15;&#x5BFC;&#xFF09;](.gitbook/assets/src-http___img4.178.com_news_201711_305754270311_o_305754450631.jpg-and-refer-http___img4.178.jpeg)
 
 {% page-ref page="management-cockpit-operation/" %}
