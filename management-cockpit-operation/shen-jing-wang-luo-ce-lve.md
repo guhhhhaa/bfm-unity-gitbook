@@ -1,6 +1,6 @@
 # 神经网络策略
 
-## [**神经网络策略**](https://share.weiyun.com/ru12s31m)\([介绍](https://www.bilibili.com/read/cv9809348) \| [原理](https://www.bilibili.com/read/cv7001287)\) 
+## [**神经网络策略**](https://share.weiyun.com/h4eXwmSW)\([介绍](https://www.bilibili.com/read/cv9809348) \| [原理](https://www.bilibili.com/read/cv7001287)\) 
 
 ![&#x795E;&#x7ECF;&#x7F51;&#x7EDC;&#x5EFA;&#x6A21;](../.gitbook/assets/shen-jing-wang-luo-.png)
 
