@@ -13,7 +13,7 @@ description: Management Cockpit (Operation)
 ## 核心显示界面
 
 {% hint style="info" %}
-* \([**神经网络策略**](https://share.weiyun.com/nSSUtA2v)\([介绍](https://www.bfm-unity.com/management-cockpit-operation/shen-jing-wang-luo-ce-lve) \| [原理](https://www.bilibili.com/read/cv7001287)\)  \|  [**同架策略**](https://share.weiyun.com/xUw40P4l)\([介绍](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)\)  **\|**  [**原始策略**](https://share.weiyun.com/a0QaKX11)**\)——表格** 
+* \([**神经网络策略**](https://share.weiyun.com/h4eXwmSW)\([介绍](https://www.bfm-unity.com/management-cockpit-operation/shen-jing-wang-luo-ce-lve) \| [原理](https://www.bilibili.com/read/cv7001287)\)  \|  [**同架策略**](https://share.weiyun.com/xUw40P4l)\([介绍](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)\)  **\|**  [**原始策略**](https://share.weiyun.com/a0QaKX11)**\)——表格** 
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)  **\|**  [**S2F**](https://www.qkl123.com/data/s2f/btc)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)
 * \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)   **\|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation) ****
 * [Sharpe Ratio](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  \|  [市值比较](https://assetdash.com/?all=true)
@@ -50,6 +50,4 @@ description: Management Cockpit (Operation)
 ## 氮气加速系统\(NOS\)
 
 {% page-ref page="zhe-die.md" %}
-
-
 
