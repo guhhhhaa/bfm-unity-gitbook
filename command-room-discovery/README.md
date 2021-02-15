@@ -86,6 +86,8 @@ description: Command Room (Discovery)
 
 {% tab title="刻字" %}
 [**如何在区块链上刻字**](https://www.jianshu.com/p/3668a66f3eba)\*\*\*\*
+
+\*\*\*\*[**刻字2**](https://www.babaofan.com/news/popular/53507.html)\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
