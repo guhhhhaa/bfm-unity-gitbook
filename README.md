@@ -4,8 +4,6 @@ description: Main Bridge (Guidance)
 
 # 主舰桥（引导）
 
-
-
 ![&#x4E3B;&#x8230;&#x6865;&#xFF08;&#x5F15;&#x5BFC;&#xFF09;](.gitbook/assets/src-http___img4.178.com_news_201711_305754270311_o_305754450631.jpg-and-refer-http___img4.178.jpeg)
 
 {% page-ref page="management-cockpit-operation/" %}
@@ -37,7 +35,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 
 
-![&#xE3F;FM Unity&#x2122;](.gitbook/assets/bfm-unity-logo.png)
+![&#x20BF;FM Unity&#x2122;](.gitbook/assets/bfm-unity-logo.png)
 
-#### ฿FM Unity™ \| ฿itcoin-Finance-Management Unity™ \| Bellman-Ford-Moore Unity™ \| 2020.3.23 - 至今 \| [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/) _****_**\|** [**Github项目地址**](https://github.com/guhhhhaa/bfm-gitbook) **\|** [**B站主页**](https://space.bilibili.com/11708778)\*\*\*\*
+#### ₿FM Unity™ \| ₿itcoin-Finance-Management Unity™ \| Bellman-Ford-Moore Unity™ \| 2020.3.23 - 至今 \| [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/) _****_**\|** [**Github项目地址**](https://github.com/guhhhhaa/bfm-gitbook) **\|** [**B站主页**](https://space.bilibili.com/11708778)\*\*\*\*
+
+
 
