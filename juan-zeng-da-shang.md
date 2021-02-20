@@ -44,11 +44,17 @@ BFM Unity 的 铭牌
 
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-30-068_com.wallet.cry.png)
 
-## 透明资产公示：
+## 透明资产公示
+
+### 群主地址
 
 [https://debank.com/profile/0x6c5bfa4a535ab2b742520056c4a1912853c8f5b3](https://debank.com/profile/0x6c5bfa4a535ab2b742520056c4a1912853c8f5b3)
 
-[https://debank.com/profile/0x07b26d5b094ac62c0975ad8696d4e63397c5c540](https://debank.com/profile/0x07b26d5b094ac62c0975ad8696d4e63397c5c540)
+[https://debank.com/profile/0x07b26d5b094ac62c0975ad8696d4e63397c5c540](https://debank.com/profile/0x07b26d5b094ac62c0975ad8696d4e63397c5c540)（主要）
+
+### 若尘地址
+
+[https://debank.com/profile/0x0540a183be580660a4c7399311b080fe13b06a11](https://debank.com/profile/0x0540a183be580660a4c7399311b080fe13b06a11)
 
 
 
