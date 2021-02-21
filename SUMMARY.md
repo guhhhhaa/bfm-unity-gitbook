@@ -2,6 +2,7 @@
 
 * [主舰桥（引导）](README.md)
 * [驾驶舱（运行）](management-cockpit-operation/README.md)
+  * [考试报名](management-cockpit-operation/kao-shi-bao-ming.md)
   * [神经网络策略](management-cockpit-operation/shen-jing-wang-luo-ce-lve.md)
   * [融资加杠杆](management-cockpit-operation/zhe-die.md)
   * [基金投资](management-cockpit-operation/ji-jin-tou-zi.md)
