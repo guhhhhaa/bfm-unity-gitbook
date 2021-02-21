@@ -44,7 +44,7 @@ BFM Unity 的 铭牌
 
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-30-068_com.wallet.cry.png)
 
-## 透明资产公示
+## ₿FM Unity™透明资产公示
 
 ### 群主地址
 
