@@ -8,7 +8,7 @@
 
 [http://baoming.amac.org.cn:10080/JJKSreg/page.htm](http://baoming.amac.org.cn:10080/JJKSreg/page.htm)
 
-## CIIA
+## CIIA，注册国际投资分析师
 
 [https://www.sac.net.cn/cyry/kspt/kstz/201607/t20160714\_128421.html](https://www.sac.net.cn/cyry/kspt/kstz/201607/t20160714_128421.html)
 
