@@ -2,7 +2,25 @@
 
 ## 大盘
 
-[https://robo.datayes.com/v2/dashboard/bf7cc0af-9e9b-4389-b0c6-a3845fa091e3](https://robo.datayes.com/v2/dashboard/bf7cc0af-9e9b-4389-b0c6-a3845fa091e3)
+### 沪深300
+
+沪深300-市净率
+
+[https://robo.datayes.com/v2/landing/monitor\_detail?slotId=238422](https://robo.datayes.com/v2/landing/monitor_detail?slotId=238422)
+
+沪深300-市盈率
+
+[https://robo.datayes.com/v2/landing/monitor\_detail?slotId=238421](https://robo.datayes.com/v2/landing/monitor_detail?slotId=238421)
+
+### 上证综指
+
+上证综指-市净率
+
+[https://robo.datayes.com/v2/landing/monitor\_detail?slotId=238420](https://robo.datayes.com/v2/landing/monitor_detail?slotId=238420)
+
+上证综指-市盈率
+
+[https://robo.datayes.com/v2/landing/monitor\_detail?slotId=238419](https://robo.datayes.com/v2/landing/monitor_detail?slotId=238419)
 
 ## 选股
 
