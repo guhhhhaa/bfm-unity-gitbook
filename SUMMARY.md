@@ -6,7 +6,7 @@
   * [神经网络策略](management-cockpit-operation/shen-jing-wang-luo-ce-lve.md)
   * [融资加杠杆](management-cockpit-operation/zhe-die.md)
   * [基金投资](management-cockpit-operation/ji-jin-tou-zi.md)
-  * [选股（抗跌不跟涨，跟涨选指数）](management-cockpit-operation/xuan-gu.md)
+  * [选股](management-cockpit-operation/xuan-gu.md)
   * [可转债打新](management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [指挥室（探索）](command-room-discovery/README.md)

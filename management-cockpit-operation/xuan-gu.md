@@ -1,4 +1,8 @@
-# 选股（抗跌不跟涨，跟涨选指数）
+# 选股
+
+{% hint style="info" %}
+NOTE: 市盈率市净率策略，**抗跌不跟涨，跟涨选指数**
+{% endhint %}
 
 ## 大盘
 
@@ -43,4 +47,40 @@
 [https://www.joinquant.com/view/factorlib/detail/bb3b7b42b7425d4ada99603b008724d4?buildtype=0&universetype=aHMzMDA%3D&period=M3k%3D&commisionFee=MA%3D%3D&skipPaused=MQ%3D%3D](https://www.joinquant.com/view/factorlib/detail/bb3b7b42b7425d4ada99603b008724d4?buildtype=0&universetype=aHMzMDA%3D&period=M3k%3D&commisionFee=MA%3D%3D&skipPaused=MQ%3D%3D)
 
 [https://www.joinquant.com/view/factorlib/detail/bb3b7b42b7425d4ada99603b008724d4?buildtype=0&universetype=aHMzMDA%3D&period=M3k%3D&commisionFee=MA%3D%3D&skipPaused=MQ%3D%3D](https://www.joinquant.com/view/factorlib/detail/bb3b7b42b7425d4ada99603b008724d4?buildtype=0&universetype=aHMzMDA%3D&period=M3k%3D&commisionFee=MA%3D%3D&skipPaused=MQ%3D%3D)
+
+## 投资建议
+
+选股是没有必要的，技术分析一概不靠谱。最好的选股就是指数。至于个股，和个基金，我是从来不推荐的。推荐买入指数基金和债券基金。
+
+真正需要做的是，指数和债券的配比关系。而指数和债券的配比关系是按照市净率和市盈率来决定的。
+
+一切通过技术分析，想要跑赢沪深300和纳指100的尝试都是徒劳的。选股和操作没有用，噪声操作会加大你的亏损，不信你做个10年回测就明白了——[https://www.joinquant.com/view/factorlib/list](https://www.joinquant.com/view/factorlib/list) 这个是因子分析，可以选择你的选股策略进行回测，如果你把周期拉到10年，你会发现，指数才是真正牛逼的选择。 
+
+如果说什么有用，也就是，市净率，市盈率，才有用。 而且市净率，市盈率只有下跌行情有用，能抗跌，
+
+上涨行情都偏离价值了，所以市净率，市盈率无法用来追涨。
+
+{% embed url="https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/ji-ben-mian-xuan-gu" %}
+
+{% hint style="success" %}
+## 低估：
+
+市盈率P/E＜10，
+
+市净率P/B＜2，
+
+股息率＞5%，
+
+市盈率相对盈利增长比率PEG＜0.5。 
+
+## 成长：
+
+净资产收益率ROE＞15%，且用杜邦分析剔除杠杆。
+{% endhint %}
+
+如果说最简单粗暴的选股是什么，就是这个策略。 
+
+不信，你去聚宽，米筐，UQER，用向导式回测一下就行了。 
+
+量化平台的向导式回测，无需编程，输入几个数，点几下按钮，就行。
 
