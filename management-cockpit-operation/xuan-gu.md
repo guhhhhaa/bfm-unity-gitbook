@@ -88,3 +88,5 @@ NOTE: 策略推荐市盈率，市净率策略，
 
 量化平台的向导式回测，无需编程，输入几个数，点几下按钮，就行。
 
+![&#xA0;&#xA0;&#xA0;&#x6A2A;&#x8F74;&#x662F;&#x4F30;&#x503C;&#xFF0C;&#x7EB5;&#x8F74;&#x662F;&#x4ED3;&#x4F4D;&#x548C;&#x64CD;&#x4F5C;](../.gitbook/assets/0e2abfcc2987f6aaeb09ece758f3e8ac.jpg)
+
