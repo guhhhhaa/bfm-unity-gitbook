@@ -4,6 +4,8 @@
 
 [https://ks.sac.net.cn/sac/login/login\_qt.htm](https://ks.sac.net.cn/sac/login/login_qt.htm)
 
+[投顾教程1](https://www.bilibili.com/video/BV1ab411b7W9)
+
 ## 基金从业
 
 [http://baoming.amac.org.cn:10080/JJKSreg/page.htm](http://baoming.amac.org.cn:10080/JJKSreg/page.htm)
