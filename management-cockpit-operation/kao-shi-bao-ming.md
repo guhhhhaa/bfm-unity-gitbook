@@ -6,7 +6,7 @@
 
 考试计划：[https://www.sac.net.cn/cyry/kspt/kstz/202012/t20201207\_144906.html](https://www.sac.net.cn/cyry/kspt/kstz/202012/t20201207_144906.html)
 
-[投顾教程1](https://www.bilibili.com/video/BV1ab411b7W9)
+[投顾教程1](https://www.bilibili.com/video/BV1ab411b7W9?from=search&seid=16668710090922450360)
 
 ## 基金从业
 
