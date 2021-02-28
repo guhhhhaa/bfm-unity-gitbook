@@ -2,8 +2,6 @@
 
 #### [《C 金钱掌控》](http://www.baidu.com/link?url=sGrC17Q10tsoJXFi_hhRnrxH_lVMWUBXf4druUy-MWE_qBkCj9m7baj2peAYsfkl7ZI0fQeT35SK_E2Jj8U3e5fuzibJm2aJ7jesHXFB9_O)《BLAME!》《尸者的帝国》《来自深渊》
 
-#### 
-
 [BLAME! Log.1](http://www.youtube.com/watch?v=KHoXnfpz-rk)
 
 [BLAME! Log.2](http://www.youtube.com/watch?v=bgQ1ZLNnskM)
@@ -17,8 +15,6 @@
 [BLAME! Log.6](http://www.youtube.com/watch?v=JwtK-ENz4yU)
 
 [BLAME! Log.7 \(设定\)](http://www.youtube.com/watch?v=AZBcOx7g1J0)
-
-**第1章** 
 
 **猫汤**
 
