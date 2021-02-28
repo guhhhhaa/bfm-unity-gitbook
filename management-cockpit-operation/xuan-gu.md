@@ -86,6 +86,10 @@ NOTE: 策略推荐市盈率，市净率策略，
 \*\*\*\*[**回测结果**](https://www.ricequant.com/quant/backtest/6224534)\*\*\*\*
 {% endhint %}
 
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210228-xia-wu-1.29.34.png)
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210228-xia-wu-1.24.27.png)
+
 如果说最简单粗暴的选股是什么，就是这个策略。 
 
 不信，你去[聚宽](https://www.joinquant.com/)，[米筐](https://www.ricequant.com/)，[UQER](https://uqer.datayes.com/)，用向导式回测一下就行了。 
