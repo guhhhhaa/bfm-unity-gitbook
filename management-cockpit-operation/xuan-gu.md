@@ -77,11 +77,13 @@ NOTE: 策略推荐市盈率，市净率策略，
 
 ## 成长：
 
-净资产收益率ROE＞15%（&gt;10%就不错了）（ROE=PB/PE），且用杜邦分析剔除杠杆（权益乘数&lt;3）。
+净资产收益率ROE＞15%（**&gt;10%**就不错了）（ROE=PB/PE），且用杜邦分析剔除杠杆（权益乘数&lt;3）。
 
 \*\*\*\*[**https://www.ricequant.com/quant/wizard/**](https://www.ricequant.com/quant/wizard/)\*\*\*\*
 
 \*\*\*\*[**https://www.joinquant.com/wizardstock/index/generateStock**](https://www.joinquant.com/wizardstock/index/generateStock)\*\*\*\*
+
+\*\*\*\*[**回测结果**](https://www.ricequant.com/quant/backtest/6224534)\*\*\*\*
 {% endhint %}
 
 如果说最简单粗暴的选股是什么，就是这个策略。 
