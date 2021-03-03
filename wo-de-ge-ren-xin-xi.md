@@ -2,7 +2,7 @@
 
 ## 联系方式
 
-王天佑\(Guhhhhaa\)
+王天佑 \(Guhhhhaa\)
 
 邮箱：guhhhhaa@gmail.com  
 电话：13614926893（推荐），15603202102  
