@@ -10,7 +10,7 @@ description: Management Cockpit (Operation)
 
 ## 基本驾驶模块
 
-[**币安**](https://www.binance.com/cn)，[**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
+[**币安**](https://www.binance.com/cn)，[**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)\*\*\*\*
 
 ## 核心显示界面
 
