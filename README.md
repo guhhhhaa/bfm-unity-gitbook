@@ -13,8 +13,9 @@ description: Main Bridge (Guidance)
 {% hint style="info" %}
 NOTE: **This project is in beta. Use at your own risk.**    
   
-[**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **——** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)  
-**曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)\*\*\*\*
+[**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
+
+\*\*\*\*[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)\*\*\*\*
 {% endhint %}
 
 ![](.gitbook/assets/bfm-unity-2.0.png)
