@@ -136,14 +136,6 @@ description: Command Room (Discovery)
 * [**Mirror.finance**](https://mirror.finance/)
 
 \*\*\*\*[**教程**](https://www.douban.com/group/topic/204847108/)
-
-## **Fandom**
-
-\*\*\*\*[**https://www.fantom.foundation/**](https://www.fantom.foundation/)\*\*\*\*
-
-## **树图Conflux**
-
-\*\*\*\*[**https://moonswap.fi/**](https://moonswap.fi/)\*\*\*\*
 {% endtab %}
 
 {% tab title="工具" %}
@@ -231,6 +223,14 @@ Optimistic Rollup\(乐观卷叠\)
 ## **LINK**
 
 * [**YFLink**](https://yflink.io/#/)
+
+## **Fandom**
+
+\*\*\*\*[**https://www.fantom.foundation/**](https://www.fantom.foundation/)\*\*\*\*
+
+## **树图Conflux**
+
+\*\*\*\*[**https://moonswap.fi/**](https://moonswap.fi/)\*\*\*\*
 {% endtab %}
 
 {% tab title="指标" %}
