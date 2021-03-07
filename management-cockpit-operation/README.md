@@ -18,7 +18,9 @@ description: Management Cockpit (Operation)
 * \([**神经网络策略**](https://share.weiyun.com/6xd3RoK2)\([介绍](https://www.bfm-unity.com/management-cockpit-operation/shen-jing-wang-luo-ce-lve) \| [原理](https://www.bilibili.com/read/cv7001287)\)  \|  [**同架策略**](https://share.weiyun.com/xUw40P4l)\([介绍](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)\)  **\|**  [**原始策略**](https://share.weiyun.com/a0QaKX11)**\)——表格** 
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)  **\|**  [**S2F**](https://www.qkl123.com/data/s2f/btc)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)
 * \*\*\*\*[**CVPE**](https://www.gurufocus.cn/indicator/shiller_pe)   **\|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation) ****
-* [Sharpe Ratio](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  \|  [市值比较](https://assetdash.com/?all=true)
+* [Sharpe Ratio](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  \|  [市值比较](https://assetdash.com/?all=true) 
+* [跟踪美联储操作](https://robo.datayes.com/v2/dashboard/bf7cc0af-9e9b-4389-b0c6-a3845fa091e3) 
+* CPI&gt;3%通胀，&gt;5%严重通胀
 {% endhint %}
 
 ##  **DeFi 操作面板**
