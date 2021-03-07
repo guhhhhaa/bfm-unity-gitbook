@@ -39,9 +39,11 @@ description: Management Cockpit (Operation)
   [**估值**](https://terminal.tokenterminal.com/dashboard/Dapps)**（**[**参考链接**](https://www.chainnews.com/articles/649261412781.htm)**）**
 {% endhint %}
 
-## 基金投资
+## 基金股票
 
 {% page-ref page="ji-jin-tou-zi.md" %}
+
+{% page-ref page="xuan-gu.md" %}
 
 ## 薅羊毛
 
