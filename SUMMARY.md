@@ -31,6 +31,7 @@
   * [【选择】学区房 or 比特币](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/xuan-ze-xue-qu-fang-or-bi-te-bi.md)
 * [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/README.md)
   * [【组织】团队构成](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/zu-zhi-wo-men-de-tuan-dui.md)
+* [【创新】未来发展](chuang-xin-wei-lai-fa-zhan.md)
 * [《IT超度指南》](it-chao-du-zhi-nan/README.md)
   * [动漫](it-chao-du-zhi-nan/dong-man.md)
   * [01城密咒](it-chao-du-zhi-nan/untitled.md)
