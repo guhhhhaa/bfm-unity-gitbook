@@ -17,7 +17,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 **曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)\*\*\*\*
 {% endhint %}
 
-![](.gitbook/assets/bfm-unity%20%281%29.png)
+![](.gitbook/assets/bfm-unity-2.0.png)
 
 ## [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)  **，** [**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
 
