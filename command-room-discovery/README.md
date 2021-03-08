@@ -224,7 +224,7 @@ Optimistic Rollup\(乐观卷叠\)
 
 * [**YFLink**](https://yflink.io/#/)
 
-## **Fantom \(FTM\)**
+## **Fantom \(FTM\)\(CJ站台\)**
 
 \*\*\*\*[**https://www.fantom.foundation/**](https://www.fantom.foundation/)\*\*\*\*
 
