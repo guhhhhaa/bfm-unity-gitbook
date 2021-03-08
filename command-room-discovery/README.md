@@ -224,11 +224,11 @@ Optimistic Rollup\(乐观卷叠\)
 
 * [**YFLink**](https://yflink.io/#/)
 
-## **Fandom**
+## **Fantom \(FTM\)**
 
 \*\*\*\*[**https://www.fantom.foundation/**](https://www.fantom.foundation/)\*\*\*\*
 
-## **树图Conflux**
+## **树图Conflux \(不推荐，观望\)**
 
 \*\*\*\*[**https://moonswap.fi/**](https://moonswap.fi/)\*\*\*\*
 {% endtab %}
