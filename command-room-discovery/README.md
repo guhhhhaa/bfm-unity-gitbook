@@ -228,6 +228,8 @@ Optimistic Rollup\(乐观卷叠\)
 
 \*\*\*\*[**https://www.fantom.foundation/**](https://www.fantom.foundation/)\*\*\*\*
 
+\*\*\*\*[**https://pwawallet.fantom.network/\#/dashboard**](https://pwawallet.fantom.network/#/dashboard)\*\*\*\*
+
 \*\*\*\*[**https://www.fantom.foundation/blog/how-to-use-sushiswap-on-fantom/**](https://www.fantom.foundation/blog/how-to-use-sushiswap-on-fantom/)  
 ****[**https://www.fantom.foundation/blog/how-to-use-c-r-e-a-m-on-fantom/**](https://www.fantom.foundation/blog/how-to-use-c-r-e-a-m-on-fantom/)  
 ****[**https://www.fantom.foundation/blog/how-to-use-curve-on-fantom/**](https://www.fantom.foundation/blog/how-to-use-curve-on-fantom/)\*\*\*\*
