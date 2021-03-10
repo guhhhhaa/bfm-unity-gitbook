@@ -54,7 +54,7 @@ NOTE: 策略推荐市盈率，市净率策略，
 
 真正需要做的是，指数和债券的配比关系。而指数和债券的配比关系是按照市净率和市盈率来决定的。
 
-一切通过技术分析，想要跑赢沪深300和纳指100的尝试都是徒劳的。选股和操作没有用，噪声操作会加大你的亏损，不信你做个10年回测就明白——[https://www.joinquant.com/view/factorlib/list](https://www.joinquant.com/view/factorlib/list) 这个是因子分析，可以选择你的选股策略进行回测，如果你把周期拉到10年，你会发现，指数才是真正牛逼的选择。 
+一切通过技术分析，想要跑赢沪深300和纳指100的尝试都是徒劳的。选股和操作没有用，噪声操作会加大你的亏损，不信你做个10年回测就明白——[https://www.joinquant.com/view/factorlib/list](https://www.joinquant.com/view/factorlib/list) 这个是因子分析，可以选择你的选股策略进行回测，如果你把周期拉到10年，你会发现，相比技术分析指数才是真正有效的选择。 
 
 如果说什么有用，也就是，市净率，市盈率，才有用。 而且市净率，市盈率只有下跌行情有用，能抗跌，
 
@@ -89,12 +89,6 @@ NOTE: 策略推荐市盈率，市净率策略，
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210228-xia-wu-1.29.34.png)
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210228-xia-wu-1.24.27.png)
-
-如果说最简单粗暴的选股是什么，就是这个策略。 
-
-不信，你去[聚宽](https://www.joinquant.com/)，[米筐](https://www.ricequant.com/)，[UQER](https://uqer.datayes.com/)，用向导式回测一下就行。 
-
-量化平台的向导式回测，无需编程，输入几个数，点几下按钮就行。
 
 ![&#xA0;&#xA0;&#xA0;&#x6A2A;&#x8F74;&#x662F;&#x4F30;&#x503C;&#xFF0C;&#x7EB5;&#x8F74;&#x662F;&#x4ED3;&#x4F4D;&#x548C;&#x64CD;&#x4F5C;](../.gitbook/assets/0e2abfcc2987f6aaeb09ece758f3e8ac.jpg)
 
