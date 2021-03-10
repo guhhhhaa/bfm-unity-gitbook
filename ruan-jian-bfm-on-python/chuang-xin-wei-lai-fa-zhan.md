@@ -1,7 +1,7 @@
 # 【创新】未来发展
 
 {% hint style="warning" %}
-[**相关技术**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)在研发落地中……我们已经[**邀请币安**](https://www.zhihu.com/question/448118975)共同推进研发。
+[**相关技术**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)在研发落地中……我们已经[**邀请币安**](https://www.binance.com/zh-CN/my/user-support/feedback/entry)共同推进研发。
 {% endhint %}
 
 ![](../.gitbook/assets/282c69f822ed2447614576b30f49cdc3.jpeg)
