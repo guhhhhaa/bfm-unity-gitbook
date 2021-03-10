@@ -17,8 +17,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 \*\*\*\*[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)
 
-千千的搬砖之王策略  \|  [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA)  **\|**  [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)  
-****[**三角套利实验室**](https://www.bfm-unity.com/san-jiao-tao-li-shi-yan-shi)\*\*\*\*
+千千的搬砖之王策略  \|  [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA)  **\|**  [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)\*\*\*\*
+
+**👩‍🔬 👨‍🔬  ➡️**[  **三角套利实验室**](https://www.bfm-unity.com/san-jiao-tao-li-shi-yan-shi)  ****☢️  **🧪 🔬**
 {% endhint %}
 
 ![](.gitbook/assets/bfm-unity-2.0.png)
