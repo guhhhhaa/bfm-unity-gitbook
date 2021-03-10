@@ -9,5 +9,7 @@
 
 千千的搬砖之王策略  \|  [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA)  **\|**  [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)  
 ****BellmanFord三角套利策略，是千千搬砖之王策略的算法升级版
+
+千千的其它视频：[上篇](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)  \|  [下篇](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)  \|  [部署](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)  \|  [回测](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw)
 {% endhint %}
 
