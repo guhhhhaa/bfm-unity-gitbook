@@ -15,8 +15,8 @@
 [**宝塔面板**](https://www.bt.cn/)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） \|**  [**阿里云**](https://www.aliyun.com/)  **\|**  [**腾讯云**](https://cloud.tencent.com/)
 
 **相关知乎问题：**  
-[**https://www.zhihu.com/question/360354203**](https://www.zhihu.com/question/360354203)  
-****[**https://www.zhihu.com/question/448419550**](https://www.zhihu.com/question/448419550)\*\*\*\*
+[**https://www.zhihu.com/question/360354203**](https://www.zhihu.com/question/360354203) ****Bellman-Ford算法是如何用于三角套利的？  
+****[**https://www.zhihu.com/question/448419550**](https://www.zhihu.com/question/448419550) ****如何利用云计算（如AWS，阿里云，腾讯云）部署FPGA实例，用于BellmanFord三角套利？
 {% endhint %}
 
 ![](../../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
