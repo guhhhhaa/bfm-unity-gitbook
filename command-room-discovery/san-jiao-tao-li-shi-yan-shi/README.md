@@ -12,7 +12,11 @@
 
 千千的其它视频：[**上篇**](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)  **\|**  [**下篇**](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)  **\|**  [**部署**](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)  **\|**  [**回测**](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw)  **\|**  [**三角套利策略介绍**](https://mp.weixin.qq.com/s/G5t7TyIyrH40Kl55feTDIw)\*\*\*\*
 
-[**宝塔面板**](https://www.bt.cn/)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） \|**  [**阿里云**](https://www.aliyun.com/)  **\|**  [**腾讯云**](https://cloud.tencent.com/)\*\*\*\*
+[**宝塔面板**](https://www.bt.cn/)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） \|**  [**阿里云**](https://www.aliyun.com/)  **\|**  [**腾讯云**](https://cloud.tencent.com/)
+
+**相关知乎问题：**  
+[**https://www.zhihu.com/question/360354203**](https://www.zhihu.com/question/360354203)  
+****[**https://www.zhihu.com/question/448419550**](https://www.zhihu.com/question/448419550)\*\*\*\*
 {% endhint %}
 
 ![](../../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
