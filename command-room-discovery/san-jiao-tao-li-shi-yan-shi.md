@@ -17,9 +17,13 @@
 
 ![](../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
 
-[https://www.jianshu.com/p/e50a52312a47](https://www.jianshu.com/p/e50a52312a47) 考虑交易成本的三角套利
+## 〇，策略学习
 
-[https://guhhhhaa.gitbook.io/arbitrage-github/](https://guhhhhaa.gitbook.io/arbitrage-github/)
+
+
+[**三角套利策略介绍**](https://mp.weixin.qq.com/s/G5t7TyIyrH40Kl55feTDIw) **+** [**考虑交易成本的三角套利**](https://www.jianshu.com/p/e50a52312a47)\*\*\*\*
+
+[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx)\*\*\*\*
 
 ## 一，环境搭建
 
@@ -29,7 +33,9 @@
 
 [**币安多币种自动化策略API操作指南**](https://zhuanlan.zhihu.com/p/55109087)\*\*\*\*
 
-## 三，代码优化
+## 三，代码**参考**
+
+[**https://guhhhhaa.gitbook.io/arbitrage-github/**](https://guhhhhaa.gitbook.io/arbitrage-github/)\*\*\*\*
 
 [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st)
 
