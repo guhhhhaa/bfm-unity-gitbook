@@ -15,11 +15,7 @@ NOTE: **This project is in beta. Use at your own risk.**
   
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
-\*\*\*\*[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)
-
-千千的搬砖之王策略  \|  [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA)  **\|**  [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)  
-****BellmanFord三角套利策略，是千千搬砖之王策略的算法升级版  
-千千的其它视频：[上篇](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)  \|  [下篇](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)  \|  [部署](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)  \|  [回测](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw)
+\*\*\*\*[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)\*\*\*\*
 {% endhint %}
 
 ![](.gitbook/assets/bfm-unity-2.0.png)
