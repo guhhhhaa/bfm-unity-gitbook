@@ -37,7 +37,7 @@
 
 [币圈搬砖、数字货币量化套利，从入门到实战（六）三角搬砖](https://www.jianshu.com/p/14dbaa02777a)
 
-[数字货币量化系统 CCXT 框架实战三角套利](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)（本地链接）
+[**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**）**
 
 [**https://guhhhhaa.gitbook.io/arbitrage-github/**](https://guhhhhaa.gitbook.io/arbitrage-github/)\*\*\*\*
 
