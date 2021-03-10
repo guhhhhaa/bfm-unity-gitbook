@@ -2,7 +2,7 @@
 
 ## 👩‍🔬 👨‍🔬 ➡️ 三角套利实验室 ⚠️ ☢️ ☠️ 🔥 💥 🧪 🔬 💻
 
-![&#x805A;&#x7126;&#x4E8E;&#x533A;&#x5757;&#x94FE;&#x4E2D;&#x4EF7;&#x503C;&#x9ED1;&#x6D1E;&#x7684;&#x5F00;&#x53D1;](../.gitbook/assets/bfm-unity-hei-dong-tan-suo-.png)
+![&#x805A;&#x7126;&#x4E8E;&#x533A;&#x5757;&#x94FE;&#x4E2D;&#x4EF7;&#x503C;&#x9ED1;&#x6D1E;&#x7684;&#x5F00;&#x53D1;](../../.gitbook/assets/bfm-unity-hei-dong-tan-suo-.png)
 
 {% hint style="info" %}
 [**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx) **+** [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)\*\*\*\*
@@ -15,7 +15,7 @@
 [**宝塔面板**](https://www.bt.cn/)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） \|**  [**阿里云**](https://www.aliyun.com/)  **\|**  [**腾讯云**](https://cloud.tencent.com/)\*\*\*\*
 {% endhint %}
 
-![](../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
+![](../../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
 
 ## 〇，策略学习
 
