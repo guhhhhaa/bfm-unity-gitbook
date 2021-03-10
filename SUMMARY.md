@@ -10,7 +10,7 @@
   * [可转债打新](management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [指挥室（探索）](command-room-discovery/README.md)
-  * [三角套利实验室](command-room-discovery/san-jiao-tao-li-shi-yan-shi.md)
+  * [👩‍🔬 👨‍🔬 三角套利实验室 🧪 🔬](command-room-discovery/san-jiao-tao-li-shi-yan-shi.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
 * [发展历程](fa-zhan-li-cheng.md)
 * [投资/捐赠/众筹](juan-zeng-da-shang.md)
