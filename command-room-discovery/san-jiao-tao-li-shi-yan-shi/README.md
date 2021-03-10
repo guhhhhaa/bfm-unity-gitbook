@@ -35,6 +35,8 @@
 
 ## 三，代码**参考**
 
+[币圈搬砖、数字货币量化套利，从入门到实战（六）三角搬砖](https://www.jianshu.com/p/14dbaa02777a)
+
 [**https://guhhhhaa.gitbook.io/arbitrage-github/**](https://guhhhhaa.gitbook.io/arbitrage-github/)\*\*\*\*
 
 [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st)
