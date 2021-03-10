@@ -37,6 +37,8 @@
 
 [**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）**
 
+\*\*\*\*[**TheNextQuant**](https://thenextquant.com/intro)**（已下架）**
+
 {% page-ref page="liang-hua-kuang-jia-tui-jian-ke-cheng.md" %}
 
 ## 二，对接准备
