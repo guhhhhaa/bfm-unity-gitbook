@@ -19,7 +19,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 千千的搬砖之王策略  \|  [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA)  **\|**  [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)\*\*\*\*
 
-**👩‍🔬 👨‍🔬  ➡️**  [**三角套利实验室**](https://www.bfm-unity.com/san-jiao-tao-li-shi-yan-shi)  ****⚠️ ☢️ ☠️ 🔥 💥 🧪 🔬 💻
+**👩‍🔬 👨‍🔬  ➡️**  [**三角套利实验室**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi)  ****⚠️ ☢️ ☠️ 🔥 💥 🧪 🔬 💻
 {% endhint %}
 
 ![](.gitbook/assets/bfm-unity-2.0.png)
