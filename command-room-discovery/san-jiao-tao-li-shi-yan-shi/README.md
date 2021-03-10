@@ -16,8 +16,8 @@
 
 **相关知乎问题：**
 
-* [如何利用云计算（如AWS，阿里云，腾讯云）部署FPGA实例，用于BellmanFord三角套利？](https://www.zhihu.com/question/448419550)
 * [Bellman-Ford算法是如何用于三角套利的？](https://www.zhihu.com/question/360354203)
+* [如何利用云计算（如AWS，阿里云，腾讯云）部署FPGA实例，用于BellmanFord三角套利？](https://www.zhihu.com/question/448419550)
 
 我已经[**联系币安**](https://www.binance.com/zh-CN/my/user-support/feedback/entry)让他们自己研发三角套利策略了，不知道以[**币安**](https://www.binance.com/cn)的研发实力，会不会搞出一个功能，让散户人人都可以参与三角套利，这样散户只需要投资就行了，不需要研究技术。
 {% endhint %}
