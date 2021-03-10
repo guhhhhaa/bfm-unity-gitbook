@@ -156,6 +156,7 @@ description: Command Room (Discovery)
   * [**1Inch**](https://1inch.exchange/)**，**[**Mooniswap**](https://mooniswap.exchange/)\*\*\*\*
   * \*\*\*\*[**Paraswap**](https://paraswap.io/)**，**[**Matcha**](https://matcha.xyz/)**，**[**Totle**](https://totle.exchange/)\*\*\*\*
   * \*\*\*\*[**比较各个AMM**](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)
+  * [**Alchemix**](https://app.alchemix.fi/)\*\*\*\*
 
   **PMM：**[**DodoEx**](https://app.dodoex.io/)  
   **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)
