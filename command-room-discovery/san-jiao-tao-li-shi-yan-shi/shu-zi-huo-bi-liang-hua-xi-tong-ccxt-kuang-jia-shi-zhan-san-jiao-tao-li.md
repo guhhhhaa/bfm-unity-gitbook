@@ -27,7 +27,7 @@
 
 * \(10010.6671 - 10000\) / 10000 = 1.06671 ‰
 
-![file](http://digtime.cn/uploads/images/201912/10/1/37FyOotLeD.png)
+![](../../.gitbook/assets/37fyootled.png)
 
 实际套利转化流程：  
 USDT -&gt; BTC -&gt; BCH -&gt; USDT
@@ -42,7 +42,7 @@ Profit = P3/(P1xP2) - 1 # 公式的推到可以看下边的套利步骤
 
 #### 三角套利步骤[\#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E4%B8%89%E8%A7%92%E5%A5%97%E5%88%A9%E6%AD%A5%E9%AA%A4) <a id="&#x4E09;&#x89D2;&#x5957;&#x5229;&#x6B65;&#x9AA4;"></a>
 
-![file](http://digtime.cn/uploads/images/201912/10/1/U6oLVaGCRV.png)
+![](../../.gitbook/assets/u6olvagcrv.png)
 
 P1 表示 A 的价格，P2 表示 ？的价格，P3 表示 ?/A 的价格
 
@@ -182,8 +182,9 @@ if __name__ == '__main__':
     main()
 ```
 
-结果：  
-![file](http://digtime.cn/uploads/images/201912/10/1/kVc6cwOUeE.png)
+结果：
+
+![](../../.gitbook/assets/kvc6cwouee.png)
 
 BTC -&gt; ETH -&gt; AION -&gt; BTC
 
