@@ -12,6 +12,7 @@
 * [指挥室（探索）](command-room-discovery/README.md)
   * [👩‍🔬 👨‍🔬 三角套利实验室 🧪 🔬](command-room-discovery/san-jiao-tao-li-shi-yan-shi/README.md)
     * [币安多币种自动化策略API操作指南](command-room-discovery/san-jiao-tao-li-shi-yan-shi/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
+    * [数字货币量化系统 CCXT 框架实战三角套利](command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
 * [发展历程](fa-zhan-li-cheng.md)
 * [投资/捐赠/众筹](juan-zeng-da-shang.md)
