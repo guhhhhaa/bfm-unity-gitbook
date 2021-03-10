@@ -31,7 +31,7 @@
 
 ## 二，对接准备
 
-[**币安多币种自动化策略API操作指南**](https://zhuanlan.zhihu.com/p/55109087) **（本地链接）**
+[**币安多币种自动化策略API操作指南**](https://zhuanlan.zhihu.com/p/55109087) **（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan)**）**
 
 ## 三，代码**参考**
 
