@@ -33,7 +33,7 @@
 
 [**CCXT**](https://github.com/ccxt/ccxt)\*\*\*\*
 
-\*\*\*\*[**Peregrine**](https://github.com/wardbradt/peregrine)\*\*\*\*
+\*\*\*\*[**Peregrine**](https://github.com/wardbradt/peregrine)**（**[**文档**](https://guhhhhaa.gitbook.io/peregrine/)**）**
 
 [**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）**
 
