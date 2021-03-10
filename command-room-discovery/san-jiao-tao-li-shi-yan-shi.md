@@ -19,5 +19,3 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/arbitrage-github/" %}
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20200330-xia-wu-9.39.06.png)
-
