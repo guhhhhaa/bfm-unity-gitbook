@@ -21,15 +21,15 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/arbitrage-github/" %}
 
-## 一
+## 一，环境搭建
 
 [**宝塔面板**](https://www.bt.cn/)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） \|**  [**阿里云**](https://www.aliyun.com/)  **\|**  [**腾讯云**](https://cloud.tencent.com/)\*\*\*\*
 
-## 二
+## 二，对接准备
 
 [**币安多币种自动化策略API操作指南**](https://zhuanlan.zhihu.com/p/55109087)\*\*\*\*
 
-## 三
+## 三，代码
 
 [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st)
 
