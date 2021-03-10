@@ -31,7 +31,11 @@
 
 ### **量化框架**
 
-\*\*\*\*[**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）**
+[**CCXT**](https://github.com/ccxt/ccxt)\*\*\*\*
+
+\*\*\*\*[**Peregrine**](https://github.com/wardbradt/peregrine)\*\*\*\*
+
+[**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）**
 
 {% page-ref page="liang-hua-kuang-jia-tui-jian-ke-cheng.md" %}
 
