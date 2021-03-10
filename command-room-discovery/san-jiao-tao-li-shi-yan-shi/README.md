@@ -29,7 +29,7 @@
 
 千千的其它视频：[**上篇**](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)  **\|**  [**下篇**](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)  **\|**  [**部署**](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)  **\|**  [**回测**](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw) ****
 
-\*\*\*\*[**AIOQuant**](https://github.com/paulran/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）**
+\*\*\*\*[**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）**
 
 ## 二，对接准备
 
