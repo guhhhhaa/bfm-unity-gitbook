@@ -1,4 +1,4 @@
-# AIOQuant课程
+# 量化框架推荐课程
 
 #### [https://study.163.com/course/courseMain.htm?courseId=1210199432](https://study.163.com/course/courseMain.htm?courseId=1210199432)
 

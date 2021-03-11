@@ -62,6 +62,10 @@
 
 [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st)
 
+### **技术难点**
+
+{% page-ref page="yi-bu-bing-fa-xie-cheng.md" %}
+
 ## **四，FPGA**
 
 [用这个库居然可以使用Python进行FPGA逻辑开发](https://zhuanlan.zhihu.com/p/56095014)
