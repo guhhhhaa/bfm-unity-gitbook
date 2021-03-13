@@ -2,9 +2,9 @@
 
 ## 👩‍🔬 👨‍🔬 ➡️ 三角套利实验室 ⚠️ ☢️ ☠️ 🔥 💥 🧪 🔬 💻
 
-![](../../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-.png)
 
-![](../../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-%20%281%29.png)
+
+![](../../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-.png)
 
 {% hint style="info" %}
 [**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx) **+** [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)\*\*\*\*
@@ -68,7 +68,7 @@
 
 ### **技术难点**
 
-{% page-ref page="yi-bu-bing-fa-xie-cheng.md" %}
+{% page-ref page="yi-bu-bing-fa-xie-cheng-1/yi-bu-bing-fa-xie-cheng.md" %}
 
 ## **四，FPGA**
 
