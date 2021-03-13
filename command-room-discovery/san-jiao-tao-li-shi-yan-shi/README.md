@@ -54,7 +54,7 @@
 
 ## 三，代码**参考**
 
-\*\*\*\*[**https://github.com/bmino/binance-triangle-arbitrage**](https://github.com/bmino/binance-triangle-arbitrage)\*\*\*\*
+{% embed url="https://github.com/bmino/binance-triangle-arbitrage" %}
 
 [币圈搬砖、数字货币量化套利，从入门到实战（六）三角搬砖](https://www.jianshu.com/p/14dbaa02777a)
 
