@@ -44,8 +44,6 @@
 
 \*\*\*\*[**Peregrine**](https://github.com/wardbradt/peregrine)**（**[**文档**](https://guhhhhaa.gitbook.io/peregrine/)**）**
 
-{% embed url="https://github.com/wardbradt/peregrine" %}
-
 [**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）**
 
 \*\*\*\*[**TheNextQuant**](https://thenextquant.com/intro)**（已下架）**
@@ -57,6 +55,10 @@
 [**币安多币种自动化策略API操作指南**](https://zhuanlan.zhihu.com/p/55109087) **（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan)**）**
 
 ## 三，代码**参考**
+
+{% embed url="https://github.com/wardbradt/peregrine" %}
+
+{% embed url="https://guhhhhaa.gitbook.io/peregrine/peregrine-cn" %}
 
 {% embed url="https://github.com/bmino/binance-triangle-arbitrage" %}
 
