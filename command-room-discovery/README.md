@@ -21,7 +21,6 @@ description: Command Room (Discovery)
 * \*\*\*\*[**CoinMarketCap**](https://coinmarketcap.com/)**（**[**CMC DeFi**](https://coinmarketcap.com/defi/)**）**
 * \*\*\*\*[**其他区块链数据分析网站**](https://medium.com/@chainnews/%E9%80%81%E4%BD%A0-22-%E4%B8%AA%E9%93%BE%E4%B8%8A%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%A9%E5%99%A8-%E6%B4%9E%E7%A9%BF%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E9%87%8D%E9%87%8D%E8%BF%B7%E9%9B%BE-b57f5b4b5727)\*\*\*\*
 * \*\*\*\*[**Gas费**](https://gasnow.sparkpool.com/)\*\*\*\*
-* \*\*\*\*[**Block123**](https://www.block123.com/zh-hans/)**（导航网站）**
 {% endtab %}
 
 {% tab title="挖矿" %}
@@ -97,8 +96,6 @@ description: Command Room (Discovery)
 {% endtabs %}
 
 ## **DeFi**
-
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210313-shang-wu-11.50.56.png)
 
 {% tabs %}
 {% tab title="资产" %}
@@ -342,7 +339,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="巴菲特指标" %}
-* [巴菲特指标](http://www.currentmarketvaluation.com/models/buffett-indicator.php) 或 [巴菲特指标](https://www.gurufocus.cn/indicator/buffett-market-valuation)（推荐）。以股市总市值占GNP（或GDP）的比例来衡量一国股市的估值水平，又被称作资产证券化率指标。（[**介绍**](https://www.sohu.com/a/437526687_146833)）一般情况，巴菲特指标位于70%至80%之间时是买入美股的好时机。如果巴菲特指标超过100%，则投资者需要关注美国股市的风险，并应该考虑持币观察。
+* [巴菲特指标](http://www.currentmarketvaluation.com/models/buffett-indicator.php) 或 [巴菲特指标](https://www.gurufocus.cn/indicator/buffett-market-valuation)。以股市总市值占GNP（或GDP）的比例来衡量一国股市的估值水平，又被称作资产证券化率指标。（[**介绍**](https://www.sohu.com/a/437526687_146833)）一般情况，巴菲特指标位于70%至80%之间时是买入美股的好时机。如果巴菲特指标超过100%，则投资者需要关注美国股市的风险，并应该考虑持币观察。
 {% endtab %}
 
 {% tab title="VIX" %}
