@@ -44,6 +44,8 @@
 
 \*\*\*\*[**Peregrine**](https://github.com/wardbradt/peregrine)**（**[**文档**](https://guhhhhaa.gitbook.io/peregrine/)**）**
 
+{% embed url="https://github.com/wardbradt/peregrine" %}
+
 [**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）**
 
 \*\*\*\*[**TheNextQuant**](https://thenextquant.com/intro)**（已下架）**
@@ -57,6 +59,8 @@
 ## 三，代码**参考**
 
 {% embed url="https://github.com/bmino/binance-triangle-arbitrage" %}
+
+{% embed url="https://github.com/gabriel-milan/btrader" %}
 
 [币圈搬砖、数字货币量化套利，从入门到实战（六）三角搬砖](https://www.jianshu.com/p/14dbaa02777a)
 
