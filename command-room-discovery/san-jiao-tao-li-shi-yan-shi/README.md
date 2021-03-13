@@ -72,6 +72,8 @@
 
 ### **技术难点**
 
+{% page-ref page="yi-bu-bing-fa-xie-cheng-1/" %}
+
 {% page-ref page="yi-bu-bing-fa-xie-cheng-1/yi-bu-bing-fa-xie-cheng.md" %}
 
 ## **四，FPGA**
