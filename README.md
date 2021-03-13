@@ -28,7 +28,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 加密货币投资路径
 
-![](.gitbook/assets/defi_2.png)
+![](.gitbook/assets/ping-mu-kuai-zhao-20210313-shang-wu-11.50.56.png)
 
 ## 漫谈世界金融体系
 
