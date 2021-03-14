@@ -4,6 +4,16 @@
 
 ![](../../.gitbook/assets/bfm-unity-hei-dong-tan-suo-.png)
 
+{% hint style="info" %}
+我们在尝试部署BellmanFord算法在币安上或者Uniswap上进行单交易所的多角套利。
+
+如果在币安上运行，需要对接交易所API。使用python，ccxt，asyncio，通过异步并发协程的方式运行BellmanFord算法，以寻找套利路径。
+
+我们发现了一个可以参考的项目Peregrine，它可以打印出一个套利路径，但是没有执行下单的程序。
+
+我们需要自己编写这个执行下单的程序。
+{% endhint %}
+
 ![](../../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-.png)
 
 {% hint style="info" %}
