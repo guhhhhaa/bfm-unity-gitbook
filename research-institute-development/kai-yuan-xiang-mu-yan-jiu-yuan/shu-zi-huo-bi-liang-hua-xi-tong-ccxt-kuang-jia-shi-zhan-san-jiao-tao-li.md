@@ -6,7 +6,7 @@
 
 [**CCXT私有API课程**](https://www.bilibili.com/video/BV1L4411w7iv/)\*\*\*\*
 
-\*\*\*\*[**CCXT Example -** ](https://github.com/ccxt/ccxt/tree/master/examples)
+\*\*\*\*[**CCXT Example - Github**](https://github.com/ccxt/ccxt/tree/master/examples)\*\*\*\*
 
 ## 数字货币量化系统 CCXT 框架实战三角套利
 
