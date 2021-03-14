@@ -28,7 +28,7 @@
     * [Peregrine 领域级重点实验室🚩](san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md)
     * [btrader实验室](san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/btrader-shi-yan-shi.md)
 * [陈列室（历程）🏆](fa-zhan-li-cheng.md)
-* [投资/捐赠/众筹](juan-zeng-da-shang.md)
+* [会客厅（援助）💰](juan-zeng-da-shang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [【研究】参考文献](what-is-bfm-al/bfm-al-ckwx.md)
   * [BFM 维基百科翻译](what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)
