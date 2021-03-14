@@ -10,7 +10,7 @@
   * [可转债打新](management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [指挥室（探索）](command-room-discovery/README.md)
-  * [👩‍🔬 👨‍🔬 三角套利实验室 🧪 🔬](command-room-discovery/san-jiao-tao-li-shi-yan-shi/README.md)
+  * [👩‍🔬 👨‍🔬 三角套利研究院 🧪 🔬](command-room-discovery/san-jiao-tao-li-shi-yan-shi/README.md)
     * [异步，并发，协程](command-room-discovery/san-jiao-tao-li-shi-yan-shi/yi-bu-bing-fa-xie-cheng-1/README.md)
       * [异步，并发，协程（旧版本折叠）](command-room-discovery/san-jiao-tao-li-shi-yan-shi/yi-bu-bing-fa-xie-cheng-1/yi-bu-bing-fa-xie-cheng.md)
     * [AIOQuant课程](command-room-discovery/san-jiao-tao-li-shi-yan-shi/liang-hua-kuang-jia-tui-jian-ke-cheng.md)
