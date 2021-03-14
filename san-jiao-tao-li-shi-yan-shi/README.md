@@ -1,8 +1,8 @@
-# 👩‍🔬 👨‍🔬 三角套利研究总院 🧪 🔬
+# 研究院（开发）👩‍🔬 👨‍🔬 🧪 🔬
 
 ## 👩‍🔬 👨‍🔬 ➡️ 三角套利研究院 ⚠️ ☢️ ☠️ 🔥 💥 🧪 🔬 💻——黑洞计划
 
-![](../../.gitbook/assets/bfm-unity-hei-dong-tan-suo-.png)
+![](../.gitbook/assets/bfm-unity-hei-dong-tan-suo-.png)
 
 {% hint style="info" %}
 我们在尝试部署[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al)在[**币安**](https://www.binance.com/cn)上或者Uniswap上，进行单交易所内部多币种的多角套利。
@@ -14,7 +14,7 @@
 我们需要参考Peregrine的代码，自己编写并添加这个**执行**下单的程序。
 {% endhint %}
 
-![](../../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-.png)
+![](../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-.png)
 
 {% hint style="info" %}
 [**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx) **+** [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)\*\*\*\*
@@ -34,7 +34,7 @@
 我已经[**联系币安**](https://www.binance.com/zh-CN/my/user-support/feedback/entry)让他们自己研发三角套利策略了，不知道以[**币安**](https://www.binance.com/cn)的研发实力，会不会搞出一个功能，让散户人人都可以参与三角套利，这样散户只需要投资就行了，不需要研究技术。
 {% endhint %}
 
-![](../../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
+![](../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
 
 ## **导游**
 

@@ -14,7 +14,7 @@
 [第8期 日志打印](https://www.bilibili.com/video/BV1FJ411C7Ys/)  
 [第9期 服务心跳 & 协程任务](https://www.bilibili.com/video/BV1pJ411C7dS/) ——————————————🚩
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210311-xia-wu-4.34.59.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210311-xia-wu-4.34.59.png)
 
 [第10期 Order订单模块](https://www.bilibili.com/video/BV1UJ411C7a6/)  
 [第11期 Trade交易模块](https://www.bilibili.com/video/BV1sJ411r73X/)  

@@ -6,13 +6,13 @@
 
 ## 专业研究
 
-{% page-ref page="../../what-is-bfm-al/" %}
+{% page-ref page="../what-is-bfm-al/" %}
 
-{% page-ref page="../../what-is-bfm-al/bfm-al-ckwx.md" %}
+{% page-ref page="../what-is-bfm-al/bfm-al-ckwx.md" %}
 
 ## 深入研究
 
-{% page-ref page="../../ruan-jian-bfm-on-python/" %}
+{% page-ref page="../ruan-jian-bfm-on-python/" %}
 
 ## 交叉研究
 
@@ -22,5 +22,5 @@
 
 ## 高层研究
 
-{% page-ref page="../../ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md" %}
+{% page-ref page="../ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md" %}
 
