@@ -72,7 +72,7 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/peregrine/peregrine-cn" %}
 
-### bmino-BTA
+### bmino-BTA & btrader
 
 {% embed url="https://github.com/bmino/binance-triangle-arbitrage" %}
 
