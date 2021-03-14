@@ -6,7 +6,9 @@
 
  [https://www.zhangleigang.com/archives/category/py](https://www.zhangleigang.com/archives/category/py) 
 
-[https://www.zhihu.com/question/294188439/answer/555273313](https://www.zhihu.com/question/294188439/answer/555273313) 
+[https://www.zhihu.com/question/294188439/answer/555273313](https://www.zhihu.com/question/294188439/answer/555273313) 🚩
+
+[**https://www.dazhuanlan.com/2020/01/04/5e101c249fa42/**](https://www.dazhuanlan.com/2020/01/04/5e101c249fa42/) **🚩**
 
 [https://www.cnblogs.com/songzhixue/p/11311646.html](https://www.cnblogs.com/songzhixue/p/11311646.html)
 
@@ -14,9 +16,9 @@
 
 ——————————————————————
 
- [https://www.bilibili.com/video/BV1cK4y1E77y](https://www.bilibili.com/video/BV1cK4y1E77y) 
+ [https://www.bilibili.com/video/BV1cK4y1E77y](https://www.bilibili.com/video/BV1cK4y1E77y) 🚩
 
-笔记连接：[https://pythonav.com/wiki/detail/6/91/](https://pythonav.com/wiki/detail/6/91/) 
+笔记连接：[https://pythonav.com/wiki/detail/6/91/](https://pythonav.com/wiki/detail/6/91/) 🚩
 
 aysncio官方文档链接：[https://docs.python.org/zh-cn/3.7/library/asyncio.html](https://docs.python.org/zh-cn/3.7/library/asyncio.html) 
 
