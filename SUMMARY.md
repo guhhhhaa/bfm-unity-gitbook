@@ -23,7 +23,7 @@
     * [苍青 · 开源项目工程分院](command-room-discovery/san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/README.md)
       * [CCXT 领域级重点实验室🚩](command-room-discovery/san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li.md)
       * [AIOQuant 实验室](command-room-discovery/san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/liang-hua-kuang-jia-tui-jian-ke-cheng.md)
-      * [Peregrine领域级重点实验室🚩](command-room-discovery/san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md)
+      * [Peregrine 领域级重点实验室🚩](command-room-discovery/san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md)
       * [btrader实验室](command-room-discovery/san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/btrader-shi-yan-shi.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
 * [发展历程](fa-zhan-li-cheng.md)
