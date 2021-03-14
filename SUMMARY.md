@@ -20,7 +20,7 @@
       * [AIOQuant 实验室](command-room-discovery/san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/liang-hua-kuang-jia-tui-jian-ke-cheng.md)
       * [Peregrine实验室](command-room-discovery/san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md)
     * [API接口研究院](command-room-discovery/san-jiao-tao-li-shi-yan-shi/api-jie-kou-yan-jiu-yuan/README.md)
-      * [币安多币种自动化策略API操作指南](command-room-discovery/san-jiao-tao-li-shi-yan-shi/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
+      * [币安API实验室](command-room-discovery/san-jiao-tao-li-shi-yan-shi/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
 * [发展历程](fa-zhan-li-cheng.md)
 * [投资/捐赠/众筹](juan-zeng-da-shang.md)
