@@ -2,9 +2,9 @@
 
 [**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**）**[**课程地址**](https://study.163.com/course/courseMain.htm?courseId=1006162003)\*\*\*\*
 
-\*\*\*\*[**https://www.bilibili.com/video/av57636895/**](https://www.bilibili.com/video/av57636895/) **—— 公有API**
+[**CCXT公有API课程**](https://www.bilibili.com/video/av57636895/)\*\*\*\*
 
-\*\*\*\*[**https://www.bilibili.com/video/BV1L4411w7iv/**](https://www.bilibili.com/video/BV1L4411w7iv/) **——** 私**有API**
+[**CCXT私有API课程**](https://www.bilibili.com/video/BV1L4411w7iv/)\*\*\*\*
 
 ## 数字货币量化系统 CCXT 框架实战三角套利
 
