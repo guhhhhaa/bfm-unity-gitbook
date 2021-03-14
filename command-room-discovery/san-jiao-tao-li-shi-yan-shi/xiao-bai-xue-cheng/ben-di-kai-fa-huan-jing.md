@@ -1,6 +1,6 @@
 # 开发环境搭建教室
 
-本地开发环境：
+## 本地开发环境
 
 [**Pycharm**](https://www.jetbrains.com/pycharm/download/#section=mac)\*\*\*\*
 
@@ -8,7 +8,7 @@
 
 [**Anaconda**](https://www.anaconda.com/products/individual#Downloads)\*\*\*\*
 
-云计算开发环境：
+## 云计算开发环境
 
 [**宝塔面板**](https://www.bt.cn/)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） \|**  [**阿里云**](https://www.aliyun.com/)  **\|**  [**腾讯云**](https://cloud.tencent.com/)\*\*\*\*
 
