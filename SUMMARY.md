@@ -13,7 +13,7 @@
   * [👩‍🔬 👨‍🔬 三角套利研究院 🧪 🔬](command-room-discovery/san-jiao-tao-li-shi-yan-shi/README.md)
     * [小白 · 学城](command-room-discovery/san-jiao-tao-li-shi-yan-shi/xiao-bai-xue-cheng/README.md)
       * [Python少儿编程教室](command-room-discovery/san-jiao-tao-li-shi-yan-shi/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
-      * [开发环境搭建教室](command-room-discovery/san-jiao-tao-li-shi-yan-shi/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
+      * [开发环境搭建教室🚩](command-room-discovery/san-jiao-tao-li-shi-yan-shi/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
     * [高并发研究院](command-room-discovery/san-jiao-tao-li-shi-yan-shi/yi-bu-bing-fa-xie-cheng-1/README.md)
       * [新版本高并发实验室🚩](command-room-discovery/san-jiao-tao-li-shi-yan-shi/yi-bu-bing-fa-xie-cheng-1/xin-ban-ben-gao-bing-fa-shi-yan-shi.md)
       * [旧版本高并发实验室](command-room-discovery/san-jiao-tao-li-shi-yan-shi/yi-bu-bing-fa-xie-cheng-1/yi-bu-bing-fa-xie-cheng.md)
