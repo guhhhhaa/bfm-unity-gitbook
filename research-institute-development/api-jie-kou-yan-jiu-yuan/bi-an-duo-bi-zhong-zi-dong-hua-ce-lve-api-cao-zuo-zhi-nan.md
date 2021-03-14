@@ -1,5 +1,13 @@
 # 币安API实验室🚩
 
+
+
+[https://www.binance.com](https://www.binance.com/)
+
+[https://binance-docs.github.io/apidocs/spot/cn/](https://binance-docs.github.io/apidocs/spot/cn/)  
+[![](https://github.com/fluidicon.png)sammchardy/python-binance-chain](https://github.com/sammchardy/python-binance-chain/)  
+[![](https://github.com/fluidicon.png)binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs)
+
 ## [币安多币种自动化策略API操作指南](https://zhuanlan.zhihu.com/p/55109087)
 
 币安虽然成立时间不长，但由于技术出色，API稳定高效，请求频率限制也宽松，上币很多，交易活跃，已经是现货交易的首选平台。币安目前仅以BTC定价的币种就超过了150种，还在不断增加中，这使得获取很多币种行情和K线变的困难。本文将主要介绍如何在FMZ量化平台上操作多币种策略，甚至操作所有币种都没问题，主要面向有一定基础的用户。
