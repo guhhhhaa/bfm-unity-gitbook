@@ -14,6 +14,8 @@ description: Main Bridge (Guidance)
 NOTE: **This project is in beta. Use at your own risk.**    
   
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
+
+**主舰桥负责连接**₿FM Unity™**的过去（**[**旧版本**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)**），现在（**[**驾驶舱**](https://app.gitbook.com/@guhhhhaa/s/bfm/~/drafts/-MVjhzEka3Q9R9_edu0U/management-cockpit-operation)**，**[**指挥室**](https://app.gitbook.com/@guhhhhaa/s/bfm/~/drafts/-MVjhzEka3Q9R9_edu0U/command-room-discovery)**）与未来（**[**研究院**](https://app.gitbook.com/@guhhhhaa/s/bfm/~/drafts/-MVjhzEka3Q9R9_edu0U/command-room-discovery/san-jiao-tao-li-shi-yan-shi)**）。**
 {% endhint %}
 
 {% page-ref page="command-room-discovery/san-jiao-tao-li-shi-yan-shi/" %}

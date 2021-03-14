@@ -5,9 +5,9 @@
 ![](../../.gitbook/assets/bfm-unity-hei-dong-tan-suo-.png)
 
 {% hint style="info" %}
-我们在尝试部署BellmanFord算法在币安上或者Uniswap上，进行单交易所内部多币种的多角套利。
+我们在尝试部署[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al)在[**币安**](https://www.binance.com/cn)上或者Uniswap上，进行单交易所内部多币种的多角套利。
 
-如果在币安上运行，需要对接交易所API。使用python，ccxt，asyncio，通过异步并发协程的方式运行Bellman-Ford算法，以寻找套利路径。
+如果在[**币安**](https://www.binance.com/cn)上运行，需要对接交易所API。使用[**python**](https://www.python.org/downloads/)，ccxt，asyncio，通过异步并发协程的方式运行[Bellman-Ford算法](https://www.bfm-unity.com/what-is-bfm-al)，以寻找套利路径。
 
 我们发现了一个可以参考的项目：Peregrine，它可以**打印**出一个套利路径，但是没有**执行**下单的程序。
 
@@ -46,9 +46,11 @@
 
 本地开发环境：
 
-[https://www.jetbrains.com/pycharm/download/\#section=mac](https://www.jetbrains.com/pycharm/download/#section=mac)
+[**Pycharm**](https://www.jetbrains.com/pycharm/download/#section=mac)\*\*\*\*
 
-[https://www.anaconda.com/products/individual\#Downloads](https://www.anaconda.com/products/individual#Downloads)
+[**Python**](https://www.python.org/downloads/)\*\*\*\*
+
+[**Anaconda**](https://www.anaconda.com/products/individual#Downloads)\*\*\*\*
 
 云计算开发环境：
 
@@ -66,7 +68,7 @@
 
 \*\*\*\*[**TheNextQuant**](https://thenextquant.com/intro)**（已下架）**
 
-{% page-ref page="liang-hua-kuang-jia-tui-jian-ke-cheng.md" %}
+{% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/liang-hua-kuang-jia-tui-jian-ke-cheng.md" %}
 
 ## 二，对接准备
 
