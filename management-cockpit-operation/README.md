@@ -2,7 +2,7 @@
 description: Management Cockpit (Operation)
 ---
 
-# 驾驶舱（运行）
+# 驾驶舱（运行）🐎 🚜 🚗 ✈️ 🚀
 
 {% hint style="info" %}
 驾驶舱专注于已经成为共识和基础设施的的投资组合项目的运行。

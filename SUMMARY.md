@@ -1,7 +1,7 @@
 # Table of contents
 
 * [主舰桥（引导）](README.md)
-* [驾驶舱（运行）](management-cockpit-operation/README.md)
+* [驾驶舱（运行）🐎 🚜 🚗 ✈️ 🚀](management-cockpit-operation/README.md)
   * [考试报名](management-cockpit-operation/kao-shi-bao-ming.md)
   * [神经网络策略](management-cockpit-operation/shen-jing-wang-luo-ce-lve.md)
   * [融资加杠杆](management-cockpit-operation/zhe-die.md)
@@ -9,7 +9,7 @@
   * [选股](management-cockpit-operation/xuan-gu.md)
   * [可转债打新](management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
-* [指挥室（探索）](command-room-discovery/README.md)
+* [指挥室（探索）🎩 👔 👓 🕶️ 🔭](command-room-discovery/README.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
 * [研究院（开发）👩‍🔬 👨‍🔬 🧪 🔬](san-jiao-tao-li-shi-yan-shi/README.md)
   * [导游](san-jiao-tao-li-shi-yan-shi/dao-you.md)
@@ -27,7 +27,7 @@
     * [AIOQuant 实验室](san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/liang-hua-kuang-jia-tui-jian-ke-cheng.md)
     * [Peregrine 领域级重点实验室🚩](san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md)
     * [btrader实验室](san-jiao-tao-li-shi-yan-shi/kai-yuan-xiang-mu-yan-jiu-yuan/btrader-shi-yan-shi.md)
-* [陈列室（历程）](fa-zhan-li-cheng.md)
+* [陈列室（历程）🏆](fa-zhan-li-cheng.md)
 * [投资/捐赠/众筹](juan-zeng-da-shang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [【研究】参考文献](what-is-bfm-al/bfm-al-ckwx.md)

@@ -6,10 +6,6 @@ description: Main Bridge (Guidance)
 
 ![&#x4E3B;&#x8230;&#x6865;&#xFF08;&#x5F15;&#x5BFC;&#xFF09;](.gitbook/assets/src-http___img4.178.com_news_201711_305754270311_o_305754450631.jpg-and-refer-http___img4.178.jpeg)
 
-{% page-ref page="management-cockpit-operation/" %}
-
-{% page-ref page="command-room-discovery/" %}
-
 {% hint style="info" %}
 NOTE: **This project is in beta. Use at your own risk.**    
   
@@ -18,7 +14,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 **主舰桥负责连接**₿FM Unity™**的过去（**[**旧版本**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/)**），现在（**[**驾驶舱**](https://app.gitbook.com/@guhhhhaa/s/bfm/~/drafts/-MVjhzEka3Q9R9_edu0U/management-cockpit-operation)**，**[**指挥室**](https://app.gitbook.com/@guhhhhaa/s/bfm/~/drafts/-MVjhzEka3Q9R9_edu0U/command-room-discovery)**）与未来（**[**研究院**](https://app.gitbook.com/@guhhhhaa/s/bfm/~/drafts/-MVjhzEka3Q9R9_edu0U/command-room-discovery/san-jiao-tao-li-shi-yan-shi)**）。**
 {% endhint %}
 
+{% page-ref page="management-cockpit-operation/" %}
+
+{% page-ref page="command-room-discovery/" %}
+
 {% page-ref page="san-jiao-tao-li-shi-yan-shi/" %}
+
+{% page-ref page="fa-zhan-li-cheng.md" %}
 
 ![](.gitbook/assets/bfm-unity-2.0.png)
 
