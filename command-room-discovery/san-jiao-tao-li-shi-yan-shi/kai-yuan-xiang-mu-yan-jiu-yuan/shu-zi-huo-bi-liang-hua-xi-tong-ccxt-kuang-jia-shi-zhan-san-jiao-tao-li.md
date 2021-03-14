@@ -1,5 +1,7 @@
 # CCXT 实验室🚩
 
+[**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**）**[**课程地址**](https://study.163.com/course/courseMain.htm?courseId=1006162003)\*\*\*\*
+
 ## 数字货币量化系统 CCXT 框架实战三角套利
 
 > 本篇博文将使用CCXT来进行三角套利实战。

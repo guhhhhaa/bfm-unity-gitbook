@@ -44,37 +44,25 @@
 
 ## 一，环境搭建
 
-本地开发环境：
-
-[**Pycharm**](https://www.jetbrains.com/pycharm/download/#section=mac)\*\*\*\*
-
-[**Python**](https://www.python.org/downloads/)\*\*\*\*
-
-[**Anaconda**](https://www.anaconda.com/products/individual#Downloads)\*\*\*\*
-
-云计算开发环境：
-
-[**宝塔面板**](https://www.bt.cn/)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） \|**  [**阿里云**](https://www.aliyun.com/)  **\|**  [**腾讯云**](https://cloud.tencent.com/)\*\*\*\*
-
-千千的其它视频：[**上篇**](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)  **\|**  [**下篇**](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)  **\|**  [**部署**](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)  **\|**  [**回测**](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw) ****
+{% page-ref page="xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md" %}
 
 ### **量化框架**
 
-[**CCXT**](https://github.com/ccxt/ccxt)\*\*\*\*
+{% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/" %}
 
-\*\*\*\*[**Peregrine**](https://github.com/wardbradt/peregrine)**（**[**文档**](https://guhhhhaa.gitbook.io/peregrine/)**）**
-
-[**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）**
-
-\*\*\*\*[**TheNextQuant**](https://thenextquant.com/intro)**（已下架）**
+[**CCXT**](https://github.com/ccxt/ccxt)  **\|**  [**Peregrine**](https://github.com/wardbradt/peregrine)**（**[**文档**](https://guhhhhaa.gitbook.io/peregrine/)**）\|**  [**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）\|**  [**TheNextQuant**](https://thenextquant.com/intro)**（已下架）**
 
 {% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/liang-hua-kuang-jia-tui-jian-ke-cheng.md" %}
 
 ## 二，对接准备
 
+{% page-ref page="api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md" %}
+
 [**币安多币种自动化策略API操作指南**](https://zhuanlan.zhihu.com/p/55109087) **（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan)**）**
 
 ## 三，代码**参考**
+
+{% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/" %}
 
 ### **eregrine**
 
@@ -92,7 +80,9 @@
 
 [**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**）**[**课程地址**](https://study.163.com/course/courseMain.htm?courseId=1006162003)\*\*\*\*
 
-[**https://guhhhhaa.gitbook.io/arbitrage-github/**](https://guhhhhaa.gitbook.io/arbitrage-github/)\*\*\*\*
+{% embed url="https://guhhhhaa.gitbook.io/arbitrage-github/" %}
+
+\*\*\*\*
 
 [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st)
 
