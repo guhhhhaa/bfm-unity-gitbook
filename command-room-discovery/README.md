@@ -2,7 +2,7 @@
 description: Command Room (Discovery)
 ---
 
-# 指挥室（探索）
+# 指挥室（探索）🎩 👔 🕶️ 🔭
 
 {% page-ref page="../management-cockpit-operation/" %}
 
@@ -230,7 +230,7 @@ Optimistic Rollup\(乐观卷叠\)
 
 * [**YFLink**](https://yflink.io/#/)
 
-## **Fantom \(FTM\)\(CJ站台\)**
+## **Fantom \(FTM\)\(AC站台\)**
 
 \*\*\*\*[**https://www.fantom.foundation/**](https://www.fantom.foundation/)\*\*\*\*
 
