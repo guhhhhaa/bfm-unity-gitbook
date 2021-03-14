@@ -1,4 +1,4 @@
-# Peregrine实验室🚩
+# Peregrine领域级重点实验室🚩
 
 ### P**eregrine**
 
