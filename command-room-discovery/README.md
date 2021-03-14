@@ -28,10 +28,6 @@ description: Command Room (Discovery)
 * \*\*\*\*[**好站点**](https://www.hzd.com/)\*\*\*\*
 {% endtab %}
 
-{% tab title="" %}
-
-{% endtab %}
-
 {% tab title="法币OTC/C2C交易" %}
 ![](../.gitbook/assets/cefi.png)
 
