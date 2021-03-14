@@ -36,13 +36,13 @@
 
 ![](../../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
 
-## 〇，策略学习
+## 〇，策略学习🚩
 
 [**三角套利策略介绍**](https://mp.weixin.qq.com/s/G5t7TyIyrH40Kl55feTDIw) **+** [**考虑交易成本的三角套利**](https://www.jianshu.com/p/e50a52312a47)\*\*\*\*
 
 [**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx)\*\*\*\*
 
-## 一，环境搭建
+## 一，环境搭建🚩
 
 {% page-ref page="xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md" %}
 
