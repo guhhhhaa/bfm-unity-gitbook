@@ -2,7 +2,11 @@
 
 ## 本地开发环境：
 
+### 软件安装
+
 [**Pycharm**](https://www.jetbrains.com/pycharm/download/#section=mac)  **\|**  [**Python**](https://www.python.org/downloads/)  **\|**  [**Anaconda**](https://www.anaconda.com/products/individual#Downloads)\*\*\*\*
+
+### **终端执行**
 
 ```c
 conda update conda
