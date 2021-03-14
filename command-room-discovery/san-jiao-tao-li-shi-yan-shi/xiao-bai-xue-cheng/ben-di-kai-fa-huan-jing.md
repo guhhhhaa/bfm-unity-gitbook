@@ -9,6 +9,12 @@
 [**Anaconda**](https://www.anaconda.com/products/individual#Downloads)\*\*\*\*
 
 ```c
+conda update conda
+conda update anaconda
+conda update anaconda-navigator
+```
+
+```c
 pip install ccxt
 ```
 
