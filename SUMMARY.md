@@ -11,6 +11,7 @@
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [指挥室（探索）](command-room-discovery/README.md)
   * [👩‍🔬 👨‍🔬 三角套利研究总院 🧪 🔬](command-room-discovery/san-jiao-tao-li-shi-yan-shi/README.md)
+    * [导游](command-room-discovery/san-jiao-tao-li-shi-yan-shi/dao-you.md)
     * [素白 · 学城](command-room-discovery/san-jiao-tao-li-shi-yan-shi/xiao-bai-xue-cheng/README.md)
       * [Python少儿编程教室](command-room-discovery/san-jiao-tao-li-shi-yan-shi/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
       * [开发环境搭建教室🚩](command-room-discovery/san-jiao-tao-li-shi-yan-shi/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
