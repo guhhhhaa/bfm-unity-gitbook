@@ -4,9 +4,7 @@
 
 ### 软件安装 
 
-[PowerShell](https://docs.microsoft.com/zh-cn/powershell/)
-
-[清华的brew镜像](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+微软[PowerShell](https://docs.microsoft.com/zh-cn/powershell/)  \|  [清华的brew镜像](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 
 [**Pycharm**](https://www.jetbrains.com/pycharm/download/#section=mac)  **\|**  [**Python**](https://www.python.org/downloads/)  **\|**  [**Anaconda**](https://www.anaconda.com/products/individual#Downloads)\*\*\*\*
 
