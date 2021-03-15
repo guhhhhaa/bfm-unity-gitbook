@@ -1,6 +1,6 @@
-# CCXT手册（待搬运）
+# CCXT手册
 
-## \*\*\*\*[**CCXT手册**](http://cw.hubwiz.com/card/c/ccxt-dev-manual/)**（待搬运）**
+## \*\*\*\*[**CCXT手册**](http://cw.hubwiz.com/card/c/ccxt-dev-manual/)
 
 ## **CCXT开发概述**
 
