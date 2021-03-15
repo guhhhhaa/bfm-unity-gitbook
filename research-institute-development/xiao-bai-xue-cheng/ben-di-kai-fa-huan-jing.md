@@ -8,7 +8,7 @@
 
 [**Pycharm**](https://www.jetbrains.com/pycharm/download/#section=mac)  **\|**  [**Python**](https://www.python.org/downloads/)  **\|**  [**Anaconda**](https://www.anaconda.com/products/individual#Downloads)\*\*\*\*
 
-### **终端执行**
+### **终端执行安装**
 
 ```c
 conda update conda
