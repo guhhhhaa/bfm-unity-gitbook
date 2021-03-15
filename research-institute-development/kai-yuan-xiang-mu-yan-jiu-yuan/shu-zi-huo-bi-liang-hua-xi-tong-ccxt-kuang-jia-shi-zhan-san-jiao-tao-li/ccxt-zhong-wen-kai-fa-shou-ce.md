@@ -567,3 +567,2077 @@ $exchange->enableRateLimit = false; // disable
 * 尝试不同地理位置的其他IP
 * 在一组分布网络服务器上运行你的软件
 
+
+
+## **CCXT市场模型**
+
+### 市场数据结构
+
+交易所是用来交易有价物品的场所。优势它们被冠以各种不同的 术语，例如工具、符号、交易对、货币、股票、商品、合同等， 但是指的都是一个东西 - 交易对、符号或金融工具。
+
+在ccxt库中，每个交易所都提供了多个市场。不同交易所提供的 交易市场各有不同，因而也提供了跨交易所的套利机会。一个市场 通常指的是一对可交易的数字货币或法币。
+
+在CCXT中，市场模型的数据结构如下：
+
+```text
+{
+    'id':     ' btcusd',  // string literal for referencing within an exchange
+    'symbol':  'BTC/USD', // uppercase string literal of a pair of currencies
+    'base':    'BTC',     // uppercase string, unified base currency code, 3 or more letters
+    'quote':   'USD',     // uppercase string, unified quote currency code, 3 or more letters
+    'baseId':  'btc',     // any string, exchange-specific base currency id
+    'quoteId': 'usd',     // any string, exchange-specific quote currency id
+    'active': true,       // boolean, market status
+    'precision': {        // number of decimal digits "after the dot"
+        'price': 8,       // integer or float for TICK_SIZE roundingMode, might be missing if not supplied by the exchange
+        'amount': 8,      // integer, might be missing if not supplied by the exchange
+        'cost': 8,        // integer, very few exchanges actually have it
+    },
+    'limits': {           // value limits when placing orders on this market
+        'amount': {
+            'min': 0.01,  // order amount should be > min
+            'max': 1000,  // order amount should be < max
+        },
+        'price': { ... }, // same min/max limits for the price of the order
+        'cost':  { ... }, // same limits for order cost = price * amount
+    },
+    'info':      { ... }, // the original unparsed market info from the exchange
+}
+```
+
+每个市场都是一个关联数组（或称为字典），包含以下键：
+
+* id：市场ID，用来在交易所内区分不同市场的字符串或数字ID。
+* symbol：市场符号，用来表示交易对的大写的字符串代码。通常记作：基础货币/报价货币，例如： BTC/USD, LTC/CNY 或 ETH/EUR等等。在ccxt库中使用市场符号来引用不同的市场。
+* base：基础货币代码，表示基础法币或加密货币的统一的大写字符串代码，代码是标准化的，在 CCXT中以及CCXT统一API中，使用货币代码来引用不同的货币。
+* quote：报价货币代码，用来表示报价法币或数字货币的统一的大写字符串代码。
+* baseId：基础货币ID，是交易所特定的表示基础货币的ID，不是统一的代码，理论上可以是任何 字符串。
+* quoteId：报价货币ID，是交易所特定的表示报价货币的ID，也不是统一的代码，每个交易所自行维护。
+* active：是否激活，布尔值，表示这个市场是否可交易。通常如果一个市场未激活，那么所有相关的 行情、委托账本以及其他访问端结点都返回空响应、全零、无数据或过时数据。调用者需要检查市场 是否激活并且定期刷新市场缓存。
+* info：一个用于记录非共性市场属性的关联数组，包括手续费、费率、限制以及其他一般性市场信息。 内部的info数组对每个特定的市场都是不同的，其内容依赖于交易所。
+* precision：在委托单中金额相关字段（例如价格、数量、成本等）支持的最大小数位数。
+* limits：限值，价格、数量和成本等的最高和最低限值，其中：成本 = 价格 \* 数量。
+
+### 精度 vs. 限值
+
+不要混淆了精度和限值！精度和最低限值无关。8位精度并不一定意味着最低限值为 0.00000001。反过来也是正确的：最小限值0.0001也不一定意味着精度为4。
+
+#### 示例1
+
+```text
+(market['limits']['amount']['min'] == 0.05) && (market['precision']['amount'] == 4)
+```
+
+上面的代码要求任何委托单的数量必须同时满足以下条件：
+
+* 数量值应当 &gt;= 0.05，例如：
+
+```text
+  + good: 0.05, 0.051, 0.0501, 0.0502, ..., 0.0599, 0.06, 0.0601, ...
+  - bad: 0.04, 0.049, 0.0499
+```
+
+* 精度最高4位小数，例如：
+
+  ```text
+  + good: 0.05, 0.051, 0.052, ..., 0.0531, ..., 0.06, ... 0.0719, ...
+  - bad: 0.05001, 0.05000, 0.06001
+  ```
+
+#### 示例2
+
+```text
+(market['limits']['price']['min'] == 0.0019) && (market['precision']['price'] == 5)
+```
+
+这个例子中要求任何委托单的价格必须同时满足以下条件：
+
+* 价格应当 &gt;= 0.019，例如：
+
+  ```text
+  + good: 0.019, ... 0.0191, ... 0.01911, 0.01912, ...
+  - bad: 0.016, ..., 0.01699
+  ```
+
+* 价格精度最高5位小数，例如：
+
+  ```text
+  + good: 0.02, 0.021, 0.0212, 0.02123, 0.02124, 0.02125, ...
+  - bad: 0.017000, 0.017001, ...
+  ```
+
+#### 示例3
+
+```text
+(market['limits']['amount']['min'] == 50) && (market['precision']['amount'] == -1)
+```
+
+这个示例要求任何委托单的数量同时满足以下条件：
+
+* 数量应当 &gt;= 50，例如：
+
+  ```text
+  + good: 50, 60, 70, 80, 90, 100, ... 2000, ...
+  - bad: 1, 2, 3, ..., 9
+  ```
+
+* 精度为负数表示应当为10的倍数，例如：
+
+  ```text
+  + good: 50, ..., 110, ... 1230, ..., 1000000, ..., 1234560, ...
+  - bad: 9.5, ... 10.1, ..., 11, ... 200.71, ...
+  ```
+
+### 委托单中的数值要求与格式化方法
+
+ccxt的用户应当始终遵守精度和限值要求！委托单中的值应当满足以下条件：
+
+* 委托单amount &gt; limits\['min'\]\['amount'\]
+* 委托单amount &lt; limits\['max'\]\['amount'\]
+* 委托单price &gt; limits\['min'\]\['price'\]
+* 委托单price &lt; limits\['max'\]\['price'\]
+* 委托单cost \(amount \* price\) &gt; limits\['min'\]\['cost'\]
+* 委托单cost \(amount \* price\) &lt; limits\['max'\]\['cost'\]
+* amount的精度 &lt;= precision\['amount'\]
+* price 的精度 &lt;= precision\['price'\]
+
+有些交易所的委托单可能不会包含上面提到的所有的值。
+
+#### 数值格式化方法
+
+每个交易所都有它自己的取整、计数和填充模式。
+
+CCXT支持的取整模式有：
+
+* ROUND – 取整精度要求之后的小数位
+* TRUNCATE– 截断精度要求之后的小数位
+
+数值精度计数模式可以使用`exchange.precisionMode`属性访问。
+
+CCXT支持的计数模式包括：
+
+* DECIMAL\_PLACES – 统计所有的数字，99%的交易所使用这种计数模式
+* SIGNIFICANT\_DIGITS – 仅统计非零数字，有些交易所（bitfinex等）采用这种模式的计数
+* TICK\_SIZE – 有些交易所只允许某个特定值的整数倍（bitmex使用这种模式）
+
+CCXT支持的填充模式包括：
+
+* NO\_PADDING – 无填充，大多数情况下的默认模式
+* PAD\_WITH\_ZERO – 使用0字符填充至精度要求
+
+交易所基类包含了`decimalToPrecision`来帮助格式化数值为要求的精度， 它支持不同的取整、计数和填充模式。
+
+JavaScript方法原型：
+
+```text
+function decimalToPrecision (x, roundingMode, numPrecisionDigits, countingMode = DECIMAL_PLACES, paddingMode = NO_PADDING)
+```
+
+Python方法原型：
+
+```text
+def decimal_to_precision(n, rounding_mode=ROUND, precision=None, counting_mode=DECIMAL_PLACES, padding_mode=NO_PADDING):
+```
+
+Php方法原型：
+
+```text
+function decimalToPrecision ($x, $roundingMode = ROUND, $numPrecisionDigits = null, $countingMode = DECIMAL_PLACES, $paddingMode = NO_PADDING)
+```
+
+可以访问以下示例代码查看如何使用`decimalToPrecision`方法来格式化字符串和浮点数：
+
+* JavaScript: [https://github.com/ccxt/ccxt/blob/master/js/test/base/functions/test.number.js](https://github.com/ccxt/ccxt/blob/master/js/test/base/functions/test.number.js)
+* Python: [https://github.com/ccxt/ccxt/blob/master/python/test/test\_decimal\_to\_precision.py](https://github.com/ccxt/ccxt/blob/master/python/test/test_decimal_to_precision.py)
+* PHP: [https://github.com/ccxt/ccxt/blob/master/php/test/decimal\_to\_precision.php](https://github.com/ccxt/ccxt/blob/master/php/test/decimal_to_precision.php)
+
+### 载入市场清单
+
+大多数情况下，在可以访问其他API方法之前，你都需要先载入特定交易所 的市场清单和交易符号。如果你忘记载入市场清单，ccxt库会在你第一次 调用统一API前自动载入。ccxt会先后发送两个HTTP请求，第一个请求市场清单， 第二个请求其他数据。
+
+要手工预先载入市场清单，可以调用交易所实例的`loadMarkets ()` 或 `load_markets ()` 方法，该方法返回一个描述市场集合的关联数组，键为交易符号。如果你希望 对业务逻辑有更多控制，那么推荐用这种方法手工载入市场清单。
+
+JavaScript示例代码：
+
+```text
+(async () => {
+    let kraken = new ccxt.kraken ()
+    let markets = await kraken.load_markets ()
+    console.log (kraken.id, markets)
+}) ()
+```
+
+Python示例代码：
+
+```text
+okcoin = ccxt.okcoinusd ()
+markets = okcoin.load_markets ()
+print (okcoin.id, markets)
+```
+
+PHP示例代码：
+
+```text
+$id = 'huobipro';
+$exchange = '\\ccxt\\' . $id;
+$huobipro = new $exchange ();
+$markets = $huobipro->load_markets ();
+var_dump ($huobipro->id, $markets);
+```
+
+### 交易符号和市场ID
+
+市场ID用于在REST请求-响应过程中引用交易所内的交易对。每个交易所 都有不同的市场ID集，因此不可以跨交易所使用市场ID。例如，BTC/USD 交易对在不同的交易所中可能有不同的ID：btcusd、 BTCUSD、XBTUSD、btc/usd、 42 \(数字ID\)、 BTC/USD、 Btc/Usd、 tBTCUSD、 XXBTZUSD等。你不需要 记住或使用市场ID，他们的作用是在交易所模型实现的内部用于HTTP的请求 -响应目的。
+
+CCXT库将不通用的市场ID抽象为标准化的交易符号。交易符号不同于市场ID。 每个市场都采用一个对应的符号来引用，交易符号可以跨交易所使用，这使得 交易符号更适用于跨交易所套利等其他很多应用。
+
+交易符号通常是描述一对交易货币的大写字符串常量，以斜杠间隔两个货币代码。 货币代码是3~4位大写字母，例如 BTC, ETH, USD, GBP, CNY, LTC, JPY, DOGE, RUB, ZEC, XRP, XMR, 等等。有些交易所也有长一些的富有异国风情的货币名称。 在斜杠之前的货币被称为基础货币，之后的被称为报价货币。下面是一些符号的 示例： BTC/USD, DOGE/LTC, ETH/EUR, DASH/XRP, BTC/CNY, ZEC/XMR, ETH/JPY。
+
+有时用户可能会注意到像'XBTM18' 或'.XRPUSDM20180101' 或r "exotic/rare symbols" 之类的交易符号。交易符号并不是一定要有斜杠或者包含货币对的代码。符号字符串 完全取决于市场类型（它是一个现货市场、期货市场、暗池市场或过期市场等等）。 CCXT不鼓励你解析交易符号字符串，你不应该依赖于交易符号的格式，CCXT推荐你 使用市场属性来达成你的应用需求。
+
+市场结构使用符号和ID为键。交易所基类也有内置的方法可以按符号访问市场对象。大多数 API方法需要传入交易符号作为第一个参数。当查询当前价格或委托下单时，也常常 需要你指定一个交易符号。
+
+大多数时候，CCXT用户都是与市场交易符号打交道。如果你访问字典中不存在的 键，就会收获一个异常。
+
+JavaScript示例代码：
+
+```text
+(async () => {
+
+    console.log (await exchange.loadMarkets ())
+
+    let btcusd1 = exchange.markets['BTC/USD']     // get market structure by symbol
+    let btcusd2 = exchange.market ('BTC/USD')     // same result in a slightly different way
+
+    let btcusdId = exchange.marketId ('BTC/USD')  // get market id by symbol
+
+    let symbols = exchange.symbols                // get an array of symbols
+    let symbols2 = Object.keys (exchange.markets) // same as previous line
+
+    console.log (exchange.id, symbols)            // print all symbols
+
+    let currencies = exchange.currencies          // a list of currencies
+
+    let bitfinex = new ccxt.bitfinex ()
+    await bitfinex.loadMarkets ()
+
+    bitfinex.markets['BTC/USD']                   // symbol → market (get market by symbol)
+    bitfinex.markets_by_id['XRPBTC']              // id → market (get market by id)
+
+    bitfinex.markets['BTC/USD']['id']             // symbol → id (get id by symbol)
+    bitfinex.markets_by_id['XRPBTC']['symbol']    // id → symbol (get symbol by id)
+
+})
+```
+
+Python示例代码：
+
+```text
+print (exchange.load_markets ())
+
+etheur1 = exchange.markets['ETH/EUR']      # get market structure by symbol
+etheur2 = exchange.market ('ETH/EUR')      # same result in a slightly different way
+
+etheurId = exchange.market_id ('BTC/USD')  # get market id by symbol
+
+symbols = exchange.symbols                 # get a list of symbols
+symbols2 = list (exchange.markets.keys ()) # same as previous line
+
+print (exchange.id, symbols)               # print all symbols
+
+currencies = exchange.currencies           # a list of currencies
+
+kraken = ccxt.kraken ()
+kraken.load_markets ()
+
+kraken.markets['BTC/USD']                  # symbol → market (get market by symbol)
+kraken.markets_by_id['XXRPZUSD']           # id → market (get market by id)
+
+kraken.markets['BTC/USD']['id']            # symbol → id (get id by symbol)
+kraken.markets_by_id['XXRPZUSD']['symbol'] # id → symbol (get symbol by id)
+```
+
+PHP示例代码：
+
+```text
+$var_dump ($exchange->load_markets ());
+
+$dashcny1 = $exchange->markets['DASH/CNY'];     // get market structure by symbol
+$dashcny2 = $exchange->market ('DASH/CNY');     // same result in a slightly different way
+
+$dashcnyId = $exchange->market_id ('DASH/CNY'); // get market id by symbol
+
+$symbols = $exchange->symbols;                  // get an array of symbols
+$symbols2 = array_keys ($exchange->markets);    // same as previous line
+
+var_dump ($exchange->id, $symbols);             // print all symbols
+
+$currencies = $exchange->currencies;            // a list of currencies
+
+$okcoinusd = '\\ccxt\\okcoinusd';
+$okcoinusd = new $okcoinusd ();
+
+$okcoinusd->load_markets ();
+
+$okcoinusd->markets['BTC/USD'];                 // symbol → market (get market by symbol)
+$okcoinusd->markets_by_id['btc_usd'];           // id → market (get market by id)
+
+$okcoinusd->markets['BTC/USD']['id'];           // symbol → id (get id by symbol)
+$okcoinusd->markets_by_id['btc_usd']['symbol']; // id → symbol (get symbol by id)
+```
+
+### 货币命名的一致性
+
+不同的交易所在术语定义方面有一些模糊之处，对于新手交易者而言 可能会产生歧义。有些交易所将市场成为交易对，而另一些交易所则 将交易符号称为产品。对于CCXT开发库而言，每个交易所都包含一个 或多个交易市场，每个交易市场有一个ID和一个符号，大多数符号都是 由基础货币和报价货币对组成。
+
+```text
+Exchanges → Markets → Symbols → Currencies
+```
+
+历史上对同一个交易对曾经使用过各种各样的符号名称。有些数字货币 （例如Dash）甚至名字都改过不止一次。为了在多个交易所之间保持 一致性，ccxt库使用以下已知的符号和货币的替代名称：
+
+* XBT → BTC：XBT比较新，但是BTC在交易所中更常见，而且听起来更像比特币
+* BCC → BCH：比特币现金分叉通常使用两个不同的名称：BCC和BCH。BCC有点 不明确，容易和BitConnect搞混。ccxt库会正确地将BCC换成BCH（有些交易所 和聚合器会混淆这两个名字）。
+* DRK → DASH：DASH原来叫Darkcoin，然后改名为Dash
+* BCHABC → BCH：在2018年11月15日，比特币现金再次分叉，因此，现在有BCH \(BCH ABC\) 和BSV \(BCH SV\)。
+* BCHSV → BSV：这对应比台币现金的SV分叉，有些交易所称之为BSV，另一些交易所称之为BCHSV，ccxt使用前者。
+* DSH → DASH：The DSH \(Dashcoin\) 和DASH \(Dash\)不是一个东西。有些交易所不恰当地将DASH 标记为DSH，ccxt库对此进行了修正\(DSH → DASH\)，但是只有一个交易所混淆了这两种货币， 绝大多数交易所都正确地区分了这两种货币。记住DASH/BTC和DSH/BTC不一样。
+* XRB → NANO：NANO是RaiBlocks的较新的代码，因此，CCXT统一API将在必要时 使用NANO替代较早的XRB。
+* USD → USDT：有些交易所，例如Bitfinex、HitBTC等在其列表中将其命名为USD，但是 那些市场实际上交易的是USDT。混淆来自于3个字母的限制或者是其他原因。在实际交易 的货币是USDT而非USD时，CCXT库会将USD替换为USDT。注意，有些交易所同时有 USD和USDT。例如，Kraken有一个USDT/USD交易对。
+
+#### 货币命名冲突的解决流程
+
+每个交易所都使用一个关联数组用于数字货币代码的替换，可以通过`exchange.commonCurrencies` 属性访问这个关联数组。有时用户可能会注意到混合大小写或者包含空格的奇怪的货币符号， 之所以使用这些名称是为了解决不同交易所使用一样的符号表示不同的货币而引起的冲突：
+
+首先，我们采集不同交易所关于有疑问的货币代码的所有可用信息。交易所通常有其上市 货币的描述清单，可能在API中，也可能在文档里、知识库里或网站的其他地方。
+
+当我们识别出每个货币代码所表示的数字货币后，我们查看其在CoinMarketCap上的主页。
+
+具有最大市值的货币可以保留自己的货币代码。例如，HOT通常表示Holo或Hydro Protocol。 这种情况下Holo得以继续持有其代码HOT，Hydro Protocol将以其名称作为代码，也就是Hydro Protocol。 因此，可能会有这样的交易对：HOT/USD \(表示Holo\) 和 Hydro Protocol/USD，这表示不同的市场。
+
+如果一个货币的市值未知，或者不足以决定胜出者，我们也考虑交易量以及其他因素。
+
+当决定了胜出的货币之后，所有其他竞争货币的代码都会重新进行映射，并使用`exchange.commonCurrencies` 来进行替换。
+
+不幸的是这还是一个进展中的工作，因为每天都在上市新的货币，也是不是会出现 新的交易所。因此，总之这是一个在快速变化的环境中的没有尽头的自我纠错过程， 我们也感谢你能报告你发现的冲突和不匹配之处。
+
+### 货币命名常见问题及解答
+
+Q：符号名称是否可能会改变？
+
+A：简而答之，是的，有时候会改变，但是极少。如果绝对需要修改符号 映射并且不可避免的话，就会修改货币命名。然而，所有之前的符号修改 都与冲突解析或分叉有关。迄今为止，在CCXT中还没有使用相同符号代码 的一种货币的市值被另一种超越的先例。
+
+Q：我们可以始终用同样的符号表示同一个数字货币吗？
+
+A：或多或少：）首先，ccxt库本身也在不断前进中，它在尝试适应不断 变化的现实，因此可能存在我们将来会通过修改符号映射来解决的冲突。 最后，我们的软件协议指出“不提供担保，自担风险使用”。然而，我们不会随意修改符号 映射，因为我们理解随意修改的后果，不希望完全打破后向兼容性。
+
+如果一个主要货币的符号不得不修改，那么控制权依然在用户手中。 `exchange.commonCurrencies`属性的值可以在初始化时或之后修改，就像 exchange对象的其他属性一样。如果涉及到一种重要的数字货币，我们通常 会告诉大家如何添加一点代码来保持既有的代码行为。
+
+Q：基础货币和报价货币的一致性？
+
+A：这依赖于你使用的是哪个交易所，但是有些交易所的交易对是反的，它们 会把报价货币放在前头而基础货币放在后头。这种情况下你会看到解析后的 基础货币和报价货币和解析前是不一样的。
+
+对于这些搞错交易对先后顺序的交易所，ccxt在解析交易所响应时会进行修正。 如果你希望少一些困扰，记住以下规则：基础货币总是在斜杠前，报价货币 总是在斜杠后：
+
+```text
+base currency ↓
+             BTC / USDT
+             ETH / BTC
+            DASH / ETH
+                    ↑ quote currency
+```
+
+### 市场缓冲强制重载
+
+`loadMarkets ()` / `load_markets ()`是一个有副作用的方法， 它会在exchange示例上保存市场数组。对每个交易所实例你只需要 调用一次。所有后续对此方法的调用都会返回本地保存的市场数组。
+
+当载入交易市场后，你可以随时使用`markets`属性访问市场信息，这个 属性包含了一个以符号为键的市场关联数组。如果你需要强制重载市场 列表，只需要在调用时设置参数`reload`为`true`即可。
+
+JavaScript示例代码：
+
+```text
+(async () => {
+    let kraken = new ccxt.kraken ({ verbose: true }) // log HTTP requests
+    await kraken.load_markets () // request markets
+    console.log (kraken.id, kraken.markets)    // output a full list of all loaded markets
+    console.log (Object.keys (kraken.markets)) // output a short list of market symbols
+    console.log (kraken.markets['BTC/USD'])    // output single market details
+    await kraken.load_markets () // return a locally cached version, no reload
+    let reloadedMarkets = await kraken.load_markets (true) // force HTTP reload = true
+    console.log (reloadedMarkets['ETH/BTC'])
+}) ()
+```
+
+Python示例代码：
+
+```text
+poloniex = ccxt.poloniex({'verbose': True}) # log HTTP requests
+poloniex.load_markets() # request markets
+print(poloniex.id, poloniex.markets)   # output a full list of all loaded markets
+print(list(poloniex.markets.keys())) # output a short list of market symbols
+print(poloniex.markets['BTC/ETH'])     # output single market details
+poloniex.load_markets() # return a locally cached version, no reload
+reloadedMarkets = poloniex.load_markets(True) # force HTTP reload = True
+print(reloadedMarkets['ETH/ZEC'])
+```
+
+PHP示例代码：
+
+```text
+$bitfinex = new \ccxt\bitfinex (array ('verbose' => true)); // log HTTP requests
+$bitfinex.load_markets (); // request markets
+var_dump ($bitfinex->id, $bitfinex->markets); // output a full list of all loaded markets
+var_dump (array_keys ($bitfinex->markets));   // output a short list of market symbols
+var_dump ($bitfinex->markets['XRP/USD']);     // output single market details
+$bitfinex->load_markets (); // return a locally cached version, no reload
+$reloadedMarkets = $bitfinex->load_markets (true); // force HTTP reload = true
+var_dump ($bitfinex->markets['XRP/BTC']);
+```
+
+## **CCXT API**
+
+### API方法与访问端结点
+
+每个交易所对象都提供了一组API方法。API的每个方法被成为一个访问端结点， 它指的是用于查询各种信息的HTTP URL。所有的访问端结点都返回JSON响应。
+
+通常有一个访问端结点用于获取交易所的市场列表，一个访问端结点用于提取 特定市场的交易委托账本，一个访问端结点用于提取交易历史，一组访问点用于 下单或取消委托单、充值或提现等等... 基本上你在交易所里可以进行的操作 都会有一个API提供出来供你调用。
+
+因为不同交易所的方法集彼此不同，ccxt库实现了以下功能：
+
+* 为所有可能的URL和方法提供公开和私有API
+* 提供一个统一的API支持各交易所的共同的方法
+
+端结点URL在每个交易所的`api`属性中预定义。你不需要重载这个属性，除非 你要实现一个新的交易所API（至少你需要了解你要做什么）。
+
+### 隐含的API方法
+
+大多数交易所特定的API方法都是隐含的，意思是这些方法没有在代码中 显式地定义。ccxt库采用声明式的方法来定义隐含的交易所API方法。
+
+API的每个方法通常都有自己的访问端结点。ccxt库为每个交易所都定义了 所有的访问端结点，你可以通过`.api`属性访问。在创建交易所对象时， 在`defineRestApi()` / `define_rest_api()`中将会为`.api`列表中的 每个url创建一个隐含的魔术方法（即偏函数或闭包）。这个环节在所有 交易所上都是统一的。生成的每个方法都可以驼峰写法和下划线写法来访问。
+
+访问点定义指的是一个交易所暴露出来的所有的API的URL的完整的列表。 这个列表将在交易所对象初始化时转化为可调用的方法。在API访问端结点 列表中的每个URL都有一个对应的可调用方法。对于所有的交易所而言，这 都是自动进行的，因此ccxt库支持数字货币交易所的所有可能的URL。
+
+每个隐含的方法都有一个唯一的名字，这个名字是利用`.api`中的定义生成的。 例如，对于一个私有HTTPS PUT访问端结点`https://api.exchange.com/order/{id}/cancel`， 其对应的隐含方法名为`.privatePutOrderIdCancel()` / `.private_put_order_id_cancel()`。 对于一个公开的HTTPS GET访问端结点`https://api.exchange.com/market/ticker/{pair}`， 其对应的隐含方法名为`.publicGetTickerPair()` / `.public_get_ticker_pair()`，依次类推。
+
+隐含方法接收传入的参数字典，将请求发送到交易所，然后返回交易所特定的未解析 的JSON结果。要传入一个参数，将其添加到字典中与参数同名的键下即可。例如对于 上面的例子，就是像`.privatePutOrderIdCancel ({ id: '41987a2b-...' })` 和`.publicGetTickerPair ({ pair: 'BTC/USD' })`。
+
+ccxt推荐的与交易所交互的方式，并不是使用交易所特定的隐含方法，而是使用ccxt 提供的统一方法。只有当ccxt的统一api中没有提供相应的方法时，才应当使用 隐含的方法作为后备方案。
+
+要获得指定交易所实例的所有可用方法，包括隐含方法和统一方法，你可以 使用如下的简单代码。
+
+JavaScript代码示例：
+
+```text
+console.log (new ccxt.kraken ())
+```
+
+Python代码示例：
+
+```text
+print(dir(ccxt.hitbtc()))
+```
+
+PHP代码示例：
+
+```text
+var_dump (new \ccxt\okcoinusd ());
+```
+
+### 公开API与私有API
+
+API的URL通常分为两类：市场数据方面的公开API，以及交易和账户相关的私有API。 这两组API的方法通常分别使用前缀`public`和`private`。
+
+#### 公开API
+
+公开API用来访问市场数据，不需要进行身份验证。大多数交易所为所有 用户提供开放的市场数据（通常有一定的限流措施）。使用ccxt库，任何人 都可以直接访问市场数据，而无需在交易所进行注册，也无需设置api key 和密码。
+
+公开API包含如下内容：
+
+* 交易对
+* 价格流
+* 委托账本（L1、L2、L3...）
+* 交易历史（完成的订单、交易、执行）
+* 行情数据（现价、24小时价格）
+* 用于图表的OHLCV序列数据
+* 其他公开访问点
+
+#### 私有API
+
+要使用私有API进行交易，你需要从交易所获取API key。这通常意味着你需要 在交易所注册并使用你的账户创建API key。大多数交易所需要个人信息或身份 标识，一些身份验证也是必要的。
+
+如果你希望交易，首先需要在交易所进行注册，ccxt库不会创建账户或者提供 API key。有些交易所的API提供了在代码中注册账户的接口，但是大多数交易所 都没有这样的接口。你必须在交易所的网站注册并创建API key。
+
+私有API包含以下内容：
+
+* 管理个人账户信息
+* 查询账户余额
+* 委托市价单和限价单
+* 创建充值地址并进行账户充值
+* 请求提取法币和加密货币
+* 查询个人的敞口/完结委托单
+* 查询杠杆交易的位置
+* 获取账本历史
+* 在不同账户之间转账
+* 使用商户服务
+
+有些交易所的相同服务采用了不同的名称。例如，公开API通常称为市场数据、 基础、市场、mapi、api、价格等等...所有这些指的都是一组用于访问公开 可用数据的方法。私有API通常称为trading、trade、tapi、exchange、account 等等。
+
+有些交易所也暴露出商户API，可以让你创建发票并接收你的客户的数字货币和法币支付。 这一类API通常称为merchant、wallet、payment、ecapi（用于电子商务的API）。
+
+要获取指定交易所实例的所有可用方法，你可以使用如下的简单代码：
+
+```text
+console.log (new ccxt.kraken ())   // JavaScript
+print (dir (ccxt.hitbtc ()))        # Python
+var_dump (new \ccxt\okcoinusd ()); // PHP
+```
+
+### 同步调用与异步调用
+
+JavaScript版本的CCXT库中，所有的方法都是异步的，这些方法返回解析值 为JSON对象的Promise。在CCXT中我们使用现代的async/await语法来操作Promise， 如果你不熟悉这种语法，可以参考[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)。
+
+JavaScript示例代码：
+
+```text
+(async () => {
+    let pairs = await kraken.publicGetSymbolsDetails ()
+    let marketIds = Object.keys (pairs['result'])
+    let marketId = marketIds[0]
+    let ticker = await kraken.publicGetTicker ({ pair: marketId })
+    console.log (kraken.id, marketId, ticker)
+}) ()
+```
+
+Python版本的ccxt库使用async/await语法支持Python 3.5+的异步并发模式。 异步的Python版本使用aiohttp实现纯异步io。在异步模式下所有的属性和 方法名还是一样的，只是大多数方法都有async关键字装饰。如果你希望使用 异步模式，应当链接ccxt.async\_support子包，如下例所示：
+
+```text
+import asyncio
+import ccxt.async_support as ccxt
+
+async def print_poloniex_ethbtc_ticker():
+    poloniex = ccxt.poloniex()
+    print(await poloniex.fetch_ticker('ETH/BTC'))
+
+asyncio.get_event_loop().run_until_complete(print_poloniex_ethbtc_ticker())
+```
+
+在PHP版本的ccxt库中，所有的API方法都是同步的。
+
+### 调用参数与返回值
+
+所有的公开和私有API方法都返回交易所响应的原始的JSON对象，也就是 说没有解析的原始响应结果。统一API返回公共格式的JSON对象，在所有 交易所上都保持统一的结构。
+
+#### 调用参数
+
+所有可能的API访问端结点集合对于每个交易所都不一样。大多数方法接收 单一的关联数组（或Python字典）表示的键-值参数。传参方法如下所示：
+
+```text
+bitso.publicGetTicker ({ book: 'eth_mxn' })                 // JavaScript
+ccxt.zaif().public_get_ticker_pair ({ 'pair': 'btc_jpy' })  # Python
+$luno->public_get_ticker (array ('pair' => 'XBTIDR'));      // PHP
+```
+
+要查看每个交易的方法参数的完整清单，请参考交易所的API文档。
+
+### API方法命名规范
+
+交易所方法名是由以下字符串拼接而成：
+
+* 类型：public或private
+* HTTP方法：GET、POST、PUT、DELETE
+* 访问端结点URL
+
+示例如下：
+
+| 方法名 | API URL基地址 | 端结点URL |
+| :--- | :--- | :--- |
+| publicGetIdOrderbook | [https://bitbay.net/API/Public](https://bitbay.net/API/Public) | {id}/orderbook |
+| publicGetPairs | [https://bitlish.com/api](https://bitlish.com/api) | pairs |
+| publicGetJsonMarketTicker | [https://www.bitmarket.net](https://www.bitmarket.net/) | json/{market}/ticker |
+| privateGetUserMargin | [https://bitmex.com](https://bitmex.com/) | user/margin |
+| privatePostTrade | [https://btc-x.is/api](https://btc-x.is/api) | trade |
+| tapiCancelOrder | [https://yobit.net](https://yobit.net/) | tapi/CancelOrder |
+| ... | ... | ... |
+
+ccxt库同时支持驼峰命名法（JavaScript常用）和下划线命名法（Python和PHP常用）， 因此所有的方法在任何开发语言中都可以上述两种风格之一调用：
+
+```text
+exchange.methodName ()  // 驼峰式伪代码
+exchange.method_name () // 下划线式伪代码
+```
+
+要获取指定交易所实例的所有可用方法的完整列表，可以简单地调用如下代码：
+
+```text
+console.log (new ccxt.kraken ())   // JavaScript
+print (dir (ccxt.hitbtc ()))        # Python
+var_dump (new \ccxt\okcoinusd ()); // PHP
+```
+
+### 统一API
+
+ccxt统一API是所有交易所中的公共方法的集合。目前统一API包含以下方法：
+
+* fetchMarkets\(\)： 从交易所提取所有有效市场的清单，返回市场对象数组。有些 交易所没有办法通过其在线API获取市场清单，CCXT采用硬编码的方式返回这些交易所的市场清单。
+* loadMarkets\(\[reload\]\)：返回对象形式的市场清单并在交易所实例上缓存，键为交易符号。如果 之前已经载入过，则从缓存中返回结果，除非是强制使用了`reload`标志并设置为`true`。
+* fetchOrderBook\(symbol\[, limit = undefined\[, params = {}\]\]\)：获取指定市场交易符号的L2/L3委托账本
+* fetchStatus\(\[, params = {}\]\)：返回交易所状态信息，可能使用API或者硬编码实现
+* fetchL2OrderBook\(symbol\[, limit = undefined\[, params\]\]\)：获取交易符号的2层（价格聚合）委托账本
+* fetchTrades\(symbol\[, since\[, \[limit, \[params\]\]\]\]\)：获取指定交易符号的最近交易
+* fetchTicker\(symbol\)：获取指定交易符号的最新行情数据
+* fetchBalance\(\)：获取余额数据
+* createOrder\(symbol, type, side, amount\[, price\[, params\]\]\)
+* createLimitBuyOrder\(symbol, amount, price\[, params\]\)
+* createLimitSellOrder\(symbol, amount, price\[, params\]\)
+* createMarketBuyOrder\(symbol, amount\[, params\]\)
+* createMarketSellOrder\(symbol, amount\[, params\]\)
+* cancelOrder\(id\[, symbol\[, params\]\]\)
+* fetchOrder\(id\[, symbol\[, params\]\]\)
+* fetchOrders\(\[symbol\[, since\[, limit\[, params\]\]\]\]\)
+* fetchOpenOrders\(\[symbol\[, since, limit, params\]\]\]\]\)
+* fetchClosedOrders\(\[symbol\[, since\[, limit\[, params\]\]\]\]\)
+* fetchMyTrades\(\[symbol\[, since\[, limit\[, params\]\]\]\]\)
+* ...
+
+### 改写统一API的参数
+
+注意，统一API的大部分方法都可以接受一个可选的`params`参数，它是一个 关联数组（字典，默认为空），包含了你希望改写的参数。`params`的内容 是与特定交易所相关的，参考交易所的API文档了解其支持的字段和值。如果 你需要传入自定义设置或可选的参数，那么可以使用`params`字典。
+
+JavaScript示例代码：
+
+```text
+(async () => {
+
+    const params = {
+        'foo': 'bar',      // exchange-specific overrides in unified queries
+        'Hello': 'World!', // see their docs for more details on parameter names
+    }
+
+    // the overrides go into the last argument to the unified call ↓ HERE
+    const result = await exchange.fetchOrderBook (symbol, length, params)
+}) ()
+```
+
+Python示例代码：
+
+```text
+params = {
+    'foo': 'bar',       # exchange-specific overrides in unified queries
+    'Hello': 'World!',  # see their docs for more details on parameter names
+}
+
+# overrides go in the last argument to the unified call ↓ HERE
+result = exchange.fetch_order_book(symbol, length, params)
+```
+
+PHP示例代码：
+
+```text
+$params = array (
+    'foo' => 'bar',       // exchange-specific overrides in unified queries
+    'Hello' => 'World!',  // see their docs for more details on parameter names
+}
+
+// overrides go into the last argument to the unified call ↓ HERE
+$result = $exchange->fetch_order_book ($symbol, $length, $params);
+```
+
+### 统一API结果分页
+
+大多数统一API的方法会返回单一对象或对象数组（交易、委托单等）。 然而，极少数交易所会返回一次返回全部委托单、全部交易或全部ohlcv烛线图数据。 更常见的是交易所API会限制返回一定数量的最新对象，你不能一次调用就 获取从开始时间到当前时刻的全部对象。实际上，极少有交易所能容忍或允许 这样的调用。
+
+要获取历史委托单或交易，用户需要分页遍历数据。分页通常表示要循环 提取部分数据。
+
+在大多数情况下，用户需要使用某种类型的分页来获取期望的结果。如果 用户没有使用分页，大多数方法将返回交易所的默认结果，这可能是从历史 的开始时刻或者也可能是返回最近的一部分数据。默认行为是交易所相关的！ 分页通常会在以下方法中用到：
+
+* fetchTrades
+* fetchOHLCV
+* fetchOrders
+* fetchOpenOrders
+* fetchClosedOrders
+* fetchMyTrades
+* fetchTransactions
+* fetchDeposits
+* fetchWithdrawals
+
+对于返回对象列表的方法，交易所可能提供一种或多种分页类型。CCXT默认 统一了基于日期、基于毫秒时间戳的分页。
+
+用于UTC日期和时间戳的方法集：
+
+```text
+exchange.parse8601 ('2018-01-01T00:00:00Z') == 1514764800000 // integer, Z = UTC
+exchange.iso8601 (1514764800000) == '2018-01-01T00:00:00Z'   // iso8601 string
+exchange.seconds ()      // integer UTC timestamp in seconds
+exchange.milliseconds () // integer UTC timestamp in milliseconds
+```
+
+#### 基于日期的分页
+
+这是目前CCXT统一API使用的分页类型。调用者提供一个毫秒时间戳作为`since` 参数的值，同时传入一个数值来限定返回结果的数量。要逐页遍历感兴趣的对象， 调用者运行如下的伪代码。
+
+JavaScript：
+
+```text
+if (exchange.has['fetchTrades']) {
+    let since = exchange.milliseconds () - 86400000 // -1 day from now
+    // alternatively, fetch from a certain starting datetime
+    // let since = exchange.parse8601 ('2018-01-01T00:00:00Z')
+    let allTrades = []
+    while (since < exchange.milliseconds ()) {
+        const symbol = undefined // change for your symbol
+        const limit = 20 // change for your limit
+        const trades = await exchange.fetchTrades (symbol, since, limit)
+        if (trades.length) {
+            since = trades[trades.length - 1]['timestamp']
+            allTrades = allTrades.concat (trades)
+        } else {
+            break
+        }
+    }
+}
+```
+
+Python：
+
+```text
+if exchange.has['fetchOrders']:
+    since = exchange.milliseconds () - 86400000  # -1 day from now
+    # alternatively, fetch from a certain starting datetime
+    # since = exchange.parse8601('2018-01-01T00:00:00Z')
+    all_orders = []
+    while since < exchange.milliseconds ():
+        symbol = None  # change for your symbol
+        limit = 20  # change for your limit
+        orders = await exchange.fetch_orders(symbol, since, limit)
+        if len(orders):
+            since = orders[len(orders) - 1]['timestamp']
+            all_orders += orders
+        else:
+            break
+```
+
+PHP：
+
+```text
+if ($exchange->has['fetchMyTrades']) {
+    $since = exchange->milliseconds () - 86400000; // -1 day from now
+    // alternatively, fetch from a certain starting datetime
+    // $since = $exchange->parse8601 ('2018-01-01T00:00:00Z');
+    $all_trades = array ();
+    while (since < exchange->milliseconds ()) {
+        $symbol = null; // change for your symbol
+        $limit = 20; // change for your limit
+        $trades = $exchange->fetchMyTrades ($symbol, $since, $limit);
+        if (count($trades)) {
+            $since = $trades[count($trades) - 1]['timestamp'];
+            $all_trades = array_merge ($all_trades, $trades);
+        } else {
+            break;
+        }
+    }
+}
+```
+
+#### 基于ID的分页
+
+调用者提供对象的`from_id`，以及一个用于限定返回结果数量的值。这是一些交易所 的默认行为，然而，这一分页类型目前还不是统一的。要基于ID进行分页，调用者可以 运行如下伪代码：
+
+JavaScript：
+
+```text
+if (exchange.has['fetchTrades']) {
+    let from_id = 'abc123' // all ids are strings
+    let allTrades = []
+    while (true) {
+        const symbol = undefined // change for your symbol
+        const since = undefined
+        const limit = 20 // change for your limit
+        const params = {
+            'from_id': from_id, // exchange-specific non-unified parameter name
+        }
+        const trades = await exchange.fetchTrades (symbol, since, limit, params)
+        if (trades.length) {
+            from_id = trades[trades.length - 1]['id']
+            allTrades.push (trades)
+        } else {
+            break
+        }
+    }
+}
+```
+
+Python：
+
+```text
+if exchange.has['fetchOrders']:
+    from_id = 'abc123'  # all ids are strings
+    all_orders = []
+    while True:
+        symbol = None  # change for your symbol
+        since = None
+        limit = 20  # change for your limit
+        params = {
+            'from_id': from_id,  # exchange-specific non-unified parameter name
+        }
+        orders = await exchange.fetch_orders(symbol, since, limit, params)
+        if len(orders):
+            from_id = orders[len(orders) - 1]['id']
+            all_orders += orders
+        else:
+            break
+```
+
+PHP：
+
+```text
+if ($exchange->has['fetchMyTrades']) {
+    $from_id = 'abc123' // all ids are strings
+    $all_trades = array ();
+    while (true) {
+        $symbol = null; // change for your symbol
+        $since = null;
+        $limit = 20; // change for your limit
+        $params = array (
+            'from_id' => $from_id, // exchange-specific non-unified parameter name
+        );
+        $trades = $exchange->fetchMyTrades ($symbol, $since, $limit, $params);
+        if (count($trades)) {
+            $from_id = $trades[count($trades) - 1]['id'];
+            $all_trades = array_merge ($all_trades, $trades);
+        } else {
+            break;
+        }
+    }
+}
+```
+
+#### 基于页号的分页
+
+调用者提供一个页号或者初始的游标值。交易所范围一页结果以及后续的游标值以便继续。 大多数实现这种类型分页的交易所，在响应内容或响应头中返回下一个游标。
+
+可以访问[这里](https://github.com/ccxt/ccxt/blob/master/examples/py/gdax-fetch-my-trades-pagination.py) 查看示例代码实现。
+
+在每个迭代周期，调用者必须拿到下一个游标并将其传入下一次迭代的查询。
+
+JavaScript：
+
+```text
+if (exchange.has['fetchTrades']) {
+    let page = 0  // exchange-specific type and value
+    let allTrades = []
+    while (true) {
+        const symbol = undefined // change for your symbol
+        const since = undefined
+        const limit = 20 // change for your limit
+        const params = {
+            'page': page, // exchange-specific non-unified parameter name
+        }
+        const trades = await exchange.fetchTrades (symbol, since, limit, params)
+        if (trades.length) {
+            // not thread-safu and exchange-specific !
+            page = exchange.last_json_response['cursor']
+            allTrades.push (trades)
+        } else {
+            break
+        }
+    }
+}
+```
+
+Python：
+
+```text
+if exchange.has['fetchOrders']:
+    cursor = 0  # exchange-specific type and value
+    all_orders = []
+    while True:
+        symbol = None  # change for your symbol
+        since = None
+        limit = 20  # change for your limit
+        params = {
+            'cursor': cursor,  # exchange-specific non-unified parameter name
+        }
+        orders = await exchange.fetch_orders(symbol, since, limit, params)
+        if len(orders):
+            # not thread-safu and exchange-specific !
+            cursor = exchange.last_http_headers['CB-AFTER']
+            all_orders += orders
+        else:
+            break
+```
+
+PHP：
+
+```text
+if ($exchange->has['fetchMyTrades']) {
+    $start = '0' // exchange-specific type and value
+    $all_trades = array ();
+    while (true) {
+        $symbol = null; // change for your symbol
+        $since = null;
+        $limit = 20; // change for your limit
+        $params = array (
+            'start' => $start, // exchange-specific non-unified parameter name
+        );
+        $trades = $exchange->fetchMyTrades ($symbol, $since, $limit, $params);
+        if (count($trades)) {
+            // not thread-safu and exchange-specific !
+            $start = $exchange->last_json_response['next'];
+            $all_trades = array_merge ($all_trades, $trades);
+        } else {
+            break;
+        }
+    }
+}
+```
+
+## **CCXT委托账本模型**
+
+### 交易委托账本
+
+交易所会提供敞口委托单的买入/卖出价格、交易量以及其他数据。 通常对每一个特定的市场都会有一个单独的访问短接点来查询交易委托账本的状态。 交易委托账本经常被称为市场深度。委托账本信息可以用于交易决策过程。
+
+获取指定符号的交易委托账本的方法是`fetchOrderBook`或`fetch_order_book`。 该方法的参数是交易符号以及一个可选的参数字典（如果该交易所支持的话）。 调用方法示例代码如下。
+
+JavaScript示例代码：
+
+```text
+delay = 2000 // milliseconds = seconds * 1000
+(async () => {
+    for (symbol in exchange.markets) {
+        console.log (await exchange.fetchOrderBook (symbol))
+        await new Promise (resolve => setTimeout (resolve, delay)) // rate limit
+    }
+}) ()
+```
+
+Python示例代码：
+
+```text
+import time
+delay = 2 # seconds
+for symbol in exchange.markets:
+    print (exchange.fetch_order_book (symbol))
+    time.sleep (delay) # rate limit
+```
+
+PHP示例代码：
+
+```text
+$delay = 2000000; // microseconds = seconds * 1000000
+foreach ($exchange->markets as $symbol => $market) {
+    var_dump ($exchange->fetch_order_book ($symbol));
+    usleep ($delay); // rate limit
+}
+```
+
+### 委托账本模型的结构
+
+ccxt返回的委托账本结构如下：
+
+```text
+{
+    'bids': [
+        [ price, amount ], // [ float, float ]
+        [ price, amount ],
+        ...
+    ],
+    'asks': [
+        [ price, amount ],
+        [ price, amount ],
+        ...
+    ],
+    'timestamp': 1499280391811, // Unix Timestamp in milliseconds (seconds * 1000)
+    'datetime': '2017-07-05T18:47:14.692Z', // ISO8601 datetime string with milliseconds
+}
+```
+
+如果查询的交易所在其API响应中没有提供时间戳和日期值，那么在返回的结果 中时间戳和日期的值可能也会缺失（undefined/None/null）。
+
+Price和amount都是浮点数。`bids`数组按价格降序排列，最高的买入价格排在第一个，最低的 买入价格排在最后一个。`asks`数组按价格升序排列，最低的卖出价格排在第一个，最高的卖出 价格排在最后一个。bids/asks数组可以是空的，表示交易所的委托账本中没有相应 的委托单。
+
+交易所可能返回用于分析的不同层级的委托单，结果中要么包含每个订单的详情，要么 已经按照价格和交易量进行了分组聚合因而其中的详情信息要少一些。越多的详情信息 就需要越多的带宽，因此总体上会更慢一些，但是好处在于有更高的精度。较少的详情 信息通常会快一些，但是可能在某些特定情况下不够用。
+
+`orderbook['timestamp']`是交易所生成这个响应的时间，可能会缺失（undefined/None/null）。 如果交易所有定义的话，那么它是一个UTC时间戳，以毫秒为单位，记录子1970年1月1日零点 以来的毫秒数。
+
+### 市场深度
+
+有些交易所接受一个字典对象来将额外的参数传入`fetchOrderBook ()` / `fetch_order_book ()`函数。 所有额外的参数都是交易所特定的（不统一）。如果要设置特定的参数，例如交易账本的深度，那么 你需要查阅交易所的文档。你可以使用如下代码获取指定数量的委托单或指定层级的聚合（即市场深度）。
+
+JavaScript示例代码：
+
+```text
+(async function test () {
+    const ccxt = require ('ccxt')
+    const exchange = new ccxt.bitfinex ()
+    const limit = 5
+    const orders = await exchange.fetchOrderBook ('BTC/USD', limit, {
+        // this parameter is exchange-specific, all extra params have unique names per exchange
+        'group': 1, // 1 = orders are grouped by price, 0 = orders are separate
+    })
+}) ()
+```
+
+Python示例代码：
+
+```text
+import ccxt
+# return up to ten bidasks on each side of the order book stack
+limit = 10
+ccxt.cex().fetch_order_book('BTC/USD', limit)
+```
+
+PHP示例代码：
+
+```text
+// instantiate the exchange by id
+$exchange = '\\ccxt\\kraken';
+$exchange = new $exchange ();
+// up to ten orders on each side, for example
+$limit = 20;
+var_dump ($exchange->fetch_order_book ('BTC/USD', $limit));
+```
+
+委托账本聚合的层级或详情通常是数字标注的，就像L1、L2、L3...
+
+* L1：较少的详情，用于快速获取非常基本的信息，也就是仅市场价格。看起来就像在委托账本中仅包含一个委托单。
+* L2：最常用的聚合层级，委托单交易量按价格分组。如果两个委托单有相同的价格，那么他们会合并为一项，其总量 为这两个委托单的交易量的和。这个聚合层级可能适合大部分的应用目的。
+* L3：最详细的层级，包含所有的订单，没有聚合。这一层级自然包含了输出中的重复内容。因此，如果两个订单 有相同的价格，它们也不会合并在一起，这两个订单的优先级则取决于交易所的撮合引擎。你不一定真的需要 L3详情来进行交易。实际上，大多数情况下你根本不需要这么详细的信息。因此有些交易所不支持这个级别的数据， 总是返回聚合后的委托账本。
+
+如果你想获取L2委托账本，可以使用统一API中的`fetchL2OrderBook(symbol, limit, params)` 或 `fetch_l2_order_book(symbol, limit, params)`方法。
+
+### 获取市场价格
+
+为了获取当前的最好价格（查询市场价格）并且计算买入卖出的价差， 可以使用如下代码。
+
+JavaScript示例代码：
+
+```text
+let orderbook = exchange.fetchOrderBook (exchange.symbols[0])
+let bid = orderbook.bids.length ? orderbook.bids[0][0] : undefined
+let ask = orderbook.asks.length ? orderbook.asks[0][0] : undefined
+let spread = (bid && ask) ? ask - bid : undefined
+console.log (exchange.id, 'market price', { bid, ask, spread })
+```
+
+Python示例代码：
+
+```text
+orderbook = exchange.fetch_order_book (exchange.symbols[0])
+bid = orderbook['bids'][0][0] if len (orderbook['bids']) > 0 else None
+ask = orderbook['asks'][0][0] if len (orderbook['asks']) > 0 else None
+spread = (ask - bid) if (bid and ask) else None
+print (exchange.id, 'market price', { 'bid': bid, 'ask': ask, 'spread': spread })
+```
+
+PHP示例代码：
+
+```text
+$orderbook = $exchange->fetch_order_book ($exchange->symbols[0]);
+$bid = count ($orderbook['bids']) ? $orderbook['bids'][0][0] : null;
+$ask = count ($orderbook['asks']) ? $orderbook['asks'][0][0] : null;
+$spread = ($bid && $ask) ? $ask - $bid : null;
+$result = array ('bid' => $bid, 'ask' => $ask, 'spread' => $spread);
+var_dump ($exchange->id, 'market price', $result);
+```
+
+### 价格行情
+
+价格行情包含了最近一段时间内特定交易市场的统计信息，通常使用24小时进行统计。 查询价格行情的方法如下：
+
+```text
+fetchTicker (symbol, params = {})   // for one ticker
+fetchTickers (symbol, params = {})  // for all tickers at once
+```
+
+检查交易所的`exchange.has['fetchTicker']`和 `exchange.has['fetchTickers']`属性 来决定所查询的交易所是否支持这些方法。
+
+### 实时行情数据结构
+
+行情的数据结构如下：
+
+```text
+{
+    'symbol':        string symbol of the market ('BTC/USD', 'ETH/BTC', ...)
+    'info':        { the original non-modified unparsed reply from exchange API },
+    'timestamp':     int (64-bit Unix Timestamp in milliseconds since Epoch 1 Jan 1970)
+    'datetime':      ISO8601 datetime string with milliseconds
+    'high':          float, // highest price
+    'low':           float, // lowest price
+    'bid':           float, // current best bid (buy) price
+    'bidVolume':     float, // current best bid (buy) amount (may be missing or undefined)
+    'ask':           float, // current best ask (sell) price
+    'askVolume':     float, // current best ask (sell) amount (may be missing or undefined)
+    'vwap':          float, // volume weighed average price
+    'open':          float, // opening price
+    'close':         float, // price of last trade (closing price for current period)
+    'last':          float, // same as `close`, duplicated for convenience
+    'previousClose': float, // closing price for the previous period
+    'change':        float, // absolute change, `last - open`
+    'percentage':    float, // relative change, `(change/open) * 100`
+    'average':       float, // average price, `(last + open) / 2`
+    'baseVolume':    float, // volume of base currency traded for last 24 hours
+    'quoteVolume':   float, // volume of quote currency traded for last 24 hours
+}
+``
+
+注意：
+
+- bidVolume指的是委托账本中当前的最优买入价委托单的总量
+- askVolume指的是委托账本中当前的最优卖出价委托单的总量
+- baseVolume指的是过去24小时内基准货币的交易量（买入或卖出）
+- quoteVolume指的是过去24小时内报价货币的交易量（买入或卖出）
+
+行情结构中的所有价格都是以报价货币计量，其中某些字段可能是undefined / None / null。
+```
+
+base currency ↓ BTC / USDT ETH / BTC DASH / ETH ↑ quote currency \`\`\`
+
+时间戳和日期都是以毫秒为单位的UTC时间值：
+
+* ticker\['timestamp'\] 是交易所生成响应的时间，有的交易所可能没有这个值，因此在结果中会缺失
+* exchange.last\_response\_headers\['Date'\] 是收到的最后一个HTTP响应的日期-时间字符串。
+
+  ```text
+  Date
+  ```
+
+  解析器 应当考虑时区问题。日期-时间的精度是1秒、1000毫秒。这个日期应当由交易所服务器参考以下标准设置：
+
+  * [https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html\#sec14.18](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.18)
+  * [https://tools.ietf.org/html/rfc1123\#section-5.2.14](https://tools.ietf.org/html/rfc1123#section-5.2.14)
+  * [https://tools.ietf.org/html/rfc822\#section-5](https://tools.ietf.org/html/rfc822#section-5)
+
+虽然有些交易所在其行情数据中混入了委托账本的最高买入/最低卖出价格，你不应当将 行情数据视为`fetchOrderBook`的替代方法。行情数据的主要目的是提供统计数据，可以 将其视为活跃的24小时OHLCV数据。已知的是，交易所不鼓励频繁地调用`fetchTicker`。 如果你需要一个统一的方法去访问bids和asks，你应当使用`fetchL[123]OrderBook`系列的方法。
+
+要获取历史价格和数量，使用统一API中的`fetchOHLCV`方法。
+
+获取行情数据的方法如下：
+
+* fetchTicker \(symbol\[, params = {}\]\), symbol必须，params可选
+* fetchTickers \(\[symbols = undefined\[, params = {}\]\]\), 两个参数都是可选的
+
+### 按交易对查询实时行情
+
+要查询指定交易对/符号的实时行情数据，调用`fetchTicker(symbol)`方法。
+
+JavaScript示例代码：
+
+```text
+if (exchange.has['fetchTicker']) {
+    console.log (await (exchange.fetchTicker ('BTC/USD'))) // ticker for BTC/USD
+    let symbols = Object.keys (exchange.markets)
+    let random = Math.floor (Math.random () * (symbols.length - 1))
+    console.log (exchange.fetchTicker (symbols[random])) // ticker for a random symbol
+}
+```
+
+Python示例代码：
+
+```text
+import random
+if (exchange.has['fetchTicker']):
+    print(exchange.fetch_ticker('LTC/ZEC')) # ticker for LTC/ZEC
+    symbols = list(exchange.markets.keys())
+    print(exchange.fetch_ticker(random.choice(symbols))) # ticker for a random symbol
+```
+
+PHP别忘了正确设置时区：
+
+```text
+if ($exchange->has['fetchTicker']) {
+    var_dump ($exchange->fetch_ticker ('ETH/CNY')); // ticker for ETH/CNY
+    $symbols = array_keys ($exchange->markets);
+    $random = rand () % count ($symbols);
+    var_dump ($exchange->fetch_ticker ($symbols[$random])); // ticker for a random symbol
+}
+```
+
+### 查询所有交易对的实时行情
+
+有些交易所（不是所有）也支持同时查询所有交易对的实时行情。请查阅 交易所的文档获取详细信息。你可以在一次调用中获取所有的实时行情。
+
+JavaScript示例代码：
+
+```text
+if (exchange.has['fetchTickers']) {
+    console.log (await (exchange.fetchTickers ())) // all tickers indexed by their symbols
+}
+```
+
+Python示例代码：
+
+```text
+if (exchange.has['fetchTickers']):
+    print(exchange.fetch_tickers()) # all tickers indexed by their symbols
+```
+
+PHP示例代码：
+
+```text
+if ($exchange->has['fetchTickers']) {
+    var_dump ($exchange->fetch_tickers ()); // all tickers indexed by their symbols
+}
+```
+
+查询所有的实时行情需要更多的流量，另外，也要注意有些交易所对后续的查询会有更严格的限流。 还有一些交易所可能会对`fetchTickers()`的调用有更多的要求，有时你无法查询的原因是API的限制。 另外一些交易所可以在URL查询参数中接受一组交易对符号，但是由于URL的长度是有限的，在极端 情况下交易所可以有数千个市场 - url的长度无法容纳所有的交易对符号。
+
+JavaScript示例代码：
+
+```text
+if (exchange.has['fetchTickers']) {
+    console.log (await (exchange.fetchTickers ([ 'ETH/BTC', 'LTC/BTC' ]))) // listed tickers indexed by their symbols
+}
+```
+
+Python示例代码：
+
+```text
+if (exchange.has['fetchTickers']):
+    print(exchange.fetch_tickers(['ETH/BTC', 'LTC/BTC'])) # listed tickers indexed by their symbols
+```
+
+PHP示例代码：
+
+```text
+if ($exchange->has['fetchTickers']) {
+    var_dump ($exchange->fetch_tickers (array ('ETH/BTC', 'LTC/BTC'))); // listed tickers indexed by their symbols
+}
+```
+
+注意在大多数情况下交易对符号列表不是必须的，但是如果你要处理所有可能的情况就需要额外的逻辑处理。
+
+和CCXT统一API中的大多数方法一样，`fetchTickers`的最后一个参数是`params`，用来修改发送到 交易所的请求参数。
+
+返回结果的结构如下：
+
+```text
+{
+    'info':    { ... }, // the original JSON response from the exchange as is
+    'BTC/USD': { ... }, // a single ticker for BTC/USD
+    'ETH/BTC': { ... }, // a ticker for ETH/BTC
+    ...
+}
+```
+
+### OHLCV烛线图
+
+> 这一部分特性目前还在紧张开发中。
+
+大多数交易所都提供了获取OHLCV数据的访问端结点，但还是有一些交易所没有提供。 在ccxt中，交易所对象的`has['fetchOHLCV']`属性表示该交易所是否支持烛线数据序列， 如果这个布尔属性的值为true，则表明支持。
+
+`fetchOHLCV`方法声明如下：
+
+```text
+fetchOHLCV (symbol, timeframe = '1m', since = undefined, limit = undefined, params = {})
+```
+
+你可以调用CCXT统一API的`fetchOHLCV` / `fetch_ohlcv`方法获取指定交易对符号的OHLCV烛线图数据。
+
+JavaScript示例代码：
+
+```text
+let sleep = (ms) => new Promise (resolve => setTimeout (resolve, ms));
+if (exchange.has.fetchOHLCV) {
+    for (symbol in exchange.markets) {
+        await sleep (exchange.rateLimit) // milliseconds
+        console.log (await exchange.fetchOHLCV (symbol, '1m')) // one minute
+    }
+}
+```
+
+Python示例代码：
+
+```text
+import time
+if exchange.has['fetchOHLCV']:
+    for symbol in exchange.markets:
+        time.sleep (exchange.rateLimit / 1000) # time.sleep wants seconds
+        print (symbol, exchange.fetch_ohlcv (symbol, '1d')) # one day
+```
+
+PHP示例代码：
+
+```text
+if ($exchange->has['fetchOHLCV']) {
+    foreach ($exchange->markets as $symbol => $market) {
+        usleep ($exchange->rateLimit * 1000); // usleep wants microseconds
+        var_dump ($exchange->fetch_ohlcv ($symbol, '1M')); // one month
+    }
+}
+```
+
+要获取所查询的交易所的可用时间窗，可以查看交易所对象的`timeframes`属性。 注意只有当交易所对象的`has['fetchOHLCV']`属性值为true时上述属性才有效。
+
+你的请求能够回溯多久远的数据是有限制的。大多数交易所不会允许你查询太早时间 的详细烛线数据历史（就像1分钟和5分钟的时间窗口内的详情）。他们通常提供 一段合理时间内的烛线数据，例如任何时间窗的最近1000个烛线数据，这对于大多数 应用都是足够了。突破这一限制的办法，是你可以不停地查询（REST Polling）最新 的OHLCV数据，并存储到自己的CSV文件中或者数据库里。
+
+注意最后的（当前）烛线数据可能是不完整的，直到开始记录下一个烛线。
+
+和ccxt的统一api和隐含api中的其他许多方法一样，`fetchOHLCV`方法的最后一个参数 可以传入一个关联数组来设置额外的交易所特定的请求参数，你需要查询交易所的API 文档来了解其支持的字段和值。
+
+`since`参数是一个以毫秒计量的UTC时间戳，如果未指定`since`参数，`fetchOHLCV` 方法将返回交易所默认的时间范围。有些交易所将返回从其开始以来的所有烛线，而另一些 则只会返回最近产生的烛线，这取决于交易所的默认行为。因此如果你不指定`since` 参数，那么返回的烛线的时间范围是交易所相关的，为了得到一致的响应结果，开发者 应当传入`since`参数。
+
+### OHLCV烛线数据结构
+
+`fetchOHLCV`方法返回OHLCV烛线数组，其结构如下：
+
+```text
+[
+    [
+        1504541580000, // UTC 时间戳，单位：毫秒
+        4235.4,        // (O)开盘价格, float
+        4240.6,        // (H)最高价格, float
+        4230.0,        // (L)最低价格, float
+        4230.7,        // (C)收盘价格, float
+        37.72941911    // (V)交易量，以基准货币计量， float
+    ],
+    ...
+]
+```
+
+结果数组是以时间升序排列的，最早的烛线排在第一个，最新的烛线排在最后一个。
+
+### OHLCV数据的模拟
+
+有些交易所没有提供任何OHLCV方法，为此ccxt库将利用公开交易模拟OHLCV烛线数据。 在这种情况下你会看到交易所对象的`has['fetchOHLCV']`属性的值为`emulated`。
+
+但是，由于交易历史通常都非常有限，模拟的`fetchOHLCV`方法只能涵盖最近的信息， 因此只可以作为没有其他可选项是的备选方案使用。
+
+警告：`fetchOHLCV`方法的模拟目前还是实验性质的！
+
+### 查询交易 - fetchTrade
+
+你可以调用ccxt的统一API方法`fetchTrades` / `fetch_trades`来获取指定交易对的最近交易记录。 `fetchTrade`方法声明如下：
+
+```text
+async fetchTrades (symbol, since = undefined, limit = undefined, params = {})
+```
+
+例如，如果你希望逐个打印所有交易对的近期交易（别忘了交易所的限流！）， 可以使用以下代码。
+
+JavaScript示例代码：
+
+```text
+if (exchange.has['fetchTrades']) {
+    let sleep = (ms) => new Promise (resolve => setTimeout (resolve, ms));
+    for (symbol in exchange.markets) {
+        await sleep (exchange.rateLimit) // milliseconds
+        console.log (await exchange.fetchTrades (symbol))
+    }
+}
+```
+
+Python示例代码：
+
+```text
+import time
+if exchange.has['fetchTrades']:
+    for symbol in exchange.markets:  # ensure you have called loadMarkets() or load_markets() method.
+        time.sleep (exchange.rateLimit / 1000)  # time.sleep wants seconds
+        print (symbol, exchange.fetch_trades (symbol))
+```
+
+PHP示例代码：
+
+```text
+if ($exchange->has['fetchTrades']) {
+    foreach ($exchange->markets as $symbol => $market) {
+        usleep ($exchange->rateLimit * 1000); // usleep wants microseconds
+        var_dump ($exchange->fetch_trades ($symbol));
+    }
+}
+```
+
+上面展示的`fetchTrades`方法返回一个按时间戳升序排列的交易数组，最早的交易在 第一个，最新的交易在最后一个。交易数组结构如下：
+
+```text
+[
+    {
+        'info':       { ... },                  // the original decoded JSON as is
+        'id':        '12345-67890:09876/54321', // string trade id
+        'timestamp':  1502962946216,            // Unix timestamp in milliseconds
+        'datetime':  '2017-08-17 12:42:48.000', // ISO8601 datetime with milliseconds
+        'symbol':    'ETH/BTC',                 // symbol
+        'order':     '12345-67890:09876/54321', // string order id or undefined/None/null
+        'type':      'limit',                   // order type, 'market', 'limit' or undefined/None/null
+        'side':      'buy',                     // direction of the trade, 'buy' or 'sell'
+        'price':      0.06917684,               // float price in quote currency
+        'amount':     1.5,                      // amount of base currency
+    },
+    ...
+]
+```
+
+大多数交易所返回上述交易对象中的大部分字段，虽然也有些交易所不会返回type, side, 交易id或委托单id这些字段 。 大多数时候可以保证你能拿到一个交易的以下字段：timestamp, datetime,symbol, price 和amount 。
+
+第二个可选参数`since`可以按时间戳削减结果数组，第三个参数`limit`可以削减返回的交易数量。
+
+如果用户不指定`since`，那么`fetchTrade`方法将返回交易所默认的公开交易时间范围，这是交易所特定的， 有些交易所会返回自交易对上市开始的所有交易，另一些交易所则会返回缩减集合，例如 最近24小时、或者最近100个交易等等。如果用户希望更精确地控制时间窗口，那么应当指定 `since`参数。
+
+ccxt的统一API中的大多数方法都会返回一个对象或对象数组。然而，也有极少数交易所会一次 返回所有的交易。通常来说交易所的API会限制仅返回最近的一定数量的交易。你不能只用 一个调用就返回自交易对上市依赖的所有交易对象，实际上，很少有交易所会容忍或允许 这种调用行为。
+
+要查询历史交易，开发者需要按页遍历数据。分页通常暗示着使用循环分块提取数据。
+
+大多数情况下，开发者需要使用至少某种类型的分页来获得一致的结果。
+
+另一方面，有些交易所不支持公开交易的分页查询。总体来说交易所会提供最近的交易。
+
+`fetchTrades ()` / `fetch_trades()` 方法也可以接收一个额外的关联数组作为其第四个参数。 你可以用这个关联数组传入特定交易所支持的额外的参数。请查询交易所的API文档获取详细信息。
+
+### 交易身份验证
+
+为了能够访问你的账户，通过市价单和限价单执行量化交易，查询余额、充值与提现等等，你需要 从每个你希望操作的交易所获取你的API key以进行身份验证。API key是交易所相关的，任何情况下 不同交易所的API key彼此都不能互换。
+
+如果提供了正确的API key，交易所会自动进行身份验证。验证过程通常采用以下模式：
+
+* 生成一个新的nonce。nonce是一个整数，通常是以秒或者毫秒计的unix时间戳。 nonce应当是单调递增的，因此没有两个请求会使用相同的nonce值。默认的nonce 是以秒计的unix时间戳。
+* 将公开的api key和nonce追加到其他访问端结点参数之后，然后序列化以便进行签名
+* 使用HMAC-SHA256/384/512 或 MD5 哈希序列化参数，然后用私钥签名
+* 将16进制或base64编码的签名和nonce添加到HTTP头或请求内容中
+
+不同的交易所上述过程可能有所区别。有些交易所可能要求其他编码格式的签名，有些则 使用不同的HTTP头参数名和格式，但是基本都是上述模式。
+
+不要在多个线程、进程中同时运行的一个交易所的多个实例之间共享同一个API密钥对， 这可能会导致不可预料的行为。
+
+ccxt已经为你处理了身份验证逻辑，因此你不需要手工进行任何操作，除非你在实现 一个新的交易所类，否则为了进行交易，你唯一需要做的就是提供正确的API密钥对。
+
+### API Key设置
+
+API身份通常包含以下内容：
+
+* apiKey：你的公开的API Key或Token。这部分不是保密的，它包含在你的请求头或请求内容中 用来标识你的请求。apiKey通常是一个16进制或base64编码的字符串，或者是一个UUID。
+* secret：这是你的私钥，需要秘密保存，不要告诉任何人。私钥用来在本地签名你的请求， 然后发送请求给交易所。私钥不能通过互联网发出去，也不应该发布或通过电子邮件传递。 私钥和nonce一起来生成在密码学上足够强的签名，这个签名和你的API key一起用来识别 你的身份。每个请求都有唯一的nonce，因此其签名也是唯一的。
+* uid：有些交易所也会生成一个较短的用户ID。它可以是字符串或者数字。如果交易所明确 地要求，那么你应该设置这个参数。请参考交易所的文档获取详细信息。
+* password：有些交易所也要求你在交易时提供密码。如果交易所明确要求，那么你也应该 照办。请参考交易所的文档获取详细信息。
+
+你可以在交易所的网站上创建API key，然后拷贝到你的配置文件中。记得正确设置配置文件 的权限，不要让其他任何人读取。
+
+记住要保证apiKey和私钥的安全，避免未授权的使用，不要发送或告诉任何人。私钥泄漏 会导致你的财产损失。
+
+要创建可以用于交易的exchange对象，只需将API身份信息赋给已有的交易所实例，或者 在创建交易所实例时指定。参考以下示例代码。
+
+JavaScript示例代码：
+
+```text
+const ccxt = require ('ccxt')
+
+// any time
+let kraken = new ccxt.kraken ()
+kraken.apiKey = 'YOUR_KRAKEN_API_KEY'
+kraken.secret = 'YOUR_KRAKEN_SECRET_KEY'
+
+// upon instantiation
+let okcoinusd = new ccxt.okcoinusd ({
+    apiKey: 'YOUR_OKCOIN_API_KEY',
+    secret: 'YOUR_OKCOIN_SECRET_KEY',
+})
+
+// from variable id
+const exchangeId = 'binance'
+    , exchangeClass = ccxt[exchangeId]
+    , exchange = new exchangeClass ({
+        'apiKey': 'YOUR_API_KEY',
+        'secret': 'YOUR_SECRET',
+        'timeout': 30000,
+        'enableRateLimit': true,
+    })
+```
+
+Python示例代码：
+
+```text
+import ccxt
+
+# any time
+bitfinex = ccxt.bitfinex ()
+bitfinex.apiKey = 'YOUR_BFX_API_KEY'
+bitfinex.secret = 'YOUR_BFX_SECRET'
+
+# upon instantiation
+hitbtc = ccxt.hitbtc ({
+    'apiKey': 'YOUR_HITBTC_API_KEY',
+    'secret': 'YOUR_HITBTC_SECRET_KEY',
+})
+
+# from variable id
+exchange_id = 'binance'
+exchange_class = getattr(ccxt, exchange_id)
+exchange = exchange_class({
+    'apiKey': 'YOUR_API_KEY',
+    'secret': 'YOUR_SECRET',
+    'timeout': 30000,
+    'enableRateLimit': True,
+})
+```
+
+PHP示例代码：
+
+```text
+include 'ccxt.php'
+
+// any time
+$quoinex = new \ccxt\quoinex ();
+$quoinex->apiKey = 'YOUR_QUOINE_API_KEY';
+$quoinex->secret = 'YOUR_QUOINE_SECRET_KEY';
+
+// upon instantiation
+$zaif = new \ccxt\zaif (array (
+    'apiKey' => 'YOUR_ZAIF_API_KEY',
+    'secret' => 'YOUR_ZAIF_SECRET_KEY'
+));
+
+// from variable id
+$exchange_id = 'binance';
+$exchange_class = "\\ccxt\\$exchange_id";
+$exchange = new $exchange_class (array (
+    'apiKey' => 'YOUR_API_KEY',
+    'secret' => 'YOUR_SECRET',
+    'timeout' => 30000,
+    'enableRateLimit' => true,
+));
+```
+
+注意，如果在交易之前你没有设置API身份信息，那么你的私有API请求可能会失败而抛出异常或错误。 为了避免字符的转移问题，请使用单引号描述你的身份信息，例如'VERY\_GOOD'而不是 "VERY\_BAD"。
+
+### 查询账户余额 - fetchBalance
+
+要查询账户余额，获取可用于交易的资金数量，或者锁定在委托单中的资金数量， 可以使用`fetchBalance`方法。
+
+```text
+fetchBalance (params = {})
+```
+
+方法返回的余额结构如下：
+
+```text
+{
+    'info':  { ... },    // the original untouched non-parsed reply with details
+
+    //-------------------------------------------------------------------------
+    // indexed by availability of funds first, then by currency
+
+    'free':  {           // money, available for trading, by currency
+        'BTC': 321.00,   // floats...
+        'USD': 123.00,
+        ...
+    },
+
+    'used':  { ... },    // money on hold, locked, frozen, or pending, by currency
+
+    'total': { ... },    // total (free + used), by currency
+
+    //-------------------------------------------------------------------------
+    // indexed by currency first, then by availability of funds
+
+    'BTC':   {           // string, three-letter currency code, uppercase
+        'free': 321.00   // float, money available for trading
+        'used': 234.00,  // float, money on hold, locked, frozen or pending
+        'total': 555.00, // float, total balance (free + used)
+    },
+
+    'USD':   {           // ...
+        'free': 123.00   // ...
+        'used': 456.00,
+        'total': 579.00,
+    },
+
+    ...
+}
+```
+
+有些交易所可能不会返回完整的余额信息。许多交易所不会返回你的空账户或者未用的账户， 这种情况下在返回的余额结构中可能会缺少某些货币的信息。
+
+JavaScript示例代码：
+
+```text
+(async () => {
+    console.log (await exchange.fetchBalance ())
+}) ()
+```
+
+Python示例代码：
+
+```text
+print (exchange.fetch_balance ())
+```
+
+PHP示例代码：
+
+```text
+var_dump ($exchange->fetch_balance ());
+```
+
+#### 余额信息的推导
+
+有些交易所的API不会返回余额信息的完整集合，它们只会返回可用余额或者只是资金总量。 这种情况下ccxt会尝试从委托单缓存中获取缺失的数据，并根据已知的信息猜测完整的余额信息。 但是这在一些极端情况下可能不足以推导出正确的余额信息，开发者应当了解这种可能性。
+
+### 查询委托单 - fetchOrders
+
+大多数时候，你可以按id或符号查询委托单，虽然不是所有的交易所都提供了完整 和灵活的委托单查询访问端结点。有些交易所可能没有方法查询最近完成的委托单， 另一些可能缺少按id获取委托单的方法，等等。ccxt库考虑了这些情况并尽可能 加以解决。
+
+查询委托单的方法如下：
+
+* fetchOrder \(id, symbol = undefined, params = {}\)
+* fetchOrders \(symbol = undefined, since = undefined, limit = undefined, params = {}\)
+* fetchOpenOrders \(symbol = undefined, since = undefined, limit = undefined, params = {}\)
+* fetchClosedOrders \(symbol = undefined, since = undefined, limit = undefined, params = {}\)
+
+注意这些方法的名字可以看出该方法是返回一个委托单还是多个委托单。
+
+如果用户调用了交易所不支持的方法，ccxt库会抛出`NotSupported`异常。
+
+要检查上述方法是否有效，可以查看交易所对象的`.has`属性。
+
+JavaScript示例代码：
+
+```text
+'use strict';
+
+const ccxt = require ('ccxt')
+const id = 'poloniex'
+exchange = new ccxt[id] ()
+console.log (exchange.has)
+```
+
+Python示例代码：
+
+```text
+import ccxt
+id = 'binance'
+exchange = getattr(ccxt, id) ()
+print(exchange.has)
+```
+
+PHP示例代码：
+
+```text
+$exchange = new \ccxt\liqui ();
+print_r ($exchange->has); // or var_dump
+```
+
+一个典型的`.hash`属性通常包含如下对应上述用于查询委托单的API方法的标志：
+
+```text
+exchange.has = {
+
+    // ... other flags ...
+
+    'fetchOrder': true, // available from the exchange directly and implemented in ccxt
+    'fetchOrders': false, // not available from the exchange or not implemented in ccxt
+    'fetchOpenOrders': true,
+    'fetchClosedOrders': 'emulated', // not available from the exchange, but emulated in ccxt
+
+    // ... other flags ...
+
+}
+```
+
+ture和false的含义很明确。`emulated`表示这个方法是ccxt模拟出来的，不是交易所原生API提供的。 The meanings of boolean true and false are obvious.
+
+### 查询交易 - fetchTrades
+
+下面的这些方法可以返回一组交易和委托单，支持`since`参数和`limit`参数：
+
+* fetchTrades \(public\)
+* fetchMyTrades \(private\)
+* fetchOrders
+* fetchOpenOrders
+* fetchClosedOrders
+
+第二个参数`since`可以按时间戳缩减结果数组，第三个参数`limit`可以限制返回结果的数量。
+
+如果用户没有指定`since`参数，那么`fetchTrades`/`fetchOrders`方法将返回交易所的默认集合， 这是交易所相关的，有些交易所会返回交易对上市依赖的所有数据，而另一些交易所则只会返回 少量的交易或委托单，例如最近24小时内的，最近的100个委托单或最近的100个交易等等。如果 用户期望对时间窗口有更精确地控制，那么应该使用`since`参数。
+
+注意：不是所有的交易所都提供了按开始时间过滤交易或委托单的方法，因此，对`since` 和`limit`的支持是交易所相关的。但是，大多数交易所都提供了分页和滚动的替代方案。
+
+### 委托单缓存
+
+一些交易所没有查询完结委托单或者所有委托单的方法，它们只提供了 `fetchOpenOrders`访问端结点，有时也会大方地提供`fetchOrder`端结点。 这意味着它们没有提供查询委托单历史的方法。ccxt库将尝试模拟委托单历史， 方法是使用交易所对象的`.orders`属性来记录所有的委托单。
+
+任何时候当用户创建一个新的委托单，或者取消一个已有的敞口委托单，或者 进行了其他可能修改委托单状态的操作，ccxt库就会在缓存中记录整个委托单 信息。在后续的对`fetchOrder`, `fetchOrders`或 `fetchClosedOrders`方法 调用时，交易所实例会发送一个对`fetchOpenOrders`的请求，然后对比当前获取 的敞口委托单和之前缓存的委托单。ccxt库检查每个缓存的委托单，然后尝试 匹配对应的获取到的敞口委托单。当缓存的委托单不在获取到的敞口委托单中 时，ccxt库会将这个缓存的委托单标记为已完结。对fetchOrder, fetchOrders, fetchClosedOrders 的调用将返回`.orders`缓存中更新过的委托单。
+
+这个逻辑简单点说就是：如果一个缓存的委托单没有在获取到的敞口委托单中出现， 那么它就不再是敞口单了，因此，就是完结单。
+
+大多数情况下，`.orders`缓存的工作对用户而言是透明的。更常见的是交易所 本身提供了足够的方法。然而，由于某些交易所没有提供完整的API，`.orders` 缓存有以下已知的局限性：
+
+* 如果用户没有在程序运行之间保存`.orders`缓存，而且也没有在重新运行时 进行恢复，那么`.orders`缓存就会丢失。因此在下一次运行程序时对 `fetchClosedOrders`的调用，交易所实例将返回一个空的委托单列表。 没有正确的恢复缓存，交易所没有办法了解委托单是完结还是取消。
+* 如果API密钥对在多个交易所实例间共享，一个实例没法了解其他实例 创建或取消的委托单。这意味着`.orders`缓存不是共享的。因此API密钥对 不要在多个实例间共享，否则会有不可预料的副作用。
+* 如果从ccxt库的外部创建或取消委托单，那么新委托单的状态不会到达 缓存，ccxt库也没有办法在之后正确的返回。
+* 如果一个委托单的取消请求跳过了ccxt，那么ccxt库将无法从`fetchOpenOrders` 返回的敞口订单中找到该委托单，因此ccxt会将其标注为完结。这是错误的。
+* 如果`fetchOrder(id)`是模拟的，那么ccxt库没有办法返回特定的委托单。
+* 如果一个未处理的错误导致应用的崩溃，那么`.orders`缓存就不会保存以及再次 重启时恢复，缓存就会丢失。
+
+注意：委托单缓存功能目前还在调整当中。
+
+### 清理缓存的委托单 - purgeCachedOrders
+
+对于长时间运行的交易所实例，及时清理不再需要的资源是非常重要的。 因为在活跃的交易当中，`.orders`缓存会增长到非常大，ccxt库提供了 `purgeCachedOrders`/`purge_cached_orders`方法来清理缓存中较早的 非敞口委托单以释放占用的内存或其他目的，清理选择条件如下：
+
+```text
+where (order['timestamp'] < before) && (order['status'] != 'open')
+```
+
+清理命令接受一个参数来声明具体的清理条件。示例代码如下：
+
+JavaScript：
+
+```text
+// keep last 24 hours of history in cache
+before = exchange.milliseconds () - 24 * 60 * 60 * 1000
+
+// purge all closed and canceled orders "older" or issued "before" that time
+exchange.purgeCachedOrders (before)
+```
+
+Python：
+
+```text
+# keep last hour of history in cache
+before = exchange.milliseconds () - 1 * 60 * 60 * 1000
+
+# purge all closed and canceled orders "older" or issued "before" that time
+exchange.purge_cached_orders (before)
+```
+
+PHP：
+
+```text
+// keep last 24 hours of history in cache
+$before = $exchange->milliseconds () - 24 * 60 * 60 * 1000;
+
+// purge all closed and canceled orders "older" or issued "before" that time
+$exchange->purge_cached_orders ($before);
+```
+
+### 查询指定ID的委托单 - fetchOrder
+
+要获取具有指定ID的委托单，使用`fetchOrder` / `fetch_order`方法。即使是你 要查询一个特定ID的委托单，有些交易所也要求你提供交易对符号。
+
+`fetchOrder`/`fetch_order`方法的原型如下：
+
+```text
+if (exchange.has['fetchOrder']) {
+    //  you can use the params argument for custom overrides
+    let order = await exchange.fetchOrder (id, symbol = undefined, params = {})
+}
+```
+
+有些交易所没有提供按ID查询委托单的访问端结点，ccxt会尽可能的提供模拟实现。 不过现在这个工作还在进行中，可能你会碰到没有实现这个模拟的交易所。
+
+你可以使用额外的键/值参数对象来指定委托单类型等需要的设置。
+
+下面是使用`fetchOrder`方法从一个已经验证过身份的交易所实例获取委托单信息的 示例代码。
+
+JavaScript：
+
+```text
+(async function () {
+    const order = await exchange.fetchOrder (id)
+    console.log (order)
+}) ()
+```
+
+Python 2/3 同步方式的示例代码：
+
+```text
+if exchange.has['fetchOrder']:
+    order = exchange.fetch_order(id)
+    print(order)
+
+# Python 3.5+ asyncio (asynchronous)
+import asyncio
+import ccxt.async_support as ccxt
+if exchange.has['fetchOrder']:
+    order = asyncio.get_event_loop().run_until_complete(exchange.fetch_order(id))
+    print(order)
+```
+
+PHP：
+
+```text
+if ($exchange->has['fetchOrder']) {
+    $order = $exchange->fetch_order ($id);
+    var_dump ($order);
+}
+```
+
+### 查询全部委托单 - fetchOrders
+
+使用`fetchOrders`方法查询交易所的全部委托单，方法原型如下；
+
+```text
+if (exchange.has['fetchOrders'])
+    exchange.fetchOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
+```
+
+有些交易所没有查询全部委托单的访问端结点，ccxt库会尝试尽可能的模拟实现。 不过到目前为止这一工作还在进展当中，因此你可能会碰到不支持此功能的交易所。
+
+### 查询全部敞口委托单 - fetchOpenOrders
+
+使用`fetchOpenOrders`方法查询交易所的所有敞口委托单，方法原型如下：
+
+```text
+if (exchange.has['fetchOpenOrders'])
+    exchange.fetchOpenOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
+```
+
+### 查询全部已完结委托单 - fetchClosedOrders
+
+使用交易所实例的`fetchClosedOrders`方法来查询所有已完结的委托单， 其方法原型如下：
+
+```text
+if (exchange.has['fetchClosedOrders'])
+    exchange.fetchClosedOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
+```
+
+不要把已完结委托单和交易搞混了！一个完结的委托单可能会对应多个交易！ 因此，已完结委托单和交易并不是一回事。总的来说，委托单根本不存在手续费 ，但是每个用户交易的确有手续费、成本及其他属性。然而，许多交易所 也会把交易的这些属性传递给委托单。
+
+有些交易所没有提供查询全部的已完结委托单的访问端结点，ccxt库会尽可能 尝试模拟实现。不过目前这一工作还在进行中，因此你可能会碰到不支持此 功能的交易所类。
+
+### 委托单数据结构
+
+ccxt统一API中绝大多数返回委托单的方法，通常会输出如下的委托单数据结构：
+
+```text
+{
+    'id':                '12345-67890:09876/54321', // string
+    'datetime':          '2017-08-17 12:42:48.000', // ISO8601 datetime of 'timestamp' with milliseconds
+    'timestamp':          1502962946216, // order placing/opening Unix timestamp in milliseconds
+    'lastTradeTimestamp': 1502962956216, // Unix timestamp of the most recent trade on this order
+    'status':     'open',         // 'open', 'closed', 'canceled'
+    'symbol':     'ETH/BTC',      // symbol
+    'type':       'limit',        // 'market', 'limit'
+    'side':       'buy',          // 'buy', 'sell'
+    'price':       0.06917684,    // float price in quote currency
+    'amount':      1.5,           // ordered amount of base currency
+    'filled':      1.1,           // filled amount of base currency
+    'remaining':   0.4,           // remaining amount to fill
+    'cost':        0.076094524,   // 'filled' * 'price' (filling price used where available)
+    'trades':    [ ... ],         // a list of order trades/executions
+    'fee': {                      // fee info, if available
+        'currency': 'BTC',        // which currency the fee is (usually quote)
+        'cost': 0.0009,           // the fee amount in that currency
+        'rate': 0.002,            // the fee rate (if available)
+    },
+    'info': { ... },              // the original unparsed order structure as is
+}
+```
+
+补充说明如下：
+
+* fee：手续费信息这部分的工作还在进行中，取决于交易所提供的接口，这部分信息可能不完整甚至完全没有。
+* fee.currency：手续费货币可能与所交易的货币都不一样。例如，一个ETH/BTC的委托单可能使用USD支付手续费
+* lastTradeTimestamp：最后交易时间戳表示该委托单最后一次交易的时间。在有些情况下， 这个字段可能没有值或者是undefined/None/null，例如交易所不支持，或者委托单还是敞口状态。
+* status：委托单状态的优先级高于最后交易时间戳
+* cost：委托单花费 = filled \* price ，表示委托单的总花费，cost字段是处于方便目的而提供， 值可以根据其他字段推导出来
+
+### 委托下单
+
+使用ccxt库委托下单需要提供以下信息：
+
+* symbol：希望交易的市场对应的交易对符号，例如 BTC/USD, ZEC/ETH, DOGE/DASH, 等等。 请确保所制定的交易对符号在目标交易所存在并且可以交易。
+* side：委托单的交易方向，买入还是卖出。当你下买单时，给出报价货币并将收到基准货币。 例如，买入BTC/USD意味着你将支出美元并收到比特币。当你卖出BTC/USD时则是相反的， 你将支出比特币并收到美元。
+* type：委托单类型，ccxt库目前仅仅统一了市价单和限价单的API
+* amount：你希望交易的数量。这通常指的是交易对符号中的基准货币的数量，虽然也有些 交易所会要求提供报价货币的数量，还有一些会根据委托单的方向而要求分别提供基准货币 或报价货币的数量。
+* price：你希望为交易支付的报价货币的数量，仅限于限价单
+
+使用ccxt统一API下市价单或限价单的成功调用将返回如下的数据结构：
+
+```text
+{
+    'id': 'string',  // order id
+    'info': { ... }, // decoded original JSON response from the exchange as is
+}
+```
+
+有些交易所只允许限价委托单，请参考交易所的文档获取详细信息。
+
+### 市价委托 - createMarketSellOrder/createMarketBuyOrder
+
+市价委托单也称为现价委托单、即时委托单或市价单。市价委托单 会立即执行。交易所的撮合引擎使用委托账本栈顶部的一个或多个 委托单来完成市价委托单。
+
+交易所会用当时有效的最优价格来完成你的市价单。但是这并不保证 会按照你下单时看到的价格来执行交易，执行价格可能会有微小的变化， 这也称为价格滑点（price slippage），引起滑点的原因可能网络延迟、 交易所访问量过大、价格波动等。下市价委托单时，你不需要指定 委托单的价格。
+
+使用ccxt统一APi中的`createMarketSellOrder`方法下市价卖单，或者使用 `createMarketBuyOrder`方法下市价买单。示例代码如下：
+
+```text
+// camelCaseNotation
+exchange.createMarketSellOrder (symbol, amount[, params])
+exchange.createMarketBuyOrder (symbol, amount[, params])
+
+// underscore_notation
+exchange.create_market_sell_order (symbol, amount[, params])
+exchange.create_market_buy_order (symbol, amount[, params])
+```
+
+也可以使用更通用的`createOrder`下买单或买单，例如：
+
+```text
+// using general createOrder, type = 'market' and side = 'buy' or 'sell'
+exchange.createOrder (symbol, 'market', 'sell', amount, ...)
+exchange.create_order (symbol, 'market', 'buy', amount, ...)
+```
+
+注意，有些交易所不接受市价委托单（只允许限价单）。为了用程序检测 一个交易所是否支持市价委托单，你可以使用交易所的`.has['createMarketOrder']` 属性。示例代码如下。
+
+JavaScript：
+
+```text
+if (exchange.has['createMarketOrder']) {
+    ...
+}
+```
+
+Python：
+
+```text
+if exchange.has['createMarketOrder']:
+    ...
+```
+
+PHP：
+
+```text
+if ($exchange->has['createMarketOrder']) {
+    ...
+}
+```
+
+### 市价买入委托的特殊情况 - createMarketBuyOrderRequiresPrice
+
+总的说来，当市价委托买入或卖出时，用户只需要指定要买入或卖出的基准货币 的数量。但是然而，有些交易所的市价买入委托单处理采用了不同的方式来计算 委托单价值。
+
+假设你在交易`BTC/USD`，目前的BTC市场价格是超过9000 USD。要按市价买入或 卖出，你可以指定数量为 2 BTC，取决于你的委托方向，成交结果将是你的账户 增加或减少18000 USD左右。
+
+但是有些交易所要求按报价货币指定委托单的总价！这背后的逻辑其实很简单， 不是说我要买入或卖出多少基准货币，而是”我想消费多少报价货币“。
+
+在这些交易所进行市价买入委托，你不能将委托单的数量指定为 2 BTC，而是 应当指定委托单的总价，在这个例子中，也就是 18000 USD。采用这种方式处理 市价委托单的交易所，有一个选项`createMarketBuyOrderRequiresPrice`，你 可以用它以两种方式指定市价买入委托单的总花费：
+
+第一种是默认的，如果你同时设置了委托数量和价格，那么在ccxt内部将会 简单地按照这个公式`(cost = amount * price)`计算出委托单总价格，得到 的总花费就会设置为该市价委托单的报价货币总花费，也就是USD总额。示例 代码如下：
+
+```text
+// this example is oversimplified and doesn't show all the code that is
+// required to handle the errors and exchange metadata properly
+// it shows just the concept of placing a market buy order
+
+const exchange = new ccxt.cex ({
+    'apiKey': YOUR_API_KEY,
+    'secret': 'YOUR_SECRET',
+    'enableRateLimit': true,
+    // 'options': {
+    //     'createMarketBuyOrderRequiresPrice': true, // default
+    // },
+})
+
+;(async () => {
+
+    // when `createMarketBuyOrderRequiresPrice` is true, we can pass the price
+    // so that the total cost of the order would be calculated inside the library
+    // by multiplying the amount over price (amount * price)
+
+    const symbol = 'BTC/USD'
+    const amount = 2 // BTC
+    const price = 9000 // USD
+    // cost = amount * price = 2 * 9000 = 18000 (USD)
+
+    // note that we don't use createMarketBuyOrder here, instead we use createOrder
+    // createMarketBuyOrder will omit the price and will not work when
+    // exchange.options['createMarketBuyOrderRequiresPrice'] = true
+    const order = await exchange.createOrder (symbol, 'market', 'buy', amount, price)
+
+    console.log (order)
+})
+```
+
+如果希望自己指定委托单的总花费，那么可以使用第二种方式。这需要先 关闭`createMarketBuyOrderRequiresPrice`选项，然后进行设置。示例代码 如下：
+
+```text
+const exchange = new ccxt.cex ({
+    'apiKey': YOUR_API_KEY,
+    'secret': 'YOUR_SECRET',
+    'enableRateLimit': true,
+    'options': {
+        'createMarketBuyOrderRequiresPrice': false, // switch off
+    },
+})
+
+// or, to switch it off later, after the exchange instantiation, you can do
+exchange.options['createMarketBuyOrderRequiresPrice'] = false
+
+;(async () => {
+
+    // when `createMarketBuyOrderRequiresPrice` is true, we can pass the price
+    // so that the total cost of the order would be calculated inside the library
+    // by multiplying the amount over price (amount * price)
+
+    const symbol = 'BTC/USD'
+    const amount = 2 // BTC
+    const price = 9000 // USD
+    cost = amount * price // ← instead of the amount cost goes ↓ here
+    const order = await exchange.createMarketBuyOrder (symbol, cost)
+    console.log (order)
+})
+```
+
+进一步阅读请参考：
+
+* [https://github.com/ccxt/ccxt/issues/564\#issuecomment-347458566](https://github.com/ccxt/ccxt/issues/564#issuecomment-347458566)
+* [https://github.com/ccxt/ccxt/issues/4914\#issuecomment-478199357](https://github.com/ccxt/ccxt/issues/4914#issuecomment-478199357)
+* [https://github.com/ccxt/ccxt/issues/4799\#issuecomment-470966769](https://github.com/ccxt/ccxt/issues/4799#issuecomment-470966769)
+* [https://github.com/ccxt/ccxt/issues/5197\#issuecomment-496270785](https://github.com/ccxt/ccxt/issues/5197#issuecomment-496270785)
+
+### 用限价单模拟市价单
+
+用限价单来模拟市价单也是可能的。
+
+警告：由于高波动性，这个方法存在风险，在使用之前请务必了解 清楚！
+
+大多数时候，市价买单可以使用一个设置极低价格的限价单来模拟- 当交易所 检测到你在以非常低的价格卖出时，会自动将其设置为taker order，它会 自动提供委托账本中的最优买方价格。这实际上和下市价卖单的效果一样。 因此市价委托单可以使用限价委托单来模拟。
+
+反方向也是一样的 - 市价买入委托可以使用一个价格非常高的限价买入 委托来模拟。大多数交易所也会使用最优价格来完成你的委托单，也就是市价。
+
+然而，你不能完全依赖这样的模拟，记得先用少量资金进行测试！你可以 在交易所的web页面验证逻辑。你可以在指定的限价卖出少量（可承担的损失）， 然后在交易历史中检查实际的执行价格。
+
+### 限价委托 - createLimitBuyOrder/createLimitSellOrder
+
+限价委托单也称为限价单。有些交易所只接受限价委托单。 限价委托单需要在提交委托单时指定价格（单位费率）。 只有在市场价格达到期望的价位时，交易所才会完成限价 委托单。
+
+使用`createLimitBuyOrder`委托限价买入，或者使用`createLimitSellOrder` 委托限价卖出。示例代码如下：
+
+```text
+// camelCaseStyle
+exchange.createLimitBuyOrder (symbol, amount, price[, params])
+exchange.createLimitSellOrder (symbol, amount, price[, params])
+
+// underscore_style
+exchange.create_limit_buy_order (symbol, amount, price[, params])
+exchange.create_limit_sell_order (symbol, amount, price[, params])
+```
+
+### 委托单的自定义参数
+
+有些交易所允许你指定委托单的可选参数。在调用ccxt统一API时， 你可以使用一个关联数组传入额外的参数。所有的自定义参数都是 交易所相关的，当然彼此也是不可以互换的，不要期望一个交易所 的自定义参数可以用于另一个交易所。
+
+示例代码如下。
+
+JavaScript：
+
+```text
+// use a custom order type
+bitfinex.createLimitSellOrder ('BTC/USD', 1, 10, { 'type': 'trailing-stop' })
+```
+
+Python：
+
+```text
+# add a custom order flag
+kraken.create_market_buy_order('BTC/USD', 1, {'trading_agreement': 'agree'})
+```
+
+PHP：
+
+```text
+// add custom user id to your order
+$hitbtc->create_order ('BTC/USD', 'limit', 'buy', 1, 3000, array ('clientOrderId' => '123'))
+```
+
