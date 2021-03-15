@@ -2,7 +2,7 @@
 
 [**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**）**[**课程地址**](https://study.163.com/course/courseMain.htm?courseId=1006162003)\*\*\*\*
 
-\*\*\*\*[**CCXT中文文档**](http://cw.hubwiz.com/card/c/ccxt-dev-manual/1/1/1/)\*\*\*\*
+\*\*\*\*[**CCXT中文文档**](http://cw.hubwiz.com/card/c/ccxt-dev-manual/1/1/1/)  **\|**  [**CCXT英文文档**](https://github.com/ccxt/ccxt/wiki)\*\*\*\*
 
 [**CCXT公有API课程**](https://www.bilibili.com/video/av57636895/) **🚩**
 
@@ -35,7 +35,7 @@
 
 * \(10010.6671 - 10000\) / 10000 = 1.06671 ‰
 
-![](../../.gitbook/assets/37fyootled.png)
+![](../../../.gitbook/assets/37fyootled.png)
 
 实际套利转化流程：  
 USDT -&gt; BTC -&gt; BCH -&gt; USDT
@@ -50,7 +50,7 @@ Profit = P3/(P1xP2) - 1 # 公式的推到可以看下边的套利步骤
 
 #### 三角套利步骤[\#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E4%B8%89%E8%A7%92%E5%A5%97%E5%88%A9%E6%AD%A5%E9%AA%A4) <a id="&#x4E09;&#x89D2;&#x5957;&#x5229;&#x6B65;&#x9AA4;"></a>
 
-![](../../.gitbook/assets/u6olvagcrv.png)
+![](../../../.gitbook/assets/u6olvagcrv.png)
 
 P1 表示 A 的价格，P2 表示 ？的价格，P3 表示 ?/A 的价格
 
@@ -192,7 +192,7 @@ if __name__ == '__main__':
 
 结果：
 
-![](../../.gitbook/assets/kvc6cwouee.png)
+![](../../../.gitbook/assets/kvc6cwouee.png)
 
 BTC -&gt; ETH -&gt; AION -&gt; BTC
 

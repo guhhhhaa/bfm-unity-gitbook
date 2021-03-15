@@ -16,7 +16,7 @@
 
 ## 交叉研究
 
-{% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li.md" %}
+{% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li/" %}
 
 {% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md" %}
 
