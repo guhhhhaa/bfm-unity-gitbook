@@ -2641,3 +2641,990 @@ PHP：
 $hitbtc->create_order ('BTC/USD', 'limit', 'buy', 1, 3000, array ('clientOrderId' => '123'))
 ```
 
+
+
+### 其他类型的委托单
+
+委托单的类型可以是限价或市价，如果你要限价止损委托类型，可以使用 改写默认参数值，具体参考： [https://github.com/ccxt/ccxt/wiki/Manual\#overriding-unified-api-params](https://github.com/ccxt/ccxt/wiki/Manual#overriding-unified-api-params).
+
+下面的代码展示了如何改写委托单类型，然而，你必须阅读交易所的 文档以了解应该使用什么参数以及如何正确设定参数值。限价委托或 市价委托之外的其他类型目前在ccxt中还没有统一的API，只能参考如下 代码改写默认的参数。
+
+```text
+const symbol = 'ETH/BTC'
+const type = 'limit' // or 'market', other types aren't unified yet
+const side = 'sell'
+const amount = 123.45 // your amount
+const price = 54.321 // your price
+// overrides
+const params = {
+    'stopPrice': 123.45, // your stop price
+    'type': 'stopLimit',
+}
+const order = await exchange.createOrder (symbol, type, side, amount, price, params)
+
+symbol = 'ETH/BTC'
+type = 'limit'  # or 'market', other types aren't unified yet
+side = 'sell'
+amount = 123.45  # your amount
+price = 54.321  # your price
+# overrides
+params = {
+    'stopPrice': 123.45,  # your stop price
+    'type': 'stopLimit',
+}
+order = exchange.create_order(symbol, type, side, amount, price, params)
+
+$symbol = 'ETH/BTC';
+$type = 'limit'; // or 'market', other types aren't unified yet
+$side = 'sell';
+$amount = 123.45; // your amount
+$price = 54.321; // your price
+// overrides
+$params = {
+    'stopPrice': 123.45, // your stop price
+    'type': 'stopLimit',
+}
+$order = $exchange->create_order ($symbol, $type, $side, $amount, $price, $params);
+```
+
+### 取消委托单 - cancelOrder
+
+要取消已有的委托单，可以使用`cancelOrder (id, symbol, params)` / `cancel_order (id, symbol, params)`方法。 注意，即使指定了要取消的委托单ID，有些交易所还是要求传入第二个参数指定交易对符号。
+
+`cancelOrder`调用示例代码如下。
+
+JavaScript：
+
+```text
+exchange.cancelOrder ('1234567890') // replace with your order id here (a string)
+```
+
+Python：
+
+```text
+exchange.cancel_order ('1234567890') # replace with your order id here (a string)
+```
+
+PHP：
+
+```text
+$exchange->cancel_order ('1234567890'); // replace with your order id here (a string)
+```
+
+#### 委托单取消异常
+
+`cancelOrder()`通常仅用于敞口委托单。然而，交易所有可能在你的取消请求 之前刚好执行了委托单，因此取消请求可能击中一个已经完成的委托单。
+
+取消请求也可能会抛出`NetworkError`异常，表示委托单可能没有成功取消。 后续的`cancelOrder()`调用也可能几种一个已经取消的委托单。
+
+因此，`cancelOrder()`在这些情况下会抛出`OrderNotFound`异常：
+
+* 取消一个已经完成的委托单
+* 取消一个已经取消的委托单
+
+### 委托单与交易的关系
+
+交易也称为成交。每个交易都是委托单执行的结果。需要注意的是， 委托单和交易是一对多的关系：委托单的一次执行可能会产生多笔交易。 然而，当一个委托单匹配了另一个相反方向的委托单，就会生成一比较 交易。因此，当一个委托单匹配了另一个方向的多个委托单时，就会 生成多笔交易，每个配对对应一笔交易。
+
+简而言之，一个委托单可以包含一笔或多笔交易。或者换句话说， 一个委托单可以通过一笔或多笔交易来成交。
+
+例如，委托账本中可以包含如下的委托单（可以是任何交易符号或交易对）：
+
+```text
+    | price  | amount
+----|----------------
+  a |  1.200 | 200
+  s |  1.100 | 300
+  k |  0.900 | 100
+----|----------------
+  b |  0.800 | 100
+  i |  0.700 | 200
+  d |  0.500 | 100
+```
+
+上面的数字都不是真实的，这只是用于演示委托单和交易之间的关系。
+
+一个卖家决定在卖出侧下一个限价卖出单，价格为0.700，数量为150：
+
+```text
+    | price  | amount
+----|----------------  ↓
+  a |  1.200 | 200     ↓
+  s |  1.100 | 300     ↓
+  k |  0.900 | 100     ↓
+----|----------------  ↓
+  b |  0.800 | 100     ↓ sell 150 for 0.700
+  i |  0.700 | 200     --------------------
+  d |  0.500 | 100
+```
+
+由于新的卖出单的价格和数量覆盖超过一个买入委托单（委托单b和i）， 在交易撮合引擎中很快（但不是立刻）会产生以下事件：
+
+委托单b可以匹配新进来的卖单，因为两者价格有交集。它们的数量 可以彼此消化，因此，买入方在0.800价格成交了100单位。买方的 卖出委托单在0.800价位部分成交了100单位。注意对于委托单的成交 部分，买方得到了比初始要求更好的价格。他要求最低价格是0.7， 但是成交价是更好的0.8。大多数传统的交易所使用最优价格来执行 委托单。
+
+交易撮合引擎会为委托单b生成一笔和进来的卖出单发生的交易。这个 交易成交了整个委托单b，以及卖出单的大部分数量。每一对匹配的 委托单都会生成一笔交易，无论是部分成交还是全部成交。在这个示例 中，买方数量100可以让委托单b完全成交（完成委托单b），同时也 部分成交了卖方的委托单（它在委托账本中还是敞口的）。
+
+委托单b现在是完成状态，成交数量是100，它包含了一笔和卖出单 发生的交易。卖出单目前是敞口状态，成交数量是100，它包含了 一个和委托单b发生的交易。因此到目前位置，每个订单都只有 一个成交交易。
+
+进入撮合引擎的卖出委托单目前的成交数量是100，还剩下50单位 继续等待成交。
+
+委托账本的中间状态现在如下所示（委托单b已经完成，因此已经不再 出现在委托账本中）：
+
+```text
+    | price  | amount
+----|----------------  ↓
+  a |  1.200 | 200     ↓
+  s |  1.100 | 300     ↓
+  k |  0.900 | 100     ↓
+----|----------------  ↓ sell remaining 50 for 0.700
+  i |  0.700 | 200     -----------------------------
+  d |  0.500 | 100
+```
+
+委托单i可以匹配卖出单的剩余部分，因为两者价格相交。买入单i的数量 是200，因此可以完全吃掉卖出单的剩余数量50。委托单i可以部分成交 50单位，但是其剩余数量150还将继续在委托账本中等待撮合。不过卖出 委托单在这第二次撮合过程中可以完全成交了。
+
+交易撮合引擎为委托单i生成一笔和卖出单发生的交易。这笔交易让委托单i 部分成交，让卖出单完全成交。又一次，一对匹配的委托单生成了一笔交易。
+
+经过上述步骤，更新后的委托账本看起来是这样：
+
+```text
+    | price  | amount
+----|----------------
+  a |  1.200 | 200
+  s |  1.100 | 300
+  k |  0.900 | 100
+----|----------------
+  i |  0.700 | 150
+  d |  0.500 | 100
+```
+
+注意委托单b已经消失了，卖出单也不在了。所有完成的委托单都会从 委托账本中移除。部分成交的委托单i处于敞口状态，依然还呆在委托 账本中。
+
+### 查询个人的历史交易 - fetchMyTrade
+
+ccxt库的统一API中的大部分方法会返回单个交易对象或交易对象数组。 但是，极少数交易所会一次返回全部个人交易。大多数情况下，交易所 的API会限制返回结果的数量。你不应该在一个调用中读取所有交易对象。 实际上，极少有交易所会容忍或允许这种行为。
+
+要查询历史交易，用户需要分页遍历数据。分页通常隐含着使用循环 分批获取数据的意思。
+
+在大多数情况下，用户需要提供至少某种类型的分页以便可以一致地获取期望的结果。 使用`fetchMyTrade`/`fetch_my_trade`方法获取个人的历史交易，其方法原型与调用的示例代码如下。
+
+JavaScript：
+
+```text
+// fetchMyTrades (symbol = undefined, since = undefined, limit = undefined, params = {})
+
+if (exchange.has['fetchMyTrades']) {
+    const trades = await exchange.fetchMyTrades (symbol, since, limit, params)
+}
+```
+
+Python：
+
+```text
+# fetch_my_trades (symbol = None, since = None, limit = None, params = {})
+
+if exchange.has['fetchMyTrades']:
+    exchange.fetch_my_trades (symbol = None, since = None, limit = None, params = {})
+```
+
+PHP：
+
+```text
+// fetch_my_trades ($symbol = null, $since = null, $limit = null, $params = array ())
+
+if ($exchange->has['fetchMyTrades']) {
+    $trades = $exchange->fetch_my_trades ($symbol, $since, $limit, $params);
+}
+```
+
+`fetchMyTrade`方法返回一个有序的交易对象数组，最近产生的交易排在最后。
+
+### 交易的数据结构
+
+在ccxt中，交易的数据结构如下：
+
+```text
+{
+    'info':         { ... },                    // the original decoded JSON as is
+    'id':           '12345-67890:09876/54321',  // string trade id
+    'timestamp':    1502962946216,              // Unix timestamp in milliseconds
+    'datetime':     '2017-08-17 12:42:48.000',  // ISO8601 datetime with milliseconds
+    'symbol':       'ETH/BTC',                  // symbol
+    'order':        '12345-67890:09876/54321',  // string order id or undefined/None/null
+    'type':         'limit',                    // order type, 'market', 'limit' or undefined/None/null
+    'side':         'buy',                      // direction of the trade, 'buy' or 'sell'
+    'takerOrMaker': 'taker',                    // string, 'taker' or 'maker'
+    'price':        0.06917684,                 // float price in quote currency
+    'amount':       1.5,                        // amount of base currency
+    'cost':         0.10376526,                 // total cost (including fees), `price * amount`
+    'fee':          {                           // provided by exchange or calculated by ccxt
+        'cost':  0.0015,                        // float
+        'currency': 'ETH',                      // usually base currency for buys, quote currency for sells
+        'rate': 0.002,                          // the fee rate (if available)
+    },
+}
+```
+
+补充说明如下：
+
+* fee：手续费部分的处理目前还在进行中，可能缺失信息甚至没有
+* fee currency：手续费货币可能不同于所交易的货币，例如，一个 ETH/BTC委托单的手续费采用USD支付
+* cost：交易总花费 = amount \* price，这是一个方便字段，可以利用其他字段计算得出。
+
+### 查询指定委托单的交易
+
+待整理。
+
+### 获取充值地址 - fetchDepositAddress/createDepositAddress
+
+要将资金存入交易所，你必须先从交易所获取一个你希望存入的数字货币的 地址。大多数交易所会为用户创建并管理这些地址。有些交易所也允许用户 创建用于充值的新地址。有些交易所则要求用户为每次充值都创建新的充值 地址。
+
+用于充值的地址可以使用`fetchDepositAddress`方法获取在交易所中已有的地址， 也可以使用`createDepositAddress`创建新的地址。要查看交易所支持哪个方法， 可以使用`exchange.has['fetchDepositAddress']`和`exchange.has['createDepositAddress']` 属性，这两个方法都返回一个地址结构：
+
+```text
+fetchDepositAddress (code, params = {})
+createDepositAddress (code, params = {})
+```
+
+* code：统一的货币代码，大写字符串
+* params：额外的可选参数
+
+有些交易所也提供API方法来一次获取多个或全部充值地址：
+
+```text
+fetchDepositAddresses (codes = undefined, params = {})
+```
+
+取决于交易所的要求，上述调用可能需要传入货币代码数组作为第一个参数。 Depending on the exchange it may or may not require a list of unified currency codes in the first argument. `fetchDepositAddresses`方法返回一个地址对象数组。
+
+### 地址的数据结构
+
+`fetchDepositAddress`、`fetchDepositAddresses`和`createDepositAddress`方法返回的 地址，结构如下：
+
+```text
+{
+    'currency': currency, // currency code
+    'address': address,   // address in terms of requested currency
+    'tag': tag,           // tag / memo / paymentId for particular currencies (XRP, XMR, ...)
+    'info': response,     // raw unparsed data as returned from the exchange
+}
+```
+
+有些货币，例如 AEON, BTS, GXS, NXT, SBD, STEEM, STR, XEM, XLM, XMR, XRP, 交易所通常会要求提供一个额外的标签（tag）参数。其他货币则将标签设置为 undefined / None / null。标签可以是备注、消息或支付ID，用来附加在提现交易 上。对于上述货币来说，标签是强制性的，因为交易所需要用它来区分不同的用户账户。
+
+当设置标签和地址时需要谨慎。标签不是你随便选择的字符串！你不能在标签里发送 用户消息和评论。标签字段的目的是正确定位你的钱包，因此必须是正确的。你应该 只使用从交易所收到的标签，否则你的交易可能永远也不会到达目标地址。
+
+### 提现 - withdraw
+
+使用交易所实例的`withdraw`方法从交易所提现。示例代码如下。
+
+JavaScript：
+
+```text
+exchange.withdraw (code, amount, address, tag = undefined, params = {})
+```
+
+Python：
+
+```text
+exchange.withdraw(code, amount, address, tag=None, params={})
+```
+
+PHP：
+
+```text
+$exchange->withdraw ($code, $amount, $address, $tag = null, $params = array ())
+```
+
+`code`参数表示货币代码（通常是三位大写字幕，但是不同情况下可能有所差异）。
+
+`withdraw`方法返回一个字典，其中的提现ID字段值通常是链上交易的ID，或者 是交易所内部的提现请求ID。`withdraw`的返回值看起来像这样：
+
+```text
+{
+    'info' { ... },      // unparsed reply from the exchange, as is
+    'id': '12345567890', // string withdrawal id, if any
+}
+```
+
+有些交易所采用双因子认证的手段要求每一笔提现都进行人工确认。为了放行 你的提现请求，通常你不得不点击交易所发给你的邮件中的秘密链接，或者 在交易所网站上输入一个验证码，以便交易所确认提现交易是安全的。
+
+在有些情况下，你也可以使用提现ID在稍后检查提现状态（是否成功）并 提交双因子确认码，这需要参考交易所的文档获取详细信息。
+
+### 链上交易数据结构
+
+ccxt库中，链上交易（Transaction）的数据结构如下：
+
+```text
+{
+    'info':      { ... },    // the JSON response from the exchange as is
+    'id':       '123456',    // exchange-specific transaction id, string
+    'txid':     '0x68bfb29821c50ca35ef3762f887fd3211e4405aba1a94e448a4f218b850358f0',
+    'timestamp': 1534081184515,             // timestamp in milliseconds
+    'datetime': '2018-08-12T13:39:44.515Z', // ISO8601 string of the timestamp
+    'addressFrom': '0x38b1F8644ED1Dbd5DcAedb3610301Bf5fa640D6f', // sender
+    'address':  '0x02b0a9b7b4cDe774af0f8e47cb4f1c2ccdEa0806', // "from" or "to"
+    'addressTo': '0x304C68D441EF7EB0E2c056E836E8293BD28F8129', // receiver
+    'tagFrom', '0xabcdef', // "tag" or "memo" or "payment_id" associated with the sender
+    'tag':      '0xabcdef' // "tag" or "memo" or "payment_id" associated with the address
+    'tagTo': '0xhijgklmn', // "tag" or "memo" or "payment_id" associated with the receiver
+    'type':     'deposit',   // or 'withdrawal', string
+    'amount':    1.2345,     // float (does not include the fee)
+    'currency': 'ETH',       // a common unified currency code, string
+    'status':   'pending',   // 'ok', 'failed', 'canceled', string
+    'updated':   undefined,  // UTC timestamp of most recent status change in ms
+    'comment':  'a comment or message defined by the user if any',
+    'fee': {                 // the entire fee structure may be undefined
+        'currency': 'ETH',   // a unified fee currency code
+        'cost': 0.1234,      // float
+        'rate': undefined,   // approximately, fee['cost'] / amount, float
+    },
+}
+```
+
+补充说明：
+
+* 如果交易所没有设置交易的方向（买入/卖出）， addressFrom 或 addressTo 的值可能为undefined/None/null
+* address字段的含义是交易所相关的。有些情况下该字段的值表示发送方的地址，有时则可能表示接收方的地址。
+* update字段表示最近的资金操作的状态变化，以毫秒计算的UTC时间戳。
+* 取决于交易所的支持与否，fee字段的内容可能缺失
+* comment字段的值可能是undefined/None/null，否则表示用户创建链上交易时传入的消息或备注
+* 处理标签（tag）和地址（address）时需要谨慎，标签不是用户任意指定的字符串，不能在 标签中发送用户消息和评论。标签的目的是正确定位你的钱包。因此应当遵循交易所的要求。
+
+### 查询充值记录 - fetchDeposits
+
+使用ccxt统一API的`fetchDeposits`方法查询充值记录。示例代码如下。
+
+JavaScript：
+
+```text
+// fetchDeposits (code = undefined, since = undefined, limit = undefined, params = {})
+
+if (exchange.has['fetchDeposits']) {
+    const deposits = await exchange.fetchDeposits (code, since, limit, params)
+} else {
+    throw new Error (exchange.id + ' does not have the fetchDeposits method')
+}
+```
+
+Python：
+
+```text
+# fetch_deposits(code = None, since = None, limit = None, params = {})
+
+if exchange.has['fetchDeposits']:
+    deposits = exchange.fetch_deposits(code, since, limit, params)
+else:
+    raise Exception (exchange.id + ' does not have the fetch_deposits method')
+```
+
+PHP：
+
+```text
+// fetch_deposits ($code = null, $since = null, $limit = null, $params = {})
+
+if ($exchange->has['fetchDeposits']) {
+    $deposits = $exchange->fetch_deposits ($code, $since, $limit, $params);
+} else {
+    throw new Exception ($exchange->id . ' does not have the fetch_deposits method');
+}
+```
+
+### 查询提现记录 - fetchWithdrawals
+
+使用ccxt统一API的`fetchWithdrawals`方法查询提现记录。示例代码如下。
+
+JavaScript：
+
+```text
+// fetchWithdrawals (code = undefined, since = undefined, limit = undefined, params = {})
+
+if (exchange.has['fetchWithdrawals']) {
+    const withdrawals = await exchange.fetchWithdrawals (code, since, limit, params)
+} else {
+    throw new Error (exchange.id + ' does not have the fetchWithdrawals method')
+}
+```
+
+Python：
+
+```text
+# fetch_withdrawals(code = None, since = None, limit = None, params = {})
+
+if exchange.has['fetchWithdrawals']:
+    withdrawals = exchange.fetch_withdrawals(code, since, limit, params)
+else:
+    raise Exception (exchange.id + ' does not have the fetch_withdrawals method')
+```
+
+PHP：
+
+```text
+// fetch_withdrawals ($code = null, $since = null, $limit = null, $params = {})
+
+if ($exchange->has['fetchWithdrawals']) {
+    $withdrawals = $exchange->fetch_withdrawals ($code, $since, $limit, $params);
+} else {
+    throw new Exception ($exchange->id . ' does not have the fetch_withdrawals method');
+}
+```
+
+### 查询链上交易 - fetchTransactions
+
+使用ccxt统一API的`fetchTransactions`方法查询链上交易。示例代码如下。
+
+JavaScript：
+
+```text
+// fetchTransactions (code = undefined, since = undefined, limit = undefined, params = {})
+
+if (exchange.has['fetchTransactions']) {
+    const transactions = await exchange.fetchTransactions (code, since, limit, params)
+} else {
+    throw new Error (exchange.id + ' does not have the fetchTransactions method')
+}
+```
+
+Python：
+
+```text
+# fetch_transactions(code = None, since = None, limit = None, params = {})
+
+if exchange.has['fetchTransactions']:
+    transactions = exchange.fetch_transactions(code, since, limit, params)
+else:
+    raise Exception (exchange.id + ' does not have the fetch_transactions method')
+```
+
+PHP：
+
+```text
+// fetch_transactions ($code = null, $since = null, $limit = null, $params = {})
+
+if ($exchange->has['fetchTransactions']) {
+    $transactions = $exchange->fetch_transactions ($code, $since, $limit, $params);
+} else {
+    throw new Exception ($exchange->id . ' does not have the fetch_transactions method');
+}
+```
+
+### 查询手续费 - fetchFees
+
+手续费通常可以分为以下两类：
+
+* 交易手续费：向交易所支付的交易手续费，通常按成交量的百分点计取
+* 资金操作手续费：在充值和提现时向交易所支付的费用，包含链上交易费用
+
+因为手续费结构会依赖于用户交易的货币的实际交易量，手续费是与账户相关的。 ccxt的统一API中，提供了以下方法用于账户相关的手续费处理：
+
+* fetchFees \(params = {}\)
+* fetchTradingFees \(params = {}\)
+* fetchFundingFees \(params = {}\)
+
+手续费方法将返回一个统一的手续费结构，该结构在整个ccxt库中保持统一， 通常采用交易市场或货币为索引键。手续费结构如下：
+
+```text
+{
+    'type': takerOrMaker,
+    'currency': 'BTC', // the unified fee currency code
+    'rate': percentage, // the fee rate, 0.05% = 0.0005, 1% = 0.01, ...
+    'cost': feePaid, // the fee cost (amount * fee rate)
+}
+```
+
+手续费这一部分的代码目前还在进行中，因此其中有些方法和属性在某些交易所 可能还会缺失。
+
+不要使用已经废弃的`.fees`属性。
+
+### 查询交易所状态 - fetchStatus
+
+交易所状态描述交易所API的最近可用情况。交易所状态信息可能是在交易所 实现类中硬编码的，也可能是从交易所API直接获取的。
+
+可以使用ccxt的统一API中的`fetchStatus`方法来查询交易所状态。其返回结果为 以下三者之一：
+
+* 交易所实现类硬编码的信息，例如，如果交易所宕机的话
+* 使用交易所对象的ping或fetchTime方法检查交易所API是否存活
+* 使用交易所提供的API获取状态信息
+
+`fetchStatus`方法原型如下：
+
+```text
+fetchStatus(params = {})
+```
+
+方法返回的状态数据结构如下：
+
+```text
+{
+    'status': 'ok', // 'ok', 'shutdown', 'error', 'maintenance'
+    'updated': undefined, // integer, last updated timestamp in milliseconds if updated via the API
+    'eta': undefined, // when the maintenance or outage is expected to end
+    'url': undefined, // a link to a GitHub issue or to an exchange post on the subject
+}
+```
+
+说明：
+
+* 'ok'表示交易所API可用
+* 'shutdown'表示交易所停机，这时`updated`字段的值就表示停机时间
+* 'error'表示API不兼容
+* 'maintenance'表示常规维护，`eta`字段的值表示预计恢复时间。
+
+### 预算交易费 - calculateFee
+
+交易费是市场的属性。通常交易费使用`fetchMarkets`调用载入。但有时 交易所会使用不同的访问端结点提供交易费服务。
+
+ccxt的统一API中的`calculateFee`方法可以预算交易费。警告！这个方法 是实验性的，不稳定而且可能在有些情况下的结果不正确。请谨慎使用。 实际的手续费可能和`calculateFee`返回的结果不一致，因此不要依赖于 预算值，因为市场条件变化很快，很难预料你的委托单是会成为maker还是taker。 方法原型如下：
+
+```text
+calculateFee (symbol, type, side, amount, price, takerOrMaker = 'taker', params = {})
+```
+
+`calculateFee`方法将返回统一的手续费结构。
+
+应当使用交易所的`.markets`属性方位交易费率，例如：
+
+```text
+exchange.markets['ETH/BTC']['taker'] // taker fee rate for ETH/BTC
+exchange.markets['BTC/USD']['maker'] // maker fee rate for BTC/USD
+```
+
+当你为交易所提供流动性时，支付的是maker手续费。maker手续费通常低于 taker手续费。当你从交易所拿走流动性时，则需要支付taker手续费。
+
+### 资金操作费 - currencies
+
+资金操作费是货币的属性。
+
+可以使用交易所的`.currencies`属性访问资金操作费率。这方面目前在ccxt 中还没有统一，未来可能会有变化。
+
+```text
+exchange.currencies['ETH']['fee'] // tx/withdrawal fee rate for ETH
+exchange.currencies['BTC']['fee'] // tx/withdrawal fee rate for BTC
+```
+
+### 查询账本 - fetchLedger
+
+有些交易所提供额外的访问点用于查询整合的账本历史。账本 就是变化的历史，记录改变用户余额的操作，包括充值和提现等。
+
+使用ccxt统一API中的`fetchLedger`方法查询账本，原型如下：
+
+```text
+async fetchLedger (code = undefined, since = undefined, limit = undefined, params = {})
+```
+
+有些交易所不允许一次查询所有的账本条目，需要在调用`fetchLedger` 方法时指定code参数。
+
+### 账本记录结构
+
+账本记录结构如下：
+
+```text
+{
+    'id': 'hqfl-f125f9l2c9',                // string id of the ledger entry, e.g. an order id
+    'direction': 'out',                     // or 'in'
+    'account': '06d4ab58-dfcd-468a',        // string id of the account if any
+    'referenceId': 'bf7a-d4441fb3fd31',     // string id of the trade, transaction, etc...
+    'referenceAccount': '3146-4286-bb71',   // string id of the opposite account (if any)
+    'type': 'trade',                        // string, reference type, see below
+    'currency': 'BTC',                      // string, unified currency code, 'ETH', 'USDT'...
+    'amount': 123.45,                       // absolute number, float (does not include the fee)
+    'timestamp': 1544582941735,             // milliseconds since epoch time in UTC
+    'datetime': "2018-12-12T02:49:01.735Z", // string of timestamp, ISO8601
+    'before': 0,                            // amount of currency on balance before
+    'after': 0,                             // amount of currency on balance after
+    'status': 'ok',                         // 'ok, 'pending', 'canceled'
+    'fee': {                                // object or or undefined
+        'cost': 54.321,                     // absolute number on top of the amount
+        'currency': 'ETH',                  // string, unified currency code, 'ETH', 'USDT'...
+    },
+    'info': { ... },                        // raw ledger entry as is from the exchange
+}
+```
+
+补充说明：
+
+账本记录的类型就是与之关联的操作类型。如果amout来自委托单，那么关联的 交易类型就是`trade`，同时`referenceId`字段的值记录交易ID。如果amount 来自提现操作，那么这条记录关联的就是链上交易。可能值如下：
+
+* trade
+* transaction
+* fee
+* rebate
+* cashback
+* referral
+* transfer
+* whatever
+* ...
+
+`referenceId`字段表示引用ID，记录对应事件的ID。
+
+`status`字段描述账本变化是成功（ok）、待定（pending）还是取消（ok）等状态。 大多数情况下都应该是ok。
+
+`type`字段可以关联常规交易、链上交易（充值或提现操作）或交易所内部转账。 如果账本记录关联的是内部转账，那么`account`字段将包含该记录要修改的账户ID， `referenceAccount`字段的值则是相对方向的账户ID。
+
+### 修改Nonce值 - seconds/milliseconds/microseconds
+
+默认的nonce是以秒计的32位unix时间戳。如果你希望进行更频繁的 私有请求，应该使用毫秒计的nonce来改写，否则最快才能每秒发一个请求。 当你达到交易所限流值时，大多数交易所都会进行节流，请参考具体 交易所的API文档。
+
+要重设nonce值的话，更简单的方式是再创建一个用于访问私有api 的密钥对。
+
+有些情况下你没办法创建新的密钥，比如没有权限或者其他原因。 这时也有办法改写nonce值，可以使用ccxt统一api中市场基类的以下方法：
+
+* seconds \(\): 返回秒计的unix时间戳
+* milliseconds \(\): 返回毫秒计的unix时间戳
+* microseconds \(\): 返回微秒计的unix时间戳
+
+有的交易所在API文档中搞混了毫秒和微秒，原谅他们吧。你可以使用 上面的这些方法重设nocne值。示例代码如下。
+
+JavaScript：
+
+```text
+// A: custom nonce redefined in constructor parameters
+let nonce = 1
+let kraken1 = new ccxt.kraken ({ nonce: () => nonce++ })
+
+// B: nonce redefined explicitly
+let kraken2 = new ccxt.kraken ()
+kraken2.nonce = function () { return nonce++ } // uses same nonce as kraken1
+
+// C: milliseconds nonce
+let kraken3 = new ccxt.kraken ({
+    nonce: function () { return this.milliseconds () },
+})
+
+// D: newer ES syntax
+let kraken4 = new ccxt.kraken ({
+    nonce () { return this.milliseconds () },
+})
+```
+
+Python：
+
+```text
+# A: the shortest
+gdax = ccxt.gdax({'nonce': ccxt.Exchange.milliseconds})
+
+# B: custom nonce
+class MyKraken(ccxt.kraken):
+    n = 1
+    def nonce(self):
+        return self.n += 1
+
+# C: milliseconds nonce
+class MyBitfinex(ccxt.bitfinex):
+    def nonce(self):
+        return self.milliseconds()
+
+# D: milliseconds nonce inline
+hitbtc = ccxt.hitbtc({
+    'nonce': lambda: int(time.time() * 1000)
+})
+
+# E: milliseconds nonce
+acx = ccxt.acx({'nonce': lambda: ccxt.Exchange.milliseconds()})
+```
+
+PHP：
+
+```text
+// A: custom nonce value
+class MyOKCoinUSD extends \ccxt\okcoinusd {
+    public function __construct ($options = array ()) {
+        parent::__construct (array_merge (array ('i' => 1), $options));
+    }
+    public function nonce () {
+        return $this->i++;
+    }
+}
+
+// B: milliseconds nonce
+class MyZaif extends \ccxt\zaif {
+    public function __construct ($options = array ()) {
+        parent::__construct (array_merge (array ('i' => 1), $options));
+    }
+    public function nonce () {
+        return $this->milliseconds ();
+    }
+}
+```
+
+## **CCXT错误处理**
+
+### 错误处理概述 - try/catch
+
+ccxt采用各种语言中原生的异常机制进行错误处理。
+
+要处理错误，你需要使用try代码块来保护调用ccxt统一API的代码， 然后使用catch代码块捕捉异常。示例代码如下。
+
+JavaScript：
+
+```text
+// try to call a unified method
+try {
+    const response = await exchange.fetchTicker ('ETH/BTC')
+    console.log (response)
+} catch (e) {
+    // if the exception is thrown, it is "caught" and can be handled here
+    // the handling reaction depends on the type of the exception
+    // and on the purpose or business logic of your application
+    if (e instanceof ccxt.NetworkError) {
+        console.log (exchange.id, 'fetchTicker failed due to a network error:', e.message)
+        // retry or whatever
+        // ...
+    } else if (e instanceof ccxt.ExchangeError) {
+        console.log (exchange.id, 'fetchTicker failed due to exchange error:', e.message)
+        // retry or whatever
+        // ...
+    } else {
+        console.log (exchange.id, 'fetchTicker failed with:', e.message)
+        // retry or whatever
+        // ...
+    }
+}
+```
+
+Python：
+
+```text
+try:
+    response = await exchange.fetch_order_book('ETH/BTC')
+    print(response)
+except ccxt.NetworkError as e:
+    print(exchange.id, 'fetch_order_book failed due to a network error:', str(e))
+    # retry or whatever
+    # ...
+except ccxt.ExchangeError as e:
+    print(exchange.id, 'fetch_order_book failed due to exchange error:', str(e))
+    # retry or whatever
+    # ...
+except Exception as e:
+    print(exchange.id, 'fetch_order_book failed with:', str(e))
+    # retry or whatever
+    # ...
+```
+
+PHP：
+
+```text
+// try to call a unified method
+try {
+    $response = $exchange->fetch_trades('ETH/BTC');
+    print_r($response);
+} catch (\ccxt\NetworkError $e) {
+    echo $exchange->id . ' fetch_trades failed due to a network error: ' . $e->getMessage () . "\n";
+    // retry or whatever
+    // ...
+} catch (\ccxt\ExchangeError $e) {
+    echo $exchange->id . ' fetch_trades failed due to exchange error: ' . $e->getMessage () . "\n";
+    // retry or whatever
+    // ...
+} catch (Exception $e) {
+    echo $exchange->id . ' fetch_trades failed with: ' . $e->getMessage () . "\n";
+    // retry or whatever
+    // ...
+}
+```
+
+### 异常类的体系
+
+ccxt中所有的机场都派生自BaseError基类，其定义如下：
+
+JavaScript：
+
+```text
+class BaseError extends Error {
+    constructor () {
+        super ()
+        // a workaround to make `instanceof BaseError` work in ES5
+        this.constructor = BaseError
+        this.__proto__   = BaseError.prototype
+    }
+}
+```
+
+Python：
+
+```text
+class BaseError (Exception):
+    pass
+```
+
+PHP：
+
+```text
+class BaseError extends \Exception {}
+```
+
+下面是ccxt异常类的继承体系：
+
+```text
++ BaseError
+|
++---+ ExchangeError
+|   |
+|   +---+ AuthenticationError
+|   |   |
+|   |   +---+ PermissionDenied
+|   |   |
+|   |   +---+ AccountSuspended
+|   |
+|   +---+ ArgumentsRequired
+|   |
+|   +---+ BadRequest
+|   |
+|   +---+ BadResponse
+|   |   |
+|   |   +---+ NullResponse
+|   |
+|   +---+ InsufficientFunds
+|   |
+|   +---+ InvalidAddress
+|   |   |
+|   |   +---+ AddressPending
+|   |
+|   +---+ InvalidOrder
+|   |   |
+|   |   +---+ OrderNotFound
+|   |   |
+|   |   +---+ OrderNotCached
+|   |   |
+|   |   +---+ CancelPending
+|   |   |
+|   |   +---+ OrderImmediatelyFillable
+|   |   |
+|   |   +---+ OrderNotFillable
+|   |   |
+|   |   +---+ DuplicateOrderId
+|   |
+|   +---+ NotSupported
+|
++---+ NetworkError (recoverable)
+    |
+    +---+ DDoSProtection
+    |
+    +---+ ExchangeNotAvailable
+    |
+    +---+ InvalidNonce
+    |
+    +---+ RequestTimeout
+```
+
+`BaseError`类是各种错误的一般性描述，包括可用性错误、请求/响应错误等。 开发者至少应该捕捉这个异常，如果不需要区分具体是什么错误的话。
+
+在错误体系中有两个子树，都派生自BaseError：
+
+* NetworkError
+* ExchangeError
+
+`NetworkError`表示不严重的错误，某种意义上说并不是真正的错误，更可能是 临时性的不可用情况，可能原因包括交易所维护、DDoS保护和临时性访问阻断。
+
+相比之下，`ExchangeError`是严重的错误 – 如果捕捉到这个错误，那么你使用 相同的输入应该都会得到同样的错误。
+
+这两族错误的区别在于`NetworkError`是可恢复的，而`ExchangeError`是不可恢复的。
+
+### 交易所异常 - ExchangeError
+
+当交易所服务器返回的JSON响应中包含了错误信息时，ccxt就会 抛出这个异常。可能的原因包括：
+
+* 访问端结点被交易所关闭
+* 交易所未找到指定的交易对符号
+* 请求的参数缺失
+* 参数格式不正确
+* 交易所响应含义不明确
+
+其他从ExchangeError派生的异常包括：
+
+* NotSupported：如果交易所的API不支持所访问的端结点，就会抛出这个异常
+* AuthenticationError：如果API需要身份验证而请求中没有提供或者提供的不正确，就会抛出这个异常
+* PermissionDenied：如果请求中指定的api key没有足够的权限，就会抛出这个异常
+* InsufficientFunds：如果账户余额不足以执行当前请求的操作，例如委托下单，就会抛出这个异常
+* InvalidAddress：如果请求中的地址格式不正确，就会抛出这个异常
+* InvalidOrder：这是统一API中order系列方法异常类的基类
+* OrderNotFound：试图查询或取消不存在的委托单时，就会抛出这个异常
+
+### 网络异常 - NetworkError
+
+所有网络相关的错误通常是可恢复的，网络故障、流量阻塞、服务器不可用这些 通常都是时间相关的，稍后重新请求通常就能解决问题。
+
+#### DDoS保护异常 - DDoSProtection
+
+当有以下情况之一发生时，就会抛出这个异常：
+
+* 当Cloudflare或Incapsula限流时
+* 当交易所限流时
+
+除了默认的错误处理，ccxt库会使用以下关键字搜索交易所的响应内容：
+
+* cloudflare
+* incapsula
+* overload
+* ddos
+
+#### 请求超时异常 - RequestTimeout
+
+当与交易所的连接失败或没有在指定时间内收到交易所响应的完整数据时， 就会抛出RequestTimeout异常。
+
+因此建议采用以下方式处理这一类的异常：
+
+* 对于查询请求，只需要重新尝试调用即可
+* 对于
+
+  ```text
+  cancelOrder
+  ```
+
+  请求，要求用户进行二次尝试。如果没有进行二次尝试 而是立即调用了fetchOrder, fetchOrders, fetchOpenOrders 或 fetchClosedOrders， 那么可能导致
+
+  ```text
+  .orders
+  ```
+
+  缓存不同步。二次尝试调用
+
+  ```text
+  cancelOrder
+  ```
+
+  可能返回 以下结果之一：
+
+  * 成功完成，表示委托单已经正确地取消了
+  * 抛出OrderNotFound异常，表示委托单要么已经在上次请求时取消， 要么已经在两次请求的间隔执行（完成或成交）。这是需要调用`fetchOrder`来 正确地更新缓存
+
+* 如果
+
+  ```text
+  createOrder
+  ```
+
+  请求抛出
+
+  ```text
+  RequestTimeout
+  ```
+
+  异常，开发者应当：
+
+  * 使用fetchOrders, fetchOpenOrders, fetchClosedOrders检查上个请求是否成功下单 并更新orders缓存。
+  * 如果委托单不是敞口状态，那么开发者需要调用`fetchBalance`检查账户余额 是否变化。注意fetchBlanace依靠orders缓存进行余额推理，因此只能在更新 缓存后进行调用！
+
+#### 交易所不可用异常 - ExchangeNotAvailable
+
+如果在响应中检测到如下任何关键字，ccxt库会抛出ExchangeNotAvailable异常：
+
+* offline
+* unavailable
+* busy
+* retry
+* wait
+* maintain
+* maintenance
+* maintenancing
+
+#### 无效Nonce异常 - InvalidNonce
+
+当你使用的Nonce比之前的请求中的nonce还要小的时候，ccxt就会抛出InvalidNoce异常。 在以下情况中会抛出这一类异常：
+
+* 你没有进行请求限流，或者发送太多请求
+* 你的API key没有刷新，可能在其他软件或脚本中使用了同样的api key
+* 在多个交易所实例中使用相同的api密钥对
+* 系统时钟没有同步。
+
