@@ -93,7 +93,7 @@
 
 [Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 一，简介 <a id="&#x4E00;&#xFF0C;&#x7B80;&#x4ECB;"></a>
+## 一，简介
 
 * JavaScript / Python / PHP加密货币交易API，支持超过120个比特币/山寨币交换
 * 提供对市场数据的快速访问，以进行存储，分析，可视化，指标开发，算法交易，策略回测，自动程序编程和相关软件工程。
@@ -101,7 +101,7 @@
 
 [Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 二，特点 <a id="&#x4E8C;&#xFF0C;&#x7279;&#x70B9;"></a>
+## 二，特点
 
 * 支持许多加密货币交易所
 * 完全实现的公共和私有API
@@ -111,7 +111,7 @@
 
 [Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 三，安装 <a id="&#x4E09;&#xFF0C;&#x5B89;&#x88C5;"></a>
+## 三，安装
 
 ```text
 pip install ccxt
@@ -119,9 +119,9 @@ pip install ccxt
 
 [Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 四，用法 <a id="&#x56DB;&#xFF0C;&#x7528;&#x6CD5;"></a>
+## 四，用法
 
-#### 一，介绍 <a id="&#x4E00;&#xFF0C;&#x4ECB;&#x7ECD;"></a>
+### 一，介绍
 
 CCXT库由公共部分和私有部分组成。安装后，任何人都可以立即使用公共部分。公共API无需注册用户帐户或拥有API密钥即可为所有交易所市场提供对公共信息的无限制访问。
 
@@ -149,9 +149,9 @@ CCXT库由公共部分和私有部分组成。安装后，任何人都可以立�
 * 在账户之间转移资金
 * 使用商家服务
 
-#### 二，接口 <a id="&#x4E8C;&#xFF0C;&#x63A5;&#x53E3;"></a>
+### 二，接口
 
-```text
+```python
 # 公有接口：
 	loadMarkets            加载市场数据
 	fetchMarkets           卖方市场
@@ -178,13 +178,13 @@ CCXT库由公共部分和私有部分组成。安装后，任何人都可以立�
 # 除了基本的市价委托单和限价委托单，有些交易所还支持杠杆交易和衍生品交易（例如期货合同和期权）， 以及暗池、场外交易（OTC）、商户API等更多服务。
 ```
 
-#### 三，实例化CCXT交易所类 <a id="&#x4E09;&#xFF0C;&#x5B9E;&#x4F8B;&#x5316;ccxt&#x4EA4;&#x6613;&#x6240;&#x7C7B;"></a>
+### 三，实例化CCXT交易所类
 
 要在代码中连接到交易所并开始交易数字货币，你首先需要利用ccxt库实例化一个交易所类。
 
 **一，查询支持的交易所**
 
-```text
+```python
 # -*- coding: utf-8 -*-
 import ccxt
 
@@ -193,7 +193,7 @@ print(ccxt.exchanges)
 
 **二，交易所类的实例化**
 
-```text
+```python
 # -*- coding: utf-8 -*-
 import ccxt
 
@@ -217,11 +217,11 @@ exchange3 = exchange_class({
 print(exchange.id, okcoin1.id, okcoin2.id, okcoin3.id, okcoin4.id, exchange2.id)
 ```
 
-**三，设置交易所的属性**
+#### **三，设置交易所的属性**
 
 CCXT中交易所对象的大多数属性都可以在实例化时设置（也可以在实例化之后设置）
 
-```text
+```python
 # -*- coding: utf-8 -*-
 import ccxt
 
@@ -239,7 +239,7 @@ print(exchange.rateLimit)
 print(exchange.options['adjustForTimeDifference'])
 ```
 
-#### 四，交易所数据结构 <a id="&#x56DB;&#xFF0C;&#x4EA4;&#x6613;&#x6240;&#x6570;&#x636E;&#x7ED3;&#x6784;"></a>
+### 四，交易所数据结构
 
 每个交易所都有一组属性和方法，其中绝大部分都可以在创建交易所对象时， 使用一个关联数组类型的参数来覆盖默认的设置。也可以定义一个继承类 任意覆盖父类的逻辑。
 
@@ -290,7 +290,7 @@ print(exchange.options['adjustForTimeDifference'])
   * false表示该特性不是交易所API原生支持的，并且在cctx库中没有访问该特性的统一API
   * emulated表示该特性不是交易所API原生支持的，但是cctx库通过统一API提供了该特性
 
-#### 五，交易所API限流 <a id="&#x4E94;&#xFF0C;&#x4EA4;&#x6613;&#x6240;api&#x9650;&#x6D41;"></a>
+### 五，交易所API限流
 
 交易所通常都有限流机制。交易所会记录、跟踪你的身份和IP地址， 不允许你过于频繁的访问其API。通过限流措施，交易所可以对访问流量 进行负载均衡，以此保护其API服务被DDOS攻击或被滥用。
 
@@ -326,7 +326,7 @@ exchange.enableRateLimit = False  # 关闭
 
 通常在稍晚时候再重试访问即可解决问题。
 
-#### 六，DDoS保护异常及处理办法 <a id="&#x516D;&#xFF0C;ddos&#x4FDD;&#x62A4;&#x5F02;&#x5E38;&#x53CA;&#x5904;&#x7406;&#x529E;&#x6CD5;"></a>
+### 六，DDoS保护异常及处理办法
 
 有些交易所使用Cloudflare或Incapsula的DDoS保护，在交易所处于高负载时 你的IP会被临时阻断，有时他们甚至限制你所在的整个国家和地区的访问。 在这种情况下他们的服务器通常会返回一个页面声明HTTP 40x错误或者 返回一个AJAX测试或验证码，然后推迟几秒钟才载入页面得到临时的访问 许可或者被添加到一个白名单中。
 
@@ -351,9 +351,9 @@ exchange.enableRateLimit = False  # 关闭
 
 [Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 五，CCXT市场模型 <a id="&#x4E94;&#xFF0C;ccxt&#x5E02;&#x573A;&#x6A21;&#x578B;"></a>
+## 五，CCXT市场模型
 
-#### 一，市场数据结构 <a id="&#x4E00;&#xFF0C;&#x5E02;&#x573A;&#x6570;&#x636E;&#x7ED3;&#x6784;"></a>
+### 一，市场数据结构
 
 交易所是用来交易有价物品的场所。有时被冠以各种不同的术语，例如工具、符号、交易对、货币、股票、商品、合同等， 但是指的都是一个东西 - 交易对、符号或金融工具。
 
@@ -387,7 +387,7 @@ exchange.enableRateLimit = False  # 关闭
 }
 ```
 
-#### 二，数据精度和极限值 <a id="&#x4E8C;&#xFF0C;&#x6570;&#x636E;&#x7CBE;&#x5EA6;&#x548C;&#x6781;&#x9650;&#x503C;"></a>
+### 二，数据精度和极限值
 
 不要混淆了精度和限值！精度和最低限值无关。8位精度并不一定意味着最低限值为 0.00000001。反过来也是正确的：最小限值0.0001也不一定意味着精度为4。
 
@@ -457,7 +457,7 @@ exchange.enableRateLimit = False  # 关闭
   - bad: 9.5, ... 10.1, ..., 11, ... 200.71, ...
   ```
 
-#### 三，委托单数值要求和格式化方法 <a id="&#x4E09;&#xFF0C;&#x59D4;&#x6258;&#x5355;&#x6570;&#x503C;&#x8981;&#x6C42;&#x548C;&#x683C;&#x5F0F;&#x5316;&#x65B9;&#x6CD5;"></a>
+### 三，委托单数值要求和格式化方法
 
 ccxt的用户应当始终遵守精度和限值要求！委托单中的值应当满足以下条件：
 
@@ -496,7 +496,7 @@ CCXT支持的填充模式包括：
 
 ↓ShowCode↓
 
-#### 四，载入市场清单 <a id="&#x56DB;&#xFF0C;&#x8F7D;&#x5165;&#x5E02;&#x573A;&#x6E05;&#x5355;"></a>
+### 四，载入市场清单
 
 大多数情况下，在可以访问其他API方法之前，你都需要先载入特定交易所的市场清单和交易符号。如果你忘记载入市场清单，ccxt库会在你第一次调用统一API前自动载入。ccxt会先后发送两个HTTP请求，第一个请求市场清单， 第二个请求其他数据。
 
@@ -508,7 +508,7 @@ markets = okcoin.load_markets()
 print(okcoin.id, markets)
 ```
 
-#### 五，交易符号和市场ID <a id="&#x4E94;&#xFF0C;&#x4EA4;&#x6613;&#x7B26;&#x53F7;&#x548C;&#x5E02;&#x573A;id"></a>
+### 五，交易符号和市场ID
 
 市场ID用于在REST请求-响应过程中引用交易所内的交易对。每个交易所 都有不同的市场ID集，因此不可以跨交易所使用市场ID。例如，BTC/USD 交易对在不同的交易所中可能有不同的ID：btcusd、 BTCUSD、XBTUSD、btc/usd、 42 \(数字ID\)、 BTC/USD、 Btc/Usd、 tBTCUSD、 XXBTZUSD等。你不需要 记住或使用市场ID，他们的作用是在交易所模型实现的内部用于HTTP的请求 -响应目的。
 
@@ -524,7 +524,7 @@ CCXT库将不通用的市场ID抽象为标准化的交易符号。交易符号�
 
 ↓ShowCode↓
 
-#### 六，货币命名的一致性 <a id="&#x516D;&#xFF0C;&#x8D27;&#x5E01;&#x547D;&#x540D;&#x7684;&#x4E00;&#x81F4;&#x6027;"></a>
+### 六，货币命名的一致性
 
 不同的交易所在术语定义方面有一些模糊之处，对于新手交易者而言 可能会产生歧义。有些交易所将市场称为交易对，而另一些交易所则 将交易符号称为产品。对于CCXT开发库而言，每个交易所都包含一个 或多个交易市场，每个交易市场有一个ID和一个符号，大多数符号都是 由基础货币和报价货币对组成。
 
@@ -557,7 +557,7 @@ Exchanges → Markets → Symbols → Currencies
 
 不幸的是这还是一个进展中的工作，因为每天都在上市新的货币，也是不是会出现 新的交易所。因此，总之这是一个在快速变化的环境中的没有尽头的自我纠错过程。
 
-#### 七，货币命名常见问题及解答 <a id="&#x4E03;&#xFF0C;&#x8D27;&#x5E01;&#x547D;&#x540D;&#x5E38;&#x89C1;&#x95EE;&#x9898;&#x53CA;&#x89E3;&#x7B54;"></a>
+### 七，货币命名常见问题及解答
 
 **Q：符号名称是否可能会改变？**
 
@@ -583,15 +583,15 @@ base currency ↓
                     ↑ quote currency
 ```
 
-#### 八，市场缓冲强制重载 <a id="&#x516B;&#xFF0C;&#x5E02;&#x573A;&#x7F13;&#x51B2;&#x5F3A;&#x5236;&#x91CD;&#x8F7D;"></a>
+### 八，市场缓冲强制重载
 
 `loadMarkets ()` / `load_markets ()`是一个有副作用的方法， 它会在exchange实例上保存市场数组。对每个交易所实例你只需要调用一次。所有后续对此方法的调用都会返回本地保存的市场数组。
 
 当载入交易市场后，你可以随时使用`markets`属性访问市场信息，这个属性包含了一个以符号为键的市场关联数组。如果你需要强制重载市场 列表，只需要在调用时设置参数`reload`为`true`即可。[Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 六，CCXT API <a id="&#x516D;&#xFF0C;ccxt-api"></a>
+## 六，CCXT API
 
-#### 一，API方法与访问端节点 <a id="&#x4E00;&#xFF0C;api&#x65B9;&#x6CD5;&#x4E0E;&#x8BBF;&#x95EE;&#x7AEF;&#x8282;&#x70B9;"></a>
+### 一，API方法与访问端节点
 
 每个交易所对象都提供了一组API方法。API的每个方法被称为一个访问端结点， 它指的是用于查询各种信息的HTTP URL。所有的访问端结点都返回JSON响应。
 
@@ -604,7 +604,7 @@ base currency ↓
 
 端结点URL在每个交易所的`api`属性中预定义。你不需要重载这个属性，除非 你要实现一个新的交易所API（至少你需要了解你要做什么）。
 
-#### 二，隐式API方法 <a id="&#x4E8C;&#xFF0C;&#x9690;&#x5F0F;api&#x65B9;&#x6CD5;"></a>
+### 二，隐式API方法
 
 大多数交易所特定的API方法都是隐含的，意思是这些方法没有在代码中显式地定义。ccxt库采用声明式的方法来定义隐含的交易所API方法。
 
@@ -624,7 +624,7 @@ ccxt推荐的与交易所交互的方式，并不是使用交易所特定的隐�
 print(dir(ccxt.hitbtc()))
 ```
 
-#### 三，公开/私有API <a id="&#x4E09;&#xFF0C;&#x516C;&#x5F00;&#x79C1;&#x6709;api"></a>
+### 三，公开/私有API
 
 API的URL通常分为两类：市场数据方面的公开API，以及交易和账户相关的私有API。 这两组API的方法通常分别使用前缀`public`和`private`。
 
@@ -665,7 +665,7 @@ API的URL通常分为两类：市场数据方面的公开API，以及交易和�
 
 有些交易所也暴露出商户API，可以让你创建发票并接收你的客户的数字货币和法币支付。 这一类API通常称为merchant、wallet、payment、ecapi（用于电子商务的API）。
 
-#### 四，同步调用与异步调用 <a id="&#x56DB;&#xFF0C;&#x540C;&#x6B65;&#x8C03;&#x7528;&#x4E0E;&#x5F02;&#x6B65;&#x8C03;&#x7528;"></a>
+### 四，同步调用与异步调用
 
 Python版本的ccxt库使用async/await语法支持Python 3.5+的异步并发模式。 异步的Python版本使用aiohttp实现纯异步io。在异步模式下所有的属性和 方法名还是一样的，只是大多数方法都有async关键字装饰。如果你希望使用 异步模式，应当链接ccxt.async\_support子包，如下例所示：
 
@@ -680,7 +680,7 @@ async def print_poloniex_ethbtc_ticker():
 asyncio.get_event_loop().run_until_complete(print_poloniex_ethbtc_ticker())
 ```
 
-#### 五，调用参数与返回值 <a id="&#x4E94;&#xFF0C;&#x8C03;&#x7528;&#x53C2;&#x6570;&#x4E0E;&#x8FD4;&#x56DE;&#x503C;"></a>
+### 五，调用参数与返回值
 
 所有的公开和私有API方法都返回交易所响应的原始的JSON对象，也就是 说没有解析的原始响应结果。统一API返回公共格式的JSON对象，在所有交易所上都保持统一的结构。
 
@@ -690,7 +690,7 @@ asyncio.get_event_loop().run_until_complete(print_poloniex_ethbtc_ticker())
 ccxt.zaif().public_get_ticker_pair ({ 'pair': 'btc_jpy' })  # Python
 ```
 
-#### 六，API方法命名规范 <a id="&#x516D;&#xFF0C;api&#x65B9;&#x6CD5;&#x547D;&#x540D;&#x89C4;&#x8303;"></a>
+### 六，API方法命名规范
 
 交易所方法名是由以下字符串拼接而成：
 
@@ -717,7 +717,7 @@ exchange.methodName ()  // 驼峰式伪代码
 exchange.method_name () // 下划线式伪代码
 ```
 
-#### 七，统一API <a id="&#x4E03;&#xFF0C;&#x7EDF;&#x4E00;api"></a>
+### 七，统一API
 
 ccxt统一API是所有交易所中的公共方法的集合。目前统一API包含以下方法：
 
@@ -742,7 +742,7 @@ ccxt统一API是所有交易所中的公共方法的集合。目前统一API包�
 * fetchMyTrades\(\[symbol\[, since\[, limit\[, params\]\]\]\]\)
 * ...
 
-#### 八，改写统一API的参数 <a id="&#x516B;&#xFF0C;&#x6539;&#x5199;&#x7EDF;&#x4E00;api&#x7684;&#x53C2;&#x6570;"></a>
+### 八，改写统一API的参数
 
 注意，统一API的大部分方法都可以接受一个可选的`params`参数，它是一个 关联数组（字典，默认为空），包含了你希望改写的参数。`params`的内容 是与特定交易所相关的，参考交易所的API文档了解其支持的字段和值。如果 你需要传入自定义设置或可选的参数，那么可以使用`params`字典。
 
@@ -756,7 +756,7 @@ params = {
 result = exchange.fetch_order_book(symbol, length, params)
 ```
 
-#### 九，统一API结果的分页 <a id="&#x4E5D;&#xFF0C;&#x7EDF;&#x4E00;api&#x7ED3;&#x679C;&#x7684;&#x5206;&#x9875;"></a>
+### 九，统一API结果的分页
 
 大多数统一API的方法会返回单一对象或对象数组（交易、委托单等）。 然而，极少数交易所会一次返回全部委托单、全部交易或全部ohlcv烛线图数据。 更常见的是交易所API会限制返回一定数量的最新对象，你不能一次调用就 获取从开始时间到当前时刻的全部对象。实际上，极少有交易所能容忍或允许 这样的调用。
 
@@ -856,9 +856,9 @@ if exchange.has['fetchOrders']:
 
 [Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 七，CCXT委托账本模型 <a id="&#x4E03;&#xFF0C;ccxt&#x59D4;&#x6258;&#x8D26;&#x672C;&#x6A21;&#x578B;"></a>
+## 七，CCXT委托账本模型
 
-#### 一，交易委托账本 <a id="&#x4E00;&#xFF0C;&#x4EA4;&#x6613;&#x59D4;&#x6258;&#x8D26;&#x672C;"></a>
+### 一，交易委托账本
 
 交易所会提供敞口委托单的买入/卖出价格、交易量以及其他数据。 通常对每一个特定的市场都会有一个单独的访问端接点来查询交易委托账本的状态。 交易委托账本经常被称为市场深度。委托账本信息可以用于交易决策过程。
 
@@ -872,7 +872,7 @@ for symbol in exchange.markets:
     time.sleep (delay) # rate limit
 ```
 
-#### 二，委托账本模型的结构 <a id="&#x4E8C;&#xFF0C;&#x59D4;&#x6258;&#x8D26;&#x672C;&#x6A21;&#x578B;&#x7684;&#x7ED3;&#x6784;"></a>
+### 二，委托账本模型的结构
 
 ccxt返回的委托账本结构如下：
 
@@ -901,7 +901,7 @@ Price和amount都是浮点数。`bids`数组按价格降序排列，最高的买
 
 `orderbook['timestamp']`是交易所生成这个响应的时间，可能会缺失（undefined/None/null）。 如果交易所有定义的话，那么它是一个UTC时间戳，以毫秒为单位，记录子1970年1月1日零点 以来的毫秒数。
 
-#### 三，市场深度 <a id="&#x4E09;&#xFF0C;&#x5E02;&#x573A;&#x6DF1;&#x5EA6;"></a>
+### 三，市场深度
 
 有些交易所接受一个字典对象来将额外的参数传入`fetchOrderBook ()` / `fetch_order_book ()`函数。 所有额外的参数都是交易所特定的（不统一）。如果要设置特定的参数，例如交易账本的深度，那么 你需要查阅交易所的文档。你可以使用如下代码获取指定数量的委托单或指定层级的聚合（即市场深度）。
 
@@ -920,7 +920,7 @@ ccxt.cex().fetch_order_book('BTC/USD', limit)
 
 如果你想获取L2委托账本，可以使用统一API中的`fetchL2OrderBook(symbol, limit, params)` 或 `fetch_l2_order_book(symbol, limit, params)`方法。
 
-#### 四，获取市场价格 <a id="&#x56DB;&#xFF0C;&#x83B7;&#x53D6;&#x5E02;&#x573A;&#x4EF7;&#x683C;"></a>
+### 四，获取市场价格
 
 为了获取当前的最好价格（查询市场价格）并且计算买入卖出的价差， 可以使用如下代码。
 
@@ -934,9 +934,9 @@ print (exchange.id, 'market price', { 'bid': bid, 'ask': ask, 'spread': spread }
 
 [Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 八，CCXT市场行情 <a id="&#x516B;&#xFF0C;ccxt&#x5E02;&#x573A;&#x884C;&#x60C5;"></a>
+## 八，CCXT市场行情
 
-#### 一，价格行情 <a id="&#x4E00;&#xFF0C;&#x4EF7;&#x683C;&#x884C;&#x60C5;"></a>
+### 一，价格行情
 
 价格行情包含了最近一段时间内特定交易市场的统计信息，通常使用24小时进行统计。 查询价格行情的方法如下：
 
@@ -947,7 +947,7 @@ fetchTickers (symbol, params = {})  // for all tickers at once
 
 检查交易所的`exchange.has['fetchTicker']`和 `exchange.has['fetchTickers']`属性 来决定所查询的交易所是否支持这些方法。
 
-#### 二，实时行情数据结构 <a id="&#x4E8C;&#xFF0C;&#x5B9E;&#x65F6;&#x884C;&#x60C5;&#x6570;&#x636E;&#x7ED3;&#x6784;"></a>
+### 二，实时行情数据结构
 
 行情的数据结构如下：
 
@@ -967,7 +967,7 @@ fetchTickers (symbol, params = {})  // for all tickers at once
 * fetchTicker \(symbol\[, params = {}\]\), symbol必须，params可选
 * fetchTickers \(\[symbols = undefined\[, params = {}\]\]\), 两个参数都是可选的
 
-#### 三，查询指定交易对实时行情 <a id="&#x4E09;&#xFF0C;&#x67E5;&#x8BE2;&#x6307;&#x5B9A;&#x4EA4;&#x6613;&#x5BF9;&#x5B9E;&#x65F6;&#x884C;&#x60C5;"></a>
+### 三，查询指定交易对实时行情
 
 要查询指定交易对/符号的实时行情数据，调用`fetchTicker(symbol)`方法。
 
@@ -1010,9 +1010,9 @@ if (exchange.has['fetchTickers']):
 
 [Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 九，CCXT烛线图数据 <a id="&#x4E5D;&#xFF0C;ccxt&#x70DB;&#x7EBF;&#x56FE;&#x6570;&#x636E;"></a>
+## 九，CCXT烛线图数据
 
-#### 一，OHLCV烛线图 <a id="&#x4E00;&#xFF0C;ohlcv&#x70DB;&#x7EBF;&#x56FE;"></a>
+### 一，OHLCV烛线图
 
 大多数交易所都提供了获取OHLCV数据的访问端结点，但还是有一些交易所没有提供。 在ccxt中，交易所对象的`has['fetchOHLCV']`属性表示该交易所是否支持烛线数据序列， 如果这个布尔属性的值为true，则表明支持。
 
@@ -1042,7 +1042,7 @@ if exchange.has['fetchOHLCV']:
 
 `since`参数是一个以毫秒计量的UTC时间戳，如果未指定`since`参数，`fetchOHLCV` 方法将返回交易所默认的时间范围。有些交易所将返回从其开始以来的所有烛线，而另一些 则只会返回最近产生的烛线，这取决于交易所的默认行为。因此如果你不指定`since` 参数，那么返回的烛线的时间范围是交易所相关的，为了得到一致的响应结果，开发者 应当传入`since`参数。
 
-#### 二，OHLCV烛线数据结构 <a id="&#x4E8C;&#xFF0C;ohlcv&#x70DB;&#x7EBF;&#x6570;&#x636E;&#x7ED3;&#x6784;"></a>
+### 二，OHLCV烛线数据结构
 
 `fetchOHLCV`方法返回OHLCV烛线数组，其结构如下：
 
@@ -1062,7 +1062,7 @@ if exchange.has['fetchOHLCV']:
 
 结果数组是以时间升序排列的，最早的烛线排在第一个，最新的烛线排在最后一个。
 
-#### 三，OHLCV数据的模拟 <a id="&#x4E09;&#xFF0C;ohlcv&#x6570;&#x636E;&#x7684;&#x6A21;&#x62DF;"></a>
+### 三，OHLCV数据的模拟
 
 有些交易所没有提供任何OHLCV方法，为此ccxt库将利用公开交易模拟OHLCV烛线数据。 在这种情况下你会看到交易所对象的`has['fetchOHLCV']`属性的值为`emulated`。
 
@@ -1070,9 +1070,9 @@ if exchange.has['fetchOHLCV']:
 
 **警告：`fetchOHLCV`方法的模拟目前还是实验性质的！**[Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 十，CCXT数字货币交易 <a id="&#x5341;&#xFF0C;ccxt&#x6570;&#x5B57;&#x8D27;&#x5E01;&#x4EA4;&#x6613;"></a>
+## 十，CCXT数字货币交易
 
-#### 一，查询交易 <a id="&#x4E00;&#xFF0C;&#x67E5;&#x8BE2;&#x4EA4;&#x6613;"></a>
+### 一，查询交易
 
 你可以调用ccxt的统一API方法`fetchTrades` / `fetch_trades`来获取指定交易对的最近交易记录。 `fetchTrade`方法声明如下：
 
@@ -1126,7 +1126,7 @@ ccxt的统一API中的大多数方法都会返回一个对象或对象数组。�
 
 `fetchTrades ()` / `fetch_trades()` 方法也可以接收一个额外的关联数组作为其第四个参数。 你可以用这个关联数组传入特定交易所支持的额外的参数。请查询交易所的API文档获取详细信息。
 
-#### 二，交易身份验证 <a id="&#x4E8C;&#xFF0C;&#x4EA4;&#x6613;&#x8EAB;&#x4EFD;&#x9A8C;&#x8BC1;"></a>
+### 二，交易身份验证
 
 为了能够访问你的账户，通过市价单和限价单执行量化交易，查询余额、充值与提现等等，你需要 从每个你希望操作的交易所获取你的API key以进行身份验证。API key是交易所相关的，任何情况下 不同交易所的API key彼此都不能互换。
 
@@ -1143,7 +1143,7 @@ ccxt的统一API中的大多数方法都会返回一个对象或对象数组。�
 
 ccxt已经为你处理了身份验证逻辑，因此你不需要手工进行任何操作，除非你在实现 一个新的交易所类，否则为了进行交易，你唯一需要做的就是提供正确的API密钥对。
 
-#### 三，API Key设置 <a id="&#x4E09;&#xFF0C;api-key&#x8BBE;&#x7F6E;"></a>
+### 三，API Key设置
 
 API身份通常包含以下内容：
 
@@ -1185,7 +1185,7 @@ exchange = exchange_class({
 
 注意，如果在交易之前你没有设置API身份信息，那么你的私有API请求可能会失败而抛出异常或错误。 为了避免字符的转移问题，请使用单引号描述你的身份信息，例如'VERY\_GOOD'而不是 "VERY\_BAD"。
 
-#### 四，查询账户余额 <a id="&#x56DB;&#xFF0C;&#x67E5;&#x8BE2;&#x8D26;&#x6237;&#x4F59;&#x989D;"></a>
+### 四，查询账户余额
 
 要查询账户余额，获取可用于交易的资金数量，或者锁定在委托单中的资金数量， 可以使用`fetchBalance`方法。
 
@@ -1209,7 +1209,7 @@ print (exchange.fetch_balance ())
 
 有些交易所的API不会返回余额信息的完整集合，它们只会返回可用余额或者只是资金总量。 这种情况下ccxt会尝试从委托单缓存中获取缺失的数据，并根据已知的信息猜测完整的余额信息。 但是这在一些极端情况下可能不足以推导出正确的余额信息，开发者应当了解这种可能性。
 
-#### 五，查询委托单 <a id="&#x4E94;&#xFF0C;&#x67E5;&#x8BE2;&#x59D4;&#x6258;&#x5355;"></a>
+### 五，查询委托单
 
 大多数时候，你可以按id或符号查询委托单，虽然不是所有的交易所都提供了完整 和灵活的委托单查询访问端结点。有些交易所可能没有方法查询最近完成的委托单， 另一些可能缺少按id获取委托单的方法，等等。ccxt库考虑了这些情况并尽可能 加以解决。
 
@@ -1252,7 +1252,7 @@ exchange.has = {
 
 ture和false的含义很明确。`emulated`表示这个方法是ccxt模拟出来的，不是交易所原生API提供的。
 
-#### 六，查询交易 <a id="&#x516D;&#xFF0C;&#x67E5;&#x8BE2;&#x4EA4;&#x6613;"></a>
+### 六，查询交易
 
 下面的这些方法可以返回一组交易和委托单，支持`since`参数和`limit`参数：
 
@@ -1268,7 +1268,7 @@ ture和false的含义很明确。`emulated`表示这个方法是ccxt模拟出来
 
 注意：不是所有的交易所都提供了按开始时间过滤交易或委托单的方法，因此，对`since` 和`limit`的支持是交易所相关的。但是，大多数交易所都提供了分页和滚动的替代方案。
 
-#### 七，委托单缓存 <a id="&#x4E03;&#xFF0C;&#x59D4;&#x6258;&#x5355;&#x7F13;&#x5B58;"></a>
+### 七，委托单缓存
 
 一些交易所没有查询完结委托单或者所有委托单的方法，它们只提供了 `fetchOpenOrders`访问端结点，有时也会大方地提供`fetchOrder`端结点。 这意味着它们没有提供查询委托单历史的方法。ccxt库将尝试模拟委托单历史， 方法是使用交易所对象的`.orders`属性来记录所有的委托单。
 
@@ -1287,7 +1287,7 @@ ture和false的含义很明确。`emulated`表示这个方法是ccxt模拟出来
 
 注意：委托单缓存功能目前还在调整当中。
 
-#### 八，清理缓存的委托单 <a id="&#x516B;&#xFF0C;&#x6E05;&#x7406;&#x7F13;&#x5B58;&#x7684;&#x59D4;&#x6258;&#x5355;"></a>
+### 八，清理缓存的委托单
 
 对于长时间运行的交易所实例，及时清理不再需要的资源是非常重要的。 因为在活跃的交易当中，`.orders`缓存会增长到非常大，ccxt库提供了 `purgeCachedOrders`/`purge_cached_orders`方法来清理缓存中较早的 非敞口委托单以释放占用的内存或其他目的，清理选择条件如下：
 
@@ -1305,7 +1305,7 @@ before = exchange.milliseconds () - 1 * 60 * 60 * 1000
 exchange.purge_cached_orders (before)
 ```
 
-#### 九，查询指定ID的委托单 <a id="&#x4E5D;&#xFF0C;&#x67E5;&#x8BE2;&#x6307;&#x5B9A;id&#x7684;&#x59D4;&#x6258;&#x5355;"></a>
+### 九，查询指定ID的委托单
 
 要获取具有指定ID的委托单，使用`fetchOrder` / `fetch_order`方法。即使是你要查询一个特定ID的委托单，有些交易所也要求你提供交易对符号。
 
@@ -1337,7 +1337,7 @@ if exchange.has['fetchOrder']:
     print(order)
 ```
 
-#### 十，查询全部委托单 - fetchOrders <a id="&#x5341;&#xFF0C;&#x67E5;&#x8BE2;&#x5168;&#x90E8;&#x59D4;&#x6258;&#x5355;---fetchorders"></a>
+### 十，查询全部委托单 - fetchOrders
 
 使用`fetchOrders`方法查询交易所的全部委托单，方法原型如下；
 
@@ -1348,7 +1348,7 @@ if (exchange.has['fetchOrders'])
 
 有些交易所没有查询全部委托单的访问端结点，ccxt库会尝试尽可能的模拟实现。 不过到目前为止这一工作还在进展当中，因此你可能会碰到不支持此功能的交易所。
 
-#### 十一，查询全部敞口委托单 <a id="&#x5341;&#x4E00;&#xFF0C;&#x67E5;&#x8BE2;&#x5168;&#x90E8;&#x655E;&#x53E3;&#x59D4;&#x6258;&#x5355;"></a>
+### 十一，查询全部敞口委托单
 
 使用`fetchOpenOrders`方法查询交易所的所有敞口委托单，方法原型如下：
 
@@ -1357,7 +1357,7 @@ if (exchange.has['fetchOpenOrders'])
     exchange.fetchOpenOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
 ```
 
-#### 十二，查询全部已完结委托单 <a id="&#x5341;&#x4E8C;&#xFF0C;&#x67E5;&#x8BE2;&#x5168;&#x90E8;&#x5DF2;&#x5B8C;&#x7ED3;&#x59D4;&#x6258;&#x5355;"></a>
+### 十二，查询全部已完结委托单
 
 使用交易所实例的`fetchClosedOrders`方法来查询所有已完结的委托单， 其方法原型如下：
 
@@ -1370,7 +1370,7 @@ if (exchange.has['fetchClosedOrders'])
 
 有些交易所没有提供查询全部的已完结委托单的访问端结点，ccxt库会尽可能 尝试模拟实现。不过目前这一工作还在进行中，因此你可能会碰到不支持此 功能的交易所类。
 
-#### 十三，委托单数据结构 <a id="&#x5341;&#x4E09;&#xFF0C;&#x59D4;&#x6258;&#x5355;&#x6570;&#x636E;&#x7ED3;&#x6784;"></a>
+### 十三，委托单数据结构
 
 ccxt统一API中绝大多数返回委托单的方法，通常会输出如下的委托单数据结构：
 
@@ -1407,7 +1407,7 @@ ccxt统一API中绝大多数返回委托单的方法，通常会输出如下的�
 * status：委托单状态的优先级高于最后交易时间戳
 * cost：委托单花费 = filled \* price ，表示委托单的总花费，cost字段是处于方便目的而提供， 值可以根据其他字段推导出来
 
-#### 十四，委托下单 <a id="&#x5341;&#x56DB;&#xFF0C;&#x59D4;&#x6258;&#x4E0B;&#x5355;"></a>
+### 十四，委托下单
 
 使用ccxt库委托下单需要提供以下信息：
 
@@ -1428,7 +1428,7 @@ ccxt统一API中绝大多数返回委托单的方法，通常会输出如下的�
 
 有些交易所只允许限价委托单，请参考交易所的文档获取详细信息。
 
-#### 十五，市价委托 <a id="&#x5341;&#x4E94;&#xFF0C;&#x5E02;&#x4EF7;&#x59D4;&#x6258;"></a>
+### 十五，市价委托
 
 市价委托单也称为现价委托单、即时委托单或市价单。市价委托单 会立即执行。交易所的撮合引擎使用委托账本栈顶部的一个或多个 委托单来完成市价委托单。
 
@@ -1456,7 +1456,7 @@ exchange.create_order (symbol, 'market', 'buy', amount, ...)
 
 注意，有些交易所不接受市价委托单（只允许限价单）。为了用程序检测 一个交易所是否支持市价委托单，你可以使用交易所的`.has['createMarketOrder']` 属性。
 
-#### 十六，市价买入委托的特殊情况 <a id="&#x5341;&#x516D;&#xFF0C;&#x5E02;&#x4EF7;&#x4E70;&#x5165;&#x59D4;&#x6258;&#x7684;&#x7279;&#x6B8A;&#x60C5;&#x51B5;"></a>
+### 十六，市价买入委托的特殊情况
 
 总的说来，当市价委托买入或卖出时，用户只需要指定要买入或卖出的基准货币 的数量。但是然而，有些交易所的市价买入委托单处理采用了不同的方式来计算 委托单价值。
 
@@ -1500,7 +1500,7 @@ exchange.options['createMarketBuyOrderRequiresPrice'] = false
 })
 ```
 
-#### 十七，用限价单模拟市价单 <a id="&#x5341;&#x4E03;&#xFF0C;&#x7528;&#x9650;&#x4EF7;&#x5355;&#x6A21;&#x62DF;&#x5E02;&#x4EF7;&#x5355;"></a>
+### 十七，用限价单模拟市价单
 
 用限价单来模拟市价单也是可能的。
 
@@ -1512,7 +1512,7 @@ exchange.options['createMarketBuyOrderRequiresPrice'] = false
 
 然而，你不能完全依赖这样的模拟，记得先用少量资金进行测试！你可以 在交易所的web页面验证逻辑。你可以在指定的限价卖出少量（可承担的损失）， 然后在交易历史中检查实际的执行价格。
 
-#### 十八，限价委托 <a id="&#x5341;&#x516B;&#xFF0C;&#x9650;&#x4EF7;&#x59D4;&#x6258;"></a>
+### 十八，限价委托
 
 限价委托单也称为限价单。有些交易所只接受限价委托单。 限价委托单需要在提交委托单时指定价格（单位费率）。 只有在市场价格达到期望的价位时，交易所才会完成限价 委托单。
 
@@ -1528,7 +1528,7 @@ exchange.create_limit_buy_order (symbol, amount, price[, params])
 exchange.create_limit_sell_order (symbol, amount, price[, params])
 ```
 
-#### 十九，委托单的自定义参数 <a id="&#x5341;&#x4E5D;&#xFF0C;&#x59D4;&#x6258;&#x5355;&#x7684;&#x81EA;&#x5B9A;&#x4E49;&#x53C2;&#x6570;"></a>
+### 十九，委托单的自定义参数
 
 有些交易所允许你指定委托单的可选参数。在调用ccxt统一API时， 你可以使用一个关联数组传入额外的参数。所有的自定义参数都是 交易所相关的，当然彼此也是不可以互换的，不要期望一个交易所 的自定义参数可以用于另一个交易所。
 
@@ -1537,13 +1537,13 @@ exchange.create_limit_sell_order (symbol, amount, price[, params])
 kraken.create_market_buy_order('BTC/USD', 1, {'trading_agreement': 'agree'})
 ```
 
-#### 二十，其他类型的委托单 <a id="&#x4E8C;&#x5341;&#xFF0C;&#x5176;&#x4ED6;&#x7C7B;&#x578B;&#x7684;&#x59D4;&#x6258;&#x5355;"></a>
+### 二十，其他类型的委托单
 
 委托单的类型可以是限价或市价，如果你要限价止损委托类型，可以使用 改写默认参数值。下面的代码展示了如何改写委托单类型，然而，你必须阅读交易所的 文档以了解应该使用什么参数以及如何正确设定参数值。限价委托或 市价委托之外的其他类型目前在ccxt中还没有统一的API，只能参考如下 代码改写默认的参数。
 
 ↓ShowCode↓
 
-#### 二十一，取消委托单 <a id="&#x4E8C;&#x5341;&#x4E00;&#xFF0C;&#x53D6;&#x6D88;&#x59D4;&#x6258;&#x5355;"></a>
+### 二十一，取消委托单
 
 要取消已有的委托单，可以使用`cancelOrder (id, symbol, params)` / `cancel_order (id, symbol, params)`方法。 注意，即使指定了要取消的委托单ID，有些交易所还是要求传入第二个参数指定交易对符号。
 
@@ -1564,7 +1564,7 @@ exchange.cancel_order ('1234567890') # replace with your order id here (a string
 * 取消一个已经完成的委托单
 * 取消一个已经取消的委托单
 
-#### 二十二，委托单与交易的关系 <a id="&#x4E8C;&#x5341;&#x4E8C;&#xFF0C;&#x59D4;&#x6258;&#x5355;&#x4E0E;&#x4EA4;&#x6613;&#x7684;&#x5173;&#x7CFB;"></a>
+### 二十二，委托单与交易的关系
 
 交易也称为成交。每个交易都是委托单执行的结果。需要注意的是， 委托单和交易是一对多的关系：委托单的一次执行可能会产生多笔交易。 然而，当一个委托单匹配了另一个相反方向的委托单，就会生成一笔 交易。因此，当一个委托单匹配了另一个方向的多个委托单时，就会 生成多笔交易，每个配对对应一笔交易。
 
@@ -1642,7 +1642,7 @@ exchange.cancel_order ('1234567890') # replace with your order id here (a string
 
 注意委托单b已经消失了，卖出单也不在了。所有完成的委托单都会从 委托账本中移除。部分成交的委托单i处于敞口状态，依然还呆在委托 账本中。
 
-#### 二十三，查询个人的历史交易 <a id="&#x4E8C;&#x5341;&#x4E09;&#xFF0C;&#x67E5;&#x8BE2;&#x4E2A;&#x4EBA;&#x7684;&#x5386;&#x53F2;&#x4EA4;&#x6613;"></a>
+### 二十三，查询个人的历史交易
 
 ccxt库的统一API中的大部分方法会返回单个交易对象或交易对象数组。 但是，极少数交易所会一次返回全部个人交易。大多数情况下，交易所 的API会限制返回结果的数量。你不应该在一个调用中读取所有交易对象。 实际上，极少有交易所会容忍或允许这种行为。
 
@@ -1659,7 +1659,7 @@ if exchange.has['fetchMyTrades']:
 
 `fetchMyTrade`方法返回一个有序的交易对象数组，最近产生的交易排在最后。
 
-#### 二十四，交易的数据结构 <a id="&#x4E8C;&#x5341;&#x56DB;&#xFF0C;&#x4EA4;&#x6613;&#x7684;&#x6570;&#x636E;&#x7ED3;&#x6784;"></a>
+### 二十四，交易的数据结构
 
 在ccxt中，交易的数据结构如下：
 
@@ -1691,7 +1691,7 @@ if exchange.has['fetchMyTrades']:
 * fee currency：手续费货币可能不同于所交易的货币，例如，一个 ETH/BTC委托单的手续费采用USD支付
 * cost：交易总花费 = amount \* price，这是一个方便字段，可以利用其他字段计算得出。
 
-#### 二十五，获取充值地址 <a id="&#x4E8C;&#x5341;&#x4E94;&#xFF0C;&#x83B7;&#x53D6;&#x5145;&#x503C;&#x5730;&#x5740;"></a>
+### 二十五，获取充值地址
 
 要将资金存入交易所，你必须先从交易所获取一个你希望存入的数字货币的 地址。大多数交易所会为用户创建并管理这些地址。有些交易所也允许用户 创建用于充值的新地址。有些交易所则要求用户为每次充值都创建新的充值 地址。
 
@@ -1713,7 +1713,7 @@ fetchDepositAddresses (codes = undefined, params = {})
 
 取决于交易所的要求，上述调用可能需要传入货币代码数组作为第一个参数。 `fetchDepositAddresses`方法返回一个地址对象数组。
 
-#### 二十六，地址的数据结构 <a id="&#x4E8C;&#x5341;&#x516D;&#xFF0C;&#x5730;&#x5740;&#x7684;&#x6570;&#x636E;&#x7ED3;&#x6784;"></a>
+### 二十六，地址的数据结构
 
 `fetchDepositAddress`、`fetchDepositAddresses`和`createDepositAddress`方法返回的 地址，结构如下：
 
@@ -1730,7 +1730,7 @@ fetchDepositAddresses (codes = undefined, params = {})
 
 当设置标签和地址时需要谨慎。标签不是你随便选择的字符串！你不能在标签里发送 用户消息和评论。标签字段的目的是正确定位你的钱包，因此必须是正确的。你应该 只使用从交易所收到的标签，否则你的交易可能永远也不会到达目标地址。
 
-#### 二十七，提现 <a id="&#x4E8C;&#x5341;&#x4E03;&#xFF0C;&#x63D0;&#x73B0;"></a>
+### 二十七，提现
 
 使用交易所实例的`withdraw`方法从交易所提现。示例代码如下。
 
@@ -1753,7 +1753,7 @@ exchange.withdraw(code, amount, address, tag=None, params={})
 
 在有些情况下，你也可以使用提现ID在稍后检查提现状态（是否成功）并 提交双因子确认码，这需要参考交易所的文档获取详细信息。
 
-#### 二十八，链上交易数据结构 <a id="&#x4E8C;&#x5341;&#x516B;&#xFF0C;&#x94FE;&#x4E0A;&#x4EA4;&#x6613;&#x6570;&#x636E;&#x7ED3;&#x6784;"></a>
+### 二十八，链上交易数据结构
 
 ccxt库中，链上交易（Transaction）的数据结构如下：
 
@@ -1793,7 +1793,7 @@ ccxt库中，链上交易（Transaction）的数据结构如下：
 * comment字段的值可能是undefined/None/null，否则表示用户创建链上交易时传入的消息或备注
 * 处理标签（tag）和地址（address）时需要谨慎，标签不是用户任意指定的字符串，不能在 标签中发送用户消息和评论。标签的目的是正确定位你的钱包。因此应当遵循交易所的要求。
 
-#### 二十九，查询充值记录 <a id="&#x4E8C;&#x5341;&#x4E5D;&#xFF0C;&#x67E5;&#x8BE2;&#x5145;&#x503C;&#x8BB0;&#x5F55;"></a>
+### 二十九，查询充值记录
 
 使用ccxt统一API的`fetchDeposits`方法查询充值记录。示例代码如下。
 
@@ -1806,7 +1806,7 @@ else:
     raise Exception (exchange.id + ' does not have the fetch_deposits method')
 ```
 
-#### 三十，查询提现记录 <a id="&#x4E09;&#x5341;&#xFF0C;&#x67E5;&#x8BE2;&#x63D0;&#x73B0;&#x8BB0;&#x5F55;"></a>
+### 三十，查询提现记录
 
 使用ccxt统一API的`fetchWithdrawals`方法查询提现记录。示例代码如下。
 
@@ -1819,7 +1819,7 @@ else:
     raise Exception (exchange.id + ' does not have the fetch_withdrawals method')
 ```
 
-#### 三十一，查询链上交易 <a id="&#x4E09;&#x5341;&#x4E00;&#xFF0C;&#x67E5;&#x8BE2;&#x94FE;&#x4E0A;&#x4EA4;&#x6613;"></a>
+### 三十一，查询链上交易
 
 使用ccxt统一API的`fetchTransactions`方法查询链上交易。示例代码如下。
 
@@ -1832,7 +1832,7 @@ else:
     raise Exception (exchange.id + ' does not have the fetch_transactions method')
 ```
 
-#### 三十二，查询手续费 <a id="&#x4E09;&#x5341;&#x4E8C;&#xFF0C;&#x67E5;&#x8BE2;&#x624B;&#x7EED;&#x8D39;"></a>
+### 三十二，查询手续费
 
 手续费通常可以分为以下两类：
 
@@ -1860,7 +1860,7 @@ else:
 
 **不要使用已经废弃的`.fees`属性。**
 
-#### 三十三，查询交易所状态 <a id="&#x4E09;&#x5341;&#x4E09;&#xFF0C;&#x67E5;&#x8BE2;&#x4EA4;&#x6613;&#x6240;&#x72B6;&#x6001;"></a>
+### 三十三，查询交易所状态
 
 交易所状态描述交易所API的最近可用情况。交易所状态信息可能是在交易所 实现类中硬编码的，也可能是从交易所API直接获取的。
 
@@ -1894,7 +1894,7 @@ fetchStatus(params = {})
 * 'error'表示API不兼容
 * 'maintenance'表示常规维护，`eta`字段的值表示预计恢复时间。
 
-#### 三十四，预算交易费 <a id="&#x4E09;&#x5341;&#x56DB;&#xFF0C;&#x9884;&#x7B97;&#x4EA4;&#x6613;&#x8D39;"></a>
+### 三十四，预算交易费
 
 交易费是市场的属性。通常交易费使用`fetchMarkets`调用载入。但有时 交易所会使用不同的访问端结点提供交易费服务。
 
@@ -1915,7 +1915,7 @@ exchange.markets['BTC/USD']['maker'] // maker fee rate for BTC/USD
 
 当你为交易所提供流动性时，支付的是maker手续费。maker手续费通常低于 taker手续费。当你从交易所拿走流动性时，则需要支付taker手续费。
 
-#### 三十五，资金操作费 <a id="&#x4E09;&#x5341;&#x4E94;&#xFF0C;&#x8D44;&#x91D1;&#x64CD;&#x4F5C;&#x8D39;"></a>
+### 三十五，资金操作费
 
 资金操作费是货币的属性。
 
@@ -1926,7 +1926,7 @@ exchange.currencies['ETH']['fee'] // tx/withdrawal fee rate for ETH
 exchange.currencies['BTC']['fee'] // tx/withdrawal fee rate for BTC
 ```
 
-#### 三十六，查询账本 <a id="&#x4E09;&#x5341;&#x516D;&#xFF0C;&#x67E5;&#x8BE2;&#x8D26;&#x672C;"></a>
+### 三十六，查询账本
 
 有些交易所提供额外的访问点用于查询整合的账本历史。账本 就是变化的历史，记录改变用户余额的操作，包括充值和提现等。
 
@@ -1938,7 +1938,7 @@ async fetchLedger (code = undefined, since = undefined, limit = undefined, param
 
 有些交易所不允许一次查询所有的账本条目，需要在调用`fetchLedger` 方法时指定code参数。
 
-#### 三十七，账本记录结构 <a id="&#x4E09;&#x5341;&#x4E03;&#xFF0C;&#x8D26;&#x672C;&#x8BB0;&#x5F55;&#x7ED3;&#x6784;"></a>
+### 三十七，账本记录结构
 
 账本记录结构如下：
 
@@ -1985,7 +1985,7 @@ async fetchLedger (code = undefined, since = undefined, limit = undefined, param
 
 `type`字段可以关联常规交易、链上交易（充值或提现操作）或交易所内部转账。 如果账本记录关联的是内部转账，那么`account`字段将包含该记录要修改的账户ID， `referenceAccount`字段的值则是相对方向的账户ID。
 
-#### 三十八，修改Nonce值 <a id="&#x4E09;&#x5341;&#x516B;&#xFF0C;&#x4FEE;&#x6539;nonce&#x503C;"></a>
+### 三十八，修改Nonce值
 
 默认的nonce是以秒计的32位unix时间戳。如果你希望进行更频繁的 私有请求，应该使用毫秒计的nonce来改写，否则最快才能每秒发一个请求。 当你达到交易所限流值时，大多数交易所都会进行节流，请参考具体 交易所的API文档。
 
@@ -2025,9 +2025,9 @@ acx = ccxt.acx({'nonce': lambda: ccxt.Exchange.milliseconds()})
 
 [Top~~](https://www.cnblogs.com/zyyhxbs/p/13803561.html#_labelTop)
 
-### 十一，CCXT错误处理 <a id="&#x5341;&#x4E00;&#xFF0C;ccxt&#x9519;&#x8BEF;&#x5904;&#x7406;"></a>
+## 十一，CCXT错误处理
 
-#### 一，错误处理概述 <a id="&#x4E00;&#xFF0C;&#x9519;&#x8BEF;&#x5904;&#x7406;&#x6982;&#x8FF0;"></a>
+### 一，错误处理概述
 
 ccxt采用各种语言中原生的异常机制进行错误处理。
 
@@ -2051,7 +2051,7 @@ except Exception as e:
     # ...
 ```
 
-#### 二，异常类的体系 <a id="&#x4E8C;&#xFF0C;&#x5F02;&#x5E38;&#x7C7B;&#x7684;&#x4F53;&#x7CFB;"></a>
+### 二，异常类的体系
 
 ccxt中所有的机场都派生自BaseError基类，其定义如下：
 
@@ -2077,7 +2077,7 @@ class BaseError (Exception):
 
 这两族错误的区别在于`NetworkError`是可恢复的，而`ExchangeError`是不可恢复的。
 
-#### 三，交易所异常 <a id="&#x4E09;&#xFF0C;&#x4EA4;&#x6613;&#x6240;&#x5F02;&#x5E38;"></a>
+### 三，交易所异常
 
 当交易所服务器返回的JSON响应中包含了错误信息时，ccxt就会 抛出这个异常。可能的原因包括：
 
@@ -2097,7 +2097,7 @@ class BaseError (Exception):
 * InvalidOrder：这是统一API中order系列方法异常类的基类
 * OrderNotFound：试图查询或取消不存在的委托单时，就会抛出这个异常
 
-#### 四，网络异常 <a id="&#x56DB;&#xFF0C;&#x7F51;&#x7EDC;&#x5F02;&#x5E38;"></a>
+### 四，网络异常
 
 所有网络相关的错误通常是可恢复的，网络故障、流量阻塞、服务器不可用这些 通常都是时间相关的，稍后重新请求通常就能解决问题。
 
