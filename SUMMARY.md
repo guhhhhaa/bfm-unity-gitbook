@@ -26,7 +26,7 @@
     * [以太坊部署实验室](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
     * [CCXT 领域级重点实验室🚩](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li/README.md)
       * [CCXT文档](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li/ccxt-ke-ti-zu-1.md)
-      * [CCXT手册](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li/ccxt-zhong-wen-kai-fa-shou-ce.md)
+      * [CCXT手册（待搬运）](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li/ccxt-zhong-wen-kai-fa-shou-ce.md)
     * [AIOQuant 实验室](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/liang-hua-kuang-jia-tui-jian-ke-cheng.md)
     * [Peregrine 领域级重点实验室🚩](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md)
     * [btrader实验室](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/btrader-shi-yan-shi.md)
