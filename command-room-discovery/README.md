@@ -90,6 +90,12 @@ description: Command Room (Discovery)
 
 \*\*\*\*[**刻字3**](https://www.528btc.com/ask/158555831343012.html)\*\*\*\*
 {% endtab %}
+
+{% tab title="发币" %}
+[如何发币](https://www.chainnews.com/articles/522868612900.htm)——UNI
+
+[如何发币](https://sushiswapchef.medium.com/miso-minimal-initial-sushiswap-offering-a45a2da6081b)——SUSHI
+{% endtab %}
 {% endtabs %}
 
 ## **DeFi**
