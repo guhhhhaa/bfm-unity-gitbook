@@ -26,7 +26,9 @@ pip install git+https://github.com/wardbradt/peregrine
 
 ### 终端测试是否成功安装
 
-
+```c
+待完成
+```
 
 ## 云计算开发环境：
 
