@@ -2,6 +2,10 @@
 
 #### [https://study.163.com/course/courseMain.htm?courseId=1210199432](https://study.163.com/course/courseMain.htm?courseId=1210199432)
 
+#### [https://github.com/CongZhengithub/aioquant](https://github.com/CongZhengithub/aioquant)
+
+#### [https://github.com/paulran/aioquant](https://github.com/paulran/aioquant)
+
 #### 推荐课程
 
 [第1期 高频交易介绍](https://www.bilibili.com/video/BV1EJ41197Fx/)  
