@@ -48,13 +48,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/bfm-unity-zhan-lve-he-zuo-huo-ban-.png)
 
-我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。
+我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。（[**我们的愿景**](https://www.bilibili.com/bangumi/play/ss28381/)）
 
 
 
 ![&#x20BF;FM Unity&#x2122;](.gitbook/assets/bfm-unity-logo.png)
 
-#### ₿FM Unity™ \| ₿itcoin-Finance-Management Unity™ \| Bellman-Ford-Moore Unity™ \| 2020.3.23 - 至今 \| [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/) _****_**\|** [**Github文档地址**](https://github.com/guhhhhaa/bfm-gitbook) **\|** [**Github代码地址**](https://github.com/guhhhhaa/bfm-group-file) **\|** [**B站主页**](https://space.bilibili.com/11708778)\*\*\*\*
+#### ₿FM Unity™ \| ₿itcoin-Finance-Management Unity™ \| Bellman-Ford-Moore Unity™ \| 2020.3.23 - 至今 \| [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/) _****_**\|** [**Github文档地址**](https://github.com/guhhhhaa/bfm-gitbook) **\|** [**Github代码地址**](https://github.com/guhhhhaa/bfm-group-file) **\|** [**B站主页**](https://space.bilibili.com/11708778)
 
 ©202X ₿FM Unity™. All Rights Reserved.（懒得换了，用X代替）
 
