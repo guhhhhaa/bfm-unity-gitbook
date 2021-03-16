@@ -24,6 +24,12 @@ pip install ccxt
 pip install git+https://github.com/wardbradt/peregrine
 ```
 
+### 终端测试是否成功安装
+
+```c
+待完成
+```
+
 ## 云计算开发环境：
 
 [**宝塔面板**](https://www.bt.cn/)**\(**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**\)\(**[**腾讯云安装教程**](https://cloud.tencent.com/document/product/213/45550)**\)  \|**  [**腾讯云**](https://cloud.tencent.com/)  **\|**  [~~_阿里云_~~](https://www.aliyun.com/)~~\_\_~~
