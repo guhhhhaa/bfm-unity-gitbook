@@ -24,6 +24,10 @@ pip install ccxt
 pip install git+https://github.com/wardbradt/peregrine
 ```
 
+```c
+pip install git+https://github.com/CongZhengithub/aioquant
+```
+
 ### 终端测试是否成功安装
 
 ```c
