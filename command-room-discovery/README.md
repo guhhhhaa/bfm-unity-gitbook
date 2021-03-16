@@ -169,7 +169,7 @@ description: Command Room (Discovery)
 **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
 {% endtab %}
 
-{% tab title="资产" %}
+{% tab title="资产🚩" %}
 ## **ETH**
 
 **智能合约，DeFi入金渠道**
