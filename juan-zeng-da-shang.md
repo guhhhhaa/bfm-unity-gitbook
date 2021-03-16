@@ -52,7 +52,7 @@ BFM Unity 的 铭牌
 
 [https://debank.com/profile/0x6c5bfa4a535ab2b742520056c4a1912853c8f5b3](https://debank.com/profile/0x6c5bfa4a535ab2b742520056c4a1912853c8f5b3)
 
-[https://debank.com/profile/0x07b26d5b094ac62c0975ad8696d4e63397c5c540](https://debank.com/profile/0x07b26d5b094ac62c0975ad8696d4e63397c5c540)（主要）
+[https://debank.com/profile/0x07b26d5b094ac62c0975ad8696d4e63397c5c540](https://debank.com/profile/0x07b26d5b094ac62c0975ad8696d4e63397c5c540) 🚩（主要）
 
 ### 若尘地址
 
