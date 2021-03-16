@@ -34,18 +34,6 @@
 
 {% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/" %}
 
-### **eregrine**
-
-{% embed url="https://github.com/wardbradt/peregrine" %}
-
-{% embed url="https://guhhhhaa.gitbook.io/peregrine/" %}
-
-### bmino-BTA & btrader
-
-{% embed url="https://github.com/bmino/binance-triangle-arbitrage" %}
-
-{% embed url="https://github.com/gabriel-milan/btrader" %}
-
 [币圈搬砖、数字货币量化套利，从入门到实战（六）三角搬砖](https://www.jianshu.com/p/14dbaa02777a)
 
 [**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**）**[**课程地址**](https://study.163.com/course/courseMain.htm?courseId=1006162003)\*\*\*\*
