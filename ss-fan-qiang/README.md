@@ -6,5 +6,10 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/-5/" %}
 
-[https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+[https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)  
+  
+[https://v2free.org/doc/\#/macOS/V2rayX.html](https://v2free.org/doc/#/macOS/V2rayX.html)  
+  
+[https://v2rss.tk/auth/register](https://v2rss.tk/auth/register)  
+[https://v2free.org/user](https://v2free.org/user)
 
