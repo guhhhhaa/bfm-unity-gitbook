@@ -59,6 +59,7 @@
   * [动漫](it-chao-du-zhi-nan/dong-man.md)
   * [01城密咒](it-chao-du-zhi-nan/untitled.md)
 * [我的个人信息](wo-de-ge-ren-xin-xi.md)
-* [SS 翻墙](ss-fan-qiang/README.md)
-  * [Untitled](ss-fan-qiang/untitled.md)
+* [实用工具](shi-yong-gong-ju/README.md)
+  * [B站视频下载](shi-yong-gong-ju/b-zhan-shi-pin-xia-zai.md)
+  * [SS 翻墙](shi-yong-gong-ju/ss-fan-qiang.md)
 
