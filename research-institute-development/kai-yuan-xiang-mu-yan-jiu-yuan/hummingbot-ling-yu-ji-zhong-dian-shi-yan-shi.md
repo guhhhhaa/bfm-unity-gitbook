@@ -1,5 +1,7 @@
 # HummingBot领域级重点实验室🚩
 
+{% page-ref page="../xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md" %}
+
 [https://docs.hummingbot.io/installation/linux/](https://docs.hummingbot.io/installation/linux/)
 
 [https://docs.hummingbot.io/operation/client/\#start-hummingbot-running-in-the-background](https://docs.hummingbot.io/operation/client/#start-hummingbot-running-in-the-background)
