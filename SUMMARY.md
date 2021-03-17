@@ -36,7 +36,7 @@
     * [py重点实验室](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md)
     * [以太坊部署实验室](research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
 * [陈列室（历程）🏆](roadmap.md)
-* [会客厅（援助）💰&资产公示](juan-zeng-da-shang.md)
+* [会客厅（赞助）💰&资产公示](juan-zeng-da-shang.md)
 * [【算法】算法描述](what-is-bfm-al/README.md)
   * [【研究】参考文献](what-is-bfm-al/bfm-al-ckwx.md)
   * [BFM 维基百科翻译](what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)
