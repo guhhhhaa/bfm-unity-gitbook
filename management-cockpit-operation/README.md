@@ -8,6 +8,11 @@ description: Management Cockpit (Operation)
 驾驶舱专注于已经成为共识和基础设施的的投资组合项目的运行。
 
 在这里我们极力简化操作流程，以适合最小可运行投资系统，方便用户进行高效操作。
+
+## [巴菲特忠告：简单胜复杂](https://xueqiu.com/5489291454/174355780)
+
+1，投资不需要“三高“——高数，高学历，高智商  
+2，复杂的事情简单做，简单的事情重复做
 {% endhint %}
 
 {% page-ref page="../command-room-discovery/" %}
