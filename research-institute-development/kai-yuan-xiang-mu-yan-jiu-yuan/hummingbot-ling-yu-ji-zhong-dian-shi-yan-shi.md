@@ -6,6 +6,8 @@
 
 [https://docs.hummingbot.io/strategies/](https://docs.hummingbot.io/strategies/)
 
+[https://miner.hummingbot.io/](https://miner.hummingbot.io/)
+
 {% embed url="https://guhhhhaa.gitbook.io/hummingbot/" %}
 
 {% embed url="https://www.youtube.com/watch?v=XvG9r5FQgsY" %}
