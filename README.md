@@ -30,7 +30,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) ，[看板](https://trello.com/b/z4aDgNAL/todolist) ，[捐款](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang)
 
-[Assets](https://share.weiyun.com/s6DJ9fiz)
+[Assets](https://share.weiyun.com/l21pilUf)
 
 ## 加密货币投资路径
 
