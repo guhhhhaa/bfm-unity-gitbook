@@ -55,7 +55,7 @@ b_1 = 算数平均数(LN(a_1*f_1())) #算数平均数：AVERAGE
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-## 应用：
+## 4，应用：
 
 ```python
 MVRV            ➡️ 归一化操作 ➡️ 施密特触发器 ↘️
