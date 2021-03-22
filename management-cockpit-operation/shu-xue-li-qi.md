@@ -36,6 +36,8 @@ else return y_0 #否则，维持原状态
 }
 ```
 
+![](../.gitbook/assets/975d5638f160e54637ce82334bc30b2b.jpg)
+
 ![](../.gitbook/assets/a4.png)
 
 ## 2，无监督学习的归一化操作伪代码—— 

@@ -8,7 +8,7 @@
 
 [**https://github.com/JiaoziMatrix/aioquant**](https://github.com/JiaoziMatrix/aioquant) **（已被作者删除）**
 
-![](../../.gitbook/assets/0a9d96215fb87cf6f1527fdd9cac586b%20%281%29.jpg)
+![](../../.gitbook/assets/0a9d96215fb87cf6f1527fdd9cac586b.jpg)
 
 #### [https://github.com/paulran/aioquant](https://github.com/paulran/aioquant)
 
