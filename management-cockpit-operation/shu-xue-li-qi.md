@@ -61,10 +61,18 @@ b_1 = 算数平均数(LN(a_1*f_1())) #算数平均数：AVERAGE
 定义函数，w_i=同根策略(x_i)
 
 同架策略(x_i){ 
-return x_i*(ABS(x_i)/MAX(0.0…01,1-ABS(x_i)))/SUM((ABS(x_i)/MAX(0.0…01,1-ABS(x_i))))
+return x_i*(x_i/(1-x_i))/SUM(x_i/(1-x_i))
 }
 
 同根策略(x_i){ 
+return x_i*(1/(1-x_i))/SUM(1/(1-x_i))
+}
+
+同架策略带做空杠杆(x_i){ 
+return x_i*(ABS(x_i)/MAX(0.0…01,1-ABS(x_i)))/SUM((ABS(x_i)/MAX(0.0…01,1-ABS(x_i))))
+}
+
+同根策略带做空杠杆(x_i){ 
 return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 }
 ```
