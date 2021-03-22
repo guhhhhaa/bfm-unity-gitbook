@@ -53,8 +53,6 @@ b_1 = 算数平均数(LN(a_1*f_1())) #算数平均数：AVERAGE
 **注：ABS\(\)** 函数 是 **绝对值\(\)** 函数，  
 **MAX\(\)** 函数 是 **比较大小并取其中的大者\(\)** 函数，
 
-
-
 ```python
 定义，x_i #基期输入，基期状态 
 定义，w_i #现期输入，现期状态 
@@ -63,15 +61,12 @@ b_1 = 算数平均数(LN(a_1*f_1())) #算数平均数：AVERAGE
 定义函数，w_i=同根策略(x_i)
 
 同架策略(x_i){ 
-return x_i*ABS() #否则，维持原状态 
+return x_i*(ABS(x_i)/MAX(0.0…01,1-ABS(x_i)))/SUM((ABS(x_i)/MAX(0.0…01,1-ABS(x_i))))
 }
 
 同根策略(x_i){ 
-if x_1>x_H, return 0 #如果，现期输入>高输入阈值，状态置1 
-else if x_1<x_L, return 1 #如果，现期输入<低输入阈值，状态置0 
-else return y_0 #否则，维持原状态 
+return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 }
-
 ```
 
 ![](../.gitbook/assets/image%20%2810%29.png)
