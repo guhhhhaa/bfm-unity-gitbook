@@ -8,14 +8,14 @@
 定义函数，y_1=施密特触发器(x_1,y_0) #现期状态=施密特触发器(现期输入，基期状态)
 
 施密特触发器(x_1,y_0) { 
-if x_1>x_H，return 1 #如果，现期输入>高输入阈值，状态置1 
-else if x_1<x_L，return 0 #如果，现期输入<低输入阈值，状态置0 
+if x_1>x_H, return 1 #如果，现期输入>高输入阈值，状态置1 
+else if x_1<x_L, return 0 #如果，现期输入<低输入阈值，状态置0 
 else return y_0 #否则，维持原状态 
 }
 
 sigmod施密特触发器(x_1,y_0) {
- if x_1>x_H-w && x_1>x_L+w，return y_0/(sigmod(-(x_0-x_H)/w*4))*(sigmod(-(x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新。 
-else if x_1<x_H-w && x_1<x_L+w，return y_0/(sigmod(-(x_0-x_L)/w*4))*(sigmod(-(x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新。
+if x_1>x_H-w && x_1>x_L+w, return y_0/(sigmod(-(x_0-x_H)/w*4))*(sigmod(-(x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新. 
+else if x_1<x_H-w && x_1<x_L+w, return y_0/(sigmod(-(x_0-x_L)/w*4))*(sigmod(-(x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新.
 else return y_0 #否则，维持原状态
 }
 ```
