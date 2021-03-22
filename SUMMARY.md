@@ -9,6 +9,7 @@
   * [选股](management-cockpit-operation/xuan-gu.md)
   * [可转债打新](management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
+* [数学利器](shu-xue-li-qi.md)
 * [指挥室（探索）🎩 👔 🕶️ 🔭](command-room-discovery/README.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
 * [研究院（开发）👩‍🔬 👨‍🔬 🧪 🔬](research-institute-development/README.md)
