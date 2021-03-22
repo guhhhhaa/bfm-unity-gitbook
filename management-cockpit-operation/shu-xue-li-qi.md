@@ -33,5 +33,5 @@ b_1 = 算数平均数(LN(a_1*f_1())) #算数平均数：AVERAGE
 
 ## 3，无监督学习的状态综合—— 同架策略：
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
