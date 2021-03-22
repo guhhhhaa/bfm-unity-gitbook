@@ -63,7 +63,7 @@ b_1 = 算数平均数(LN(a_1*f_1())) #算数平均数：AVERAGE
 定义函数，w_i=同根策略(x_i)
 
 同架策略(x_i){ 
-return x_i* #否则，维持原状态 
+return x_i*ABS() #否则，维持原状态 
 }
 
 同根策略(x_i){ 
@@ -72,19 +72,6 @@ else if x_1<x_L, return 1 #如果，现期输入<低输入阈值，状态置0
 else return y_0 #否则，维持原状态 
 }
 
-定义并赋值，w = ?
-
-sigmod上升的施密特触发器(x_1,y_0,x_L,x_H,w) {
-if x_1>x_H-w && x_1>x_L+w, return y_0/(sigmod((x_0-x_H)/w*4))*(sigmod((x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新 
-else if x_1<x_H-w && x_1<x_L+w, return y_0/(sigmod((x_0-x_L)/w*4))*(sigmod((x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新
-else return y_0 #否则，维持原状态
-}
-
-sigmod下降的施密特触发器(x_1,y_0,x_L,x_H,w) {
-if x_1>x_H-w && x_1>x_L+w, return y_0/(sigmod(-(x_0-x_H)/w*4))*(sigmod(-(x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新 
-else if x_1<x_H-w && x_1<x_L+w, return y_0/(sigmod(-(x_0-x_L)/w*4))*(sigmod(-(x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新
-else return y_0 #否则，维持原状态
-}
 ```
 
 ![](../.gitbook/assets/image%20%2810%29.png)
