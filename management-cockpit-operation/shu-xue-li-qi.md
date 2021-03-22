@@ -25,14 +25,14 @@ else return y_0 #否则，维持原状态
 定义并赋值，w = ?
 
 sigmod上升的施密特触发器(x_1,y_0,x_L,x_H,w) {
-if x_1>x_H-w && x_1>x_L+w, return y_0/(sigmod((x_0-x_H)/w*4))*(sigmod((x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新. 
-else if x_1<x_H-w && x_1<x_L+w, return y_0/(sigmod((x_0-x_L)/w*4))*(sigmod((x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新.
+if x_1>x_H-w && x_1>x_L+w, return y_0/(sigmod((x_0-x_H)/w*4))*(sigmod((x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新 
+else if x_1<x_H-w && x_1<x_L+w, return y_0/(sigmod((x_0-x_L)/w*4))*(sigmod((x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新
 else return y_0 #否则，维持原状态
 }
 
 sigmod下降的施密特触发器(x_1,y_0,x_L,x_H,w) {
-if x_1>x_H-w && x_1>x_L+w, return y_0/(sigmod(-(x_0-x_H)/w*4))*(sigmod(-(x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新. 
-else if x_1<x_H-w && x_1<x_L+w, return y_0/(sigmod(-(x_0-x_L)/w*4))*(sigmod(-(x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新.
+if x_1>x_H-w && x_1>x_L+w, return y_0/(sigmod(-(x_0-x_H)/w*4))*(sigmod(-(x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新 
+else if x_1<x_H-w && x_1<x_L+w, return y_0/(sigmod(-(x_0-x_L)/w*4))*(sigmod(-(x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新
 else return y_0 #否则，维持原状态
 }
 ```
