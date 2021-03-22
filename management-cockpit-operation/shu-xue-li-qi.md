@@ -23,13 +23,13 @@ else return y_0 #否则，维持原状态
 ------------------------
 定义并赋值 w = ?
 
-sigmod上升的施密特触发器(x_1,y_0,x_L,x_H,w) {
+sigmod_上升的施密特触发器(x_1,y_0,x_L,x_H,w) {
 if x_1>x_H-w && x_1>x_L+w, return y_0/(sigmod((x_0-x_H)/w*4))*(sigmod((x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新 
 else if x_1<x_H-w && x_1<x_L+w, return y_0/(sigmod((x_0-x_L)/w*4))*(sigmod((x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新
 else return y_0 #否则，维持原状态
 }
 
-sigmod下降的施密特触发器(x_1,y_0,x_L,x_H,w) {
+sigmod_下降的施密特触发器(x_1,y_0,x_L,x_H,w) {
 if x_1>x_H-w && x_1>x_L+w, return y_0/(sigmod(-(x_0-x_H)/w*4))*(sigmod(-(x_1-x_H)/w*4)) #如果输入进入下降通道且不在上升通道内，状态更新 
 else if x_1<x_H-w && x_1<x_L+w, return y_0/(sigmod(-(x_0-x_L)/w*4))*(sigmod(-(x_1-x_L)/w*4))  #如果输入进入上升通道且不在下降通道内，状态更新
 else return y_0 #否则，维持原状态
@@ -67,11 +67,11 @@ return x_i*(x_i/(1-x_i))/SUM(x_i/(1-x_i))
 return x_i*(1/(1-x_i))/SUM(1/(1-x_i))
 }
 ------------------------
-同架策略带做空杠杆(x_i){ 
+同架策略_带做空&杠杆(x_i){ 
 return x_i*(ABS(x_i)/MAX(0.0…01,1-ABS(x_i)))/SUM((ABS(x_i)/MAX(0.0…01,1-ABS(x_i))))
 }
 
-同根策略带做空杠杆(x_i){ 
+同根策略_带做空&杠杆(x_i){ 
 return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 }
 ```
