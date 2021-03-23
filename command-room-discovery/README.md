@@ -163,7 +163,7 @@ description: Command Room (Discovery)
 
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
-* Hegic——如果说 Oypn 是订单簿式的期权，Hegic 就是 AMM 版期权，正如 Idex 与 Uniswap 的区别；
+* \*\*\*\*[**Hegic**](https://www.hegic.co/)——如果说 Oypn 是订单簿式的期权，Hegic 就是 AMM 版期权，正如 Idex 与 Uniswap 的区别；
 * [**Barnbridge**](https://barnbridge.com/) 一个把圈内各种波动率 Token 化的协议，通过建立分级收益债券来对冲圈内各种风险。
 
 **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
