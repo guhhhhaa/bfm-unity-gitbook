@@ -13,9 +13,9 @@ b_1 = 算数平均数(LN(a_1*f_1())) #算数平均数：AVERAGE
 
 ## 2，判断牛熊，用于决策的，施密特触发器伪代码：
 
-IF函数虽然简单好用，但是如果条件多了，写起来非常的麻烦，而且容易出错，后期也不好维护。如果嵌套次数超过3次，建议选用[**其他函数**](https://zhuanlan.zhihu.com/p/51366759)替代，例如IFS函数，或Choose函数。
+IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数
 
-对于初学Excel函数的小伙伴，复杂的函数公式你可以不用马上懂，但是这三个多条件[**逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)你一定要懂：AND、OR、IF
+\*\*\*\*[**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
 
 ```python
 定义 x_0, y_0 #基期输入，基期状态 
