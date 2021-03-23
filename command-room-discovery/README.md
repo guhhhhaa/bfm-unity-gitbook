@@ -149,9 +149,9 @@ description: Command Room (Discovery)
 
 ## 借贷
 
-* Compound
-* [Aave](https://app.aave.com/)
-* [KeeperDAO](https://app.keeperdao.com/)
+* \*\*\*\*[**Compound**](https://app.compound.finance/)\*\*\*\*
+* \*\*\*\*[**Aave**](https://app.aave.com/)\*\*\*\*
+* \*\*\*\*[**KeeperDAO**](https://app.keeperdao.com/)\*\*\*\*
 
 ### 闪电贷
 
@@ -163,10 +163,12 @@ description: Command Room (Discovery)
 
 * \*\*\*\*[**dYdX**](https://dydx.exchange/) ****
 * [**Synthetix**](https://synthetix.io/)\*\*\*\*
-* Hegic——如果说 Oypn 是订单簿式的期权，Hegic 就是 AMM 版期权，正如 Idex 与 Uniswap 的区别；
+* \*\*\*\*[**Hegic**](https://www.hegic.co/)——如果说 Oypn 是订单簿式的期权，Hegic 就是 AMM 版期权，正如 Idex 与 Uniswap 的区别；
 * [**Barnbridge**](https://barnbridge.com/) 一个把圈内各种波动率 Token 化的协议，通过建立分级收益债券来对冲圈内各种风险。
 
 **不能理解，可以看看** [**动画片**](https://www.agefans.tv/play/20200054?playid=2_1)
+
+[更多工具](https://www.163.com/dy/article/G0KADG9L0514832I.html)
 {% endtab %}
 
 {% tab title="资产🚩" %}
