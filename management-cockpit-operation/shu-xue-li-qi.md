@@ -88,7 +88,7 @@ return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-## 4，应用：
+## 4，总结应用：
 
 ```python
 MVRV            ➡️ 归一化操作 ➡️ 施密特触发器 ↘️
