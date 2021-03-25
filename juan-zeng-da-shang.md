@@ -23,6 +23,8 @@
 {% tabs %}
 {% tab title="统治局" %}
 {% embed url="https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:611855" %}
+
+{% embed url="https://opensea.io/assets/0x60f80121c31a0d46b5279700f9df786054aa5ee5/611855" %}
 {% endtab %}
 
 {% tab title="BFM Unity Token" %}
