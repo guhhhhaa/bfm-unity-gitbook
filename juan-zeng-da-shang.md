@@ -21,6 +21,10 @@
 ### 社区Token/NFT拍卖（由[OpenSea](https://opensea.io/collections)支持）（未完成）
 
 {% tabs %}
+{% tab title="统治局" %}
+[https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:611855:0x07b26d5b094ac62c0975ad8696d4e63397c5c540](https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:611855:0x07b26d5b094ac62c0975ad8696d4e63397c5c540)
+{% endtab %}
+
 {% tab title="BFM Unity Token" %}
 用于社区购买成员问题回答，和社区治理。
 {% endtab %}
