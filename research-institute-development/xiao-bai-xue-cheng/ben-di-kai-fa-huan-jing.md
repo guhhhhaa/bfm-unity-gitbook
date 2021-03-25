@@ -38,5 +38,5 @@ pip install git+https://github.com/CongZhengithub/aioquant
 
 [**宝塔面板**](https://www.bt.cn/)**\(**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**\)\(**[**腾讯云安装教程**](https://cloud.tencent.com/document/product/213/45550)**\)  \|**  [**腾讯云**](https://cloud.tencent.com/)  **\|**  [~~_阿里云_~~](https://www.aliyun.com/)~~\_\_~~
 
-千千的其它视频：[**上篇**](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)  **\|**  [**下篇**](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)  **\|**  [**部署**](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)  **\|**  [**回测**](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw) ****
+千千的其它视频：[**上篇**](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)  **\|**  [**下篇**](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)  **\|**  [**部署**](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)  **\|**  [**回测**](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw)
 
