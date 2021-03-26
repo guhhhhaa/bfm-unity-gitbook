@@ -18,7 +18,7 @@
 
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-30-068_com.wallet.cry.png)
 
-### 社区Token/NFT拍卖（由[OpenSea](https://opensea.io/collections)支持）（未完成）
+### 社区Token/NFT拍卖（由 [OpenSea](https://opensea.io/collections) 和 [Rarible](https://rarible.com/) 支持）（未完成）
 
 {% tabs %}
 {% tab title="统治局" %}
