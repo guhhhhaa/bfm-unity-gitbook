@@ -59,7 +59,7 @@ else return y_0 # 否则，维持原状态
 
 ![](../.gitbook/assets/a4.png)
 
-## 3，无监督学习的状态综合—— 同架策略：
+## 3，无监督学习的状态综合——[同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)：
 
 {% embed url="https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve" %}
 
