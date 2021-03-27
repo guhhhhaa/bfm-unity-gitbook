@@ -42,7 +42,7 @@
   * [【研究】参考文献](what-is-bfm-al/bfm-al-ckwx.md)
   * [BFM 维基百科翻译](what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)
   * [陵墓](what-is-bfm-al/lo-st.md)
-* [【软件】行动员手册](ruan-jian-bfm-on-python/README.md)
+* [【软件】行动员手册 🚩](ruan-jian-bfm-on-python/README.md)
   * [【软件】Graph algorithms and currency arbitrage](ruan-jian-bfm-on-python/untitled.md)
   * [【创新】未来发展](ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md)
   * [【创新】DeFi - AMM](ruan-jian-bfm-on-python/defi-amm.md)
