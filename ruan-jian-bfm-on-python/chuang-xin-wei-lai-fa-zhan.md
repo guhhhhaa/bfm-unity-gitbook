@@ -28,6 +28,8 @@
 
 ### 实际应用
 
+{% embed url="https://github.com/G-ram/HFT" %}
+
 {% embed url="https://github.com/G-ram/HFT/tree/master/FOREX" caption="" %}
 
 [http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/FOREX.pdf](http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/FOREX.pdf)
