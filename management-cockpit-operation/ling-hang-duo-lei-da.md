@@ -1,5 +1,21 @@
 # 罗盘/GPS 🌍 🧭 🛰️
 
+{% hint style="info" %}
+my clock is paper financial time
+
+我的时钟\(显示）账面的金融时间
+
+I totally mac while user vends guy
+
+我彻底（施展）巨额\*,当使用者出售生命。
+
+I think B I G cuz my limits the sky
+
+我认为庞大，因为我的极限为天空。  
+  
+——[《C》，岩崎琢](https://music.163.com/song?id=22713696)
+{% endhint %}
+
 ## [单独的卓尔金历法](https://share.weiyun.com/vtnfH6zx)  \|  [卓尔金历法策略](https://share.weiyun.com/LOQuim31)  \|  [宣传视频](https://www.bilibili.com/video/BV13x411R7Lf)
 
 ### 蓝色——横X轴——MVRV 
