@@ -27,6 +27,8 @@ description: Management Cockpit (Operation)
 
 {% page-ref page="ling-hang-duo-lei-da.md" %}
 
+![](../.gitbook/assets/ling-hang-duo-.png)
+
 ## 核心显示界面
 
 {% hint style="info" %}
