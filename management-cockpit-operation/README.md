@@ -19,6 +19,12 @@ description: Management Cockpit (Operation)
 
 ![&#x9A7E;&#x9A76;&#x8231;&#xFF08;&#x8FD0;&#x884C;&#xFF09;](../.gitbook/assets/src-http___i-3.yiwan.com_2019_6_25_6ff39329-443c-45c6-b034-9940ee759162.jpg_width-1820-and-height-1024-and-refer-http___i-3.yiwan.jpeg)
 
+## 罗盘/GPS 🌍 🧭 🛰️ [单独的卓尔金历法](https://share.weiyun.com/LOQuim31)  \|  [卓尔金历法策略](https://share.weiyun.com/LOQuim31)
+
+{% page-ref page="ling-hang-duo-lei-da.md" %}
+
+![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../.gitbook/assets/ling-hang-duo-.png)
+
 ## 基本驾驶模块
 
 [**币安**](https://www.binance.com/cn) **（**[**流动性挖矿**](https://www.binance.com/zh-CN/swap/liquidity)**）**，[**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
