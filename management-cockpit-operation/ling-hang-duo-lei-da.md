@@ -1,6 +1,6 @@
 # 罗盘/GPS 🌍 🧭 🛰️
 
-## [单独的卓尔金历法](https://share.weiyun.com/LOQuim31)  \|  [卓尔金历法策略](https://share.weiyun.com/LOQuim31)
+## [单独的卓尔金历法](https://share.weiyun.com/vtnfH6zx)  \|  [卓尔金历法策略](https://share.weiyun.com/LOQuim31)
 
 ### 蓝色——横X轴——MVRV 
 
