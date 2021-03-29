@@ -25,8 +25,6 @@ description: Management Cockpit (Operation)
 
 {% page-ref page="ling-hang-duo-lei-da.md" %}
 
-![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../.gitbook/assets/ling-hang-duo-.png)
-
 ## 基本驾驶模块
 
 [**币安**](https://www.binance.com/cn) **（**[**流动性挖矿**](https://www.binance.com/zh-CN/swap/liquidity)**）**，[**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
