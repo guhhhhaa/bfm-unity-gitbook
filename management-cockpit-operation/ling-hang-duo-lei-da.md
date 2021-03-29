@@ -3,7 +3,7 @@
 {% hint style="info" %}
 my clock is paper financial time
 
-我的时钟\(显示）账面的金融时间
+我的时钟\(显示）账面的金融时间。
 
 I totally mac while user vends guy
 
