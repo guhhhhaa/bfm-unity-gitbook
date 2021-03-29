@@ -13,7 +13,7 @@ I think B I G cuz my limits the sky
 
 我认为庞大，因为我的极限为天空。  
   
-——[《C》，岩崎琢](https://music.163.com/song?id=22713696)
+——[《C》，岩崎琢](https://music.163.com/#/song?id=22713696)
 {% endhint %}
 
 ## [单独的卓尔金历法](https://share.weiyun.com/vtnfH6zx)  \|  [卓尔金历法策略](https://share.weiyun.com/LOQuim31)  \|  [宣传视频](https://www.bilibili.com/video/BV13x411R7Lf)
