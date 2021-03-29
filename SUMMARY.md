@@ -2,7 +2,7 @@
 
 * [主舰桥（引导）🇺🇳](README.md)
 * [驾驶舱（运行）🚜 🚗 ✈️ 🚀](management-cockpit-operation/README.md)
-  * [领航舵/雷达🧭](management-cockpit-operation/ling-hang-duo-lei-da.md)
+  * [领航舵/雷达 🧭 🛰️](management-cockpit-operation/ling-hang-duo-lei-da.md)
   * [数学利器](management-cockpit-operation/shu-xue-li-qi.md)
   * [考试报名](management-cockpit-operation/kao-shi-bao-ming.md)
   * [神经网络策略](management-cockpit-operation/shen-jing-wang-luo-ce-lve.md)
@@ -18,7 +18,7 @@
   * [素白 · 学城 🏫](research-institute-development/xiao-bai-xue-cheng/README.md)
     * [Python少儿编程教室 👩‍🏫](research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
     * [开发环境搭建教室 👨‍🏫 🚩](research-institute-development/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
-  * [玄黑 · 算法科学分院 🔭](research-institute-development/suan-fa-yan-jiu-yuan.md)
+  * [玄黑 · 算法科学分院 🔭 🛰️ 🌞](research-institute-development/suan-fa-yan-jiu-yuan.md)
   * [正黄 · API接口技术分院👩‍🚀👨‍🚀](research-institute-development/api-jie-kou-yan-jiu-yuan/README.md)
     * [币安API实验室🚩](research-institute-development/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
   * [朱红 · 高并发技术分院👩‍🔬 👨‍🔬](research-institute-development/yi-bu-bing-fa-xie-cheng-1/README.md)
