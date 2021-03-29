@@ -4,6 +4,8 @@
 
 ### 红色——纵轴——S2F预测价格/价格
 
+## [归一化操作](https://www.bfm-unity.com/management-cockpit-operation/shu-xue-li-qi)
+
 ```python
 LN(MVRV/1.80)/0.91 # 对MVRV的处理
 
