@@ -1,7 +1,5 @@
 # 卓尔金历法/GPS 🌍 🕙 🧭 🛰️
 
-
-
 {% hint style="info" %}
 **My clock is paper financial time**
 
@@ -20,12 +18,6 @@ I totally mac while user vends guy
 
 ## [单独的卓尔金历法](https://share.weiyun.com/vtnfH6zx)  \|  [卓尔金历法策略](https://share.weiyun.com/LOQuim31)  \|  [宣传视频](https://www.bilibili.com/video/BV13x411R7Lf)
 
-### 蓝色——横X轴——MVRV 
-
-### 红色——纵轴——S2F预测价格/价格
-
-
-
 #### 熊市：下跌到顶点的1/4
 
 #### 震荡市：振荡上涨2倍 
@@ -41,6 +33,10 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 ```
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210329-xia-wu-9.13.03.png)
+
+### 蓝色——横X轴——MVRV 
+
+### 红色——纵轴——S2F预测价格/价格
 
 ![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../.gitbook/assets/ling-hang-duo-.png)
 
