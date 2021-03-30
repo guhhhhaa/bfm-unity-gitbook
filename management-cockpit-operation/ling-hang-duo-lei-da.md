@@ -42,5 +42,5 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../.gitbook/assets/ling-hang-duo-.png)
 
-![&#x56FE;&#x4E2D;&#x6570;&#x5B57;&#x6307;&#x7684;&#x662F;&#x4ED3;&#x4F4D;](../.gitbook/assets/lei-da-.png)
+![&#x56FE;&#x4E2D;&#x6570;&#x5B57;&#x6307;&#x7684;&#x662F;&#x63A8;&#x8350;&#x4ED3;&#x4F4D;](../.gitbook/assets/lei-da-.png)
 
