@@ -34,9 +34,9 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210329-xia-wu-9.13.03.png)
 
-### 蓝色——横X轴——MVRV——[数据来源](https://www.blockchain.com/charts/mvrv)
+### 蓝色曲线——横X轴——MVRV——[数据来源](https://www.blockchain.com/charts/mvrv)
 
-### 红色——纵Y轴——S2F月预测价格/价格——[数据来源](https://www.qkl123.com/data/s2f/btc)
+### 橙色曲线——纵Y轴——S2F月预测价格/价格——[数据来源](https://www.qkl123.com/data/s2f/btc)
 
 ## 
 
