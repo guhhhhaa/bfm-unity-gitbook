@@ -1,7 +1,7 @@
 # 卓尔金历法/GPS 🌍 🕙 🧭 🛰️
 
 {% hint style="info" %}
-**y clock is paper financial time**
+**My clock is paper financial time**
 
 **我的时钟（显示）账面的金融时间**
 
