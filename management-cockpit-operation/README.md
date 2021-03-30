@@ -21,7 +21,7 @@ description: Management Cockpit (Operation)
 
 ## 卓尔金历法/GPS 🌍 🕙 🧭 🛰️ 
 
-### [单独的卓尔金历法](https://share.weiyun.com/tiHV6wrt)  \|  [卓尔金历法策略](https://share.weiyun.com/VzUgS5Rs)
+### [单独的卓尔金历法](https://share.weiyun.com/DMDvRyKU)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
 
 {% page-ref page="ling-hang-duo-lei-da.md" %}
 
