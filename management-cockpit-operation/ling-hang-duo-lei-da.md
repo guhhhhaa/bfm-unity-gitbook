@@ -3,11 +3,11 @@
 {% hint style="info" %}
 **my clock is paper financial time**
 
-**我的时钟\(显示）账面的金融时间。**
+**我的时钟（显示）账面的金融时间。**
 
 I totally mac while user vends guy
 
-我彻底（施展）巨额\*,当使用者出售生命。
+我彻底（施展）巨额\*，当使用者出售生命。
 
 **I think B I G cuz my limits the sky**
 
