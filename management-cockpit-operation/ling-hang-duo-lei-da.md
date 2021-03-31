@@ -17,7 +17,9 @@ I totally mac while user vends guy
 {% endhint %}
 
 {% hint style="success" %}
-## [卓尔金历法](https://share.weiyun.com/ToNaflWr)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)  \|  [宣传视频](https://www.bilibili.com/video/BV13x411R7Lf)
+## [卓尔金历法](https://share.weiyun.com/ToNaflWr)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
+
+### [宣传视频](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [**讲故事**视频](https://www.bilibili.com/video/BV13x411R7Lf)
 
 **你需要下载“卓尔金历法“这个Excel表格，才能真正应用这个水晶球。**
 
@@ -56,11 +58,11 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 **红色是牛市，绿色是熊市，蓝色是震荡市。** 
 
-**从蓝色到绿色，减半开始，此时需要加杠杆，满仓多。**
+**从蓝色到红色，减半开始，此时需要加杠杆，满仓多。**
 
-**落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。** 
+**顺时针运行 ，落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。** 
 
-**落到第二个黑色框，就是熊市底部，可以入场开网格。**
+**顺时针运行 ，落到第二个黑色框，就是熊市底部，可以入场开网格。**
 
 **就像一个时钟一样，很方便。**
 
