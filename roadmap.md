@@ -30,7 +30,7 @@ description: Roadmap
 
 ## **2021.3.29**        [**卓尔金历法**](https://www.bfm-unity.com/management-cockpit-operation/ling-hang-duo-lei-da)\*\*\*\*
 
-![](.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
+![](.gitbook/assets/lei-da-.png)
 
 **提出了卓尔金历法，指导定位牛熊**
 

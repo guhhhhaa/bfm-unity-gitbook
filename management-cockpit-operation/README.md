@@ -19,12 +19,6 @@ description: Management Cockpit (Operation)
 
 ![&#x9A7E;&#x9A76;&#x8231;&#xFF08;&#x8FD0;&#x884C;&#xFF09;](../.gitbook/assets/src-http___i-3.yiwan.com_2019_6_25_6ff39329-443c-45c6-b034-9940ee759162.jpg_width-1820-and-height-1024-and-refer-http___i-3.yiwan.jpeg)
 
-## 卓尔金历法/GPS 🌍 🕙 🧭 🛰️ 
-
-### [卓尔金历法](https://share.weiyun.com/ToNaflWr)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
-
-{% page-ref page="ling-hang-duo-lei-da.md" %}
-
 ## 基本驾驶模块
 
 [**币安**](https://www.binance.com/cn) **（**[**流动性挖矿**](https://www.binance.com/zh-CN/swap/liquidity)**）**，[**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
@@ -32,8 +26,7 @@ description: Management Cockpit (Operation)
 ## 核心显示界面
 
 {% hint style="info" %}
-* \*\*\*\*[**单独的卓尔金历法**](https://share.weiyun.com/vtnfH6zx)  **\|**  [**卓尔金历法策略**](https://share.weiyun.com/LOQuim31) **——正在用**
-* \([**神经网络策略**](https://share.weiyun.com/T6NAzM5i)\([介绍](https://www.bfm-unity.com/management-cockpit-operation/shen-jing-wang-luo-ce-lve) \| [原理](https://www.bilibili.com/read/cv7001287)\)  \|  [**同架策略**](https://share.weiyun.com/xUw40P4l)\([介绍](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)\)  **\|**  [**原始策略**](https://share.weiyun.com/a0QaKX11)**\)——已作废，仅供参考** 
+* \([**神经网络策略**](https://share.weiyun.com/T6NAzM5i)\([介绍](https://www.bfm-unity.com/management-cockpit-operation/shen-jing-wang-luo-ce-lve) \| [原理](https://www.bilibili.com/read/cv7001287)\)  \|  [**同架策略**](https://share.weiyun.com/xUw40P4l)\([介绍](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)\)  **\|**  [**原始策略**](https://share.weiyun.com/a0QaKX11)**\)——表格** 
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)[（](https://www.jianshu.com/p/f6992e6c6ea6)[Python获取MVRV](https://coinmetrics.io/newdata/split/btc_CapMVRVCur.txt)，[参考链接](https://www.jianshu.com/p/f6992e6c6ea6)）  \|  [**S2F**](https://www.qkl123.com/data/s2f/btc)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)
 * \*\*\*\*[**CAPE**](https://www.gurufocus.cn/indicator/shiller_pe)   **\|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation) ****
 * [Sharpe Ratio](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  \|  [市值比较](https://assetdash.com/?all=true) 

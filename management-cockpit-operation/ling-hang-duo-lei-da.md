@@ -16,7 +16,11 @@ I totally mac while user vends guy
 ——[《C》-  岩崎琢](https://music.163.com/#/song?id=22713696)
 {% endhint %}
 
+{% hint style="success" %}
 ## [卓尔金历法](https://share.weiyun.com/ToNaflWr)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)  \|  [宣传视频](https://www.bilibili.com/video/BV13x411R7Lf)
+
+**你需要下载“卓尔金历法“这个Excel表格，才能真正应用这个水晶球。**
+{% endhint %}
 
 #### 熊市：下跌到顶点的1/4
 
