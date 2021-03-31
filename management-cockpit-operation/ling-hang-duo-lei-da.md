@@ -20,6 +20,8 @@ I totally mac while user vends guy
 ## [卓尔金历法](https://share.weiyun.com/ToNaflWr)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)  \|  [宣传视频](https://www.bilibili.com/video/BV13x411R7Lf)
 
 **你需要下载“卓尔金历法“这个Excel表格，才能真正应用这个水晶球。**
+
+![](../.gitbook/assets/src-http___img.bbs.duba.net_forum_201501_11_215204ht2dddtjp2opiyrk.jpg-and-refer-http___img.bbs.duba.jpeg)
 {% endhint %}
 
 #### 熊市：下跌到顶点的1/4
