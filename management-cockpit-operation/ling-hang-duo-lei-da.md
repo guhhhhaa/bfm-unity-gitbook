@@ -19,7 +19,7 @@ I totally mac while user vends guy
 {% hint style="success" %}
 ## [卓尔金历法](https://share.weiyun.com/ToNaflWr)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
 
-### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [**宣传**视频2](https://www.bilibili.com/video/BV13x411R7Lf)
+### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  **讲故事**视
 
 **你需要下载“卓尔金历法“这个Excel表格，才能真正应用这个水晶球。**
 
