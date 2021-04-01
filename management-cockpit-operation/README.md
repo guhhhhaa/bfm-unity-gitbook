@@ -27,7 +27,7 @@ description: Management Cockpit (Operation)
 
 ## 基本驾驶模块
 
-[**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI) **（**[**流动性挖矿**](https://www.binance.com/zh-CN/swap/liquidity)**）**，[**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
+[**币安**](https://www.binance.com/cn) **（**[**流动性挖矿**](https://www.binance.com/zh-CN/swap/liquidity)**）**，[**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
 
 ## 核心显示界面
 

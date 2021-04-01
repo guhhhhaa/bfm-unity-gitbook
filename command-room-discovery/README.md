@@ -55,7 +55,7 @@ description: Command Room (Discovery)
 {% tab title="交易所" %}
 ## **交易所**
 
-* \*\*\*\*[**币安**](https://www.binance.com/cn)
+* \*\*\*\*[**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI)
 
 ![](../.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
 
