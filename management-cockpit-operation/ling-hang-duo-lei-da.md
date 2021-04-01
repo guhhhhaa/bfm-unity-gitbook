@@ -32,6 +32,10 @@ I totally mac while user vends guy
 
 #### 牛市：减半后，上涨32倍-64倍
 
+做空时。可以买杠杆代币BTCDOWN，并计算好杠杆率。  
+震荡行情，网格是用币优做的，BTC/USDT   
+做多时。可以用币安的流动性挖矿，做BTC/ETH。 
+
 ## [归一化操作](https://www.bfm-unity.com/management-cockpit-operation/shu-xue-li-qi) （数据归一到（-1，1））
 
 ```python
