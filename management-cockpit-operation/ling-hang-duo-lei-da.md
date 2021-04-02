@@ -75,7 +75,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## **卓尔金历法与美林时钟的关系**
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-9.00.14.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-9.03.08.png)
 
 两个随机变量，才能校准、判断一个周期。
 
