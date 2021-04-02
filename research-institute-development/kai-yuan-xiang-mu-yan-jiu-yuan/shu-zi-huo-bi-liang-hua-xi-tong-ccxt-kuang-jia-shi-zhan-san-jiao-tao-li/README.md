@@ -14,7 +14,7 @@
 
 {% page-ref page="ccxt-zhong-wen-kai-fa-shou-ce.md" %}
 
-
+{% embed url="https://github.com/bilibilihuangyifan/cryptohedging/blob/master/blockhedging.py" %}
 
 ## 数字货币量化系统 CCXT 框架实战三角套利
 
@@ -76,7 +76,7 @@ P1 表示 A 的价格，P2 表示 ？的价格，P3 表示 ?/A 的价格
 * 同时成交的难度更高
 * 对交易系统的并发能力要求很高
 
-### 代码实战[\#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98) <a id="&#x4EE3;&#x7801;&#x5B9E;&#x6218;"></a>
+### 代码实战 <a id="&#x4EE3;&#x7801;&#x5B9E;&#x6218;"></a>
 
 `tri_arbitrage.py`
 
