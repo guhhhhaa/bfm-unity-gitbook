@@ -171,3 +171,9 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 我就是你们的大祭司，你爱信不信，有时候真的，由不得你不信。
 
+## 回测研究
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46.png)
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.59.png)
+
