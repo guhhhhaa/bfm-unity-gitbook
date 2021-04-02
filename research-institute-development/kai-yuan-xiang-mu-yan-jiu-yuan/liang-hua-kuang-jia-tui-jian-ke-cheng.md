@@ -2,6 +2,10 @@
 
 ## 课程地址
 
+#### [https://github.com/JiaoziMatrix/aioquant](https://github.com/JiaoziMatrix/aioquant)
+
+#### [https://github.com/CongZhengithub/aioquant](https://github.com/CongZhengithub/aioquant)
+
 #### [https://study.163.com/course/courseMain.htm?courseId=1210199432](https://study.163.com/course/courseMain.htm?courseId=1210199432)
 
 ## 来源代码
@@ -19,6 +23,8 @@
 #### [https://github.com/CongZhengithub/aioquant/blob/master/aioquant/order.py](https://github.com/CongZhengithub/aioquant/blob/master/aioquant/order.py)
 
 ## 增补三角套利代码 🚩
+
+#### [https://github.com/CongZhengithub/aioquant/blob/master/aioquant/order.py](https://github.com/CongZhengithub/aioquant/blob/master/aioquant/order.py)
 
 #### [https://github.com/guhhhhaa/aioquant-add-triangular-arbitrage](https://github.com/guhhhhaa/aioquant-add-triangular-arbitrage)
 
