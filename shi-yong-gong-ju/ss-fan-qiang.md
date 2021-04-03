@@ -2,6 +2,8 @@
 
 ## 软件下载
 
+### SS
+
 {% tabs %}
 {% tab title="MAC" %}
 
@@ -19,6 +21,8 @@
 
 {% endtab %}
 {% endtabs %}
+
+### v2ray
 
 {% tabs %}
 {% tab title="MAC" %}
