@@ -63,6 +63,6 @@
   * [01城密咒](it-chao-du-zhi-nan/untitled.md)
 * [我的个人信息](wo-de-ge-ren-xin-xi.md)
 * [实用工具](shi-yong-gong-ju/README.md)
-  * [B站视频下载](shi-yong-gong-ju/b-zhan-shi-pin-xia-zai.md)
   * [SS/V2Ray 翻墙](shi-yong-gong-ju/ss-fan-qiang.md)
+  * [B站视频下载](shi-yong-gong-ju/b-zhan-shi-pin-xia-zai.md)
 
