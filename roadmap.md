@@ -12,13 +12,11 @@ description: Roadmap
 
 ## 2020.2 - 2020.11      先行者
 
-![&#x5148;&#x884C;&#x8005;&#x7684;&#x4F7F;&#x547D;](.gitbook/assets/bfm-unity%20%281%29.png)
+![&#x5148;&#x884C;&#x8005;&#x7684;&#x4F7F;&#x547D;](.gitbook/assets/bfm-unity.png)
 
 **建立了网站**
 
 ## 2020.11 - 2021.3      空间站展开
-
-![DeFi&#x7A7A;&#x95F4;&#x7AD9;&#x5C55;&#x5F00;](.gitbook/assets/defi_2.png)
 
 **研究DeFi**
 

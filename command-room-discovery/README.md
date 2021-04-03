@@ -100,7 +100,7 @@ description: Command Room (Discovery)
 
 ## **DeFi**
 
-![](../.gitbook/assets/defi_2%20%281%29.png)
+![](../.gitbook/assets/defi_2.png)
 
 {% tabs %}
 {% tab title="工具" %}
