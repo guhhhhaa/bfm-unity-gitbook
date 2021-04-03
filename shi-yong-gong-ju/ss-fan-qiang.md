@@ -39,8 +39,10 @@
 [V2rayNG](https://github.com/2dust/v2rayNG/releases)
 {% endtab %}
 
-{% tab title="IOS" %}
-[App Store:Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+{% tab title="iOS" %}
+[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+
+[Surge](https://apps.apple.com/us/app/surge-4/id1442620678)
 {% endtab %}
 {% endtabs %}
 
