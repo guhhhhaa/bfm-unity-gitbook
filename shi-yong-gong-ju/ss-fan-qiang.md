@@ -1,4 +1,25 @@
-# SS 翻墙
+# SS/v2ray 翻墙
+
+## 软件下载
+
+{% tabs %}
+{% tab title="MAC" %}
+| V2RayX （Github所有release版本） | [Github](https://github.com/Cenmrev/V2RayX/releases) |
+| :--- | :--- |
+{% endtab %}
+
+{% tab title="Windows" %}
+[https://v2free.org/ssr-download/v2rayn.zip](https://v2free.org/ssr-download/v2rayn.zip)
+{% endtab %}
+
+{% tab title="Android" %}
+[V2rayNG 官方下载](https://github.com/2dust/v2rayNG/releases)
+{% endtab %}
+
+{% tab title="IOS" %}
+[App Store:Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+{% endtab %}
+{% endtabs %}
 
 ## Freefq
 
