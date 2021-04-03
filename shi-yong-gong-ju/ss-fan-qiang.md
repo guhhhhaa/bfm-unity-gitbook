@@ -1,5 +1,7 @@
 # SS 翻墙
 
+{% embed url="https://github.com/freefq/free" %}
+
 {% embed url="https://free-ss.site/" %}
 
 ![](../.gitbook/assets/direct_access.png)
