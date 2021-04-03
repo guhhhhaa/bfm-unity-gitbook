@@ -116,7 +116,7 @@ description: Command Room (Discovery)
 * \*\*\*\*[**S2F目标价格**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
 {% endtab %}
 
-{% tab title="减半" %}
+{% tab title="🚩减半" %}
 * \*\*\*\*[**比特币减半-QKL123**](https://www.qkl123.com/data/halve/btc) ****[**其他数据**](https://www.qkl123.com/data)\*\*\*\*
 {% endtab %}
 
