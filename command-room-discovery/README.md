@@ -335,6 +335,8 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 {% endtabs %}
 
+{% page-ref page="../management-cockpit-operation/ling-hang-duo-lei-da.md" %}
+
 ## 纳指指标
 
 {% tabs %}
