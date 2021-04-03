@@ -41,7 +41,7 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 {% endtab %}
 {% endtabs %}
 
-### V2Ray
+### V2Ray（推荐）
 
 {% tabs %}
 {% tab title="MAC" %}
