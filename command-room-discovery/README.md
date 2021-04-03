@@ -100,8 +100,6 @@ description: Command Room (Discovery)
 
 ## 比特币指标
 
-\*\*\*\*[**The total market capitalization of Nasdaq 100**](https://markets.businessinsider.com/index/market-capitalization/nasdaq_100)\*\*\*\*
-
 {% tabs %}
 {% tab title="MVRV" %}
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）或** [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)**（Woobull）**
@@ -340,6 +338,8 @@ Optimistic Rollup\(乐观卷叠\)
 {% endtabs %}
 
 ## 纳指指标
+
+[**The total market capitalization of Nasdaq 100**](https://markets.businessinsider.com/index/market-capitalization/nasdaq_100)\*\*\*\*
 
 {% tabs %}
 {% tab title="CAPE" %}
