@@ -27,6 +27,8 @@
 {% tabs %}
 {% tab title="MAC" %}
 [V2RayX](https://github.com/Cenmrev/V2RayX/releases)
+
+[V2rayU](https://github.com/yanue/V2rayU/releases)
 {% endtab %}
 
 {% tab title="Windows" %}
