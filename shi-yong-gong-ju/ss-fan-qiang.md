@@ -26,16 +26,15 @@
 
 {% tabs %}
 {% tab title="MAC" %}
-| V2RayX （Github所有release版本） | [Github](https://github.com/Cenmrev/V2RayX/releases) |
-| :--- | :--- |
+[V2RayX](https://github.com/Cenmrev/V2RayX/releases)
 {% endtab %}
 
 {% tab title="Windows" %}
-[https://v2free.org/ssr-download/v2rayn.zip](https://v2free.org/ssr-download/v2rayn.zip)
+[V2RayN](https://v2free.org/ssr-download/v2rayn.zip)
 {% endtab %}
 
 {% tab title="Android" %}
-[V2rayNG 官方下载](https://github.com/2dust/v2rayNG/releases)
+[V2rayNG](https://github.com/2dust/v2rayNG/releases)
 {% endtab %}
 
 {% tab title="IOS" %}
