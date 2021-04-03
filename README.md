@@ -32,7 +32,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 加密货币投资路径
 
-![](.gitbook/assets/defi_2.png)
+![](.gitbook/assets/defi_3.png)
 
 ## 漫谈世界金融体系
 

@@ -100,7 +100,7 @@ description: Command Room (Discovery)
 
 ## **DeFi**
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210313-shang-wu-11.50.56.png)
+![](../.gitbook/assets/defi_2%20%281%29.png)
 
 {% tabs %}
 {% tab title="工具" %}
