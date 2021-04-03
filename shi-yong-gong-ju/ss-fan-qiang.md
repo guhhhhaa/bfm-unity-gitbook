@@ -65,7 +65,7 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 {% endtab %}
 {% endtabs %}
 
-## 账号获取方式
+## 账号获取
 
 ### Freefq
 
