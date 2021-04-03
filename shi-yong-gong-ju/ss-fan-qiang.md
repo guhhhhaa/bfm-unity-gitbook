@@ -4,6 +4,24 @@
 
 {% tabs %}
 {% tab title="MAC" %}
+
+{% endtab %}
+
+{% tab title="Windows" %}
+
+{% endtab %}
+
+{% tab title="Android" %}
+
+{% endtab %}
+
+{% tab title="IOS" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="MAC" %}
 | V2RayX （Github所有release版本） | [Github](https://github.com/Cenmrev/V2RayX/releases) |
 | :--- | :--- |
 {% endtab %}
