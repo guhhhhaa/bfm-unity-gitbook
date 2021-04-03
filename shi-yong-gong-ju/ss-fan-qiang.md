@@ -2,7 +2,7 @@
 
 ## 软件下载
 
-### SS
+### ShadowSocks
 
 {% tabs %}
 {% tab title="MAC" %}
@@ -22,7 +22,7 @@
 {% endtab %}
 {% endtabs %}
 
-### v2ray
+### V2Ray
 
 {% tabs %}
 {% tab title="MAC" %}
