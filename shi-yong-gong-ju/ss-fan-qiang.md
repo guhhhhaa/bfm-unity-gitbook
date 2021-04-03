@@ -17,7 +17,7 @@
 
 {% endtab %}
 
-{% tab title="IOS" %}
+{% tab title="iOS" %}
 
 {% endtab %}
 {% endtabs %}
