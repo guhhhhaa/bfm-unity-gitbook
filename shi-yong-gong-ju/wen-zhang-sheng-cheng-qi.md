@@ -12,7 +12,7 @@
 
 [https://suulnnka.github.io/BullshitGenerator/index.html](https://suulnnka.github.io/BullshitGenerator/index.html)
 
-## SCI论文生成器
+## 信息学论文生成器
 
 [https://pdos.csail.mit.edu/archive/scigen/](https://pdos.csail.mit.edu/archive/scigen/)
 
