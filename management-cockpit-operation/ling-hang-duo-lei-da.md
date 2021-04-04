@@ -6,6 +6,12 @@
 ——[《C》-  岩崎琢](https://music.163.com/#/song?id=22713696)
 {% endhint %}
 
+{% hint style="info" %}
+歌者启动了**大眼睛**的进程，他很少这么做，这是越权行为。
+
+—— 《三体》- 刘慈欣
+{% endhint %}
+
 {% hint style="success" %}
 ## [卓尔金历法](https://share.weiyun.com/FkIvXUzN)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
 
