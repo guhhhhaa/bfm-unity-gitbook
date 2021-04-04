@@ -15,7 +15,7 @@
 * [指挥室 \(探索\) 👔 🕶️ 🔭](command-room-discovery.md)
 * [研究院 \(架构\) 👩‍🔬 👨‍🔬 🧪 🔬](research-institute-development/README.md)
   * [导游](research-institute-development/dao-you.md)
-  * [素白 · 学城 🏫](research-institute-development/xiao-bai-xue-cheng/README.md)
+  * [素白 · 密斯卡托尼克大学 🏫](research-institute-development/xiao-bai-xue-cheng/README.md)
     * [Python少儿编程教室 👩‍🏫](research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
     * [开发环境搭建教室 👨‍🏫 🚩](research-institute-development/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
   * [玄黑 · 算法科学分院 🔭 🛰️](research-institute-development/suan-fa-yan-jiu-yuan.md)
