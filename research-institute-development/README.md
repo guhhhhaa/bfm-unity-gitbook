@@ -2,7 +2,7 @@
 description: Research Institute (Development)
 ---
 
-# 研究院（开发）👩‍🔬 👨‍🔬 🧪 🔬
+# 研究院（架构）👩‍🔬 👨‍🔬 🧪 🔬
 
 ## 👩‍🔬 👨‍🔬 ➡️ 三角套利研究院 ⚠️ ☢️ ☠️ 🔥 💥 🧪 🔬 💻——黑洞计划
 

@@ -14,7 +14,7 @@
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [指挥室（探索）🎩 👔 🕶️ 🔭](command-room-discovery/README.md)
   * [MVRV-被折叠](command-room-discovery/mvrv-bei-zhe-die.md)
-* [研究院（开发）👩‍🔬 👨‍🔬 🧪 🔬](research-institute-development/README.md)
+* [研究院（架构）👩‍🔬 👨‍🔬 🧪 🔬](research-institute-development/README.md)
   * [导游](research-institute-development/dao-you.md)
   * [素白 · 学城 🏫](research-institute-development/xiao-bai-xue-cheng/README.md)
     * [Python少儿编程教室 👩‍🏫](research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
