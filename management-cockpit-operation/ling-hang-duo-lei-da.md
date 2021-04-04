@@ -3,15 +3,7 @@
 {% hint style="info" %}
 **My clock is paper financial time**
 
-**我的时钟（显示）账面的金融时间**
-
-I totally mac while user vends guy
-
-我彻底（施展）巨额 \* ，当使用者出售生命
-
-**I think B I G cuz my limits the sky**
-
-**我认为庞大，因为我的极限为天空**  
+**我的时钟（显示）账面的金融时间**  
   
 ——[《C》-  岩崎琢](https://music.163.com/#/song?id=22713696)
 {% endhint %}
