@@ -95,6 +95,8 @@ description: Command Room (Discovery)
 [如何发币](https://www.chainnews.com/articles/522868612900.htm)——UNI
 
 [如何发币](https://sushiswapchef.medium.com/miso-minimal-initial-sushiswap-offering-a45a2da6081b)——SUSHI
+
+[https://vittominacori.github.io/erc20-generator/create-token/](https://vittominacori.github.io/erc20-generator/create-token/)
 {% endtab %}
 {% endtabs %}
 
