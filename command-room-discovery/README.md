@@ -2,7 +2,7 @@
 description: Command Room (Discovery)
 ---
 
-# 指挥室（探索）🎩 👔 🕶️ 🔭
+# 指挥室 \(探索\) 🎩 👔 🕶️ 🔭
 
 {% page-ref page="../management-cockpit-operation/" %}
 

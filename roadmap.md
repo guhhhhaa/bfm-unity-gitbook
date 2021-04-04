@@ -2,7 +2,7 @@
 description: Roadmap
 ---
 
-# 陈列室（历程）🏆
+# 陈列室 \(历程\) 🏆
 
 ## 2017-2020        [算法研究](https://www.bfm-unity.com/research-institute-development/suan-fa-yan-jiu-yuan)
 
