@@ -20,3 +20,11 @@
 
 [https://thatsmathematics.com/mathgen/](https://thatsmathematics.com/mathgen/)
 
+## 医学论文生成器
+
+[https://arxiv.org/pdf/1905.07870.pdf](https://arxiv.org/pdf/1905.07870.pdf)
+
+## 白皮书生成器\(已失效\)
+
+[https://whitepaper.koinster.com/](https://whitepaper.koinster.com/)
+
