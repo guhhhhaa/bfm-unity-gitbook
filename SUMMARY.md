@@ -58,7 +58,7 @@
 * [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
 * [【组织】团队构成](zu-zhi-wo-men-de-tuan-dui/README.md)
   * [创始人信息](zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi.md)
-* [【文化】集团文化 📚](hui-shou-zhan/README.md)
+* [【文化】联体文化 📚](hui-shou-zhan/README.md)
   * [《IT超度指南》](hui-shou-zhan/it-chao-du-zhi-nan.md)
   * [动漫](hui-shou-zhan/dong-man.md)
   * [01城密咒](hui-shou-zhan/untitled.md)
