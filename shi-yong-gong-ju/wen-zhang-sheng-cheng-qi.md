@@ -10,3 +10,5 @@
 
 [https://github.com/menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
 
+[https://suulnnka.github.io/BullshitGenerator/index.html](https://suulnnka.github.io/BullshitGenerator/index.html)
+
