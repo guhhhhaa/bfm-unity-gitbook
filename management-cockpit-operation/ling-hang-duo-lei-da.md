@@ -17,7 +17,7 @@ I totally mac while user vends guy
 {% endhint %}
 
 {% hint style="success" %}
-## [卓尔金历法](https://share.weiyun.com/ToNaflWr)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
+## [卓尔金历法](https://share.weiyun.com/FkIvXUzN)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
 
 ### [宣传视频](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [**讲故事**视频](https://www.bilibili.com/video/BV13x411R7Lf)
 
