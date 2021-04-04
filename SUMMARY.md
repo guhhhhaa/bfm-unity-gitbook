@@ -64,7 +64,7 @@
   * [01城密咒](hui-shou-zhan/untitled.md)
 * [【工具】实用工具 🔧 🔨](shi-yong-gong-ju/README.md)
   * [SS/V2Ray 翻墙 ✈️](shi-yong-gong-ju/ss-fan-qiang.md)
-  * [文章生成器](shi-yong-gong-ju/wen-zhang-sheng-cheng-qi.md)
+  * [文章论文生成器](shi-yong-gong-ju/wen-zhang-sheng-cheng-qi.md)
   * [发现网站](shi-yong-gong-ju/fa-xian-wang-zhan.md)
   * [B站视频下载 🎬 ⏬](shi-yong-gong-ju/b-zhan-shi-pin-xia-zai.md)
 * [【垃圾】回收站 ♻️](la-ji-hui-shou-zhan/README.md)
