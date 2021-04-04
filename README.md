@@ -42,7 +42,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/ef558f261bce694919b0240c57cf96e8.jpg)
 
-## ₿FM Unity™战略合作伙伴
+## 战略合作伙伴
 
 ![](.gitbook/assets/bfm-unity-zhan-lve-he-zuo-huo-ban-.png)
 
