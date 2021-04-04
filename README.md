@@ -42,11 +42,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/ef558f261bce694919b0240c57cf96e8.jpg)
 
-## ₿FM Unity™战略合作伙伴
+## 战略合作伙伴
 
 ![](.gitbook/assets/bfm-unity-zhan-lve-he-zuo-huo-ban-.png)
 
-我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。（[**我们的愿景**](https://www.bilibili.com/bangumi/play/ss28381/)）
+## 愿景及使命
+
+我喜欢坐在 ****[**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) ****上，看 ****[**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) ****的公告。（[**愿景及使命**](https://www.bilibili.com/bangumi/play/ss28381/)）
 
 
 
