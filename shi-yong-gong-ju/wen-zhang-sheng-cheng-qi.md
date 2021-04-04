@@ -32,3 +32,7 @@
 
 [https://whitepaper.koinster.com/](https://whitepaper.koinster.com/)
 
+## 科幻小说生成器
+
+[https://m.hexun.com/tech/2020-10-28/202316282.html](https://m.hexun.com/tech/2020-10-28/202316282.html)
+
