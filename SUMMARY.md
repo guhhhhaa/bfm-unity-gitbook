@@ -62,7 +62,7 @@
 * [实用工具 🔧 🔨 ✂️](shi-yong-gong-ju/README.md)
   * [SS/V2Ray 翻墙 ✈️](shi-yong-gong-ju/ss-fan-qiang.md)
   * [B站视频下载 🎬 ⏬](shi-yong-gong-ju/b-zhan-shi-pin-xia-zai.md)
-* [回收站 ♻️](hui-shou-zhan/README.md)
+* [集团文化 📚](hui-shou-zhan/README.md)
   * [《IT超度指南》](hui-shou-zhan/it-chao-du-zhi-nan.md)
   * [动漫](hui-shou-zhan/dong-man.md)
   * [01城密咒](hui-shou-zhan/untitled.md)
