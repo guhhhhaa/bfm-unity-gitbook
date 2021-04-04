@@ -56,7 +56,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![&#x20BF;FM Unity&#x2122;](.gitbook/assets/bfm-unity-logo.png)
 
-#### [₿FM Unity™](https://www.bfm-unity.com/) \| [₿itcoin-Finance-Management Unity™](https://www.bfm-unity.com/) \| [Bellman-Ford-Moore Unity™](https://www.bfm-unity.com/) \| 2020.3.23 - 至今 \| [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/) _****_**\|** [**Github文档地址**](https://github.com/guhhhhaa/bfm-gitbook) **\|** [**Github代码地址**](https://github.com/guhhhhaa/bfm-group-file) **\|** [**B站主页**](https://space.bilibili.com/11708778)
+#### [₿FM Unity™](https://www.bfm-unity.com/) \| [₿itcoin-Finance-Management Unity™](https://www.bfm-unity.com/) \| [Bellman-Ford-Moore Unity™](https://www.bfm-unity.com/) \| BFM联体 \| 2020.3.23 - 至今 \| [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/) _****_**\|** [**Github文档地址**](https://github.com/guhhhhaa/bfm-gitbook) **\|** [**Github代码地址**](https://github.com/guhhhhaa/bfm-group-file) **\|** [**B站主页**](https://space.bilibili.com/11708778)
 
 **© 2020-2021** [**BFM-Unity.com.**](https://www.bfm-unity.com/) ****[**₿FM Unity™.**](https://www.bfm-unity.com/) **All Rights Reserved.**
 
