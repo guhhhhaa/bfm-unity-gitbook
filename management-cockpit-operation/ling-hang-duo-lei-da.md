@@ -1,9 +1,7 @@
 # 卓尔金历法/GPS 🌍 👀 🕙 🧭 🛰️
 
 {% hint style="info" %}
-**My clock is paper financial time**
-
-**我的时钟（显示）账面的金融时间**  
+**My clock is paper financial time    我的时钟（显示）账面的金融时间**  
   
 ——[《C》-  岩崎琢](https://music.163.com/#/song?id=22713696)
 {% endhint %}
