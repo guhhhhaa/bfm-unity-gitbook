@@ -16,7 +16,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="management-cockpit-operation/" %}
 
-{% page-ref page="command-room-discovery/" %}
+{% page-ref page="command-room-discovery.md" %}
 
 {% page-ref page="research-institute-development/" %}
 
