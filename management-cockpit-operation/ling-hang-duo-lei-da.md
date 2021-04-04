@@ -35,7 +35,9 @@
 
 {% page-ref page="./" %}
 
-## [归一化操作](https://www.bfm-unity.com/management-cockpit-operation/shu-xue-li-qi) （数据归一到（-1，1））
+## [归一化操作](https://www.bfm-unity.com/management-cockpit-operation/shu-xue-li-qi) 
+
+数据归一到（-1，1）
 
 ```python
 LN(MVRV/1.80)/0.91 # 对MVRV的处理
@@ -43,11 +45,13 @@ LN(MVRV/1.80)/0.91 # 对MVRV的处理
 LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 ```
 
+## 图表说明
+
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210329-xia-wu-9.13.03.png)
 
-### 蓝色曲线——横X轴——MVRV——[数据来源](https://www.blockchain.com/charts/mvrv)
+**蓝色曲线——横X轴——MVRV——**[**数据来源**](https://www.blockchain.com/charts/mvrv)\*\*\*\*
 
-### 橙色曲线——纵Y轴——S2F月预测价格/价格——[数据来源](https://www.qkl123.com/data/s2f/btc)
+**橙色曲线——纵Y轴——S2F月预测价格/价格——**[**数据来源**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
 
 ## 
 
@@ -83,7 +87,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 在现实世界，这两个随机变量是GDP，CPI，或者货币，信用。
 
-## 解释
+## 逻辑解释
 
 不要让自己的人性干扰判断，比如说我那个卓尔金历法，
 
