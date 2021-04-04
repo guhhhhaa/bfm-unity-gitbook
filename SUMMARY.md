@@ -63,6 +63,7 @@
   * [动漫](hui-shou-zhan/dong-man.md)
   * [01城密咒](hui-shou-zhan/untitled.md)
 * [【工具】实用工具 🔧 🔨](shi-yong-gong-ju/README.md)
+  * [文章生成器](shi-yong-gong-ju/wen-zhang-sheng-cheng-qi.md)
   * [SS/V2Ray 翻墙 ✈️](shi-yong-gong-ju/ss-fan-qiang.md)
   * [B站视频下载 🎬 ⏬](shi-yong-gong-ju/b-zhan-shi-pin-xia-zai.md)
 * [【垃圾】回收站 ♻️](la-ji-hui-shou-zhan/README.md)
