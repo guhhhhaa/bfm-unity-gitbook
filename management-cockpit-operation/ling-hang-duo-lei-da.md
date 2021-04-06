@@ -61,7 +61,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-7.12.11.png)
 
-## 
+## 归纳推理
 
 ![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
 
