@@ -53,6 +53,14 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 **橙色曲线——纵Y轴——S2F月预测价格/价格——**[**数据来源**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
 
+## 回测研究
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46.png)
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.59.png)
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-7.12.11.png)
+
 ## 
 
 ![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
@@ -102,14 +110,6 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 但是一个连续的状态，如何转化成离散的判断呢？如何防止噪声干扰？如何防止频繁买卖？答案很简单，我们电子专业有一个叫\(施密特触发器\)的元器件，我们利用它的逻辑就可以了。简单地说，它的逻辑，就是达到阈值就切换，没达到阈值就维持原状态。这样就可以避免噪声干扰，实现AD转换了。 
 
 在某些人\(比如我\)的眼里，比特币就是宏观电子，就是宏观的状态机，就是由三种状态，两个随机变量构成的。 就像藏传佛教，宇宙就是由唵啊吽三种状态构成的。 我相信比特币就是宏观的电子，宏观的状态机。
-
-## 回测研究
-
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46.png)
-
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.59.png)
-
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-7.12.11.png)
 
 ## 局限性
 
