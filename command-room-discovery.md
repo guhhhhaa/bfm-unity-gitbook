@@ -95,10 +95,19 @@ description: Command Room (Discovery)
 [如何发币](https://www.chainnews.com/articles/522868612900.htm)——UNI
 
 [如何发币](https://sushiswapchef.medium.com/miso-minimal-initial-sushiswap-offering-a45a2da6081b)——SUSHI
+
+[https://vittominacori.github.io/erc20-generator/create-token/](https://vittominacori.github.io/erc20-generator/create-token/)
 {% endtab %}
 {% endtabs %}
 
 ## 比特币指标
+
+* Datamish：[https://datamish.com/](https://datamish.com/) 
+* Coinfarm：[https://coinfarm.online/](https://coinfarm.online/) 
+* Binance Pump monitor：[http://t.cn/A6Awr8IS](http://t.cn/A6Awr8IS) 
+* Binance Taker Trading Analysis：[http://t.cn/A6AwrHAd](http://t.cn/A6AwrHAd) 
+* Bfxrate：[https://bfxrates.com/](https://bfxrates.com/) 
+* Tensorcharts：[https://www.tensorcharts.com/](https://www.tensorcharts.com/)
 
 {% tabs %}
 {% tab title="MVRV" %}
