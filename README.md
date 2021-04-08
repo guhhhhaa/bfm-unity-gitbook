@@ -13,7 +13,7 @@ NOTE: **This project is in beta. Use at your own risk.**
   
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
-## [**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) **\|** [赞助](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang) \| [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) \| [看板](https://trello.com/b/z4aDgNAL/todolist) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **\|** [**设计Assets**](https://share.weiyun.com/l21pilUf)
+## [**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) **\|** [赞助](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang) \| [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) \| [看板](https://trello.com/b/z4aDgNAL/todolist) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **\|** [**设计Asset**](https://share.weiyun.com/l21pilUf)
 {% endhint %}
 
 {% page-ref page="management-cockpit-operation/" %}
