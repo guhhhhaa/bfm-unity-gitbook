@@ -95,10 +95,20 @@ description: Command Room (Discovery)
 [如何发币](https://www.chainnews.com/articles/522868612900.htm)——UNI
 
 [如何发币](https://sushiswapchef.medium.com/miso-minimal-initial-sushiswap-offering-a45a2da6081b)——SUSHI
+
+[https://vittominacori.github.io/erc20-generator/create-token/](https://vittominacori.github.io/erc20-generator/create-token/)
 {% endtab %}
 {% endtabs %}
 
 ## 比特币指标
+
+* Datamish：[https://datamish.com/](https://datamish.com/) 
+* Coinfarm：[https://coinfarm.online/](https://coinfarm.online/) 
+* Binance Pump monitor：[http://t.cn/A6Awr8IS](http://t.cn/A6Awr8IS) 
+* Binance Taker Trading Analysis：[http://t.cn/A6AwrHAd](http://t.cn/A6AwrHAd) 
+* Bfxrate：[https://bfxrates.com/](https://bfxrates.com/) 
+* Tensorcharts：[https://www.tensorcharts.com/](https://www.tensorcharts.com/) 
+* [https://www.bilibili.com/video/BV1Be411s7pj](https://www.bilibili.com/video/BV1Be411s7pj)
 
 {% tabs %}
 {% tab title="MVRV" %}
@@ -225,7 +235,8 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 * \*\*\*\*[**Compound**](https://app.compound.finance/)\*\*\*\*
 * \*\*\*\*[**Aave**](https://app.aave.com/)\*\*\*\*
-* \*\*\*\*[**KeeperDAO**](https://app.keeperdao.com/) ****
+* \*\*\*\*[**KeeperDAO**](https://app.keeperdao.com/)\*\*\*\*
+* \*\*\*\*[**Cream**](https://app.cream.finance/) ****
 * \*\*\*\*[**88mph**](https://88mph.app/)\*\*\*\*
 
 ### 闪电贷
