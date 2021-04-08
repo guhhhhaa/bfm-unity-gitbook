@@ -14,7 +14,7 @@ description: Management Cockpit (Operation)
 就算不会用ython，至少会用Excel  
 就算不会用FMZ，至少会用币优  
 就算不会用合约，至少会用杠杆代币，和派网。  
-就算不会前端&后端，至少会用Gitbook
+就算不会前端&后端，至少会用Gitbook 
 
 ### 学会了20%，就完成了80%
 
