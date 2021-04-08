@@ -14,7 +14,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 ## ​[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) **\|** [赞助](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang) \| [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) \| [看板](https://trello.com/b/z4aDgNAL/todolist) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **\|** [**设计Assets**](https://share.weiyun.com/l21pilUf)\*\*\*\* <a id="xi-tong-he-xin-dai-ma-zan-zhu-jia-qun-kan-ban-tou-zi-fang-fa-lun-she-ji-assets"></a>
 {% endhint %}
 
-![](https://gblobscdn.gitbook.com/assets%2F-M39hAhDwZfzJY4Aou3y%2F-MXL9XBgnJ94Y9JPLeYx%2F-MV9wvVY35h8coIqE8RQ%2FBFM%20Unity%202.0.png?alt=media&token=e7c60359-68f4-4e49-8b6d-8324bfc95d57)
+![](.gitbook/assets/bfm-unity-2.0.png)
 
 {% page-ref page="management-cockpit-operation/" %}
 
@@ -28,23 +28,17 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## ₿TC 投资路径 <a id="tc-tou-zi-lu-jing"></a>
 
-![](https://gblobscdn.gitbook.com/assets%2F-M39hAhDwZfzJY4Aou3y%2F-MXL7ekeDGSaTyjcCdzy%2F-MXL97zWkjFBORgLxOef%2FDeFi_3.png?alt=media&token=2c2e09e1-b1dd-4ca0-89fa-a7c261d07c6c)
+![](.gitbook/assets/defi_3.png)
 
 ## **ΞTH** 生态 <a id="th-sheng-tai"></a>
 
-‌
-
-![](https://gblobscdn.gitbook.com/assets%2F-M39hAhDwZfzJY4Aou3y%2F-MS_xDhHwB6KK0GDYmHa%2F-MSaEbYZtyA75GcgE_BO%2FEF558F261BCE694919B0240C57CF96E8.jpg?alt=media&token=f2bc2296-0e38-4345-9d14-44463c77211e)
+![](.gitbook/assets/ef558f261bce694919b0240c57cf96e8.jpg)
 
 ## 世界金融体系 <a id="shi-jie-jin-rong-ti-xi"></a>
-
-‌
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M39hAhDwZfzJY4Aou3y%2F-MS_tTSvZKlvXeOtD3RP%2F-MS_x7kDam1NfXrnkUMP%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-02-03%20%E4%B8%8A%E5%8D%8811.33.58.png?alt=media&token=ff3b182b-101b-4f9a-b9b7-fa0e7b45233e)
 
 ## 战略合作伙伴 <a id="zhan-lve-he-zuo-huo-ban"></a>
-
-‌
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M39hAhDwZfzJY4Aou3y%2F-MXLANY2ddNiuQ9HmINO%2F-MVdRqyg7W7xsdhL-onu%2FBFM%20Unity%20%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4.png?alt=media&token=6611308a-04a7-4013-b516-3765a391226e)
 
