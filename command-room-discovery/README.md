@@ -4,11 +4,11 @@ description: Command Room (Discovery)
 
 # 指挥室 \(探索\) 👔
 
-{% page-ref page="management-cockpit-operation/" %}
+{% page-ref page="../management-cockpit-operation/" %}
 
-{% page-ref page="research-institute-development/" %}
+{% page-ref page="../research-institute-development/" %}
 
-![&#x6307;&#x6325;&#x5BA4;&#xFF08;&#x63A2;&#x7D22;&#xFF09;](.gitbook/assets/src-http___i0.hdslb.com_bfs_article_497d71233da5f31a2da1d12be5013baa9a6f62af.png-and-refer-http___i0.hdslb.jpeg)
+![&#x6307;&#x6325;&#x5BA4;&#xFF08;&#x63A2;&#x7D22;&#xFF09;](../.gitbook/assets/src-http___i0.hdslb.com_bfs_article_497d71233da5f31a2da1d12be5013baa9a6f62af.png-and-refer-http___i0.hdslb.jpeg)
 
 ## 传统区块链
 
@@ -29,19 +29,19 @@ description: Command Room (Discovery)
 {% endtab %}
 
 {% tab title="法币OTC/C2C交易" %}
-![](.gitbook/assets/cefi.png)
+![](../.gitbook/assets/cefi.png)
 
 * [**比特派钱包**](https://bitpie.com/)（**推荐**）
 
-![](.gitbook/assets/fei-shuai-bi-jiao-.png)
+![](../.gitbook/assets/fei-shuai-bi-jiao-.png)
 
 * \*\*\*\*[**币安**](https://www.binance.com/cn) **（需要交提币手续费）**
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 {% endtab %}
 
 {% tab title="钱包" %}
-![](.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.26.51.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.26.51.png)
 
 * [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
 * [**比特派钱包**](https://bitpie.com/)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
@@ -49,7 +49,7 @@ description: Command Room (Discovery)
 * [**TokenPocket**](https://www.tokenpocket.pro/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
 * \*\*\*\*[**更多-钱包筛选器**](https://www.qkl123.com/ranking/wallet?filter=true)\*\*\*\*
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.25.29.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.25.29.png)
 {% endtab %}
 
 {% tab title="交易所" %}
@@ -57,9 +57,9 @@ description: Command Room (Discovery)
 
 * \*\*\*\*[**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI) **（返现比例：我**10%，你10%**）**
 
-![](.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
+![](../.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## 量化
 
@@ -68,15 +68,15 @@ description: Command Room (Discovery)
 
 ## [流动性挖矿](https://www.binance.com/zh-CN/swap/liquidity)
 
-![](.gitbook/assets/binance-lp.png)
+![](../.gitbook/assets/binance-lp.png)
 
 * [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
 
   \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
 
-![](.gitbook/assets/mvrv.png)
+![](../.gitbook/assets/mvrv.png)
 
-![](.gitbook/assets/mvrv-jian-ban-.png)
+![](../.gitbook/assets/mvrv-jian-ban-.png)
 {% endtab %}
 
 {% tab title="技术社区" %}
@@ -134,7 +134,7 @@ description: Command Room (Discovery)
 
 * [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
 
-{% page-ref page="la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md" %}
+{% page-ref page="../la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md" %}
 {% endtab %}
 
 {% tab title="S2F" %}
@@ -156,20 +156,20 @@ description: Command Room (Discovery)
 {% tab title="NVT & NVTS" %}
 * [**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **（Woobull）或** [**NVT**](https://www.blockchain.com/charts/nvt) **&** [**NVTS**](https://www.blockchain.com/charts/nvts)**（Blockchain.com）** [**NVT**](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/#fnref2)**：90**（表示高估）和 **40**（表示低估） **如果价格小幅下跌后，NVT依然&gt;90，说明是泡沫，应该立即离场。** [**NVTS**](https://woobull.com/nvt-signal-a-new-trading-indicator-to-pick-tops-and-bottoms/)**：150**（表示高估）和 **45**（表示低估）
 
-![](.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 {% endtab %}
 
 {% tab title="RVT" %}
 * [**RVT介绍**](https://medium.com/@_Checkmatey_/the-bitcoin-rvt-ratio-a-high-conviction-macro-indicator-615b68715b77)\*\*\*\*
 
-![](.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 * RVT \(90D\) 在顶部的翻转往往意味着市场的熊转牛，在市场在成本未提升的情况下开始活跃； 随着价格的升高，在人们的交易作用下，市场成本开始与交易量同步放大，
 * RVT 持续维持在底部代表着市场的狂热，虽然难以预知顶部，但是投资者需要变得更加保守；
 * 牛转熊后，交易量的萎缩往往要比市场成本更多，所以 RVT 会升高，交易量持续萎缩的情况下，投资者可以考虑更激进一些。
 * 极端行情使得市场成本下降的同时放大了交易量，RVT 有所下降，不能作为进入牛市的讯号，需稳定后再做观察。
 
-![](.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 {% endtab %}
 
 {% tab title="UTXO" %}
@@ -183,7 +183,7 @@ description: Command Room (Discovery)
 {% tab title="布林带" %}
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/) **下跌至第二条布林线离场**
 
-![](.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
+![](../.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
 {% endtab %}
 
 {% tab title="USDT发行量" %}
@@ -195,11 +195,11 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ### 观察MVRV和S2F方式
 
-{% page-ref page="management-cockpit-operation/ling-hang-duo-lei-da.md" %}
+{% page-ref page="../management-cockpit-operation/ling-hang-duo-lei-da.md" %}
 
 ## **DeFi**
 
-![](.gitbook/assets/defi_2.png)
+![](../.gitbook/assets/defi_2.png)
 
 {% tabs %}
 {% tab title="工具" %}
@@ -229,7 +229,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ## **聚合器**
 
-![](.gitbook/assets/defi.png)
+![](../.gitbook/assets/defi.png)
 
 * 资产管理平台， [**Zapper Finance**](https://zapper.fi/)**、**[**Zerion**](https://zerion.io/)**、**[**Debank**](https://debank.com/)**、**[**TokenSets**](https://tokensets.com/)
 * 交易类聚合器， [**1inch Exchange**](https://1inch.exchange/)、[Matcha](https://matcha.xyz/)、[ParaSwap](https://paraswap.io/#/)、[InstaDapp](https://defi.instadapp.io/) 
@@ -244,7 +244,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
   \*\*\*\*
 
-![](.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
+![](../.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
 
 ## 借贷
 
@@ -395,7 +395,7 @@ Optimistic Rollup\(乐观卷叠\)
 
 ## MetaMask 清除 Pending 状态方法：点头像-设置-高级-重设账户
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ## [上面这个标志的由来](http://www.dilidili3.com/play/3998/135852.html)（请直接跳到01:27:52）
 
