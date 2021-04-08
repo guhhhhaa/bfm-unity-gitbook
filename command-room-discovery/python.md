@@ -51,9 +51,29 @@ DataName_data[['新增列名1']] = '新增列值1' # 新增一列
 print DataName_data # 打印DataName_data
 ```
 
-## 排序
+### 排序数据
 
+```python
+import pandas as pd
 
+DataName_data = pd.read_csv('/path', encoding='gbk') # 导入为DataName_data
+
+DataName_data.sort_values(by = ['列名1', '列名2'], inplace = True) 
+# 先按列名1排序，再按列名2排序
+print DataName_data # 打印DataName_data
+```
+
+### 截取数据
+
+```python
+import pandas as pd
+
+DataName_data = pd.read_csv('/path', encoding='gbk') # 导入为DataName_data
+
+DataName_data = DataName_data['交易日期'] > pd.to_datetime(20201231)
+
+print DataName_data # 打印DataName_data
+```
 
 ## [Openpyxl](https://pypi.org/project/openpyxl/) - 处理EXCEL
 
