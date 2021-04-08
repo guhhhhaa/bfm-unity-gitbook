@@ -1,7 +1,6 @@
 # Table of contents
 
 * [主舰桥 \(引导\) 🇺🇳](README.md)
-* [主舰桥 \(引导\) 🇺🇳](zhu-jian-qiao-yin-dao.md)
 * [驾驶舱 \(运行\) 🚜](management-cockpit-operation/README.md)
   * [卓尔金历法/GPS 🕙](management-cockpit-operation/ling-hang-duo-lei-da.md)
   * [数学利器](management-cockpit-operation/shu-xue-li-qi.md)
