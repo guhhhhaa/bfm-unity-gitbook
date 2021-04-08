@@ -1,5 +1,11 @@
 # Python Project
 
+## 调试
+
+```python
+exit() # 执行到此处中止
+```
+
 ## [Pandas](https://pypi.org/project/pandas/) - 数据分析
 
 ```python
