@@ -13,6 +13,7 @@
   * [可转债打新](management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [指挥室 \(探索\) 👔](command-room-discovery.md)
+* [Python](python.md)
 * [研究院 \(架构\) 🔬](research-institute-development/README.md)
   * [导游](research-institute-development/dao-you.md)
   * [素白 · 密斯卡托尼克大学 🏫](research-institute-development/xiao-bai-xue-cheng/README.md)
