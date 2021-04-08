@@ -100,6 +100,21 @@ description: Command Room (Discovery)
 {% endtab %}
 {% endtabs %}
 
+## 数据分析工具
+
+* \*\*\*\*[**Dune Analytics**](https://duneanalytics.com/home)\*\*\*\*
+  * \*\*\*\*[**去中心化交易所的仪表盘 - Dune Analytics**](https://duneanalytics.com/hagaetc/dex-metrics)\*\*\*\*
+  * \*\*\*\*[**MakerDAO 的仪表盘 - Dune Analytics**](https://duneanalytics.com/hagaetc/maker-dao---mcd)\*\*\*\*
+  * \*\*\*\*[**0x 的仪表盘 - Dune Analytics**](https://duneanalytics.com/0x/0x-trading-activity)\*\*\*\*
+* \*\*\*\*[**Messari**](https://messari.io/)\*\*\*\*
+* \*\*\*\*[**NansΞn**](https://www.nansen.ai/)\*\*\*\*
+  * **Token God Mode - NansΞn**
+  * **Wallet Profiler - NansΞn**
+* \*\*\*\*[**Token Terminal**](https://www.tokenterminal.com/)\*\*\*\*
+* \*\*\*\*[**DeFi Pulse**](https://defipulse.com/)\*\*\*\*
+* \*\*\*\*[**Etherscan**](https://etherscan.io/)\*\*\*\*
+  * [**以太坊的数据指标 - Etherscan**](https://etherscan.io/charts)\*\*\*\*
+
 ## 比特币指标
 
 * Datamish：[https://datamish.com/](https://datamish.com/) 
@@ -224,7 +239,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 * 稳定币聚合协议， [mStable](https://mstable.app/)
 * 信息聚合，门户网站，[**DeFi Pulse**](https://defipulse.com/)、[**DeFi Prime**](https://defiprime.com/)、[CoinGecko](https://www.coingecko.com/)、[**链闻**](https://www.chainnews.com/tag_9336.htm)\*\*\*\*
 * 比较收益，[pools.fyi](https://pools.fyi/)、[DeFi Rate](https://defirate.com/)
-* 指数，[**DeFi Pulse Index \(DPI\)**](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b) **或**[ **DPI（Tokensets）**](https://www.tokensets.com/portfolio/dpi) ****[**https://www.coingecko.com/en/coins/defipulse-index**](https://www.coingecko.com/en/coins/defipulse-index) ****[**https://www.indexcoop.com/**](https://www.indexcoop.com/)\*\*\*\*[**https://www.indexcoop.com/dpi**](https://www.indexcoop.com/dpi)\*\*\*\*[**https://www.indexcoop.com/farm**](https://www.indexcoop.com/farm)\*\*\*\*
+* 指数，[**DeFi Pulse Index \(DPI\)**](https://info.uniswap.org/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b) **或** [**DPI \(Tokensets\)**](https://www.tokensets.com/portfolio/dpi) ****[**https://www.coingecko.com/en/coins/defipulse-index**](https://www.coingecko.com/en/coins/defipulse-index) ****[**https://www.indexcoop.com/**](https://www.indexcoop.com/)\*\*\*\*[**https://www.indexcoop.com/dpi**](https://www.indexcoop.com/dpi)\*\*\*\*[**https://www.indexcoop.com/farm**](https://www.indexcoop.com/farm)\*\*\*\*
 * **理财，**[**Indexed.finance**](https://indexed.finance/)**、**[**Rari Capital**](http://rari.capital/)**、**[**PieDAO**](https://www.piedao.org/)\*\*\*\*
 
   \*\*\*\*
