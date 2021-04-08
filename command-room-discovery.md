@@ -100,21 +100,6 @@ description: Command Room (Discovery)
 {% endtab %}
 {% endtabs %}
 
-## 数据分析工具
-
-* \*\*\*\*[**Dune Analytics**](https://duneanalytics.com/home)\*\*\*\*
-  * \*\*\*\*[**去中心化交易所的仪表盘 - Dune Analytics**](https://duneanalytics.com/hagaetc/dex-metrics)\*\*\*\*
-  * \*\*\*\*[**MakerDAO 的仪表盘 - Dune Analytics**](https://duneanalytics.com/hagaetc/maker-dao---mcd)\*\*\*\*
-  * \*\*\*\*[**0x 的仪表盘 - Dune Analytics**](https://duneanalytics.com/0x/0x-trading-activity)\*\*\*\*
-* \*\*\*\*[**Messari**](https://messari.io/)\*\*\*\*
-* \*\*\*\*[**NansΞn**](https://www.nansen.ai/)\*\*\*\*
-  * **Token God Mode - NansΞn**
-  * **Wallet Profiler - NansΞn**
-* \*\*\*\*[**Token Terminal**](https://www.tokenterminal.com/)\*\*\*\*
-* \*\*\*\*[**DeFi Pulse**](https://defipulse.com/)\*\*\*\*
-* \*\*\*\*[**Etherscan**](https://etherscan.io/)\*\*\*\*
-  * [**以太坊的数据指标 - Etherscan**](https://etherscan.io/charts)\*\*\*\*
-
 ## 比特币指标
 
 * Datamish：[https://datamish.com/](https://datamish.com/) 
