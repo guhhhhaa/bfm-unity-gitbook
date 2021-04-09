@@ -28,12 +28,6 @@ description: Management Cockpit (Operation)
 
 ![&#x9A7E;&#x9A76;&#x8231;&#xFF08;&#x8FD0;&#x884C;&#xFF09;](../.gitbook/assets/src-http___i-3.yiwan.com_2019_6_25_6ff39329-443c-45c6-b034-9940ee759162.jpg_width-1820-and-height-1024-and-refer-http___i-3.yiwan.jpeg)
 
-## 卓尔金历法/GPS 🌍 🕙 🧭 🛰️ 
-
-### [卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金历法策略](https://share.weiyun.com/NAsqLyq8)
-
-{% page-ref page="ling-hang-duo-lei-da.md" %}
-
 ## 基本驾驶模块
 
 * [**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI)**\(此链接返现比例: 我10%, 你10%**\)\([**流动性挖矿**](https://www.binance.com/zh-CN/swap/liquidity)**）**
@@ -43,10 +37,13 @@ description: Management Cockpit (Operation)
 ## 核心显示界面
 
 {% hint style="info" %}
-* \*\*\*\*[**卓尔金历法**](https://share.weiyun.com/dhfGbd7l)  **\|**  [**卓尔金历法策略**](https://share.weiyun.com/NAsqLyq8) **——正在用**
-* \([**神经网络策略**](https://share.weiyun.com/T6NAzM5i)\([介绍](https://www.bfm-unity.com/management-cockpit-operation/shen-jing-wang-luo-ce-lve) \| [原理](https://www.bilibili.com/read/cv7001287)\)  \|  [**同架策略**](https://share.weiyun.com/xUw40P4l)\([介绍](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)\)  **\|**  [**原始策略**](https://share.weiyun.com/a0QaKX11)**\)——已作废，仅供参考** 
+* \*\*\*\*[**卓尔金历法/GPS 🕙**](https://www.bfm-unity.com/management-cockpit-operation/ling-hang-duo-lei-da)\*\*\*\*
+
+  \*\*\*\*[**卓尔金历法**](https://share.weiyun.com/dhfGbd7l)  **\|**  [**卓尔金历法策略**](https://share.weiyun.com/NAsqLyq8)  
+  ****
+
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)[（](https://www.jianshu.com/p/f6992e6c6ea6)[Python获取MVRV](https://coinmetrics.io/newdata/split/btc_CapMVRVCur.txt)，[参考链接](https://www.jianshu.com/p/f6992e6c6ea6)）  \|  [**S2F**](https://www.qkl123.com/data/s2f/btc)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)
-* \*\*\*\*[**CAPE**](https://www.gurufocus.cn/indicator/shiller_pe)   **\|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation) ****
+* [**CAPE**](https://www.gurufocus.cn/indicator/shiller_pe)   **\|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation) ****
 * [Sharpe Ratio](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  \|  [市值比较](https://assetdash.com/?all=true) 
 * [跟踪美联储操作](https://robo.datayes.com/v2/landing/monitor_detail?slotId=243342) 
 * CPI&gt;3%通胀，&gt;5%严重通胀
