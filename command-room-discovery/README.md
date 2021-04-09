@@ -64,7 +64,7 @@ description: Command Room (Discovery)
 ## 量化
 
 * \*\*\*\*[**币优**](https://www.biyou.tech/)
-* \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)\*\*\*\*
+* \*\*\*\*[**Pionex**](https://www.pionex.com/)
 
 ## [流动性挖矿](https://www.binance.com/zh-CN/swap/liquidity)
 
