@@ -86,9 +86,9 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ![&#x4EBA;&#x5DE5;&#x8F93;&#x5165;](../.gitbook/assets/ea68773fef34d62ec100f41782110eff.jpg)
 
-![&#x5747;&#x503C;&#x6269;&#x5C55;](../.gitbook/assets/7bad23c5483e1185c1811575b1b0344f.png)
+![&#x5747;&#x503C;&#x6269;&#x5C55;](../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.39.png)
 
-![&#x4E09;&#x6B21;&#x5E73;&#x6ED1;](../.gitbook/assets/1300145a381bdd650bb7b5d884e34a2b.jpg)
+![&#x4E09;&#x6B21;&#x5E73;&#x6ED1;](../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.28.png)
 
 ## 确定仓位
 
