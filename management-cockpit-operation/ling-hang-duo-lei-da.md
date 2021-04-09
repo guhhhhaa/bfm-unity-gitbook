@@ -82,6 +82,23 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 **就像一个时钟一样，很方便。**
 
+## 模拟神经网络查找表
+
+![&#x4EBA;&#x5DE5;&#x8F93;&#x5165;](../.gitbook/assets/ea68773fef34d62ec100f41782110eff.jpg)
+
+![&#x5747;&#x503C;&#x6269;&#x5C55;](../.gitbook/assets/7bad23c5483e1185c1811575b1b0344f.png)
+
+![&#x4E09;&#x6B21;&#x5E73;&#x6ED1;](../.gitbook/assets/1300145a381bdd650bb7b5d884e34a2b.jpg)
+
+## 确定仓位
+
+* [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538_825825)
+* [EXCEL取小数点后一位](https://zhidao.baidu.com/question/27632380.html)
+
+```python
+=INDEX(神经网络!C26:W46,MATCH(ROUND(卓尔金历法GPS定位系统!D9,1),神经网络!B26:B46,0),MATCH(ROUND(卓尔金历法GPS定位系统!D7,1),神经网络!C25:W25,0))
+```
+
 ## **与美林时钟的关系**
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-10.44.27.png)
@@ -257,6 +274,4 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
  不要太瞧得起比特币了，它也不过如此。
 
 #### [座头鲸沿直线洄游奥秘：或观星望日定方位](https://www.chinadaily.com.cn/hqgj/2011-04/22/content_12373180.htm)
-
-## [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538_825825)
 
