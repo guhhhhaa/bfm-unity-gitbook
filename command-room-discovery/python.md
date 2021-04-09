@@ -110,6 +110,64 @@ print(b<3)
 # [True True True False]
 ```
 
+```python
+import numpy as np
+
+a = np.array([10,20,30,40])
+b = np.arange(4)
+
+print(b)
+print(b==3)
+
+# 输出结果:
+# [0 1 2 3]
+# [False False False True]
+```
+
+```python
+import numpy as np
+
+a = np.array([10,20,30,40])
+b = np.arange(4)
+
+print(b)
+print(b==3)
+
+# 输出结果:
+# [0 1 2 3]
+# [False False False True]
+```
+
+```python
+import numpy as np
+
+a = np.array([[1,1],
+              [0,1]])
+b = np.arange(4).reshape((2,2))
+
+print(a)
+print(b)
+
+c = a*b
+c_dot = np.dot(a,b)
+
+print(c)
+print(c_dot)
+
+# 输出结果:
+# [[1 1]
+#  [0 1]]
+# [[0 1]
+#  [2 3]]
+
+# [[0 1]
+#  [0 3]]
+# [[2 4]
+#  [2 3]]
+```
+
+{% embed url="https://blog.csdn.net/like4501/article/details/79753346" %}
+
 ## [Pandas](https://pypi.org/project/pandas/) - 数据分析
 
 ### 安装
