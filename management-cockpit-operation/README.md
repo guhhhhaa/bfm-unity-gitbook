@@ -39,7 +39,9 @@ description: Management Cockpit (Operation)
 {% hint style="info" %}
 * \*\*\*\*[**卓尔金历法/GPS 🕙**](https://www.bfm-unity.com/management-cockpit-operation/ling-hang-duo-lei-da)\*\*\*\*
 
-  \*\*\*\*[**卓尔金历法**](https://share.weiyun.com/dhfGbd7l)  **\|**  [**卓尔金历法策略**](https://share.weiyun.com/NAsqLyq8)  
+  \*\*\*\*[**卓尔金历法**](https://share.weiyun.com/dhfGbd7l)  **\|**  [**卓尔金-探索者号飞船**](https://share.weiyun.com/NAsqLyq8)\*\*\*\*
+
+  
   ****
 
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)[（](https://www.jianshu.com/p/f6992e6c6ea6)[Python获取MVRV](https://coinmetrics.io/newdata/split/btc_CapMVRVCur.txt)，[参考链接](https://www.jianshu.com/p/f6992e6c6ea6)）  \|  [**S2F**](https://www.qkl123.com/data/s2f/btc)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)
