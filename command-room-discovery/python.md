@@ -8,6 +8,10 @@ exit() # 执行到此处中止
 
 ## [Numpy](https://pypi.org/project/numpy/) - 矩阵计算
 
+### 安装
+
+{% embed url="https://numpy.org/install/" %}
+
 ```python
 import numpy as np
 
