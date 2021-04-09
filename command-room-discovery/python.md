@@ -15,9 +15,9 @@ array = np.array([[1,2,3],
                   [2,3,4]])
 
 print(array)
-print('number of dim:', array.ndim)
-print('shape:', array.shape)
-print('size:', array.size)
+print('number of dim:', array.ndim) # 输出矩阵的维数
+print('shape:', array.shape) # 输出矩阵的行列数
+print('size:', array.size) # 输出矩阵的元素数
 ```
 
 ## [Pandas](https://pypi.org/project/pandas/) - 数据分析
