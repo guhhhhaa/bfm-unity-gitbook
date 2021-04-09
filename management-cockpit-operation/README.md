@@ -37,7 +37,7 @@ description: Management Cockpit (Operation)
 ## 基本驾驶模块
 
 * [**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI)**\(此链接返现比例: 我10%, 你10%**\)\([**流动性挖矿**](https://www.binance.com/zh-CN/swap/liquidity)**）**
-* [**派网**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)\*\*\*\*
+* \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)\*\*\*\*
 * [**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
 
 ## 核心显示界面
