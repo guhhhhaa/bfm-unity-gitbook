@@ -6,7 +6,25 @@
 exit() # 执行到此处中止
 ```
 
+## Numpy 
+
+```python
+import numpy as np
+
+array = np.array([[1,2,3],
+                  [2,3,4]])
+
+print(array)
+print('number of dim:', array.ndim)
+print('shape:', array.shape)
+print('size:', array.size)
+```
+
 ## [Pandas](https://pypi.org/project/pandas/) - 数据分析
+
+### 安装
+
+{% embed url="https://pandas.pydata.org/pandas-docs/stable/getting\_started/install.html" %}
 
 ### 读取数据
 
