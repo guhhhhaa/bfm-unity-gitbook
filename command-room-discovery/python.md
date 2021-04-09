@@ -6,7 +6,7 @@
 exit() # 执行到此处中止
 ```
 
-## Numpy 
+## [Numpy](https://pypi.org/project/numpy/)
 
 ```python
 import numpy as np
