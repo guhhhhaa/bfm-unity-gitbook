@@ -15,7 +15,7 @@ My clock is paper financial time    我的**时钟**显示账面的**金融时�
 {% hint style="success" %}
 ## [卓尔金历法](https://share.weiyun.com/dhfGbd7l)\(需下载这个\)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
 
-### [宣传视频](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [**讲故事**视频](https://www.bilibili.com/video/BV13x411R7Lf)
+### [宣传视频](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
 
 **你需要下载“卓尔金历法“这个Excel表格，才能真正应用这个水晶球。**
 
