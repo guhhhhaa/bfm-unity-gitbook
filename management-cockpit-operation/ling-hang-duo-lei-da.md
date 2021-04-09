@@ -90,6 +90,8 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ![&#x4E09;&#x6B21;&#x5E73;&#x6ED1;](../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.28.png)
 
+![&#x65B0;&#x6982;&#x578B;](../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.48.20.png)
+
 ## 确定仓位
 
 * [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538_825825)
