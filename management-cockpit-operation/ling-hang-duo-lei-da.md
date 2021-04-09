@@ -256,5 +256,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
  不要太瞧得起比特币了，它也不过如此。
 
-#### [座头鲸沿直线洄游奥秘：或观星望日定方位 ](https://www.chinadaily.com.cn/hqgj/2011-04/22/content_12373180.htm)
+#### [座头鲸沿直线洄游奥秘：或观星望日定方位](https://www.chinadaily.com.cn/hqgj/2011-04/22/content_12373180.htm)
+
+## [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538_825825)
 
