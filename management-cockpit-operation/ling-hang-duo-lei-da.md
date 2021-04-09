@@ -16,10 +16,6 @@ My clock is paper financial time    我的**时钟**显示账面的**金融时�
 ## [卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
 
 ### [宣传视频](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
-
-**你需要下载“卓尔金历法“这个Excel表格，才能真正应用这个水晶球。**
-
-![](../.gitbook/assets/src-http___img.bbs.duba.net_forum_201501_11_215204ht2dddtjp2opiyrk.jpg-and-refer-http___img.bbs.duba.jpeg)
 {% endhint %}
 
 #### 熊市：下跌到顶点的1/4
