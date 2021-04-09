@@ -34,6 +34,7 @@ b = np.arange(4)
 
 print(a,b)
 
+# 输出结果:
 # [10 20 30 40] [0 1 2 3]
 ```
 
@@ -93,6 +94,20 @@ print(c)
 
 # 输出结果:
 # [-5.44021111 9.12945251 -9.88031624 7.4511316]
+```
+
+```python
+import numpy as np
+
+a = np.array([10,20,30,40])
+b = np.arange(4)
+
+print(b)
+print(b<3)
+
+# 输出结果:
+# [0 1 2 3]
+# [True True True False]
 ```
 
 ## [Pandas](https://pypi.org/project/pandas/) - 数据分析
