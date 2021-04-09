@@ -12,6 +12,8 @@ exit() # 执行到此处中止
 
 {% embed url="https://numpy.org/install/" %}
 
+### 使用
+
 ```python
 import numpy as np
 
@@ -30,7 +32,7 @@ print('size:', array.size) # 输出矩阵的元素数
 
 {% embed url="https://pandas.pydata.org/pandas-docs/stable/getting\_started/install.html" %}
 
-### 读取数据
+### 使用 - 读取数据
 
 ```python
 import pandas as pd
@@ -73,7 +75,7 @@ DataName_data[['新增列名1']] = '新增列值1' # 新增一列
 print DataName_data # 打印DataName_data
 ```
 
-### 排序数据
+### 使用 - 排序数据
 
 ```python
 import pandas as pd
@@ -85,7 +87,7 @@ DataName_data.sort_values(by = ['列名1', '列名2'], inplace = True)
 print DataName_data # 打印DataName_data
 ```
 
-### 截取数据
+### 使用 - 截取数据
 
 ```python
 import pandas as pd
