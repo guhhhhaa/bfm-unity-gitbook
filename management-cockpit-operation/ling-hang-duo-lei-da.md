@@ -13,7 +13,7 @@ My clock is paper financial time    我的**时钟**显示账面的**金融时�
 {% endhint %}
 
 {% hint style="success" %}
-## [卓尔金历法](https://share.weiyun.com/dhfGbd7l)\(只需要下载这个\)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
+## [卓尔金历法](https://share.weiyun.com/dhfGbd7l)\(需下载这个\)  \|  [卓尔金历法策略](https://share.weiyun.com/2xtyDqTF)
 
 ### [宣传视频](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [**讲故事**视频](https://www.bilibili.com/video/BV13x411R7Lf)
 
@@ -70,7 +70,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## **历法**说明
 
-**顺着三角形顺时针运行 ，**
+**顺着三角形顺时针运行，**
 
 **红色是牛市，绿色是熊市，蓝色是震荡市。** 
 
