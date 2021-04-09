@@ -6,7 +6,7 @@
 exit() # 执行到此处中止
 ```
 
-## [Numpy](https://pypi.org/project/numpy/)
+## [Numpy](https://pypi.org/project/numpy/) - 矩阵计算
 
 ```python
 import numpy as np
