@@ -26,6 +26,75 @@ print('shape:', array.shape) # 输出矩阵的行列数
 print('size:', array.size) # 输出矩阵的元素数
 ```
 
+```python
+import numpy as np
+
+a = np.array([10,20,30,40])
+b = np.arange(4)
+
+print(a,b)
+
+# [10 20 30 40] [0 1 2 3]
+```
+
+```python
+import numpy as np
+
+a = np.array([10,20,30,40])
+b = np.arange(4)
+
+print(a,b)
+
+c = a+b
+print(c)
+
+# 输出结果:
+# [10 20 30 40] [0 1 2 3]
+# [10 21 32 43]
+```
+
+```python
+import numpy as np
+
+a = np.array([10,20,30,40])
+b = np.arange(4)
+
+print(a,b)
+
+c = a-b
+print(c)
+
+# 输出结果:
+# [10 20 30 40] [0 1 2 3]
+# [10 19 28 37]
+```
+
+```python
+import numpy as np
+
+a = np.array([10,20,30,40])
+b = np.arange(4)
+
+c = b**2
+print(c)
+
+# 输出结果:
+# [0 1 4 9]
+```
+
+```python
+import numpy as np
+
+a = np.array([10,20,30,40])
+b = np.arange(4)
+
+c = 10*np.sin(a)
+print(c)
+
+# 输出结果:
+# [-5.44021111 9.12945251 -9.88031624 7.4511316]
+```
+
 ## [Pandas](https://pypi.org/project/pandas/) - 数据分析
 
 ### 安装
