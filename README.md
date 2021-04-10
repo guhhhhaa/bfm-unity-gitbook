@@ -28,10 +28,6 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="juan-zeng-da-shang.md" %}
 
-{% page-ref page="management-cockpit-operation/ling-hang-duo-lei-da.md" %}
-
-{% page-ref page="management-cockpit-operation/wa-gou-gou-bi.md" %}
-
 ## ₿TC 投资路径 <a id="tc-tou-zi-lu-jing"></a>
 
 ![](.gitbook/assets/defi_3.png)
