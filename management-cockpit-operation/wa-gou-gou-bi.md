@@ -6,6 +6,8 @@
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210410-xia-wu-3.07.19.png)
+
 ## 这个怎么运作？
 
 ### 如何获得免费矿工？
