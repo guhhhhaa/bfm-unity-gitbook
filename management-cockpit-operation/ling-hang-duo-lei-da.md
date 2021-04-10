@@ -18,6 +18,8 @@ My clock is paper financial time    我的**时钟**显示账面的**金融时�
 ### [宣传视频](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
 {% endhint %}
 
+{% embed url="https://www.bilibili.com/video/BV13x411R7Lf" %}
+
 #### 熊市：下跌到顶点的1/4
 
 #### 震荡市：振荡上涨2倍 
