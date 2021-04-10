@@ -30,7 +30,7 @@ My clock is paper financial time    我的**时钟**显示账面的**金融时�
 
 具体软件如下：
 
-{% page-ref page="../" %}
+{% page-ref page="./" %}
 
 ## [归一化操作](https://www.bfm-unity.com/management-cockpit-operation/shu-xue-li-qi) 
 
@@ -44,7 +44,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## 图表说明
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210329-xia-wu-9.13.03.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210329-xia-wu-9.13.03.png)
 
 **蓝色曲线——横X轴——MVRV——**[**数据来源**](https://www.blockchain.com/charts/mvrv)\*\*\*\*
 
@@ -52,17 +52,17 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## 回测研究
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46.png)
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.59.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.59.png)
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-7.12.11.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-7.12.11.png)
 
 ## 归纳推理
 
-![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
+![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
 
-![&#x56FE;&#x4E2D;&#x6570;&#x5B57;&#x6307;&#x7684;&#x662F;&#x63A8;&#x8350;&#x4ED3;&#x4F4D;](../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
+![&#x56FE;&#x4E2D;&#x6570;&#x5B57;&#x6307;&#x7684;&#x662F;&#x63A8;&#x8350;&#x4ED3;&#x4F4D;](../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
 
 ## **历法**说明
 
@@ -80,13 +80,13 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## 模拟神经网络查找表
 
-![&#x4EBA;&#x5DE5;&#x8F93;&#x5165;](../../.gitbook/assets/ea68773fef34d62ec100f41782110eff.jpg)
+![&#x4EBA;&#x5DE5;&#x8F93;&#x5165;](../.gitbook/assets/ea68773fef34d62ec100f41782110eff.jpg)
 
-![&#x5747;&#x503C;&#x6269;&#x5C55;](../../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.39.png)
+![&#x5747;&#x503C;&#x6269;&#x5C55;](../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.39.png)
 
-![&#x4E09;&#x6B21;&#x5E73;&#x6ED1;](../../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.28.png)
+![&#x4E09;&#x6B21;&#x5E73;&#x6ED1;](../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.28.png)
 
-![&#x65B0;&#x6982;&#x578B;](../../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.48.20.png)
+![&#x65B0;&#x6982;&#x578B;](../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.48.20.png)
 
 ## 确定仓位
 
@@ -99,7 +99,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## **与美林时钟的关系**
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-10.44.27.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-10.44.27.png)
 
 两个随机变量，才能校准、判断一个周期。
 
@@ -147,7 +147,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 我建议你先看一下《三体》，里面有一个假说，射手和农场主假设，这是很可怕的。 
 
-![](../../.gitbook/assets/98c03b7c3c216d56bb61d0199dff9239.jpg)
+![](../.gitbook/assets/98c03b7c3c216d56bb61d0199dff9239.jpg)
 
 但是，我们会因为害怕就放弃寻找规则吗？
 

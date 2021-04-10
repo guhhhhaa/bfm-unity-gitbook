@@ -30,7 +30,7 @@
 
 取极值点因子最大的10个点和最小的10个点
 
-{% page-ref page="../shu-xue-li-qi.md" %}
+{% page-ref page="shu-xue-li-qi.md" %}
 
 ```python
 定义 a_1, b_1
