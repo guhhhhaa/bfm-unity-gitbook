@@ -34,6 +34,10 @@ description: Management Cockpit (Operation)
 * \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)\*\*\*\*
 * [**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
 
+## 卓尔金历法
+
+{% page-ref page="ling-hang-duo-lei-da.md" %}
+
 ## 核心显示界面
 
 {% hint style="info" %}
@@ -68,11 +72,7 @@ description: Management Cockpit (Operation)
   [**估值**](https://terminal.tokenterminal.com/dashboard/Dapps)**（**[**参考链接**](https://www.chainnews.com/articles/649261412781.htm)**）**
 {% endhint %}
 
-## 卓尔金历法
-
-{% page-ref page="ling-hang-duo-lei-da.md" %}
-
-## 云挖狗币
+## 云挖狗狗币
 
 {% page-ref page="wa-gou-gou-bi.md" %}
 
