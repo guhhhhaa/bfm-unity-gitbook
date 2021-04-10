@@ -68,14 +68,6 @@ description: Management Cockpit (Operation)
   [**估值**](https://terminal.tokenterminal.com/dashboard/Dapps)**（**[**参考链接**](https://www.chainnews.com/articles/649261412781.htm)**）**
 {% endhint %}
 
-## 卓尔金历法
-
-{% page-ref page="ling-hang-duo-lei-da.md" %}
-
-## 云挖狗币
-
-{% page-ref page="wa-gou-gou-bi.md" %}
-
 ## 基金股票
 
 {% page-ref page="ji-jin-tou-zi.md" %}
@@ -91,4 +83,6 @@ description: Management Cockpit (Operation)
 ## 氮气加速系统\(NOS\)
 
 {% page-ref page="zhe-die.md" %}
+
+
 
