@@ -34,6 +34,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="roadmap.md" %}
 
+{% page-ref page="ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md" %}
+
 ## 慈善家必进
 
 {% page-ref page="juan-zeng-da-shang.md" %}
