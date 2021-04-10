@@ -4,6 +4,8 @@
 
 {% embed url="https://wowdoge.io/?p=167731" %}
 
+![](../.gitbook/assets/image%20%2811%29.png)
+
 ## 这个怎么运作？
 
 ### 如何获得免费矿工？
