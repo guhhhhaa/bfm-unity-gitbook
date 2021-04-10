@@ -4,7 +4,7 @@
 
 本群是专注数字货币套利的交流群。包括BFM，网格马丁，凯利香农多因子，期现跨期，MWU和联合曲线/面
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 ## 定时提醒1
 
@@ -28,7 +28,7 @@ DEX，DeFi，AMM，这些才是主流。
 
 我们组织的运转方针，逃离监管，逃离中心化交易所，逃离期权期货合约，逃离非金融创新。
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ## 定时提醒2
 
@@ -48,7 +48,7 @@ DEX，DeFi，AMM，这些才是主流。
 
 金融理论总结 [https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ## 定时提醒3
 
@@ -72,7 +72,7 @@ DEX，DeFi，AMM，这些才是主流。
 
 如何查看你的收益曲线？请在Google Play上下载一个叫Zerion的APP，绑定你的ETH地址，即可看到收益曲线。
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ## 定时提醒4
 
@@ -94,7 +94,7 @@ DEX，DeFi，AMM，这些才是主流。
 
 往日文件请参见：群文件Github备份，群看板，和群文档
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ## 定时提醒5
 
@@ -110,5 +110,5 @@ DEX，DeFi，AMM，这些才是主流。
 
 MetaMask清除Pending状态方法：点头像-设置-高级-重设账户
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 

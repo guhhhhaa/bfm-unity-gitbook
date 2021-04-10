@@ -4,7 +4,7 @@
 本章 **纯属广告** ，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/wo-men-zai-wan-de-geng)
 {% endhint %}
 
-![](.gitbook/assets/u-3484679372-3178935030-and-fm-15-and-gp-0.jpg)
+![](../.gitbook/assets/u-3484679372-3178935030-and-fm-15-and-gp-0.jpg)
 
 ## BFM Unity 的组织性质是什么？
 
@@ -30,7 +30,7 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 
 ## QQ群组：708912525
 
-![QQ&#x7FA4;&#x7EC4;&#xFF1A;708912525](.gitbook/assets/1584954098283.png)
+![QQ&#x7FA4;&#x7EC4;&#xFF1A;708912525](../.gitbook/assets/1584954098283.png)
 
 ## 群名称：BFM Unity 
 

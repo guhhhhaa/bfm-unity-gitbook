@@ -1,7 +1,6 @@
 # Table of contents
 
 * [主舰桥 \(引导\) 🇺🇳](README.md)
-* [群公告备份](qun-gong-gao-bei-fen.md)
 * [驾驶舱 \(运行\) 🚜](management-cockpit-operation/README.md)
   * [卓尔金历法/GPS 🕙](management-cockpit-operation/ling-hang-duo-lei-da.md)
   * [数学利器](management-cockpit-operation/shu-xue-li-qi.md)
@@ -58,7 +57,8 @@
   * [【管理】宪章说明](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
   * [【传媒】引起兴趣](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/wo-men-zai-wan-de-geng.md)
   * [【选择】学区房 or 比特币](guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/xuan-ze-xue-qu-fang-or-bi-te-bi.md)
-* [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu.md)
+* [【运营】加入组建](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/README.md)
+  * [群公告备份](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md)
 * [【组织】团队构成](zu-zhi-wo-men-de-tuan-dui/README.md)
   * [创始人信息](zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi.md)
 * [【文化】组织文化 📚](hui-shou-zhan/README.md)
