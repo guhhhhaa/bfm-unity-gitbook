@@ -195,7 +195,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ### MVRV和S2F投资策略
 
-{% page-ref page="../management-cockpit-operation/ling-hang-duo-lei-da.md" %}
+{% page-ref page="../management-cockpit-operation/ling-hang-duo-lei-da/" %}
 
 ## **DeFi**
 
