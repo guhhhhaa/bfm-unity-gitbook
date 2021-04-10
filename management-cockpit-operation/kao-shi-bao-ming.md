@@ -2,7 +2,13 @@
 
 ## 公务员行测
 
-华图，已失效
+{% embed url="https://www.bilibili.com/video/BV1nX4y1g7nz" %}
+
+{% embed url="https://www.bilibili.com/video/BV1gz4y1D7Kj" %}
+
+{% embed url="https://www.bilibili.com/video/BV12v411h7MS" %}
+
+
 
 ## 公务员申论
 
