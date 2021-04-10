@@ -18,23 +18,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/bfm-unity-2.0.png)
 
-## 交易员必进\([卓尔金历法](https://www.bfm-unity.com/management-cockpit-operation/ling-hang-duo-lei-da)\)
-
 {% page-ref page="management-cockpit-operation/" %}
-
-## 探险家必进
 
 {% page-ref page="command-room-discovery/" %}
 
-## 开发者必进
-
 {% page-ref page="research-institute-development/" %}
 
-## 老客户怀旧
-
 {% page-ref page="roadmap.md" %}
-
-## 慈善家必进
 
 {% page-ref page="juan-zeng-da-shang.md" %}
 
