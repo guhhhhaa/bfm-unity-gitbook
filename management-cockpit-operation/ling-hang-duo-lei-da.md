@@ -9,8 +9,16 @@
 > —— 《三体》- 刘慈欣
 
 {% hint style="success" %}
-## [卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
+### 经典版 ——
 
+[卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
+
+### 升级版 ——
+
+[卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
+{% endhint %}
+
+{% hint style="success" %}
 ### [宣传视频](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
 {% endhint %}
 
