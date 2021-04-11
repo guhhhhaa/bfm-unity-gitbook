@@ -18,6 +18,8 @@ description: Roadmap
 
 ## 2020.11 - 2021.3      空间站展开
 
+![](.gitbook/assets/defi_3.png)
+
 **研究DeFi**
 
 ## 2021.3 - 至今        价值黑洞
