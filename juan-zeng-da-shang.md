@@ -48,7 +48,7 @@ BFM Unity 的 铭牌
 
 ![](.gitbook/assets/9304dfd7a84917a2a1364f70e5e1c023.jpg)
 
-### ETH or ERC20
+### **Ξ**TH or **Ξ**RC20
 
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-44-118_com.wallet.cry.png)
 
@@ -56,7 +56,7 @@ BFM Unity 的 铭牌
 
 ![](.gitbook/assets/881fcdba81e2eb5ac727012f083991cb.jpg)
 
-### BTC
+### ​₿TC
 
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-30-068_com.wallet.cry.png)
 
