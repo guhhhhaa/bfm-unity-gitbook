@@ -52,6 +52,10 @@ BFM Unity 的 铭牌
 
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-44-118_com.wallet.cry.png)
 
+### Ðoge
+
+![](.gitbook/assets/881fcdba81e2eb5ac727012f083991cb.jpg)
+
 ### BTC
 
 ![](.gitbook/assets/screenshot_2020-03-25-11-16-30-068_com.wallet.cry.png)
