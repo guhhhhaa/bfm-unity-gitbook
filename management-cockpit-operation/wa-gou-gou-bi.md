@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210410-xia-wu-3.07.19.png)
 
-## Ð**ogeLand（不如上面那个收益高）**
+## Ð**ogeLand**
 
 {% embed url="https://dogeland.io/reg/D83GdEZB" %}
 
