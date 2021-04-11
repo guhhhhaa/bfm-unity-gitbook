@@ -13,7 +13,7 @@
 
 [卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
 
-### 升级版 ——
+### 升级版 —— \(推荐，范围更大，考虑情况更多\)
 
 [卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
 {% endhint %}
