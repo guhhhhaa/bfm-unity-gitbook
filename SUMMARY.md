@@ -5,7 +5,7 @@
   * [卓尔金历法/GPS 🕙](management-cockpit-operation/ling-hang-duo-lei-da.md)
   * [数学利器](management-cockpit-operation/shu-xue-li-qi.md)
   * [考试报名](management-cockpit-operation/kao-shi-bao-ming.md)
-  * [挖狗狗币Ð](management-cockpit-operation/wa-gou-gou-bi.md)
+  * [挖狗狗币 Ð 🐶](management-cockpit-operation/wa-gou-gou-bi.md)
   * [黄金投资](management-cockpit-operation/huang-jin-tou-zi.md)
   * [神经网络策略](management-cockpit-operation/shen-jing-wang-luo-ce-lve.md)
   * [融资加杠杆](management-cockpit-operation/zhe-die.md)
