@@ -28,6 +28,11 @@
 注意先多预留出少量的手续费。
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20201222-xia-wu-7.19.25.png)
+
+## 参考：
+
+[https://www.poszfw.com/posdl/947.html](https://www.poszfw.com/posdl/947.html)  
+[https://www.84ie.com/shengcaiyoudao/2912.html](https://www.84ie.com/shengcaiyoudao/2912.html)
 {% endtab %}
 
 {% tab title="币安" %}
