@@ -14,7 +14,7 @@
 所以肯定是庞氏骗局。
 {% endhint %}
 
-## **WoW**Ð**oge**
+## **WoW**Ð**oge（**还没有**跑路，不过也快了）**
 
 {% embed url="https://wowdoge.io/?p=167731" %}
 
@@ -32,7 +32,7 @@
 所以肯定是庞氏骗局。
 {% endhint %}
 
-## Ð**ogeLand**
+## Ð**ogeLand（已经跑路）**
 
 {% embed url="https://dogeland.io/reg/D83GdEZB" %}
 
