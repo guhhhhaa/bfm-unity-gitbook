@@ -70,7 +70,7 @@ description: Management Cockpit (Operation)
   [**估值**](https://terminal.tokenterminal.com/dashboard/Dapps)**（**[**参考链接**](https://www.chainnews.com/articles/649261412781.htm)**）**
 {% endhint %}
 
-## Ðoge 云挖矿\(⚠️有风险，请勿靠近\)
+## Ðoge 云挖矿
 
 {% page-ref page="wa-gou-gou-bi.md" %}
 
