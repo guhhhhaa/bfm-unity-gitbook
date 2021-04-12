@@ -21,7 +21,7 @@
 * [**易钱包**](https://yqb.net.cn/)**（建议使用**[**云闪付**](https://yunshanfu.unionpay.com/)**，费率0.38%）**
 * \*\*\*\*[**激活序列**](https://ac.yqb.net.cn/product/)**成本：¥0.5**
 
-**2021手机POS机最新大全**（排名不分先后，按首字母排序）
+\*\*\*\*[**2021手机POS机最新大全**](https://www.poszfw.com/posdl/947.html)（排名不分先后，按首字母排序）
 
 | [宝贝支付](https://bbpurse.com/flypayfx/popularize/registpage?pcode=00B52S85507) 🚩 | [电银付](https://cloud.chinaebi.cn/yfapi/regist/#/download-apk?type=1) 🚩 | [大嘉购](https://djg.jiajiepay.com/share/share.html?agenTinvitCode=y1NbcYZI+7vskR2zsCBw199cqbOT+1AhnSHq99HRbd+niPBp9nYyUk/AfNZnC1e65bdVS/5hib5jEaafrAcuYmEk2+tPIT3AQpq0IMcfuBpospgPpLdiBDFf84iY1XTlirbugCd0BNT8J3l4j1YcXTUGWJ3WWJu3aLNSEnArXXw=&displayCode=*******5521#/) 🚩 |
 | :--- | :--- | :--- |
