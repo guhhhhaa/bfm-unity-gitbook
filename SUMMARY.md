@@ -8,7 +8,7 @@
   * [挖狗狗币 Ð 🐶](management-cockpit-operation/wa-gou-gou-bi.md)
   * [黄金投资](management-cockpit-operation/huang-jin-tou-zi.md)
   * [神经网络策略](management-cockpit-operation/shen-jing-wang-luo-ce-lve.md)
-  * [融资加杠杆](management-cockpit-operation/zhe-die.md)
+  * [云POS无卡支付](management-cockpit-operation/zhe-die.md)
   * [基金投资](management-cockpit-operation/ji-jin-tou-zi.md)
   * [选股](management-cockpit-operation/xuan-gu.md)
   * [可转债打新](management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
