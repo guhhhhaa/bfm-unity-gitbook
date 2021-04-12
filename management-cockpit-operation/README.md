@@ -86,7 +86,7 @@ description: Management Cockpit (Operation)
 
 {% page-ref page="guo-zhai-ni-hui-gou.md" %}
 
-## 氮气加速系统\(NOS\)
+## 融资加杠杆
 
 {% page-ref page="zhe-die.md" %}
 
