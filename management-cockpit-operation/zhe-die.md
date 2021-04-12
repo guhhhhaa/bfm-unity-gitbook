@@ -31,8 +31,18 @@
 
 ## 参考：
 
+
+
+[https://www.poszfw.com/posbl/701.html](https://www.poszfw.com/posbl/701.html)  
 [https://www.poszfw.com/posdl/947.html](https://www.poszfw.com/posdl/947.html)  
 [https://www.84ie.com/shengcaiyoudao/2912.html](https://www.84ie.com/shengcaiyoudao/2912.html)
+
+**2021手机POS机最新大全**（排名不分先后，按首字母排序）
+
+| [宝贝支付](https://bbpurse.com/flypayfx/popularize/registpage?pcode=00B52S85507) 🚩 | [电银付](https://cloud.chinaebi.cn/yfapi/regist/#/download-apk?type=1) 🚩 | [大嘉购](https://djg.jiajiepay.com/share/share.html?agenTinvitCode=y1NbcYZI+7vskR2zsCBw199cqbOT+1AhnSHq99HRbd+niPBp9nYyUk/AfNZnC1e65bdVS/5hib5jEaafrAcuYmEk2+tPIT3AQpq0IMcfuBpospgPpLdiBDFf84iY1XTlirbugCd0BNT8J3l4j1YcXTUGWJ3WWJu3aLNSEnArXXw=&displayCode=*******5521#/) 🚩 |
+| :--- | :--- | :--- |
+| [汇开优店](https://m.dsyundian.com/mobile/html/share/index.html?phone=otf8g7gwzIYURQD7137JPw==&flag=1&barndId=1) | [金运微收](https://jkreg.jytpay.com/index?inviteUser=10375124&termCode=96&termSource=1) | [闪电宝Plus](https://star.cloudpnr.com/sdb_plus/sdbpl-mobile/html/homePicCtr/regH5?phone=DfrR1UGTeALbsDuMu0accQ==&flag=1&barndId=1) 🚩 |
+| [易刷吧](https://yishuaba.com/yishuaba-share/#/?invitationCode=836602&regType=0) | [易钱包](https://yqb.net.cn/) 🚩 |  |
 {% endtab %}
 
 {% tab title="币安" %}
