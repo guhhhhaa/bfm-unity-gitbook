@@ -32,6 +32,10 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 
 ![QQ&#x7FA4;&#x7EC4;&#xFF1A;708912525](../.gitbook/assets/1584954098283.png)
 
+## 微信群（可能失效，加[群主](https://www.bfm-unity.com/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi)可拉你进群）
+
+![](../.gitbook/assets/6ba1bcf02ffd6ab8f4186253e7759948.png)
+
 ## 群名称：BFM Unity 
 
 ## 群文档
