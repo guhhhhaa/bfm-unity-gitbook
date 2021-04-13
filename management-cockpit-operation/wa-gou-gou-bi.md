@@ -20,8 +20,23 @@
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210410-xia-wu-3.07.19.png)
 
+## 充值记录
+
+[https://dogechain.info/tx/3aa4f25876839a5bb76f5ccc594017794987f0cb74431f037817bc203a3c540d](https://dogechain.info/tx/3aa4f25876839a5bb76f5ccc594017794987f0cb74431f037817bc203a3c540d)  110286.00000000  
+
+
+## 提现记录
+
+[https://dogechain.info/tx/490241e8e3c37280ca51f83da4ef0bda3a81d12f24ea31279ebefed764ccb9ee](https://dogechain.info/tx/490241e8e3c37280ca51f83da4ef0bda3a81d12f24ea31279ebefed764ccb9ee)  5818.89582601
+
+[https://dogechain.info/tx/8c92095a8da6861601df52f85b30d4bfd77d8024e5ce654919e8e93bf3faacdc](https://dogechain.info/tx/8c92095a8da6861601df52f85b30d4bfd77d8024e5ce654919e8e93bf3faacdc)  2308.95017608
+
+[https://dogechain.info/tx/ed9163275bf1c29d119d38e2e0dd6fc224b84456e029ce7a8d80b4856649bc19](https://dogechain.info/tx/ed9163275bf1c29d119d38e2e0dd6fc224b84456e029ce7a8d80b4856649bc19)  942.17999915
+
+[https://dogechain.info/tx/4c4900623b7c0b0e107eabd95c177a9a1515d7f89f235ee93be8d6a53a3a3679](https://dogechain.info/tx/4c4900623b7c0b0e107eabd95c177a9a1515d7f89f235ee93be8d6a53a3a3679)  20.01370369
+
 {% hint style="danger" %}
- 注意，以下项目可能是庞氏骗局！请勿投资。
+注意，以下项目可能是庞氏骗局！请勿投资。
 
 这个是传销，不要幻想了。  
   
