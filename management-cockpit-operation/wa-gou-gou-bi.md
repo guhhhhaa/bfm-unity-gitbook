@@ -35,6 +35,10 @@
 
 [https://dogechain.info/tx/4c4900623b7c0b0e107eabd95c177a9a1515d7f89f235ee93be8d6a53a3a3679](https://dogechain.info/tx/4c4900623b7c0b0e107eabd95c177a9a1515d7f89f235ee93be8d6a53a3a3679)  20.01370369
 
+## 已经向慢雾科技提交了情报
+
+[https://slowmist.io/result.html?sid=90b88493-3ab513c1-7012-4b11-9690-19136ff5d0d9](https://slowmist.io/result.html?sid=90b88493-3ab513c1-7012-4b11-9690-19136ff5d0d9)
+
 {% hint style="danger" %}
 注意，以下项目可能是庞氏骗局！请勿投资。
 
