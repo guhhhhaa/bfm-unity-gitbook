@@ -20,12 +20,12 @@
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210410-xia-wu-3.07.19.png)
 
-## 充值记录
+## 充值记录 \(仅供日后报警\)
 
 [https://dogechain.info/tx/3aa4f25876839a5bb76f5ccc594017794987f0cb74431f037817bc203a3c540d](https://dogechain.info/tx/3aa4f25876839a5bb76f5ccc594017794987f0cb74431f037817bc203a3c540d)  110286.00000000  
 
 
-## 提现记录
+## 提现记录 \(仅供日后报警\)
 
 [https://dogechain.info/tx/490241e8e3c37280ca51f83da4ef0bda3a81d12f24ea31279ebefed764ccb9ee](https://dogechain.info/tx/490241e8e3c37280ca51f83da4ef0bda3a81d12f24ea31279ebefed764ccb9ee)  5818.89582601
 
