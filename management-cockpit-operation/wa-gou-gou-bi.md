@@ -18,6 +18,14 @@
 
 {% embed url="https://wowdoge.io/?p=167731" %}
 
+Do you work with monitoring systems? 
+
+No, as far as we know – monitoring is very expensive and not always proper way for marketing. We don’t want to hesitate our project and believe that it should work as much as he can. And if we will show our customers our stability they will recommend as from their side and better we will give them money that we will spent on marketing to our loyal customers versus monitoring systems.  
+  
+I need help!
+
+Write an email **support@wowdoge.io** we will answer all your questions!
+
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210410-xia-wu-3.07.19.png)
 
 ## 充值记录 \(仅供日后报警\)
@@ -37,7 +45,9 @@
 
 ## 已经向慢雾科技提交了情报
 
-[https://slowmist.io/result.html?sid=90b88493-3ab513c1-7012-4b11-9690-19136ff5d0d9](https://slowmist.io/result.html?sid=90b88493-3ab513c1-7012-4b11-9690-19136ff5d0d9)
+[https://slowmist.io/result.html?sid=90b88493-3a](https://slowmist.io/result.html?sid=90b88493-3ab513c1-7012-4b11-9690-19136ff5d0d9)
+
+[b513c1-7012-4b11-9690-19136ff5d0d9](https://slowmist.io/result.html?sid=90b88493-3ab513c1-7012-4b11-9690-19136ff5d0d9)
 
 {% hint style="danger" %}
 注意，以下项目可能是庞氏骗局！请勿投资。
