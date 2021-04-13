@@ -1,4 +1,4 @@
-# 挖狗狗币 Ð 🐶
+# 挖狗狗币 Ð 🐶（⚠️风险，请勿靠近）
 
 {% embed url="https://www.bilibili.com/video/BV1Pz4y1D7Wb" %}
 

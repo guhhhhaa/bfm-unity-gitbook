@@ -3,7 +3,7 @@
 * [主舰桥 \(引导\) 🇺🇳](README.md)
 * [驾驶舱 \(运行\) 🚜](management-cockpit-operation/README.md)
   * [卓尔金历法/GPS 🕙](management-cockpit-operation/ling-hang-duo-lei-da.md)
-  * [挖狗狗币 Ð 🐶](management-cockpit-operation/wa-gou-gou-bi.md)
+  * [挖狗狗币 Ð 🐶（⚠️风险，请勿靠近）](management-cockpit-operation/wa-gou-gou-bi.md)
   * [考试报名](management-cockpit-operation/kao-shi-bao-ming.md)
   * [云POS无卡支付](management-cockpit-operation/zhe-die.md)
   * [数学利器](management-cockpit-operation/shu-xue-li-qi.md)
