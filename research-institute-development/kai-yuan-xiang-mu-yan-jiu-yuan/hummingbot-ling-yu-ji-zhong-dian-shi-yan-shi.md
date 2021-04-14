@@ -14,5 +14,5 @@
 
 {% embed url="https://github.com/CoinAlpha/hummingbot\_chinese" %}
 
-
+{% embed url="https://www.bilibili.com/video/BV1oX4y1g7Kp" %}
 
