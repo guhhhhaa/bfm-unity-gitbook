@@ -24,6 +24,8 @@
 
 {% embed url="https://www.bilibili.com/video/BV13x411R7Lf" %}
 
+![](../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
+
 #### 熊市：下跌到顶点的1/4
 
 #### 震荡市：振荡上涨2倍 
