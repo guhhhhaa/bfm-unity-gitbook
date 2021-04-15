@@ -1,5 +1,21 @@
 # 会客厅 \(赞助\) 💰 & 资产公示
 
+## 入群费用
+
+由于QQ关闭了付费入群，为了防止群主被白嫖，设置付费入群10DOGE。
+
+群主币安地址 :（币安规则，站内转账会退还手续费，所以不必担心手续费问题） 
+
+```text
+D5pFBzY5bPciwM5is1kuLk3jk2wtVntked
+```
+
+发送10DOGE后，私聊群主，提供DOGE链浏览器的交易链接，即可正式入群。
+
+否则会在入群后5个工作日内被踢，望周知。
+
+2021.4.15生效。之前加群的老用户不适用此设置。
+
 ## 赞助
 
 ### 社区Token/NFT拍卖（由 [OpenSea](https://opensea.io/collections) 和 [Rarible](https://rarible.com/) 支持）

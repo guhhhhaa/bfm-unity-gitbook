@@ -48,7 +48,9 @@ D5pFBzY5bPciwM5is1kuLk3jk2wtVntked
 
 2021.4.15生效。之前加群的老用户不适用此设置。
 
-收费原因：我们的域名需要在腾讯云续费，每年75元
+收费原因：我们的域名需要在腾讯云续费，每年65元。
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210415-xia-wu-12.40.19.png)
 
 ## 微信群（可能失效，加[群主](https://www.bfm-unity.com/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi)可拉你进群）
 
