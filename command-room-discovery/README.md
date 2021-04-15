@@ -118,6 +118,8 @@ description: Command Room (Discovery)
 
 ## 比特币指标
 
+### 指标组1
+
 * Datamish：[https://datamish.com/](https://datamish.com/) 
 * Coinfarm：[https://coinfarm.online/](https://coinfarm.online/) 
 * Binance Pump monitor：[http://t.cn/A6Awr8IS](http://t.cn/A6Awr8IS) 
@@ -125,6 +127,19 @@ description: Command Room (Discovery)
 * Bfxrate：[https://bfxrates.com/](https://bfxrates.com/) 
 * Tensorcharts：[https://www.tensorcharts.com/](https://www.tensorcharts.com/) 
 * [https://www.bilibili.com/video/BV1Be411s7pj](https://www.bilibili.com/video/BV1Be411s7pj)
+
+### 指标组2
+
+* [HODL Waves](https://unchained-capital.com/hodlwaves/) - Unchained Capital
+* [永续合约费率](https://www.binance.com/zh-CN/futures/funding-history/1) - 币安
+
+[https://zhuanlan.zhihu.com/p/363634673](https://zhuanlan.zhihu.com/p/363634673)
+
+[https://zhuanlan.zhihu.com/p/66506343](https://zhuanlan.zhihu.com/p/66506343)
+
+[https://zhuanlan.zhihu.com/p/359214506](https://zhuanlan.zhihu.com/p/359214506)
+
+### 指标组3
 
 {% tabs %}
 {% tab title="MVRV" %}
