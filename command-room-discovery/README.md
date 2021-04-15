@@ -130,14 +130,27 @@ description: Command Room (Discovery)
 
 ### 指标组2
 
+{% tabs %}
+{% tab title="永续合约费率" %}
+* [永续合约费率](https://www.binance.com/zh-CN/futures/funding-history/1) - 币安
+
+当市场趋势看涨时，资金费率为正，此时多头将向空头支付资金费率。相反，当市场看跌时，资金费率为负，此时是空头交易者向多头支付
+{% endtab %}
+
+{% tab title="HODL Waves" %}
+* [HODL Waves](https://unchained-capital.com/hodlwaves/) - Unchained Capital
+{% endtab %}
+{% endtabs %}
+
 * [HODL Waves](https://unchained-capital.com/hodlwaves/) - Unchained Capital
 * [永续合约费率](https://www.binance.com/zh-CN/futures/funding-history/1) - 币安
 
-[https://zhuanlan.zhihu.com/p/363634673](https://zhuanlan.zhihu.com/p/363634673)
+[https://zhuanlan.zhihu.com/p/363634673](https://zhuanlan.zhihu.com/p/363634673) - [HODL Waves](https://unchained-capital.com/hodlwaves/) 可能有点用
 
-[https://zhuanlan.zhihu.com/p/66506343](https://zhuanlan.zhihu.com/p/66506343)
+[https://zhuanlan.zhihu.com/p/66506343](https://zhuanlan.zhihu.com/p/66506343) - 基本没卵用
 
-[https://zhuanlan.zhihu.com/p/359214506](https://zhuanlan.zhihu.com/p/359214506)
+[https://zhuanlan.zhihu.com/p/359214506](https://zhuanlan.zhihu.com/p/359214506) - 资金费率还有点用  
+
 
 ### 指标组3
 
