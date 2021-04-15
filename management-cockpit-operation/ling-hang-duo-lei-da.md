@@ -22,6 +22,8 @@
 ### [宣传视频](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
 {% endhint %}
 
+{% embed url="https://www.bilibili.com/video/BV13x411R7Lf" %}
+
 ![](../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
 
 #### 熊市：下跌到顶点的1/4
