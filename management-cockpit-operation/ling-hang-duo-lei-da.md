@@ -19,14 +19,14 @@
 {% endhint %}
 
 {% hint style="success" %}
-### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV155411c7HW/)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
+### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
 {% endhint %}
 
 ![](../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
 
 #### [http://www.chidaolian.com/article-45496-1](http://www.chidaolian.com/article-45496-1)
 
-#### 熊市：下跌到顶点的1/4
+#### 熊市：下跌到顶点的1/5
 
 #### 震荡市：振荡上涨2倍 
 
