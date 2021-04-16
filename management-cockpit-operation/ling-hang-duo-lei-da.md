@@ -19,14 +19,12 @@
 {% endhint %}
 
 {% hint style="success" %}
-### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
+### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV155411c7HW/)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
 {% endhint %}
 
 ![](../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
 
-#### [http://www.chidaolian.com/article-45496-1](http://www.chidaolian.com/article-45496-1)
-
-#### 熊市：下跌到顶点的1/5
+#### 熊市：下跌到顶点的1/4
 
 #### 震荡市：振荡上涨2倍 
 
@@ -95,8 +93,6 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 ![&#x4E09;&#x6B21;&#x5E73;&#x6ED1;](../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.28.png)
 
 ![&#x65B0;&#x6982;&#x578B;](../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.48.20.png)
-
-![&#x8D85;&#x9AD8;&#x6E05;](../.gitbook/assets/ping-mu-kuai-zhao-20210416-xia-wu-1.16.07.png)
 
 ## 确定仓位
 
