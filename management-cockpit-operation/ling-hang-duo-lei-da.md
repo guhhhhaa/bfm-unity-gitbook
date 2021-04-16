@@ -24,6 +24,8 @@
 
 ![](../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
 
+#### [http://www.chidaolian.com/article-45496-1](http://www.chidaolian.com/article-45496-1)
+
 #### 熊市：下跌到顶点的1/4
 
 #### 震荡市：振荡上涨2倍 
