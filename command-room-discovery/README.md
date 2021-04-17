@@ -114,7 +114,7 @@ description: Command Room (Discovery)
 * \*\*\*\*[**Token Terminal**](https://www.tokenterminal.com/)\*\*\*\*
 * \*\*\*\*[**DeFi Pulse**](https://defipulse.com/)\*\*\*\*
 * \*\*\*\*[**Etherscan**](https://etherscan.io/)\*\*\*\*
-  * [**以太坊的数据指标 - Etherscan**](https://etherscan.io/charts)\*\*\*\*
+  * [**以太坊指标 - Etherscan**](https://etherscan.io/charts)\*\*\*\*
 
 ## 比特币指标
 
