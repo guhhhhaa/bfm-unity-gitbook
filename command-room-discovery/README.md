@@ -13,7 +13,7 @@ description: Command Room (Discovery)
 ## 传统区块链
 
 {% tabs %}
-{% tab title="导航网站" %}
+{% tab title="导航网站 🧭" %}
 * [**QKL123**](https://www.qkl123.com/data) **\(比特币数据\)**
 * [**BlockSite**](https://www.blocksite.org/) **\(项目介绍\)**
 * \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true) **\(市值比较\)**
@@ -25,7 +25,7 @@ description: Command Room (Discovery)
 * \*\*\*\*[**Block123**](https://www.block123.com/zh-hans/) **\(导航网站\)**
 {% endtab %}
 
-{% tab title="挖矿" %}
+{% tab title="挖矿 🔨" %}
 * \*\*\*\*[**好站点**](https://www.hzd.com/hashrate)\*\*\*\*
 {% endtab %}
 
