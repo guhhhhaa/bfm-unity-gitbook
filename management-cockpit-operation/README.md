@@ -72,7 +72,7 @@ description: Management Cockpit (Operation)
 
 ## Ðoge 云挖矿\(⚠️有风险，请勿靠近\)
 
-{% page-ref page="wa-gou-gou-bi.md" %}
+{% page-ref page="../la-ji-hui-shou-zhan/wa-gou-gou-bi.md" %}
 
 ## 基金股票
 
