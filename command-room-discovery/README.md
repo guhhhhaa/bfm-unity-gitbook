@@ -103,10 +103,10 @@ description: Command Room (Discovery)
 
 ## 数据分析工具
 
-* \*\*\*\*[**Dune Analytics**](https://duneanalytics.com/home)\*\*\*\*
-  * \*\*\*\*[**去中心化交易所的仪表盘 - Dune Analytics**](https://duneanalytics.com/hagaetc/dex-metrics)\*\*\*\*
-  * \*\*\*\*[**MakerDAO 的仪表盘 - Dune Analytics**](https://duneanalytics.com/hagaetc/maker-dao---mcd)\*\*\*\*
-  * \*\*\*\*[**0x 的仪表盘 - Dune Analytics**](https://duneanalytics.com/0x/0x-trading-activity)\*\*\*\*
+* \*\*\*\*[**Dune Analytic**](https://duneanalytics.com/home)
+  * \*\*\*\*[**DEX - Dune Analytics**](https://duneanalytics.com/hagaetc/dex-metrics)\*\*\*\*
+  * \*\*\*\*[**MakerDAO - Dune Analytics**](https://duneanalytics.com/hagaetc/maker-dao---mcd)\*\*\*\*
+  * \*\*\*\*[**0x - Dune Analytic**](https://duneanalytics.com/0x/0x-trading-activity)
 * \*\*\*\*[**Messari**](https://messari.io/)\*\*\*\*
 * \*\*\*\*[**NansΞn**](https://www.nansen.ai/)\*\*\*\*
   * **Token God Mode - NansΞn**
