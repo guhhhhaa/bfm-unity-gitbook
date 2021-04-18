@@ -7,7 +7,6 @@
   * [云POS无卡支付](management-cockpit-operation/zhe-die.md)
   * [数学利器](management-cockpit-operation/shu-xue-li-qi.md)
   * [黄金投资](management-cockpit-operation/huang-jin-tou-zi.md)
-  * [神经网络策略（已淘汰）](management-cockpit-operation/shen-jing-wang-luo-ce-lve.md)
   * [基金投资](management-cockpit-operation/ji-jin-tou-zi.md)
   * [选股](management-cockpit-operation/xuan-gu.md)
   * [可转债打新](management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
@@ -70,6 +69,7 @@
   * [发现网站](shi-yong-gong-ju/fa-xian-wang-zhan.md)
   * [B站视频下载 🎬 ⏬](shi-yong-gong-ju/b-zhan-shi-pin-xia-zai.md)
 * [【垃圾】回收站 ♻️](la-ji-hui-shou-zhan/README.md)
+  * [神经网络策略（已淘汰）](la-ji-hui-shou-zhan/shen-jing-wang-luo-ce-lve.md)
   * [挖狗狗币 Ð 🐶（⚠️风险，请勿靠近）](la-ji-hui-shou-zhan/wa-gou-gou-bi.md)
   * [MVRV-被折叠](la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md)
 
