@@ -72,4 +72,5 @@
   * [神经网络策略（已淘汰）](la-ji-hui-shou-zhan/shen-jing-wang-luo-ce-lve.md)
   * [挖狗狗币 Ð 🐶（⚠️风险，请勿靠近）](la-ji-hui-shou-zhan/wa-gou-gou-bi.md)
   * [MVRV-被折叠](la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md)
+  * [从驾驶舱卸下的垃圾](la-ji-hui-shou-zhan/cong-jia-shi-cang-xie-xia-de-la-ji.md)
 
