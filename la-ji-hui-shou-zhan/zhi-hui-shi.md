@@ -9,3 +9,6 @@
 
 [https://zhuanlan.zhihu.com/p/359214506](https://zhuanlan.zhihu.com/p/359214506) - 资金费率
 
+* Binance Pump monitor：[http://t.cn/A6Awr8IS](http://t.cn/A6Awr8IS) 
+* Binance Taker Trading Analysis：[http://t.cn/A6AwrHAd](http://t.cn/A6AwrHAd) 
+

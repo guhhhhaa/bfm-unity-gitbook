@@ -121,13 +121,11 @@ description: Command Room (Discovery)
 
 ### 指标组1
 
-* Datamish：[https://datamish.com/](https://datamish.com/) 
-* Coinfarm：[https://coinfarm.online/](https://coinfarm.online/) 
-* Binance Pump monitor：[http://t.cn/A6Awr8IS](http://t.cn/A6Awr8IS) 
-* Binance Taker Trading Analysis：[http://t.cn/A6AwrHAd](http://t.cn/A6AwrHAd) 
-* Bfxrate：[https://bfxrates.com/](https://bfxrates.com/) 
-* Tensorcharts：[https://www.tensorcharts.com/](https://www.tensorcharts.com/) 
-* [https://www.bilibili.com/video/BV1Be411s7pj](https://www.bilibili.com/video/BV1Be411s7pj)
+* [**Datamish**](https://datamish.com/)\*\*\*\*
+* \*\*\*\*[**Coinfarm**](https://coinfarm.online/)\*\*\*\*
+* \*\*\*\*[**Bfxrate**](https://bfxrates.com/)\*\*\*\*
+* \*\*\*\*[**Tensorcharts**](https://www.tensorcharts.com/) ****
+* \*\*\*\*[**B站视频**](https://www.bilibili.com/video/BV1Be411s7pj)\*\*\*\*
 
 ### 指标组2
 
