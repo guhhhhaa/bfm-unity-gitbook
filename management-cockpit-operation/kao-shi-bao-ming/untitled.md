@@ -1,5 +1,9 @@
 # 公务员面试
 
+## 视频 <a id="1-ying-ji-ying-bian"></a>
+
+{% embed url="https://www.bilibili.com/video/BV1kJ411s71p" %}
+
 ## 1 应急应变 <a id="1-ying-ji-ying-bian"></a>
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MYUDnCzDVdyHgE2Xs8O%2F-MYUMBOu-9vDyJGfwXnY%2F-MYUMYSzv806xeg-NHYm%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-04-17%20%E4%B8%8B%E5%8D%886.26.23.png?alt=media&token=b0a9cd2b-847b-4a16-a603-0d9179854f77)

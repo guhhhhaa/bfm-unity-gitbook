@@ -8,11 +8,9 @@
 
 {% embed url="https://www.bilibili.com/video/BV12v411h7MS" %}
 
-
-
 ## 公务员申论
 
-[https://m.xue.huatu.com/nologin/video\_play/32977/](https://m.xue.huatu.com/nologin/video_play/32977/)
+{% embed url="https://m.xue.huatu.com/nologin/video\_play/32977/" %}
 
 ## 公务员面试
 
