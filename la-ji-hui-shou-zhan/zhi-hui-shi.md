@@ -16,7 +16,7 @@
 
 {% tabs %}
 {% tab title="Sharpe Ratio" %}
-\*\*\*\*[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)\*\*\*\*
+\*\*\*\*[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)
 {% endtab %}
 
 {% tab title="活跃地址数" %}
@@ -57,5 +57,9 @@
 {% endtab %}
 {% endtabs %}
 
-### 
+## 游戏地图：
+
+{% embed url="https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python/defi-amm" %}
+
+
 

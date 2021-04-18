@@ -366,7 +366,3 @@ Optimistic Rollup\(乐观卷叠\)
 
 ## MetaMask 清除 Pending 状态方法：点头像-设置-高级-重设账户
 
-## 游戏地图：
-
-{% embed url="https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python/defi-amm" %}
-
