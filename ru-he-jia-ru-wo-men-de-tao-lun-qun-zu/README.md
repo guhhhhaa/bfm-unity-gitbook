@@ -32,26 +32,6 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 
 ![QQ&#x7FA4;&#x7EC4;&#xFF1A;708912525](../.gitbook/assets/1584954098283.png)
 
-## 入群费用
-
-由于QQ在2021.4.14关闭了付费入群，为了防止群主被白嫖，设置付费入群10DOGE。
-
-群主币安地址 :（币安规则，站内转账会退还手续费，所以不必担心手续费问题） 
-
-```text
-D5pFBzY5bPciwM5is1kuLk3jk2wtVntked
-```
-
-发送10DOGE后，私聊群主，提供DOGE链浏览器的交易链接，即可正式入群。
-
-否则会在入群后5个工作日内被踢，望周知。
-
-2021.4.15生效。之前加群的老用户不适用此设置。
-
-收费原因：我们的域名需要在腾讯云续费，每年65元。
-
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210415-xia-wu-12.40.19.png)
-
 ## 微信群（可能失效，加[群主](https://www.bfm-unity.com/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi)可拉你进群）
 
 ![](../.gitbook/assets/6ba1bcf02ffd6ab8f4186253e7759948.png)
