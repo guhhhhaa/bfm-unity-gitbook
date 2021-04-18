@@ -1,4 +1,4 @@
-# MVRV-被折叠
+# MVRV
 
 #### [原始策略](https://share.weiyun.com/a0QaKX11)（[介绍视频](https://www.bilibili.com/video/BV1uA411g7Sn)）
 
