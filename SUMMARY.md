@@ -69,6 +69,7 @@
   * [发现网站](shi-yong-gong-ju/fa-xian-wang-zhan.md)
   * [B站视频下载 🎬 ⏬](shi-yong-gong-ju/b-zhan-shi-pin-xia-zai.md)
 * [【垃圾】回收站 ♻️](la-ji-hui-shou-zhan/README.md)
+  * [指挥室](la-ji-hui-shou-zhan/zhi-hui-shi.md)
   * [神经网络策略](la-ji-hui-shou-zhan/shen-jing-wang-luo-ce-lve.md)
   * [挖狗狗币](la-ji-hui-shou-zhan/wa-gou-gou-bi.md)
   * [MVRV](la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md)
