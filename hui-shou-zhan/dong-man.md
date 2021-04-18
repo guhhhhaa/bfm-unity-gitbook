@@ -4,6 +4,10 @@
 
 [https://www.ranker.com/list/anime-about-outer-space/anna-lindwasser](https://www.ranker.com/list/anime-about-outer-space/anna-lindwasser)
 
+![](../.gitbook/assets/image%20%281%29.png)
+
+## [上面这个标志的由来](http://www.dilidili3.com/play/3998/135852.html)（请直接跳到01:27:52）
+
 {% embed url="https://www.bilibili.com/read/cv2964598/" %}
 
 {% embed url="https://www.bilibili.com/bangumi/play/ep114882" %}
