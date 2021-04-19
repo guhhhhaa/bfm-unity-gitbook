@@ -38,6 +38,48 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MYUDnCzDVdyHgE2Xs8O%2F-MYUQ4B-jSTQLXDYRuFE%2F-MYUQnoImJqcDmaPu-gk%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-04-17%20%E4%B8%8B%E5%8D%886.44.55.png?alt=media&token=9b72ca81-6e61-4d35-9bc8-98f5745c75e1)
 
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.13.49.png)
+
+## 7 - 沟通协调 <a id="1516-zong-he-neng-li"></a>
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.16.11.png)
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.20.15.png)
+
+## 8 - 组织计划
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.27.55.png)
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.28.05.png)
+
+## 9 - 情景模拟
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.29.38.png)
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.31.19.png)
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.33.35.png)
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.40.01.png)
+
+## 11-12 漫画 <a id="1516-zong-he-neng-li"></a>
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.57.44.png)
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.59.08.png)
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.02.54.png)
+
+## 13 组织计划
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.10.05.png)
+
+## 14 社会现象
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.14.25.png)
+
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.22.00.png)
+
 ## 15-16 综合能力 <a id="1516-zong-he-neng-li"></a>
 
 社会现象题 - 对策‌
