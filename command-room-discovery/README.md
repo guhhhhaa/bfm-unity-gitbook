@@ -149,6 +149,12 @@ description: Command Room (Discovery)
 * \*\*\*\*[**比特币减半-QKL123**](https://www.qkl123.com/data/halve/btc) ****[**其他数据**](https://www.qkl123.com/data)\*\*\*\*
 {% endtab %}
 
+{% tab title="CFTC持仓报告" %}
+[https://www.cftc.gov/dea/futures/deacmesf.htm](https://www.cftc.gov/dea/futures/deacmesf.htm)
+
+[https://www.tradingster.com/cot/futures/fin/133741](https://www.tradingster.com/cot/futures/fin/133741)
+{% endtab %}
+
 {% tab title="USDT发行量" %}
 * [**USDT市值TradingView**](https://www.tradingview.com/symbols/CRYPTOCAP-USDT/) **&** [**USDT发行量与比特币价格**](https://www.longhash.com/cn/livecharts/USDT-circulation-and-bitcoin-prices) **&** [**USDT市值**](https://coinmarketcap.com/currencies/tether/)
 
