@@ -58,7 +58,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 战略合作伙伴 <a id="zhan-lve-he-zuo-huo-ban"></a>
 
-![](.gitbook/assets/bfm-unity-zhan-lve-he-zuo-huo-ban-%20%283%29.png)
+![](.gitbook/assets/bfm-unity-zhan-lve-he-zuo-huo-ban-%20%282%29.png)
 
 ## 愿景及使命 <a id="yuan-jing-ji-shi-ming"></a>
 
