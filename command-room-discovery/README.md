@@ -29,6 +29,8 @@ description: Command Room (Discovery)
 {% tab title="挖矿 🔨" %}
 * \*\*\*\*[**好站点 - 云算力**](https://www.hzd.com/hashrate) ****
 * \*\*\*\*[**挖矿入门教程**](https://www.hzd.com/course)
+* [比特小鹿](https://www.bitdeer.com/)
+* [币印云矿](https://mining.poolin.com/)
 
 **\(仅供参考，不构成本网站意见\)**
 {% endtab %}
