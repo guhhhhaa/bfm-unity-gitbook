@@ -28,9 +28,8 @@ description: Command Room (Discovery)
 
 {% tab title="挖矿 🔨" %}
 * \*\*\*\*[**好站点 - 云算力**](https://www.hzd.com/hashrate) ****
+* \*\*\*\*[**Block123 - 云算力**](https://www.block123.com/zh-hant/c/016707973922.htm?tid=78)\*\*\*\*
 * \*\*\*\*[**挖矿入门教程**](https://www.hzd.com/course)
-
-
 
 **\(仅供参考，不构成本网站意见\)**
 {% endtab %}
