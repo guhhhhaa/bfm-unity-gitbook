@@ -23,7 +23,7 @@ description: Command Room (Discovery)
 * \*\*\*\*[**其他区块链数据分析网站**](https://medium.com/@chainnews/%E9%80%81%E4%BD%A0-22-%E4%B8%AA%E9%93%BE%E4%B8%8A%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%A9%E5%99%A8-%E6%B4%9E%E7%A9%BF%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E9%87%8D%E9%87%8D%E8%BF%B7%E9%9B%BE-b57f5b4b5727)\*\*\*\*
 * \*\*\*\*[**Gas费**](https://gasnow.sparkpool.com/)\*\*\*\*
 * \*\*\*\*[**Block123**](https://www.block123.com/zh-hans/) **\(导航网站\)**
-* [the Block](https://www.theblockcrypto.com/data/)
+* [**the Block**](https://www.theblockcrypto.com/data/)\*\*\*\*
 {% endtab %}
 
 {% tab title="挖矿 🔨" %}
