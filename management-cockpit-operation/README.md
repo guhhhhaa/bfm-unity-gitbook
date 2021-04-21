@@ -42,7 +42,7 @@ description: Management Cockpit (Operation)
 ##  **DeFi 操作面板**
 
 {% hint style="success" %}
-* \*\*\*\*[**DeBank**](https://debank.com/swap)\*\*\*\*
+* \*\*\*\*[**DeBank**](https://debank.com/swap) **\(**[**协议列表**](https://debank.com/projects)**\)**
 * [**Zapper.fi**](https://www.zapper.fi/)
 * \*\*\*\*[**Zerion**](https://app.zerion.io/exchange) ****
 * **🦄️** [**Uniswap**](https://app.uniswap.org/)  **\|**  [**Uniswap Info**](https://info.uniswap.org/)  ****🆕
