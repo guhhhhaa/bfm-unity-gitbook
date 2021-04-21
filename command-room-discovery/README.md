@@ -28,7 +28,7 @@ description: Command Room (Discovery)
 
 {% tab title="挖矿 🔨" %}
 * \*\*\*\*[**好站点**](https://www.hzd.com/hashrate)\*\*\*\*
-* \*\*\*\*[**https://unmineable.com/coins**](https://unmineable.com/coins)\*\*\*\*
+* \*\*\*\*[**挖矿入门教程**](https://www.hzd.com/course)\*\*\*\*
 {% endtab %}
 
 {% tab title="法币OTC/C2C交易" %}
