@@ -27,8 +27,10 @@ description: Command Room (Discovery)
 {% endtab %}
 
 {% tab title="挖矿 🔨" %}
-* \*\*\*\*[**好站点**](https://www.hzd.com/hashrate)\*\*\*\*
-* \*\*\*\*[**挖矿入门教程**](https://www.hzd.com/course)\*\*\*\*
+* \*\*\*\*[**好站点 - 云算力**](https://www.hzd.com/hashrate) ****
+* \*\*\*\*[**挖矿入门教程**](https://www.hzd.com/course)
+
+**\(仅供参考，不构成本网站意见\)**
 {% endtab %}
 
 {% tab title="法币OTC/C2C交易" %}
