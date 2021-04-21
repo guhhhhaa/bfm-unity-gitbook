@@ -118,7 +118,7 @@ description: Command Room (Discovery)
 * \*\*\*\*[**Etherscan**](https://etherscan.io/)\*\*\*\*
   * [**以太坊指标 - Etherscan**](https://etherscan.io/charts)
 
-著名地址：[0xb1](https://debank.com/profile/0xb1adceddb2941033a090dd166a462fe1c2029484)
+**著名地址:** [**0xb1**](https://debank.com/profile/0xb1adceddb2941033a090dd166a462fe1c2029484)\*\*\*\*
 
 ## 比特币指标
 
@@ -153,9 +153,8 @@ description: Command Room (Discovery)
 {% endtab %}
 
 {% tab title="CFTC持仓报告" %}
-[https://www.cftc.gov/dea/futures/deacmesf.htm](https://www.cftc.gov/dea/futures/deacmesf.htm)
-
-[https://www.tradingster.com/cot/futures/fin/133741](https://www.tradingster.com/cot/futures/fin/133741)
+* [原报告](https://www.cftc.gov/dea/futures/deacmesf.htm)
+* [可视化报告](https://www.tradingster.com/cot/futures/fin/133741)
 {% endtab %}
 
 {% tab title="USDT发行量" %}
