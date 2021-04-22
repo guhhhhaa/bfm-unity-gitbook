@@ -14,6 +14,8 @@ description: Command Room (Discovery)
 
 [5种常见的加密货币诈骗与防范策略](https://academy.binance.com/zh/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them)
 
+[8种常见的比特币骗局及其防范策略](https://academy.binance.com/zh/articles/8-common-bitcoin-scams-and-how-to-avoid-them)
+
 ## 传统区块链
 
 {% tabs %}
