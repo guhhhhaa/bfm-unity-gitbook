@@ -12,9 +12,13 @@ description: Command Room (Discovery)
 
 ## 网络安全
 
+[币安学院 - 安全](https://academy.binance.com/zh/articles?tags=security)
+
 [5种常见的加密货币诈骗与防范策略](https://academy.binance.com/zh/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them)
 
 [8种常见的比特币骗局及其防范策略](https://academy.binance.com/zh/articles/8-common-bitcoin-scams-and-how-to-avoid-them)
+
+[如何识别去中心化金融\(DeFi\)中的骗局](https://academy.binance.com/zh/articles/how-to-spot-scams-in-decentralized-finance-defi)
 
 ## 传统区块链
 
@@ -158,7 +162,8 @@ description: Command Room (Discovery)
 {% endtab %}
 
 {% tab title="🚩减半" %}
-* \*\*\*\*[**比特币减半-QKL123**](https://www.qkl123.com/data/halve/btc) ****[**其他数据**](https://www.qkl123.com/data)\*\*\*\*
+* \*\*\*\*[**比特币减半 - QKL123**](https://www.qkl123.com/data/halve/btc)\*\*\*\*
+* \*\*\*\*[**比特币减半 - 币安学院**](https://academy.binance.com/zh/halving) ****[**其他数据**](https://www.qkl123.com/data)\*\*\*\*
 {% endtab %}
 
 {% tab title="CFTC持仓报告" %}
