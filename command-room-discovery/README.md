@@ -151,6 +151,10 @@ description: Command Room (Discovery)
 * \*\*\*\*[**S2F目标价格**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
 {% endtab %}
 
+{% tab title="彩虹图🌈" %}
+* [彩虹图🌈](https://www.blockchaincenter.net/bitcoin-rainbow-chart/)
+{% endtab %}
+
 {% tab title="永续合约费率" %}
 * [永续合约费率](https://www.binance.com/zh-CN/futures/funding-history/1) - 币安
 

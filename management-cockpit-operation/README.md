@@ -32,7 +32,7 @@ description: Management Cockpit (Operation)
   
   ****
 
-* [**MVRV**](https://www.blockchain.com/charts/mvrv)[（](https://www.jianshu.com/p/f6992e6c6ea6)[Python获取MVRV](https://coinmetrics.io/newdata/split/btc_CapMVRVCur.txt)，[参考链接](https://www.jianshu.com/p/f6992e6c6ea6)）  \|  [**S2F**](https://www.qkl123.com/data/s2f/btc)  ****\|  [**HODL Waves**](https://unchained-capital.com/hodlwaves/)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)  \|  [CFTC持仓报告](https://www.tradingster.com/cot/futures/fin/133741)
+* [**MVRV**](https://www.blockchain.com/charts/mvrv)[（](https://www.jianshu.com/p/f6992e6c6ea6)[Python获取MVRV](https://coinmetrics.io/newdata/split/btc_CapMVRVCur.txt)，[参考链接](https://www.jianshu.com/p/f6992e6c6ea6)）  \|  [**S2F**](https://www.qkl123.com/data/s2f/btc)  ****\|  [**HODL Waves**](https://unchained-capital.com/hodlwaves/)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)  \|  [CFTC持仓报告](https://www.tradingster.com/cot/futures/fin/133741)  \|  [彩虹图🌈](https://www.blockchaincenter.net/bitcoin-rainbow-chart/)
 * [**CAPE**](https://www.gurufocus.cn/indicator/shiller_pe)   **\|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation) ****
 * [Sharpe Ratio](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  \|  [市值比较](https://assetdash.com/?all=true) 
 * [跟踪美联储操作](https://robo.datayes.com/v2/landing/monitor_detail?slotId=243342) 
