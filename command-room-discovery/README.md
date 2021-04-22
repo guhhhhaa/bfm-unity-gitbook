@@ -273,6 +273,12 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ![](../.gitbook/assets/0_f4drzr5wsbt3fbdw.jpeg)
 
+## 币安智能链
+
+[在币安智能链中关联MetaMask钱包](https://academy.binance.com/zh/articles/connecting-metamask-to-binance-smart-chain)
+
+[PancakeSwap指南](https://academy.binance.com/zh/articles/a-guide-to-pancakeswap)
+
 ## 借贷
 
 * \*\*\*\*[**Compound**](https://app.compound.finance/)\*\*\*\*
