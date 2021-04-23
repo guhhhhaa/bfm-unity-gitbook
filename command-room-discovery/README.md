@@ -23,7 +23,7 @@ description: Command Room (Discovery)
 ## 传统区块链
 
 {% tabs %}
-{% tab title="导航网站 🧭" %}
+{% tab title="导航网站🧭" %}
 * [**QKL123**](https://www.qkl123.com/data) **\(比特币数据\)**
 * \*\*\*\*[**the Block**](https://www.theblockcrypto.com/data/) **\(数据网站\)**
 * \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true) **\(市值比较\)**
@@ -36,7 +36,7 @@ description: Command Room (Discovery)
 * \*\*\*\*[**Block123**](https://www.block123.com/zh-hans/) **\(导航网站\)**
 {% endtab %}
 
-{% tab title="挖矿 🔨" %}
+{% tab title="挖矿🔨" %}
 * \*\*\*\*[**好站点 - 云算力**](https://www.hzd.com/hashrate) ****
 * \*\*\*\*[**Block123 - 云算力**](https://www.block123.com/zh-hant/c/016707973922.htm?tid=78)\*\*\*\*
 * \*\*\*\*[**挖矿入门教程**](https://www.hzd.com/course)
@@ -44,7 +44,7 @@ description: Command Room (Discovery)
 **\(仅供参考，不构成本网站意见\)**
 {% endtab %}
 
-{% tab title="法币OTC/C2C交易" %}
+{% tab title="法币交易👔" %}
 ![](../.gitbook/assets/cefi.png)
 
 * [**比特派钱包**](https://bitpie.com/)（**推荐**）
@@ -56,7 +56,7 @@ description: Command Room (Discovery)
 ![](../.gitbook/assets/image%20%284%29.png)
 {% endtab %}
 
-{% tab title="钱包" %}
+{% tab title="钱包💰" %}
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.26.51.png)
 
 * [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
@@ -68,7 +68,7 @@ description: Command Room (Discovery)
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.25.29.png)
 {% endtab %}
 
-{% tab title="交易所" %}
+{% tab title="交易所🏦" %}
 ## **交易所**
 
 * \*\*\*\*[**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI) **（返现比例：我**10%，你10%**）**
@@ -97,7 +97,7 @@ description: Command Room (Discovery)
 ![](../.gitbook/assets/mvrv-jian-ban-.png)
 {% endtab %}
 
-{% tab title="技术社区" %}
+{% tab title="技术社区🏠" %}
 * [**ETHfans**](https://ethfans.org/)\*\*\*\*
 {% endtab %}
 
