@@ -53,20 +53,17 @@ description: Command Room (Discovery)
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-## 量化
-
-* \*\*\*\*[**币优**](https://www.biyou.tech/)
-* \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)\*\*\*\*
-
 ## [流动性挖矿](https://www.binance.com/zh-CN/swap/liquidity)
 
 ![](../.gitbook/assets/binance-lp.png)
 
 ![](../.gitbook/assets/binance-lp2.png)
 
-* [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
+## 量化
 
-  \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
+* \*\*\*\*[**币优**](https://www.biyou.tech/)
+* \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)\*\*\*\*[**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
+* \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
 
 ![](../.gitbook/assets/mvrv.png)
 
