@@ -86,6 +86,8 @@ description: Command Room (Discovery)
 
 ![](../.gitbook/assets/binance-lp.png)
 
+![](../.gitbook/assets/binance-lp2.png)
+
 * [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
 
   \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
