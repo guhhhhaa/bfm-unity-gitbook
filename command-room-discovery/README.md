@@ -44,30 +44,6 @@ description: Command Room (Discovery)
 **\(仅供参考，不构成本网站意见\)**
 {% endtab %}
 
-{% tab title="法币交易👔" %}
-![](../.gitbook/assets/cefi.png)
-
-* [**比特派钱包**](https://bitpie.com/)（**推荐**）
-
-![](../.gitbook/assets/fei-shuai-bi-jiao-.png)
-
-* \*\*\*\*[**币安**](https://www.binance.com/cn) **（需要交提币手续费）**
-
-![](../.gitbook/assets/image%20%284%29.png)
-{% endtab %}
-
-{% tab title="钱包💰" %}
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.26.51.png)
-
-* [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
-* [**比特派钱包**](https://bitpie.com/)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
-* [**BitKeep**](https://bitkeep.org/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
-* [**TokenPocket**](https://www.tokenpocket.pro/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
-* \*\*\*\*[**更多-钱包筛选器**](https://www.qkl123.com/ranking/wallet?filter=true)\*\*\*\*
-
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.25.29.png)
-{% endtab %}
-
 {% tab title="交易所🏦" %}
 ## **交易所**
 
@@ -95,6 +71,30 @@ description: Command Room (Discovery)
 ![](../.gitbook/assets/mvrv.png)
 
 ![](../.gitbook/assets/mvrv-jian-ban-.png)
+{% endtab %}
+
+{% tab title="法币交易👔" %}
+![](../.gitbook/assets/cefi.png)
+
+* [**比特派钱包**](https://bitpie.com/)（**推荐**）
+
+![](../.gitbook/assets/fei-shuai-bi-jiao-.png)
+
+* \*\*\*\*[**币安**](https://www.binance.com/cn) **（需要交提币手续费）**
+
+![](../.gitbook/assets/image%20%284%29.png)
+{% endtab %}
+
+{% tab title="钱包💰" %}
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.26.51.png)
+
+* [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
+* [**比特派钱包**](https://bitpie.com/)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
+* [**BitKeep**](https://bitkeep.org/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
+* [**TokenPocket**](https://www.tokenpocket.pro/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
+* \*\*\*\*[**更多-钱包筛选器**](https://www.qkl123.com/ranking/wallet?filter=true)\*\*\*\*
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.25.29.png)
 {% endtab %}
 
 {% tab title="技术社区🏠" %}
