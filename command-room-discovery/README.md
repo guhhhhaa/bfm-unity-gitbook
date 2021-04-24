@@ -442,11 +442,9 @@ Optimistic Rollup\(乐观卷叠\)
 
 ## MetaMask 清除 Pending 状态方法：点头像-设置-高级-重设账户
 
+## 正在研究的文章
 
-
-## 群主正在研究的文章：
-
-[**科普 \| 你现在就可以在 Layer-2 上做的 7 件事**](https://www.chainnews.com/articles/721352629049.htm)
+[科普 \| 你现在就可以在 Layer-2 上做的 7 件事](https://www.chainnews.com/articles/721352629049.htm)
 
 [DeFi 投资门槛高？速览 24 个一站式 DeFi 投资平台](https://www.chainnews.com/articles/635773702973.htm)
 
