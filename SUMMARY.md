@@ -19,6 +19,7 @@
   * [素白 · 密斯卡托尼克大学 🏫](research-institute-development/xiao-bai-xue-cheng/README.md)
     * [Python少儿编程教室 👩‍🏫](research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
     * [开发环境搭建教室 👨‍🏫 🚩](research-institute-development/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
+    * [Power BI教程](research-institute-development/xiao-bai-xue-cheng/power-bi-jiao-cheng.md)
   * [玄黑 · 算法科学分院 🔭 🛰️](research-institute-development/suan-fa-yan-jiu-yuan.md)
   * [正黄 · API接口技术分院👩‍🚀👨‍🚀](research-institute-development/api-jie-kou-yan-jiu-yuan/README.md)
     * [币安API实验室🚩](research-institute-development/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
