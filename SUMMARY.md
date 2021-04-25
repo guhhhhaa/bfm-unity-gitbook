@@ -13,6 +13,7 @@
   * [可转债打新](management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [指挥室 \(探索\) 👔](command-room-discovery/README.md)
+  * [币安智能链](command-room-discovery/bi-an-zhi-neng-lian.md)
   * [Python Project](command-room-discovery/python.md)
 * [研究院 \(架构\) 🔬](research-institute-development/README.md)
   * [导游](research-institute-development/dao-you.md)
