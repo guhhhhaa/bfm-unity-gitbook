@@ -1,5 +1,9 @@
 # Power BI教程
 
+## MicroSoft 官网
+
+[**页面**](https://powerbi.microsoft.com/zh-cn/)  **\|**  [**下载**](https://powerbi.microsoft.com/zh-cn/downloads/)\*\*\*\*
+
 ## 网易云课堂
 
 [Power BI 1小时入门5.5万人在学](https://study.163.com/course/courseMain.htm?courseId=1004952006)
