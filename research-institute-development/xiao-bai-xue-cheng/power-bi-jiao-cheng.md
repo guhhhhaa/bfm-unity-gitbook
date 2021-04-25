@@ -12,7 +12,7 @@
 
 [Power BI 8小时掌握篇](https://study.163.com/course/introduction/1005644004.htm)
 
-## B站入门篇
+## B站 - 入门篇
 
 [小新Power BI课堂1小时入门篇-1 Power BI简介](https://www.bilibili.com/video/BV1Tb411n7gQ)
 
@@ -28,7 +28,7 @@
 
 [小新Power BI课堂 1小时入门篇-7使用多种客户端查看](https://www.bilibili.com/video/BV14b411E7TX)
 
-## B站进阶篇
+## B站 - 进阶篇
 
 [小新Power BI课堂3小时进阶篇-从文件夹获取数据](https://www.bilibili.com/video/BV14b411E7qQ)
 
@@ -36,7 +36,7 @@
 
 [小新Power BI课堂 3小时进阶篇-事实表和维度表](https://www.bilibili.com/video/BV14b411E7jV)
 
-## B站掌握篇
+## B站 - 掌握篇
 
 [小新Power BI课堂 8小时掌握篇-4灵活运用自定义函数](https://www.bilibili.com/video/BV14b411E7aJ)
 
