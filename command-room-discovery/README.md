@@ -268,6 +268,10 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 * [其他工具](https://www.bilibili.com/video/BV13D4y1o7Wh?p=1)
 
+
+
+[autofarm.network](https://autofarm.network/) - iUSDT vault
+
 ## **聚合器**
 
 ![](../.gitbook/assets/defi.png)
