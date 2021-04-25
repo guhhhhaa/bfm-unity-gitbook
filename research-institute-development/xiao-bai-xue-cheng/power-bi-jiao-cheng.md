@@ -1,6 +1,6 @@
 # Power BI 教程
 
-## MicroSoft 官网
+## MicroSoft 官网  \(免费\)
 
 [Power BI](https://powerbi.microsoft.com/zh-cn/)  **\|**  [**下载**](https://powerbi.microsoft.com/zh-cn/downloads/)\*\*\*\*
 
