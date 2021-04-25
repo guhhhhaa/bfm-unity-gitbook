@@ -6,7 +6,11 @@
 
 ## 网易云课堂
 
-[Power BI 1小时入门5.5万人在学](https://study.163.com/course/courseMain.htm?courseId=1004952006)
+[Power BI 1小时入门篇](https://study.163.com/course/courseMain.htm?courseId=1004952006)
+
+[Power BI 3小时进阶篇](https://study.163.com/course/introduction/1004994014.htm)
+
+[Power BI 8小时掌握篇](https://study.163.com/course/introduction/1005644004.htm)
 
 ## B站入门篇
 
