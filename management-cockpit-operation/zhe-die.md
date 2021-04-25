@@ -131,6 +131,17 @@
         <td style="text-align:left"></td>
         <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="http://oss.flmyzf.com/yzf/html/downloadapp/index.html#/"><b>&#x9890;&#x652F;&#x4ED8;</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
