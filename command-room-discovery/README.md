@@ -27,6 +27,7 @@ description: Command Room (Discovery)
 * [**QKL123**](https://www.qkl123.com/data) **\(比特币数据\)**
 * \*\*\*\*[**the Block**](https://www.theblockcrypto.com/data/) **\(数据网站\)**
 * \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true) **\(市值比较\)**
+* \*\*\*\*[**Coin360**](https://coin360.com/) **\(市值比较\)**
 * [**BlockSite**](https://www.blocksite.org/) **\(项目介绍\)**
 * \*\*\*\*[**巴比特**](https://www.8btc.com/) **&** [**链闻**](https://www.chainnews.com/) **\(新闻消息\)**
 * \*\*\*\*[**CoinMarketCap**](https://coinmarketcap.com/) **\(**[**CMC DeFi**](https://coinmarketcap.com/defi/)**\) \(**[**CMC Farming**](https://coinmarketcap.com/yield-farming/)**\)**
@@ -267,6 +268,10 @@ USDT市值增长的导数，决定了比特币的涨跌
   **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)
 
 * [其他工具](https://www.bilibili.com/video/BV13D4y1o7Wh?p=1)
+
+
+
+[autofarm.network](https://autofarm.network/) - iUSDT vault
 
 ## **聚合器**
 
