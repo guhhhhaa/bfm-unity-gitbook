@@ -26,8 +26,8 @@ description: Command Room (Discovery)
 {% tab title="导航网站🧭" %}
 * [**QKL123**](https://www.qkl123.com/data) **\(比特币数据\)**
 * \*\*\*\*[**the Block**](https://www.theblockcrypto.com/data/) **\(数据网站\)**
-* \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true) **\(市值比较\)**
-* \*\*\*\*[**Coin360**](https://coin360.com/) **\(市值比较\)**
+* \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true) **\(现实市值比较\)**
+* \*\*\*\*[**Coin360**](https://coin360.com/) **\(加密市值比较\)**
 * [**BlockSite**](https://www.blocksite.org/) **\(项目介绍\)**
 * \*\*\*\*[**巴比特**](https://www.8btc.com/) **&** [**链闻**](https://www.chainnews.com/) **\(新闻消息\)**
 * \*\*\*\*[**CoinMarketCap**](https://coinmarketcap.com/) **\(**[**CMC DeFi**](https://coinmarketcap.com/defi/)**\) \(**[**CMC Farming**](https://coinmarketcap.com/yield-farming/)**\)**
