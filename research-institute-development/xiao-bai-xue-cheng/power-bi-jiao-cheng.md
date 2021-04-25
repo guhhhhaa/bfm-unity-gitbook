@@ -8,9 +8,9 @@
 
 [Power BI 1小时入门篇](https://study.163.com/course/courseMain.htm?courseId=1004952006)  \(免费\)
 
-[Power BI 3小时进阶篇](https://study.163.com/course/introduction/1004994014.htm)  \(付费，试看部分免费\)
+[Power BI 3小时进阶篇](https://study.163.com/course/introduction/1004994014.htm?share=1&shareId=1017357217)  \(付费，试看部分免费\)
 
-[Power BI 8小时掌握篇](https://study.163.com/course/introduction/1005644004.htm)  \(付费，试看部分免费\)
+[Power BI 8小时掌握篇](https://study.163.com/course/introduction/1005644004.htm?share=1&shareId=1017357217)  \(付费，试看部分免费\)
 
 ## B站 - 入门篇  \(免费\)
 
