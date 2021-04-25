@@ -2,7 +2,7 @@
 
 ## MicroSoft 官网
 
-[**页面**](https://powerbi.microsoft.com/zh-cn/)  **\|**  [**下载**](https://powerbi.microsoft.com/zh-cn/downloads/)\*\*\*\*
+[Power BI](https://powerbi.microsoft.com/zh-cn/)  **\|**  [**下载**](https://powerbi.microsoft.com/zh-cn/downloads/)\*\*\*\*
 
 ## 网易云课堂
 
