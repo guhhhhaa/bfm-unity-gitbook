@@ -2,15 +2,11 @@
 
 ## MicroSoft 官网
 
-[Power BI](https://powerbi.microsoft.com/zh-cn/)  **\|**  [**下载**](https://powerbi.microsoft.com/zh-cn/downloads/)\*\*\*\*
+[**页面**](https://powerbi.microsoft.com/zh-cn/)  **\|**  [**下载**](https://powerbi.microsoft.com/zh-cn/downloads/)\*\*\*\*
 
 ## 网易云课堂
 
-[Power BI 1小时入门篇](https://study.163.com/course/courseMain.htm?courseId=1004952006)
-
-[Power BI 3小时进阶篇](https://study.163.com/course/introduction/1004994014.htm)
-
-[Power BI 8小时掌握篇](https://study.163.com/course/introduction/1005644004.htm)
+[Power BI 1小时入门5.5万人在学](https://study.163.com/course/courseMain.htm?courseId=1004952006)
 
 ## B站入门篇
 
