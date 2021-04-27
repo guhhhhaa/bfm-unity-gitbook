@@ -3,7 +3,7 @@
 {% hint style="info" %}
 现在根据若尘的推荐，重点研究币安智能链，我们会把指挥室分裂出来，分裂出BSC和ETH，然后慢慢扩展我们的部署。
 
-1，yield watch
+1，yieldwatch
 
 2，autofarm
 
