@@ -96,6 +96,11 @@
 * [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
 * [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
 
+## 合规
+
+* [网站备案](he-gui/wang-zhan-bei-an.md)
+* [申请社会团体](he-gui/shen-qing-she-hui-tuan-ti.md)
+
 ---
 
 * [【垃圾】回收站 ♻️](la-ji-hui-shou-zhan/README.md)
