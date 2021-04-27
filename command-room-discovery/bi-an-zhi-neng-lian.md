@@ -3,13 +3,13 @@
 {% hint style="info" %}
 现在根据若尘的推荐，重点研究币安智能链，我们会把指挥室分裂出来，分裂出BSC和ETH，然后慢慢扩展我们的部署。
 
-1，yieldwatch
+1，YieldWatch
 
-2，autofarm
+2，AutoFarm
 
-3，pancakeswap
+3，PancakeSwap
 
-4，[https://www.defistation.io/](https://www.defistation.io/)
+4，[DeFiStation](https://www.defistation.io/)
 
 行，从这四个开始研究就行了
 
