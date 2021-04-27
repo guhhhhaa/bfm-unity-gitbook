@@ -52,16 +52,19 @@
 * [陈列室 \(历程\) 🏆](hou-fang/roadmap.md)
 * [会客厅 \(赞助\) 💰 & 资产公示](hou-fang/juan-zeng-da-shang.md)
 
+## 核心
+
+* [【算法】算法描述](he-xin/what-is-bfm-al/README.md)
+  * [【研究】参考文献](he-xin/what-is-bfm-al/bfm-al-ckwx.md)
+  * [BFM 维基百科翻译](he-xin/what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)
+  * [陵墓](he-xin/what-is-bfm-al/lo-st.md)
+* [【软件】行动手册 🚩](he-xin/ruan-jian-bfm-on-python/README.md)
+  * [【软件】Graph algorithms and currency arbitrage](he-xin/ruan-jian-bfm-on-python/untitled.md)
+  * [【创新】未来发展](he-xin/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md)
+  * [【创新】DeFi - AMM](he-xin/ruan-jian-bfm-on-python/defi-amm.md)
+
 ## 历史
 
-* [【算法】算法描述](li-shi/what-is-bfm-al/README.md)
-  * [【研究】参考文献](li-shi/what-is-bfm-al/bfm-al-ckwx.md)
-  * [BFM 维基百科翻译](li-shi/what-is-bfm-al/bfm-wei-ji-bai-ke-fan-yi.md)
-  * [陵墓](li-shi/what-is-bfm-al/lo-st.md)
-* [【软件】行动手册 🚩](li-shi/ruan-jian-bfm-on-python/README.md)
-  * [【软件】Graph algorithms and currency arbitrage](li-shi/ruan-jian-bfm-on-python/untitled.md)
-  * [【创新】未来发展](li-shi/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md)
-  * [【创新】DeFi - AMM](li-shi/ruan-jian-bfm-on-python/defi-amm.md)
 * [【架构】架构设计](li-shi/guan-li-fa-zhan-lu-xian/README.md)
   * [【规划】发展路线](li-shi/guan-li-fa-zhan-lu-xian/gui-hua-fa-zhan-lu-xian.md)
   * [【规划】AMM下潜](li-shi/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage.md)
