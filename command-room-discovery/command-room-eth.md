@@ -134,17 +134,6 @@
 {% endtab %}
 
 {% tab title="前沿" %}
-## Layer-2
-
-### Rollup\(卷叠\)
-
-ZK Rollup\(零知卷叠\)
-
-* [Loopring](https://loopring.io/#/)
-* [Loopring Swap](https://exchange.loopring.io/)
-
-Optimistic Rollup\(乐观卷叠\)
-
 ## PolkaDot
 
 * [**PolkaSwap**](https://polkaswap.io/)\*\*\*\*
@@ -181,6 +170,17 @@ Optimistic Rollup\(乐观卷叠\)
 [Balancer](https://pools.balancer.exchange/#/pool/new)（未知
 {% endtab %}
 {% endtabs %}
+
+Layer-2
+
+ZK Rollup\(零知卷叠\)
+
+* [Loopring](https://loopring.io/#/)
+* [Loopring Swap](https://exchange.loopring.io/)
+
+Optimistic Rollup\(乐观卷叠\)
+
+* Uniswap V3
 
 ## MetaMask 清除 Pending 状态方法：点头像-设置-高级-重设账户
 
