@@ -100,7 +100,8 @@
 
 * [网站备案](he-gui/wang-zhan-bei-an.md)
 * [申请社会团体](he-gui/shen-qing-she-hui-tuan-ti.md)
-* [Untitled](he-gui/untitled.md)
+* [组织命名](he-gui/untitled.md)
+* [如何注册民间团体？](he-gui/ru-he-zhu-ce-min-jian-tuan-ti.md)
 * [章程参考1](he-gui/zhang-cheng-can-kao-1.md)
 * [章程参考2](he-gui/zhang-cheng-can-kao-2.md)
 
