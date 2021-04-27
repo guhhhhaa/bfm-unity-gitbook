@@ -13,7 +13,9 @@
 
 4，[DeFiStation](https://www.defistation.io/)
 
-行，从这四个开始研究就行了
+5，[belt.fi](https://belt.fi/)
+
+行，从这几个开始研究就行了
 
 在研究明白可持续跨周期的盈利模式之前，还是使用币优和币安自带流动性挖矿。
 
