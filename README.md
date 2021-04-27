@@ -22,25 +22,25 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 交易员必进\([卓尔金历法](https://www.bfm-unity.com/management-cockpit-operation/ling-hang-duo-lei-da)\)
 
-{% page-ref page="management-cockpit-operation/" %}
+{% page-ref page="qian-xian/management-cockpit-operation/" %}
 
 ## 探险家必进
 
-{% page-ref page="command-room-discovery/" %}
+{% page-ref page="qian-xian/command-room-discovery/" %}
 
 ## 开发者必进
 
-{% page-ref page="research-institute-development/" %}
+{% page-ref page="qian-xian/research-institute-development/" %}
 
 ## 老客户怀旧
 
-{% page-ref page="roadmap.md" %}
+{% page-ref page="hou-fang/roadmap.md" %}
 
-{% page-ref page="ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md" %}
+{% page-ref page="li-shi/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md" %}
 
 ## 慈善家必进
 
-{% page-ref page="juan-zeng-da-shang.md" %}
+{% page-ref page="hou-fang/juan-zeng-da-shang.md" %}
 
 ## ₿TC 投资路径 <a id="tc-tou-zi-lu-jing"></a>
 
