@@ -8,7 +8,7 @@ description: Management Cockpit (Operation)
 >
 > 在这里，我们极力简化操作流程，以适合最小可运行投资系统，方便用户进行高效操作。
 
-{% page-ref page="../command-room-discovery-1/command-room-eth.md" %}
+{% page-ref page="../command-room-discovery/" %}
 
 ![&#x9A7E;&#x9A76;&#x8231;&#xFF08;&#x8FD0;&#x884C;&#xFF09;](../.gitbook/assets/src-http___i-3.yiwan.com_2019_6_25_6ff39329-443c-45c6-b034-9940ee759162.jpg_width-1820-and-height-1024-and-refer-http___i-3.yiwan.jpeg)
 

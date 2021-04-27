@@ -26,7 +26,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 探险家必进
 
-{% page-ref page="command-room-discovery-1/command-room-eth.md" %}
+{% page-ref page="command-room-discovery/" %}
 
 ## 开发者必进
 
