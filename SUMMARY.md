@@ -98,4 +98,6 @@
   * [挖狗狗币](la-ji-hui-shou-zhan/wa-gou-gou-bi.md)
   * [MVRV](la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md)
   * [驾驶舱](la-ji-hui-shou-zhan/cong-jia-shi-cang-xie-xia-de-la-ji.md)
+* [看板](https://trello.com/b/z4aDgNAL/todolist)
+* [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
 
