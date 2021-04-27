@@ -99,6 +99,7 @@
 ## 合规
 
 * [网站备案](he-gui/wang-zhan-bei-an.md)
+* [腾讯云公司注册](he-gui/teng-xun-yun-gong-si-zhu-ce.md)
 * [申请社会团体](he-gui/shen-qing-she-hui-tuan-ti.md)
 * [组织命名](he-gui/untitled.md)
 * [如何注册民间团体？](he-gui/ru-he-zhu-ce-min-jian-tuan-ti.md)
