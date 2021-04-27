@@ -93,6 +93,8 @@
 
 * [看板](https://trello.com/b/z4aDgNAL/todolist)
 * [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
+* [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
+* [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
 
 ---
 
