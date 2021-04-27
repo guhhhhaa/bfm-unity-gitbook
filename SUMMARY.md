@@ -15,7 +15,7 @@
   * [国债逆回购](management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [指挥室 \(探索\) 👔](command-room-discovery-1/README.md)
   * [指挥室 - 以太坊](command-room-discovery-1/command-room-eth.md)
-  * [指挥室 - 币安智能链](command-room-discovery-1/bi-an-zhi-neng-lian.md)
+  * [指挥室 - 币安智能链](command-room-discovery-1/command-room-bsc.md)
   * [Python Project](command-room-discovery-1/python.md)
 * [研究院 \(架构\) 🔬](research-institute-development/README.md)
   * [导游](research-institute-development/dao-you.md)
