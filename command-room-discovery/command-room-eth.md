@@ -1,5 +1,7 @@
 # 指挥室 - 以太坊
 
+{% page-ref page="./" %}
+
 ## **DeFi**
 
 ![](../.gitbook/assets/defi_2.png)
