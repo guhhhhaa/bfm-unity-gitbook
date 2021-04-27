@@ -1,5 +1,9 @@
 # 指挥室 - 币安智能链
 
+{% hint style="danger" %}
+此页面正在建设中……
+{% endhint %}
+
 {% page-ref page="./" %}
 
 {% hint style="info" %}
