@@ -1,5 +1,25 @@
 # 指挥室 - 币安智能链
 
+{% hint style="info" %}
+现在根据若尘的推荐，重点研究币安智能链，我们会把指挥室分裂出来，分裂出BSC和ETH，然后慢慢扩展我们的部署。
+
+1，yield watch
+
+2，autofarm
+
+3，pancakeswap
+
+4，[https://www.defistation.io/](https://www.defistation.io/)
+
+行，从这四个开始研究就行了
+
+在研究明白可持续跨周期的盈利模式之前，还是使用币优和币安自带流动性挖矿。
+
+我们不想研究那些昙花一现的高收益率，我们要找到可持续的，可长期运行的，稳定的盈利模式。
+
+我们最好避开火币的Heco MDEX生态，我一直对火币的信用感到怀疑，因为毕竟火币分裂出的FCoin跑路了
+{% endhint %}
+
 [https://www.defistation.io/](https://www.defistation.io/)
 
 交易赛道 PancakeSwap
