@@ -89,6 +89,11 @@
 * [发现网站](gong-ju/fa-xian-wang-zhan.md)
 * [B站视频下载 🎬 ⏬](gong-ju/b-zhan-shi-pin-xia-zai.md)
 
+## 链接
+
+* [看板](https://trello.com/b/z4aDgNAL/todolist)
+* [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
+
 ---
 
 * [【垃圾】回收站 ♻️](la-ji-hui-shou-zhan/README.md)
@@ -98,9 +103,4 @@
   * [挖狗狗币](la-ji-hui-shou-zhan/wa-gou-gou-bi.md)
   * [MVRV](la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md)
   * [驾驶舱](la-ji-hui-shou-zhan/cong-jia-shi-cang-xie-xia-de-la-ji.md)
-
-## 链接
-
-* [看板](https://trello.com/b/z4aDgNAL/todolist)
-* [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
 
