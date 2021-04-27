@@ -24,6 +24,16 @@
 我们最好避开火币的Heco MDEX生态，我一直对火币的信用感到怀疑，因为毕竟火币分裂出的FCoin跑路了
 {% endhint %}
 
+{% tabs %}
+{% tab title="发币" %}
+[http://bsc.tokendiy.defiplot.com/\#/](http://bsc.tokendiy.defiplot.com/#/)
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 [https://www.defistation.io/](https://www.defistation.io/)
 
 交易赛道 PancakeSwap
