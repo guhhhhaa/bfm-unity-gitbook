@@ -19,7 +19,7 @@
       <td style="text-align:left">Aave</td>
       <td style="text-align:left">BIP44&#x534F;&#x8BAE;</td>
       <td style="text-align:left">Debank</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">BNB&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</td>
       <td style="text-align:left">&#x70ED;&#x9500;&#x7406;&#x8D22;&#x4EA7;&#x54C1;</td>
     </tr>
     <tr>
