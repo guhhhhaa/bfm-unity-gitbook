@@ -14,7 +14,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Deban</td>
+      <td style="text-align:left">Debank</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Aave</td>
       <td style="text-align:left">BIP44&#x534F;&#x8BAE;</td>
@@ -25,7 +25,7 @@
     <tr>
       <td style="text-align:left">Zapper.fi</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Compound</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left">USD&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</td>
