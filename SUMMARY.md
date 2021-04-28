@@ -118,3 +118,8 @@
   * [MVRV](la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md)
   * [驾驶舱](la-ji-hui-shou-zhan/cong-jia-shi-cang-xie-xia-de-la-ji.md)
 
+## 类银行服务\(正在建设\) <a id="lei-yin-hang-fu-wu"></a>
+
+* [个人业务](lei-yin-hang-fu-wu/ge-ren-ye-wu.md)
+* [创世业务](lei-yin-hang-fu-wu/chuang-shi-ye-wu.md)
+
