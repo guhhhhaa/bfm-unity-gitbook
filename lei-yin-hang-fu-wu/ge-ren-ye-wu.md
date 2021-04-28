@@ -55,12 +55,63 @@
   </tbody>
 </table>
 
-| 算法交易 | 量化投资 | 智能投顾 | 期货业务 |  |  |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 高频交易 | 投资组合 | 牛熊判断 | 期货 |  |  |
-|  |  | 数据分析 辅助决策 | 合约 |  |  |
-| 做市交易 | 资产配置 | 智能调仓 | 期权 |  |  |
-| 套利交易 |  |  |  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x7B97;&#x6CD5;&#x4EA4;&#x6613;</th>
+      <th style="text-align:left">&#x91CF;&#x5316;&#x6295;&#x8D44;</th>
+      <th style="text-align:left">&#x667A;&#x80FD;&#x6295;&#x987E;</th>
+      <th style="text-align:left">&#x671F;&#x8D27;&#x4E1A;&#x52A1;</th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x9AD8;&#x9891;&#x4EA4;&#x6613;</td>
+      <td style="text-align:left">&#x6295;&#x8D44;&#x7EC4;&#x5408;</td>
+      <td style="text-align:left">&#x725B;&#x718A;&#x5224;&#x65AD;</td>
+      <td style="text-align:left">&#x671F;&#x8D27;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">&#x6570;&#x636E;&#x5206;&#x6790;</td>
+      <td style="text-align:left">&#x5408;&#x7EA6;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>&#x5546;&#x4E1A;&#x667A;&#x80FD;</p>
+        <p>&#x8F85;&#x52A9;&#x51B3;&#x7B56;</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x505A;&#x5E02;&#x4EA4;&#x6613;</td>
+      <td style="text-align:left">&#x8D44;&#x4EA7;&#x914D;&#x7F6E;</td>
+      <td style="text-align:left">&#x667A;&#x80FD;&#x8C03;&#x4ED3;</td>
+      <td style="text-align:left">&#x671F;&#x6743;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x5957;&#x5229;&#x4EA4;&#x6613;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
