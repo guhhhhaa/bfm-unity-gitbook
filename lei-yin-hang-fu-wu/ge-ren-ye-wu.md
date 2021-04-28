@@ -14,9 +14,9 @@
   <thead>
     <tr>
       <th style="text-align:left">&#x79C1;&#x4EBA;&#x94F6;&#x884C;</th>
-      <th style="text-align:left">&#x8DE8;&#x5883;&#x91D1;&#x878D;</th>
-      <th style="text-align:left">&#x4E2A;&#x4EBA;&#x8D37;&#x6B3E;</th>
-      <th style="text-align:left">&#x7EDF;&#x4E00;&#x5730;&#x5740;</th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">&#x5B58;&#x6B3E;&amp;&#x8D37;&#x6B3E;</th>
+      <th style="text-align:left">&#x8D26;&#x6237;&#x670D;&#x52A1;</th>
       <th style="text-align:left">&#x8D22;&#x5BCC;&#x8D26;&#x6237;</th>
       <th style="text-align:left">&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</th>
       <th style="text-align:left">&#x6295;&#x8D44;&#x7406;&#x8D22;</th>
