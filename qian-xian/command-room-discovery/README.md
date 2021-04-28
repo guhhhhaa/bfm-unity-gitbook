@@ -76,6 +76,8 @@ description: Command Room (Discovery)
 {% endtab %}
 
 {% tab title="法币交易👔" %}
+## 法币交易又名OTC场外交易，或C2C客户对客户交易。
+
 ![](../../.gitbook/assets/cefi.png)
 
 * [**比特派钱包**](https://bitpie.com/)（**推荐**）
