@@ -52,7 +52,7 @@
 * [个人业务](lei-yin-hang-fu-wu/ge-ren-ye-wu.md)
 * [企业业务](lei-yin-hang-fu-wu/untitled.md)
 * [创世业务](lei-yin-hang-fu-wu/chuang-shi-ye-wu.md)
-* [自营投资](lei-yin-hang-fu-wu/zi-ying-tou-zi.md)
+* [自营业务](lei-yin-hang-fu-wu/zi-ying-tou-zi.md)
 
 ## 后方
 
