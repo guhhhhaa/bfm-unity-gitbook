@@ -47,6 +47,12 @@
     * [py重点实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md)
     * [以太坊部署实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
 
+## 类银行服务\(正在建设\) <a id="lei-yin-hang-fu-wu"></a>
+
+* [个人业务](lei-yin-hang-fu-wu/ge-ren-ye-wu.md)
+* [Untitled](lei-yin-hang-fu-wu/untitled.md)
+* [创世业务](lei-yin-hang-fu-wu/chuang-shi-ye-wu.md)
+
 ## 后方
 
 * [陈列室 \(历程\) 🏆](hou-fang/roadmap.md)
@@ -117,10 +123,4 @@
   * [挖狗狗币](la-ji-hui-shou-zhan/wa-gou-gou-bi.md)
   * [MVRV](la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md)
   * [驾驶舱](la-ji-hui-shou-zhan/cong-jia-shi-cang-xie-xia-de-la-ji.md)
-
-## 类银行服务\(正在建设\) <a id="lei-yin-hang-fu-wu"></a>
-
-* [个人业务](lei-yin-hang-fu-wu/ge-ren-ye-wu.md)
-* [Untitled](lei-yin-hang-fu-wu/untitled.md)
-* [创世业务](lei-yin-hang-fu-wu/chuang-shi-ye-wu.md)
 
