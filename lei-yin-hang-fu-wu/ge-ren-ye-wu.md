@@ -10,6 +10,7 @@
       <th style="text-align:left">&#x8D22;&#x5BCC;&#x8D26;&#x6237;</th>
       <th style="text-align:left">&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</th>
       <th style="text-align:left">&#x6295;&#x8D44;&#x7406;&#x8D22;</th>
+      <th style="text-align:left">&#x4FE1;&#x7528;&#x5361;</th>
     </tr>
   </thead>
   <tbody>
@@ -21,6 +22,7 @@
       <td style="text-align:left">Debank</td>
       <td style="text-align:left">BNB&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</td>
       <td style="text-align:left">&#x70ED;&#x9500;&#x7406;&#x8D22;&#x4EA7;&#x54C1;</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Zapper.fi</td>
@@ -30,6 +32,7 @@
       <td style="text-align:left"></td>
       <td style="text-align:left">USD&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</td>
       <td style="text-align:left">&#x70ED;&#x9500;DeFi&#x57FA;&#x91D1;</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Zerion</td>
@@ -39,6 +42,7 @@
       <td style="text-align:left"></td>
       <td style="text-align:left">BTC&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</td>
       <td style="text-align:left">BTC&#x951A;&#x5B9A;&#x7269;</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -51,6 +55,7 @@
         <p>&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</p>
       </td>
       <td style="text-align:left">ETH&#x951A;&#x5B9A;&#x7269;</td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
