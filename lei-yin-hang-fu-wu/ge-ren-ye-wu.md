@@ -15,7 +15,7 @@
   <tbody>
     <tr>
       <td style="text-align:left">Debank</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">&#x5E01;&#x5B89;&#x6CD5;&#x5E01;&#x4EA4;&#x6613;</td>
       <td style="text-align:left">Aave</td>
       <td style="text-align:left">BIP44&#x534F;&#x8BAE;</td>
       <td style="text-align:left">Debank</td>
@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Zapper.fi</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">&#x6BD4;&#x7279;&#x6D3E;&#x6CD5;&#x5E01;&#x4EA4;&#x6613;</td>
       <td style="text-align:left">Compound</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -55,5 +55,8 @@
   </tbody>
 </table>
 
- 
+| 算法交易 | 量化投资 | 智能投顾 | 期货业务 |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 高频交易 |  |  |  |  |  |
+| 做市交易 |  |  |  |  |  |
 
