@@ -47,7 +47,7 @@
     * [py重点实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md)
     * [以太坊部署实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
 
-## 类银行服务\(正在建设\) <a id="lei-yin-hang-fu-wu"></a>
+## 类银行服务\(正在建设中……\) <a id="lei-yin-hang-fu-wu"></a>
 
 * [个人业务](lei-yin-hang-fu-wu/ge-ren-ye-wu.md)
 * [企业业务](lei-yin-hang-fu-wu/untitled.md)
