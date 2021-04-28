@@ -2,6 +2,13 @@
 
 * [主舰桥 \(引导\) 🇺🇳](README.md)
 
+## 类银行服务\(正在建设中……\) <a id="lei-yin-hang-fu-wu"></a>
+
+* [个人业务](lei-yin-hang-fu-wu/ge-ren-ye-wu.md)
+* [企业业务](lei-yin-hang-fu-wu/untitled.md)
+* [创世业务](lei-yin-hang-fu-wu/chuang-shi-ye-wu.md)
+* [自营业务](lei-yin-hang-fu-wu/zi-ying-tou-zi.md)
+
 ## 前线
 
 * [驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
@@ -46,13 +53,6 @@
     * [实验室2](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shi-yan-shi-2.md)
     * [py重点实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md)
     * [以太坊部署实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
-
-## 类银行服务\(正在建设中……\) <a id="lei-yin-hang-fu-wu"></a>
-
-* [个人业务](lei-yin-hang-fu-wu/ge-ren-ye-wu.md)
-* [企业业务](lei-yin-hang-fu-wu/untitled.md)
-* [创世业务](lei-yin-hang-fu-wu/chuang-shi-ye-wu.md)
-* [自营业务](lei-yin-hang-fu-wu/zi-ying-tou-zi.md)
 
 ## 后方
 
