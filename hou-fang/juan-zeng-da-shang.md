@@ -48,6 +48,10 @@ BFM Unity 的 铭牌
 
 ![](../.gitbook/assets/9304dfd7a84917a2a1364f70e5e1c023.jpg)
 
+### **币安支付**
+
+![](../.gitbook/assets/6889c0c32015caf05113720301000744.jpg)
+
 ### **Ξ**TH or **Ξ**RC20
 
 ![](../.gitbook/assets/screenshot_2020-03-25-11-16-44-118_com.wallet.cry.png)
