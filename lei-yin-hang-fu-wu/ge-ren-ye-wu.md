@@ -26,8 +26,10 @@
       <td style="text-align:left">BNB&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</td>
       <td style="text-align:left"><a href="https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zhe-die">&#x4F7F;&#x7528;&#x6307;&#x5357;</a>
       </td>
-      <td style="text-align:left">&#x5E01;&#x5B89;&#x6CD5;&#x5E01;&#x4EA4;&#x6613;</td>
-      <td style="text-align:left">&#x70ED;&#x9500;&#x7406;&#x8D22;&#x4EA7;&#x54C1;</td>
+      <td style="text-align:left"><a href="https://www.bfm-unity.com/qian-xian/command-room-discovery#chuan-tong-qu-kuai-lian">&#x5E01;&#x5B89;&#x6CD5;&#x5E01;&#x4EA4;&#x6613;</a>
+      </td>
+      <td style="text-align:left"><a href="https://www.bfm-unity.com/qian-xian/command-room-discovery/command-room-eth#defi">&#x70ED;&#x9500;&#x7406;&#x8D22;&#x4EA7;&#x54C1;</a>
+      </td>
       <td style="text-align:left"><a href="https://debank.com/swap">Debank</a>
       </td>
       <td style="text-align:left"><a href="https://www.bfm-unity.com/qian-xian/management-cockpit-operation/ling-hang-duo-lei-da">&#x5E02;&#x573A;&#x65F6;&#x949F;</a>
@@ -40,8 +42,10 @@
       </td>
       <td style="text-align:left">USD&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left">&#x6BD4;&#x7279;&#x6D3E;&#x6CD5;&#x5E01;&#x4EA4;&#x6613;</td>
-      <td style="text-align:left">&#x70ED;&#x9500;DeFi&#x57FA;&#x91D1;</td>
+      <td style="text-align:left"><a href="https://www.bfm-unity.com/qian-xian/command-room-discovery#chuan-tong-qu-kuai-lian">&#x6BD4;&#x7279;&#x6D3E;&#x6CD5;&#x5E01;&#x4EA4;&#x6613;</a>
+      </td>
+      <td style="text-align:left"><a href="https://www.bfm-unity.com/qian-xian/command-room-discovery/command-room-eth#defi">&#x70ED;&#x9500;DeFi&#x57FA;&#x91D1;</a>
+      </td>
       <td style="text-align:left"><a href="https://zapper.fi/">Zapper.fi</a>
       </td>
       <td style="text-align:left"><a href="https://www.biyou.tech/">&#x5E01;&#x4F18;</a>
