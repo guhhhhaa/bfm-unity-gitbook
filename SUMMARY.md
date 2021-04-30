@@ -6,7 +6,6 @@
 
 * [LV1-驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
   * [卓尔金历法/GPS 🕙](qian-xian/management-cockpit-operation/ling-hang-duo-lei-da.md)
-  * [公司注册](qian-xian/management-cockpit-operation/gong-si-zhu-ce.md)
   * [考试报名](qian-xian/management-cockpit-operation/kao-shi-bao-ming/README.md)
     * [公务员面试](qian-xian/management-cockpit-operation/kao-shi-bao-ming/untitled.md)
   * [云POS无卡支付](qian-xian/management-cockpit-operation/zhe-die.md)
@@ -111,6 +110,7 @@
 * [反洗钱](feng-kong-yu-he-gui/fan-xi-qian.md)
 * [组织形式](feng-kong-yu-he-gui/zu-zhi-xing-shi/README.md)
   * [腾讯云公司注册](feng-kong-yu-he-gui/zu-zhi-xing-shi/teng-xun-yun-gong-si-zhu-ce.md)
+  * [公司注册](feng-kong-yu-he-gui/zu-zhi-xing-shi/gong-si-zhu-ce.md)
   * [申请社会团体](feng-kong-yu-he-gui/zu-zhi-xing-shi/shen-qing-she-hui-tuan-ti.md)
   * [组织命名](feng-kong-yu-he-gui/zu-zhi-xing-shi/untitled.md)
   * [如何注册民间团体？](feng-kong-yu-he-gui/zu-zhi-xing-shi/ru-he-zhu-ce-min-jian-tuan-ti.md)
