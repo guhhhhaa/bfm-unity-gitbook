@@ -91,8 +91,8 @@
 | 高频交易 | 投资组合 | [牛熊判断](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/ling-hang-duo-lei-da) | 期货 |  |  |
 | 做市交易 | 数据分析 | [商业智能](https://www.bfm-unity.com/qian-xian/research-institute-development/xiao-bai-xue-cheng/power-bi-jiao-cheng) | 合约 |  |  |
 | 套利交易 | 决策辅助 | [智能调仓](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/ling-hang-duo-lei-da) | 期权 |  |  |
-| 下单管理 | 资产配置 |  | Synthetix |  |  |
-|  |  |  | dYdX |  |  |
+| 下单管理 | 资产配置 |  | [**Synthetix**](https://synthetix.io/) |  |  |
+|  |  |  | [**dYdX**](https://dydx.exchange/) |  |  |
 
 
 
