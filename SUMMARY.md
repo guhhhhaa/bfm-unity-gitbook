@@ -4,7 +4,7 @@
 
 ## 前线
 
-* [驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
+* [LV1-驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
   * [卓尔金历法/GPS 🕙](qian-xian/management-cockpit-operation/ling-hang-duo-lei-da.md)
   * [公司注册](qian-xian/management-cockpit-operation/gong-si-zhu-ce.md)
   * [考试报名](qian-xian/management-cockpit-operation/kao-shi-bao-ming/README.md)
@@ -16,11 +16,11 @@
   * [选股](qian-xian/management-cockpit-operation/xuan-gu.md)
   * [可转债打新](qian-xian/management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](qian-xian/management-cockpit-operation/guo-zhai-ni-hui-gou.md)
-* [指挥室 \(探索\) 👔](qian-xian/command-room-discovery/README.md)
+* [LV-2指挥室 \(探索\) 👔](qian-xian/command-room-discovery/README.md)
   * [指挥室 - 以太坊](qian-xian/command-room-discovery/command-room-eth.md)
   * [指挥室 - 币安智能链](qian-xian/command-room-discovery/command-room-bsc.md)
   * [Python Project](qian-xian/command-room-discovery/python.md)
-* [研究院 \(架构\) 🔬](qian-xian/research-institute-development/README.md)
+* [LV-3研究院 \(架构\) 🔬](qian-xian/research-institute-development/README.md)
   * [导游](qian-xian/research-institute-development/dao-you.md)
   * [素白 · 密斯卡托尼克大学 🏫](qian-xian/research-institute-development/xiao-bai-xue-cheng/README.md)
     * [Python少儿编程教室 👩‍🏫](qian-xian/research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
