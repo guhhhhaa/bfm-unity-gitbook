@@ -76,6 +76,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ​ **** 
 
+## 域名使用[腾讯云](https://console.cloud.tencent.com/domain)购买及续费
+
 ![](.gitbook/assets/ping-mu-kuai-zhao-20210411-xia-wu-7.59.52.png)
 
 **© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**₿FM Unity™.**](https://www.bfm-unity.com/) **All Rights Reserved.**
