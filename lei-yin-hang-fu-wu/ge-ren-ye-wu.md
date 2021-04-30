@@ -24,7 +24,8 @@
       <td style="text-align:left"><a href="https://app.aave.com/">Aave</a>
       </td>
       <td style="text-align:left">BNB&#x50A8;&#x84C4;&#x4E1A;&#x52A1;</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zhe-die">&#x4F7F;&#x7528;&#x6307;&#x5357;</a>
+      </td>
       <td style="text-align:left">&#x5E01;&#x5B89;&#x6CD5;&#x5E01;&#x4EA4;&#x6613;</td>
       <td style="text-align:left">&#x70ED;&#x9500;&#x7406;&#x8D22;&#x4EA7;&#x54C1;</td>
       <td style="text-align:left"><a href="https://debank.com/swap">Debank</a>
@@ -93,6 +94,4 @@
 | 套利交易 | 决策辅助 | [智能调仓](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/ling-hang-duo-lei-da) | 期权 |  |  |
 | 下单管理 | 资产配置 |  | [**Synthetix**](https://synthetix.io/) |  |  |
 |  |  |  | [**dYdX**](https://dydx.exchange/) |  |  |
-
-
 
