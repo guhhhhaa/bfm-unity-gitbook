@@ -8,7 +8,7 @@
 
 阅读微软BI相关文章，出现最多的就是这四个以Power的开头工具，
 
-Power Pivot，Power Query，Power View以及Power BI。
+Power Query，Power Pivot，Power View以及Power BI。
 
 相同的姓氏暗示这四兄弟来自同一家族，不同的名称又表明四兄弟的分工各有不同。So，这几个Power兄弟到底是干什么的呢？
 
