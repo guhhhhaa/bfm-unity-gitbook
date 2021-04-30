@@ -6,8 +6,11 @@
 
 | 发币业务 | 发链业务 | 永久刻字 | 存储业务 | 永久网站 |
 | :--- | :--- | :--- | :--- | :--- |
-|  |  |  | STORJ | neocities |
-|  |  |  | FIL |  |
+|  | 跨链 |  | [STORJ](https://www.storj.io/) | neocities |
+|  | 公链 |  | [IPFS](https://ipfs.io/)\([FIL](https://filecoin.io/)\) |  |
+|  | 侧链 |  |  |  |
+|  | 联盟链 |  |  |  |
+|  | 私有链 |  |  |  |
 
 
 
