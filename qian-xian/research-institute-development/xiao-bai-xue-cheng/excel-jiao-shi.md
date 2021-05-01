@@ -9,8 +9,8 @@
 ## 实用极简
 
 * 逻辑函数
-  * IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数 [**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
-  * [Excel函数公式：**条件求和**：SUMIF函数](https://zhuanlan.zhihu.com/p/31465442)
+  * [IF函数 IFS函数 Choose函数](https://zhuanlan.zhihu.com/p/51366759) [**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
+  * [**条件求和**：SUMIF函数](https://zhuanlan.zhihu.com/p/31465442)
 * 格式函数
   * [EXCEL取小数点后一位](https://zhidao.baidu.com/question/27632380.html)
   * **ABS\(\)** 函数 是 **绝对值\(\)** 函数， **MAX\(\)** 函数 是 **比较大小并取其中的大者\(\)** 函数，
@@ -22,7 +22,14 @@
   * 高级 - 数组公式
     * \*\*\*\*[**INDEX+SMALL+IF+ROW函数组合使用解析**](https://blog.csdn.net/mfkpie/article/details/26883061)\*\*\*\*
 * 下拉菜单
+
   * [Excel制作下拉菜单的3种方法（312）](https://www.bilibili.com/video/BV1QJ411H7RW?from=search&seid=18024821708073264960)
   * \*\*\*\*[**Excel如何制作1级、2级和多级下拉菜单（283）**](https://www.bilibili.com/video/BV1UE411Z74D)\*\*\*\*
   * \*\*\*\*[**Excel 多级下拉菜单**](https://www.bilibili.com/video/BV1Qy4y1E7o9)\*\*\*\*
+
+  \*\*\*\*
+
+## 社区论坛
+
+* [club.excelhome.net](http://club.excelhome.net/)
 
