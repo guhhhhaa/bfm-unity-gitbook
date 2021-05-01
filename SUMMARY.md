@@ -22,6 +22,7 @@
 * [LV3-研究院 \(架构\) 🔬](qian-xian/research-institute-development/README.md)
   * [导游](qian-xian/research-institute-development/dao-you.md)
   * [素白 · 密斯卡托尼克大学 🏫](qian-xian/research-institute-development/xiao-bai-xue-cheng/README.md)
+    * [Excel 教室](qian-xian/research-institute-development/xiao-bai-xue-cheng/excel-jiao-shi.md)
     * [Python少儿编程教室 👩‍🏫](qian-xian/research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
     * [开发环境搭建教室 👨‍🏫 🚩](qian-xian/research-institute-development/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
     * [Power BI 教程](qian-xian/research-institute-development/xiao-bai-xue-cheng/power-bi-jiao-cheng.md)
