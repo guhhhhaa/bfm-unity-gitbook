@@ -3,7 +3,24 @@
 ## 实用极简
 
 * \*\*\*\*[**初学者，零基础必备的18个Excel工作表函数，易学易懂易用**](https://zhuanlan.zhihu.com/p/341616011)\*\*\*\*
-* \*\*\*\*[**excel十大常用函数排行榜，你会几个？**](https://zhuanlan.zhihu.com/p/148100320) ****
+  * **Left、Mid、Right ——**提取指定长度的字符
+  * **Rand、Randbetween ——** 随机数
+  * **Round、Roundup、Int —— 舍入取整**
+  * **If、Ifs ——** 条件
+  * **Upper、Lower、Proper ——** 大小写
+  * **Rank、Sumproduct ——** 大小排名，乘积和
+  * **Sum、Sumif、Sumifs —— 求和，条件求和**
+* \*\*\*\*[**excel十大常用函数排行榜，你会几个？**](https://zhuanlan.zhihu.com/p/148100320)\*\*\*\*
+  * SUM函数 —— 求和
+  * IF函数 —— 条件
+  * VLOOKUP函数 —— 查找引用
+  * COUNTIF函数 —— 条件统计个数
+  * LEFT、MID、RIGHT —— 文本截取
+  * SUMIF函数 —— 条件求和
+  * AVERAGE函数 —— 计算平均值
+  * INDEX、MATCH函数 —— 引用，定位
+  * ROUND函数 —— 舍入
+  * COUNT、COUNTA函数 ——统计数值个数，统计非空个数 ****
 * 逻辑函数
   * [IF函数 IFS函数 Choose函数](https://zhuanlan.zhihu.com/p/51366759) [**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
   * [**条件求和**：SUMIF函数](https://zhuanlan.zhihu.com/p/31465442)
@@ -12,8 +29,10 @@
   * **ABS\(\)** 函数 是 **绝对值\(\)** 函数， **MAX\(\)** 函数 是 **比较大小并取其中的大者\(\)** 函数，
 * 查找函数
   * 初级 - 普通公式
+    * [史上最全SUMIF函数应用教程及案例解析](https://zhuanlan.zhihu.com/p/21557901) 
     * [LOOKUP函数最经典的五种用法](http://blog.sina.com.cn/s/blog_138899a8e0102wqwt.html)
     * \*\*\*\*[**VLOOKUP函数应用教程及案例解析**](https://zhuanlan.zhihu.com/p/21558236)\*\*\*\*
+    * \*\*\*\*[**VLOOKUP函数按数据所处区间划分等级**](https://zhuanlan.zhihu.com/p/21329610)\*\*\*\*
     * [史上最牛查找函数组合 Index+Match](https://www.sohu.com/a/334505538_825825)
   * 高级 - 数组公式
     * \*\*\*\*[**INDEX+SMALL+IF+ROW函数组合使用解析**](https://blog.csdn.net/mfkpie/article/details/26883061)\*\*\*\*
