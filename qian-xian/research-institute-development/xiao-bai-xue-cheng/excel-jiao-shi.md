@@ -26,7 +26,14 @@
 * [Excel 函数技巧大全，100个函数](https://www.bilibili.com/video/BV18T4y1P7fV?from=search&seid=15563621570772204367)
 * \*\*\*\*[**超级简单数据透视表干货大全**](https://www.bilibili.com/video/BV1d4411j7ux)\*\*\*\*
 
+## 知名大V
+
+* [Excel函数公式](%20https://www.zhihu.com/people/TaoHelper_888)
+* [跟李锐学Excel](https://www.zhihu.com/people/ExcelLiRui)
+
 ## 社区论坛
 
 * [club.excelhome.net](http://club.excelhome.net/)
+
+
 
