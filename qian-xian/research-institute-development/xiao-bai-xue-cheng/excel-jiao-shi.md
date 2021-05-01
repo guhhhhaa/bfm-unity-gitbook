@@ -8,9 +8,11 @@
 
 ## 实用极简
 
-* [三分钟搞定 Excel 中 vlookup 函数](https://www.bilibili.com/video/BV1Ft411T7oU?from=search&seid=15563621570772204367)
-* [史上最牛查找函数组合 Index+Match](https://www.sohu.com/a/334505538_825825)
-* [Excel制作下拉菜单的3种方法（312）](https://www.bilibili.com/video/BV1QJ411H7RW?from=search&seid=18024821708073264960)
-* \*\*\*\*[**Excel如何制作1级、2级和多级下拉菜单（283）**](https://www.bilibili.com/video/BV1UE411Z74D)\*\*\*\*
-* \*\*\*\*[**Excel 多级下拉菜单**](https://www.bilibili.com/video/BV1Qy4y1E7o9)\*\*\*\*
+* 查找函数
+  * [三分钟搞定 Excel 中 vlookup 函数](https://www.bilibili.com/video/BV1Ft411T7oU?from=search&seid=15563621570772204367)
+  * [史上最牛查找函数组合 Index+Match](https://www.sohu.com/a/334505538_825825)
+* 下拉菜单
+  * [Excel制作下拉菜单的3种方法（312）](https://www.bilibili.com/video/BV1QJ411H7RW?from=search&seid=18024821708073264960)
+  * \*\*\*\*[**Excel如何制作1级、2级和多级下拉菜单（283）**](https://www.bilibili.com/video/BV1UE411Z74D)\*\*\*\*
+  * \*\*\*\*[**Excel 多级下拉菜单**](https://www.bilibili.com/video/BV1Qy4y1E7o9)\*\*\*\*
 
