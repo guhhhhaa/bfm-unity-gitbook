@@ -3,6 +3,7 @@
 ## 实用极简
 
 * \*\*\*\*[**初学者，零基础必备的18个Excel工作表函数，易学易懂易用**](https://zhuanlan.zhihu.com/p/341616011)\*\*\*\*
+* \*\*\*\*[**excel十大常用函数排行榜，你会几个？**](https://zhuanlan.zhihu.com/p/148100320) ****
 * 逻辑函数
   * [IF函数 IFS函数 Choose函数](https://zhuanlan.zhihu.com/p/51366759) [**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
   * [**条件求和**：SUMIF函数](https://zhuanlan.zhihu.com/p/31465442)
