@@ -17,7 +17,7 @@
 * 查找函数
   * 初级 - 普通公式
     * [LOOKUP函数最经典的五种用法](http://blog.sina.com.cn/s/blog_138899a8e0102wqwt.html)
-    * [三分钟搞定 Excel 中 vlookup 函数](https://www.bilibili.com/video/BV1Ft411T7oU?from=search&seid=15563621570772204367)
+    * \*\*\*\*[**VLOOKUP函数应用教程及案例解析**](https://zhuanlan.zhihu.com/p/21558236)\*\*\*\*
     * [史上最牛查找函数组合 Index+Match](https://www.sohu.com/a/334505538_825825)
   * 高级 - 数组公式
     * \*\*\*\*[**INDEX+SMALL+IF+ROW函数组合使用解析**](https://blog.csdn.net/mfkpie/article/details/26883061)\*\*\*\*
