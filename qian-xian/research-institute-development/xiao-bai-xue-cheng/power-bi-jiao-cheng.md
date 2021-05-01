@@ -1,12 +1,12 @@
-# Power BI 教程
+# Power BI 教室
 
 ## MicroSoft 官网  \(免费\)
 
 [Power BI](https://powerbi.microsoft.com/zh-cn/)  **\|**  [**下载**](https://powerbi.microsoft.com/zh-cn/downloads/)\*\*\*\*
 
-\*\*\*\*
+## \*\*\*\*[**介绍1**](https://blog.csdn.net/liusongping123/article/details/83514080) **\|** [**介绍2**](https://www.jianshu.com/p/b3d6fdf480e6)\*\*\*\*
 
-## \*\*\*\*[**介绍**](https://blog.csdn.net/liusongping123/article/details/83514080)\*\*\*\*
+![](../../../.gitbook/assets/image%20%2820%29.png)
 
 阅读微软BI相关文章，出现最多的就是这四个以Power的开头工具，
 
