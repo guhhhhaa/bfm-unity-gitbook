@@ -4,6 +4,8 @@
 
 [Power BI](https://powerbi.microsoft.com/zh-cn/)  **\|**  [**下载**](https://powerbi.microsoft.com/zh-cn/downloads/)\*\*\*\*
 
+\*\*\*\*
+
 ## \*\*\*\*[**介绍**](https://blog.csdn.net/liusongping123/article/details/83514080)\*\*\*\*
 
 阅读微软BI相关文章，出现最多的就是这四个以Power的开头工具，
