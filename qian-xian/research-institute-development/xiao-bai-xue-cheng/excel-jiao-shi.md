@@ -1,11 +1,5 @@
 # Excel 教室
 
-## 系统学习
-
-* [惊呆小伙伴的全套EXCEL函数技能（21集）](https://www.bilibili.com/video/BV1Qt411176A?from=search&seid=15563621570772204367)
-* [Excel 函数技巧大全，100个函数](https://www.bilibili.com/video/BV18T4y1P7fV?from=search&seid=15563621570772204367)
-* \*\*\*\*[**超级简单数据透视表干货大全**](https://www.bilibili.com/video/BV1d4411j7ux)\*\*\*\*
-
 ## 实用极简
 
 * 逻辑函数
@@ -22,12 +16,15 @@
   * 高级 - 数组公式
     * \*\*\*\*[**INDEX+SMALL+IF+ROW函数组合使用解析**](https://blog.csdn.net/mfkpie/article/details/26883061)\*\*\*\*
 * 下拉菜单
-
   * [Excel制作下拉菜单的3种方法（312）](https://www.bilibili.com/video/BV1QJ411H7RW?from=search&seid=18024821708073264960)
   * \*\*\*\*[**Excel如何制作1级、2级和多级下拉菜单（283）**](https://www.bilibili.com/video/BV1UE411Z74D)\*\*\*\*
   * \*\*\*\*[**Excel 多级下拉菜单**](https://www.bilibili.com/video/BV1Qy4y1E7o9)\*\*\*\*
 
-  \*\*\*\*
+## 系统学习
+
+* [惊呆小伙伴的全套EXCEL函数技能（21集）](https://www.bilibili.com/video/BV1Qt411176A?from=search&seid=15563621570772204367)
+* [Excel 函数技巧大全，100个函数](https://www.bilibili.com/video/BV18T4y1P7fV?from=search&seid=15563621570772204367)
+* \*\*\*\*[**超级简单数据透视表干货大全**](https://www.bilibili.com/video/BV1d4411j7ux)\*\*\*\*
 
 ## 社区论坛
 
