@@ -10,6 +10,7 @@
 
 * 逻辑函数
   * IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数 [**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
+  * [Excel函数公式：**条件求和**：SUMIF函数](https://zhuanlan.zhihu.com/p/31465442)
 * 格式函数
   * [EXCEL取小数点后一位](https://zhidao.baidu.com/question/27632380.html)
   * **ABS\(\)** 函数 是 **绝对值\(\)** 函数， **MAX\(\)** 函数 是 **比较大小并取其中的大者\(\)** 函数，
