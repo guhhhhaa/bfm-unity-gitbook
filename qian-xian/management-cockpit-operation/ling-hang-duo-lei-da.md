@@ -108,7 +108,17 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 * [EXCEL取小数点后一位](https://zhidao.baidu.com/question/27632380.html)
 
 ```python
-=INDEX(神经网络!C26:W46,MATCH(ROUND(卓尔金历法GPS定位系统!D9,1),神经网络!B26:B46,0),MATCH(ROUND(卓尔金历法GPS定位系统!D7,1),神经网络!C25:W25,0))
+=INDEX(
+    神经网络!C26:W46,
+    MATCH(
+        ROUND(卓尔金历法GPS定位系统!D9,1),
+        神经网络!B26:B46,
+        0),
+    MATCH(
+        ROUND(卓尔金历法GPS定位系统!D7,1),
+        神经网络!C25:W25,
+        0)
+    )
 ```
 
 ## **与美林时钟的关系**
