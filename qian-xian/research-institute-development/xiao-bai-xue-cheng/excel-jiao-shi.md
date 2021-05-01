@@ -35,5 +35,3 @@
 
 * [club.excelhome.net](http://club.excelhome.net/)
 
-
-
