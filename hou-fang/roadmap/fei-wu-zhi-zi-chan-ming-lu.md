@@ -1,4 +1,4 @@
-# 虚拟资产名录
+# 虚拟资产编号名录
 
 ## \[BFM - 1\]: [BFM算法](https://www.bfm-unity.com/qian-xian/research-institute-development/suan-fa-yan-jiu-yuan)
 

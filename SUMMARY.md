@@ -51,7 +51,7 @@
 ## 后方
 
 * [陈列室 \(历程\) 🏆](hou-fang/roadmap/README.md)
-  * [虚拟资产名录](hou-fang/roadmap/fei-wu-zhi-zi-chan-ming-lu.md)
+  * [虚拟资产编号名录](hou-fang/roadmap/fei-wu-zhi-zi-chan-ming-lu.md)
 * [会客厅 \(赞助\) 💰 & 资产公示](hou-fang/juan-zeng-da-shang.md)
 * [季度财务报表](hou-fang/ji-du-cai-wu-bao-biao.md)
 
