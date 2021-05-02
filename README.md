@@ -15,7 +15,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ### [赞助](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang) \| [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) \| [看板](https://trello.com/b/z4aDgNAL/todolist)
 
-### ​[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **\|** [**设计Assets**](https://share.weiyun.com/l21pilUf)\*\*\*\*
+### ​[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **\|** [**设计Assets**](https://share.weiyun.com/l21pilUf)
 {% endhint %}
 
 ![](.gitbook/assets/bfm-unity-2.0.png)
@@ -71,6 +71,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 ‌
 
 ## 底部栏‌ <a id="di-bu-lan"></a>
+
+设计统一色号：**\#**4A90E2
 
 ![&#x20BF;FM Unity&#x2122;](https://gblobscdn.gitbook.com/assets%2F-M39hAhDwZfzJY4Aou3y%2F-MXL033lJy85xVmVIMDJ%2F-MTOPn1U2y5-MtQ61mTD%2FBFM%20Unity%20Logo.png?alt=media&token=3bb532b5-3641-4ec2-8551-cffc278af192)
 
