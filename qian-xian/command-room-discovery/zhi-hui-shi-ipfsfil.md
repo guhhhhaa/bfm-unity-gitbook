@@ -1,5 +1,9 @@
 # 指挥室 - IPFS/FIL
 
+{% hint style="danger" %}
+此页面正在建设中……
+{% endhint %}
+
 ![](../../.gitbook/assets/v2-e4c6e350e544fea0714a457fad3336b3_1440w.jpeg)
 
 ![](../../.gitbook/assets/201904031530111.jpeg)
