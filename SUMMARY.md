@@ -122,7 +122,7 @@
 ---
 
 * [【垃圾】回收站 ♻️](la-ji-hui-shou-zhan/README.md)
-  * [已失效](la-ji-hui-shou-zhan/yi-shi-xiao.md)
+  * [入群费用](la-ji-hui-shou-zhan/yi-shi-xiao.md)
   * [指挥室](la-ji-hui-shou-zhan/zhi-hui-shi.md)
   * [神经网络策略](la-ji-hui-shou-zhan/shen-jing-wang-luo-ce-lve.md)
   * [挖狗狗币](la-ji-hui-shou-zhan/wa-gou-gou-bi.md)
