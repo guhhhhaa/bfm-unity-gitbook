@@ -62,9 +62,11 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/bfm-unity-you-shang-.png)
 
+### ~~~~[~~我们的友商2~~](https://www.bilibili.com/video/BV1YW411d7ZY)~~~~
+
 ## 愿景及使命 <a id="yuan-jing-ji-shi-ming"></a>
 
-我喜欢坐在 [**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) 上，看 [**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) 的公告。（[**愿景及使命**](https://www.bilibili.com/bangumi/play/ss28381/)）
+我喜欢坐在 [**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) 上，看 [**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) 的公告。（[**愿景及使命1**](https://www.bilibili.com/bangumi/play/ss28381/) **\|** [**愿景及使命2**](http://www.dilidili3.com/play/3998/135852.html)）
 
 ‌
 
