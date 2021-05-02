@@ -56,7 +56,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M39hAhDwZfzJY4Aou3y%2F-MS_tTSvZKlvXeOtD3RP%2F-MS_x7kDam1NfXrnkUMP%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-02-03%20%E4%B8%8A%E5%8D%8811.33.58.png?alt=media&token=ff3b182b-101b-4f9a-b9b7-fa0e7b45233e)
 
-## 我们的商业关系 <a id="zhan-lve-he-zuo-huo-ban"></a>
+## 我们的经合关系 <a id="zhan-lve-he-zuo-huo-ban"></a>
 
 ![](.gitbook/assets/bfm-unity-zhan-lve-he-zuo-huo-ban-%20%282%29.png)
 
