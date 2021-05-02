@@ -14,6 +14,8 @@ description: Command Room (Discovery)
 
 {% page-ref page="command-room-bsc.md" %}
 
+{% page-ref page="zhi-hui-shi-ipfsfil.md" %}
+
 ## 网络安全
 
 [币安学院 - 安全](https://academy.binance.com/zh/articles?tags=security)
