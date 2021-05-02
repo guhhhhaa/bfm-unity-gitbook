@@ -52,6 +52,7 @@
 
 * [陈列室 \(历程\) 🏆](hou-fang/roadmap.md)
 * [会客厅 \(赞助\) 💰 & 资产公示](hou-fang/juan-zeng-da-shang.md)
+* [虚拟资产名录](hou-fang/fei-wu-zhi-zi-chan-ming-lu.md)
 * [季度财务报表](hou-fang/ji-du-cai-wu-bao-biao.md)
 
 ## 类银行服务\(正在建设中……\) <a id="lei-yin-hang-fu-wu"></a>
