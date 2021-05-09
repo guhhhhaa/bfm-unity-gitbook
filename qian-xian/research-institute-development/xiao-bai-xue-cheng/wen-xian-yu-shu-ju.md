@@ -8,27 +8,27 @@ web of science
 
 下载文献下面这些网站可以试试 
 
-1.http://www.4243.net/大木虫学术 
+1.[http://www.4243.net/](http://www.4243.net/)大木虫学术 
 
-2.https://gfsoso.99lb.net/sci-hub.html谷粉学术 
+2.[https://gfsoso.99lb.net/sci-hub.html](https://gfsoso.99lb.net/sci-hub.html)谷粉学术 
 
-3.https://2.52qu.xyz/可用的谷歌镜像 
+3.[https://2.52qu.xyz/](https://2.52qu.xyz/)可用的谷歌镜像 
 
-4.http://mirror.mixueshu.com/小米学术 
+4.[http://mirror.mixueshu.com/](http://mirror.mixueshu.com/)小米学术 
 
-5.https://www.ablesci.com/科研通 
+5.[https://www.ablesci.com](https://www.ablesci.com)/科研通 
 
-6.http://sci-hub.tw可用的 
+6.[http://sci-hub.tw](http://sci-hub.tw)可用的 
 
-7.http://sci-hub.se可用的 
+7.[http://sci-hub.se](http://sci-hub.se)可用的 
 
-8.http://sci-hub.im可用的 ​ 
+8.[http://sci-hub.im](http://sci-hub.im)可用的 ​ 
 
 下文献步骤： 
 
-1.http://so.hiqq.com.cn/?tdsourcetag=s\_pctim\_aiomsg在谷歌学术搜索中输入文章题目或关键词，找到文章链接，找到DOI号； 
+1.[http://so.hiqq.com.cn/?tdsourcetag=s\_pctim\_aiomsg](http://so.hiqq.com.cn/?tdsourcetag=s_pctim_aiomsg)在谷歌学术搜索中输入文章题目或关键词，找到文章链接，找到DOI号； 
 
-2.https://sci-hub.shop/或https://sci-hub.tw/把文章的DOI号输入sci-hub下载（如果有文章的DOI号，可以直接用此链接尝试下载，跳过步骤1）。​ 
+2.https://sci-hub.shop/或[https://sci-hub.tw/](https://sci-hub.tw/)把文章的DOI号输入sci-hub下载（如果有文章的DOI号，可以直接用此链接尝试下载，跳过步骤1）。​ 
 
 
 
