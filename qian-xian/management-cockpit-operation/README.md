@@ -62,7 +62,7 @@ description: Management Cockpit (Operation)
 
 {% page-ref page="ji-jin-tou-zi.md" %}
 
-{% page-ref page="xuan-gu.md" %}
+{% page-ref page="xuan-gu/" %}
 
 ## 薅羊毛
 
