@@ -106,83 +106,67 @@ web of science
 
    10.找网站的网站  [http://www.addog.vip/​](http://www.addog.vip/​)
 
-   Guhhhhaa  17:52:49
+术语在线
 
-   术语在线
+Academic Phrasebank
 
-   Academic Phrasebank
+Diagram
 
-   Diagram
+彩云小译
 
-   彩云小译
+研享网
 
-   研享网
+论文驿站
 
-   论文驿站
+Quicker​
 
-   Quicker​
+1.iData 
 
-   Guhhhhaa  17:53:30
+2.师大云端图书馆
 
-3. iData 2.师大云端图书馆3.pubMed & SCI hub 4.各大图书馆网站 在家也可免费下知网论文，放假回家必备技能！​
+3.pubMed & SCI hub 
 
-   Guhhhhaa  18:04:10
+4.各大图书馆网站
 
-   查重网站汇总：
+查重网站汇总：
 
-   1、百度学术
+1、百度学术
 
-   网址: [http://xueshu.baidu.com](http://xueshu.baidu.com)
+网址: [http://xueshu.baidu.com](http://xueshu.baidu.com)
 
-   2、PaperYY
+2、PaperYY
 
-   网址：[http://www.paperyy.com](http://www.paperyy.com)
+网址：[http://www.paperyy.com](http://www.paperyy.com)
 
-   3、PaperOK
+3、PaperOK
 
-   网址：[http://www.paperok.com](http://www.paperok.com)
+网址：[http://www.paperok.com](http://www.paperok.com)
 
-   4、大雅
+4、大雅
 
-   网址：[http://dsa.dayainfo.com](http://dsa.dayainfo.com)
+网址：[http://dsa.dayainfo.com](http://dsa.dayainfo.com)
 
-   5、格子达
+5、格子达
 
-   网址：[http://gezida.com/contactus](http://gezida.com/contactus)
+网址：[http://gezida.com/contactus](http://gezida.com/contactus)
 
-   6、论文狗
+6、论文狗
 
-   网址：[http://www.lunwengo.net/](http://www.lunwengo.net/)
+网址：[http://www.lunwengo.net/](http://www.lunwengo.net/)
 
-   7、知网
+7、知网
 
-   网址：[https://www.cnki.net/](https://www.cnki.net/)
+网址：[https://www.cnki.net/](https://www.cnki.net/)
 
-   Guhhhhaa  18:04:28
 
-   论文查重网站：
 
-4. Passmore（论文查重、智能降重、人工降重）
+论文查重网站：
+
+1. Passmore（论文查重、智能降重、人工降重）
 
    网址：[https://www.passmore.cn/](https://www.passmore.cn/)
 
-5. 知网
+2. 知网
 
    网址：[https://www.cnki.net/](https://www.cnki.net/)
-
-   Guhhhhaa  18:09:37
-
-   今天搞的这几个网站好像没啥用
-
-   Guhhhhaa 撤回了一条消息
-
-   Guhhhhaa  18:31:59
-
-   如果替代不了，就要学会融合，
-
-如果吸收不了，就要学会共处。
-
-如果摆脱不了，就要学会接受。
-
-兼容一切，你就成为了大海。 Guhhhhaa 18:32:47 能学会如何与信用卡和比特币共处，你就离成功不远了。
 
