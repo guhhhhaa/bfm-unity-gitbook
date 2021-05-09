@@ -4,8 +4,6 @@ description: Main Bridge (Guidance)
 
 # 主舰桥 \(引导\) 🇺🇳
 
-
-
 ![&#x4E3B;&#x8230;&#x6865; \(&#x5F15;&#x5BFC;\)](.gitbook/assets/ok6w_kokdtoqqqldbiopanx28uhva7l7rcrxv1ckxgu.jpeg)
 
 {% hint style="info" %}
@@ -68,7 +66,12 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 我喜欢坐在 [**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) 上，看 [**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) 的公告。（[**愿景及使命1**](https://www.bilibili.com/bangumi/play/ss28381/) **\|** [**愿景及使命2**](http://www.dilidili3.com/play/3998/135852.html)）
 
-‌
+## ‌核心价值观
+
+BFM Unity
+
+算法·量化   
+价值·信用
 
 ## 底部栏‌ <a id="di-bu-lan"></a>
 
