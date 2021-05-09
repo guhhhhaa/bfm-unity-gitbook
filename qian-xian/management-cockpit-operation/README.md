@@ -18,6 +18,8 @@ description: Management Cockpit (Operation)
 * \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)\*\*\*\*
 * [**币优**](https://www.biyou.tech/)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
 
+{% page-ref page="si-yao-yun-bao-guan.md" %}
+
 ## 卓尔金历法
 
 {% page-ref page="ling-hang-duo-lei-da.md" %}
