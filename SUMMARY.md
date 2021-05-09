@@ -29,6 +29,7 @@
     * [SPSS 教室](qian-xian/research-institute-development/xiao-bai-xue-cheng/spss-jiao-cheng.md)
     * [Python少儿编程教室 👩‍🏫](qian-xian/research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
     * [开发环境搭建教室 👨‍🏫 🚩](qian-xian/research-institute-development/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
+    * [文献与数据](qian-xian/research-institute-development/xiao-bai-xue-cheng/wen-xian-yu-shu-ju.md)
   * [玄黑 · 算法科学分院 🔭 🛰️](qian-xian/research-institute-development/suan-fa-yan-jiu-yuan.md)
   * [正黄 · API接口技术分院👩‍🚀👨‍🚀](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/README.md)
     * [币安API实验室🚩](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
