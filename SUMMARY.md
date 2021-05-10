@@ -17,7 +17,7 @@
     * [股票信息工具](qian-xian/management-cockpit-operation/xuan-gu/gu-piao-xin-xi-gong-ju.md)
   * [可转债打新](qian-xian/management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](qian-xian/management-cockpit-operation/guo-zhai-ni-hui-gou.md)
-* [LV2-银行 \(枢纽\) 🏦](qian-xian/lv2-yin-hang/README.md)
+* [LV2-影银行 \(枢纽\) 🏦](qian-xian/lv2-yin-hang/README.md)
   * [个人业务](qian-xian/lv2-yin-hang/ge-ren-ye-wu.md)
   * [企业业务](qian-xian/lv2-yin-hang/untitled.md)
   * [创世业务](qian-xian/lv2-yin-hang/chuang-shi-ye-wu.md)
