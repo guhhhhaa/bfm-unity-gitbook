@@ -74,8 +74,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 BFM Unity
 
-算法·量化   
-价值·信用
+算法交易 · 量化投资  
+服务 · 信用 · 价值
 
 ## 底部栏‌ <a id="di-bu-lan"></a>
 
