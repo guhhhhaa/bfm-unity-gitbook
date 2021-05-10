@@ -2,7 +2,7 @@
 description: Command Room (Discovery)
 ---
 
-# LV2-指挥室 \(探索\) 👔
+# LV3-指挥室 \(探索\) 👔
 
 {% page-ref page="../management-cockpit-operation/" %}
 

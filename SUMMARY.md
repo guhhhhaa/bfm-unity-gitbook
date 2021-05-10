@@ -17,12 +17,17 @@
     * [股票信息工具](qian-xian/management-cockpit-operation/xuan-gu/gu-piao-xin-xi-gong-ju.md)
   * [可转债打新](qian-xian/management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
   * [国债逆回购](qian-xian/management-cockpit-operation/guo-zhai-ni-hui-gou.md)
-* [LV2-指挥室 \(探索\) 👔](qian-xian/command-room-discovery/README.md)
+* [LV2-银行 🏦](qian-xian/lv2-yin-hang/README.md)
+  * [个人业务](qian-xian/lv2-yin-hang/ge-ren-ye-wu.md)
+  * [企业业务](qian-xian/lv2-yin-hang/untitled.md)
+  * [创世业务](qian-xian/lv2-yin-hang/chuang-shi-ye-wu.md)
+  * [自营业务](qian-xian/lv2-yin-hang/zi-ying-tou-zi.md)
+* [LV3-指挥室 \(探索\) 👔](qian-xian/command-room-discovery/README.md)
   * [指挥室 - 以太坊](qian-xian/command-room-discovery/command-room-eth.md)
   * [指挥室 - 币安智能链](qian-xian/command-room-discovery/command-room-bsc.md)
   * [指挥室 - IPFS/FIL](qian-xian/command-room-discovery/zhi-hui-shi-ipfsfil.md)
   * [Python Project](qian-xian/command-room-discovery/python.md)
-* [LV3-研究院 \(架构\) 🔬](qian-xian/research-institute-development/README.md)
+* [LV4-研究院 \(架构\) 🔬](qian-xian/research-institute-development/README.md)
   * [导游](qian-xian/research-institute-development/dao-you.md)
   * [素白 · 密斯卡托尼克大学 🏫](qian-xian/research-institute-development/xiao-bai-xue-cheng/README.md)
     * [Excel 教室](qian-xian/research-institute-development/xiao-bai-xue-cheng/excel-jiao-shi.md)
@@ -60,11 +65,6 @@
 * [季度财务报表](hou-fang/ji-du-cai-wu-bao-biao.md)
 
 ## 类银行服务\(正在建设中……\) <a id="lei-yin-hang-fu-wu"></a>
-
-* [个人业务](lei-yin-hang-fu-wu/ge-ren-ye-wu.md)
-* [企业业务](lei-yin-hang-fu-wu/untitled.md)
-* [创世业务](lei-yin-hang-fu-wu/chuang-shi-ye-wu.md)
-* [自营业务](lei-yin-hang-fu-wu/zi-ying-tou-zi.md)
 
 ## 核心
 
