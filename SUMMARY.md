@@ -64,8 +64,6 @@
 * [会客厅 \(赞助\) 💰 & 资产公示](hou-fang/juan-zeng-da-shang.md)
 * [季度财务报表](hou-fang/ji-du-cai-wu-bao-biao.md)
 
-## 类银行服务\(正在建设中……\) <a id="lei-yin-hang-fu-wu"></a>
-
 ## 核心
 
 * [【算法】算法描述](he-xin/what-is-bfm-al/README.md)
