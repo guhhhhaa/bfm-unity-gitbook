@@ -80,7 +80,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 底部栏‌ <a id="di-bu-lan"></a>
 
-设计统一色号：**\#**4A90E2
+设计统一色号：[**\#**4A90E2](https://www.color-hex.com/color/4a90e2)
 
 ![](.gitbook/assets/bfm-unity-logo%20%281%29.png)
 
