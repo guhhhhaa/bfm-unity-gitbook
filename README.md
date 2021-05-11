@@ -16,7 +16,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 ### ​[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **\|** [**设计Assets**](https://share.weiyun.com/l21pilUf)
 {% endhint %}
 
-![](.gitbook/assets/bfm-unity-2.0.png)
+![](.gitbook/assets/bfm-unity-2.0%20%281%29.png)
 
 ## 交易员必进\([卓尔金历法](https://www.bfm-unity.com/management-cockpit-operation/ling-hang-duo-lei-da)\)
 
@@ -72,17 +72,19 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## ‌核心价值观
 
+> 算法交易 · 量化投资
+>
 > #### BFM Unity
 >
-> #### 算法交易 · 量化投资 服务 · 信用 · 价值
+> 服务 · 信用 · 价值
 
 ## 底部栏‌ <a id="di-bu-lan"></a>
 
 设计统一色号：**\#**4A90E2
 
-![&#x20BF;FM Unity&#x2122;](https://gblobscdn.gitbook.com/assets%2F-M39hAhDwZfzJY4Aou3y%2F-MXL033lJy85xVmVIMDJ%2F-MTOPn1U2y5-MtQ61mTD%2FBFM%20Unity%20Logo.png?alt=media&token=3bb532b5-3641-4ec2-8551-cffc278af192)
+![](.gitbook/assets/bfm-unity-logo%20%281%29.png)
 
-#### ​[₿FM Unity™](https://www.bfm-unity.com/) \| [₿itcoin-Finance-Management Unity™](https://www.bfm-unity.com/) \| [Bellman-Ford-Moore Unity™](https://www.bfm-unity.com/) \| BFM 联合体 <a id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li-yuan-ru-kou-github-wen-dang-di-zhi-github-dai-ma-di-zhi-bzhan-zhu-ye"></a>
+#### ​[BFM Unity](https://www.bfm-unity.com/) \| [₿itcoin-Finance-Management Unity™](https://www.bfm-unity.com/) \| [Bellman-Ford-Moore Unity™](https://www.bfm-unity.com/) \| BFM 联合体 <a id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li-yuan-ru-kou-github-wen-dang-di-zhi-github-dai-ma-di-zhi-bzhan-zhu-ye"></a>
 
 #### 2020.3.23 - 至今 \| [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/) **\|** [**Github 文档地址**](https://github.com/guhhhhaa/bfm-gitbook) **\|** [**Github 代码地址**](https://github.com/guhhhhaa/bfm-group-file) **\|** [**B站主页**](https://space.bilibili.com/11708778) <a id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li-yuan-ru-kou-github-wen-dang-di-zhi-github-dai-ma-di-zhi-bzhan-zhu-ye"></a>
 
@@ -90,5 +92,5 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/ping-mu-kuai-zhao-20210411-xia-wu-7.59.52.png)
 
-**© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**₿FM Unity™.**](https://www.bfm-unity.com/) **All Rights Reserved.**
+**© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity.**](https://www.bfm-unity.com/) **All Rights Reserved.**
 
