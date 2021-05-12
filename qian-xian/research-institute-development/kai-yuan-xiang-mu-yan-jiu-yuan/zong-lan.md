@@ -64,8 +64,6 @@ R2 Bitcoin Arbitrager
 
 R2 Bitcoin Arbitrager is an automatic arbitrage trading application targeting Bitcoin exchanges.
 
-### 
-
 ### Trading Bot
 
 OctoBot
