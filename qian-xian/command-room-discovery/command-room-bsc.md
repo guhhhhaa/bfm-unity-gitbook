@@ -6,6 +6,20 @@
 
 {% page-ref page="./" %}
 
+{% tabs %}
+{% tab title="设置钱包" %}
+如果你是第一次参与 BSC，需要设置 BSC 网络。以小狐狸钱包为例，在 Google 浏览器上打开小狐狸插件，选择自定义 RPC，网络名称填写币安智能链，新的 RPC URL 填写 [https://bsc-dataseed1.binance.org/](https://bsc-dataseed1.binance.org/)，链 ID 填写 56，符号填写 BNB，屏蔽管理器 URL 填写 [https://bscscan.com/](https://bscscan.com/)（具体设置可以参考这篇 [文档](https://bscscan.freshdesk.com/support/solutions/articles/67000185905-how-to-connect-metamask-to-binance-smart-chain-)）  
+{% endtab %}
+
+{% tab title="币安桥" %}
+[币安桥](https://www.binance.org/cn/bridge)
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+{% endtabs %}
+
 {% hint style="info" %}
 现在根据若尘的推荐，重点研究币安智能链，我们会把指挥室分裂出来，分裂出BSC和ETH，然后慢慢扩展我们的部署。
 
