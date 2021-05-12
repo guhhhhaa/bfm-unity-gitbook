@@ -8,6 +8,8 @@
 | :--- | :--- | :--- |
 | [Balancer](https://balancer.fi/) | [PoolDAI](https://zeframlou.github.io/pooldai/) | [TokenDIY-ETH](http://tokendiy.defiplot.com/#/) |
 | [TokenSets](https://www.tokensets.com/) |  | [TokenDIY-BSC](http://bsc.tokendiy.defiplot.com/#/) |
+| [cook.finance](https://www.cook.finance/) |  |  |
+| [dhedge.org](https://www.dhedge.org/) |  |  |
 
 
 
