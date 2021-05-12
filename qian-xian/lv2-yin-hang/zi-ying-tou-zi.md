@@ -24,5 +24,7 @@
 |  | [nordfinance.io](https://app.nordfinance.io/) |  |  |
 |  | \*\*\*\*[**yield**](https://www.yield.app/)\*\*\*\* |  |  |
 
+> [https://www.chainnews.com/articles/635773702973.htm](https://www.chainnews.com/articles/635773702973.htm)
+
 
 
