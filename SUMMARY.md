@@ -45,6 +45,7 @@
     * [旧版本高并发实验室](qian-xian/research-institute-development/yi-bu-bing-fa-xie-cheng-1/yi-bu-bing-fa-xie-cheng.md)
   * [苍青 · 开源项目工程分院👷‍♀️👷](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/README.md)
     * [总览](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/zong-lan.md)
+    * [Freqtrade 实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/freqtrade-shi-yan-shi.md)
     * [HummingBot领域级重点实验室🚩](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/hummingbot-ling-yu-ji-zhong-dian-shi-yan-shi.md)
     * [CCXT 领域级重点实验室🚩](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li/README.md)
       * [CCXT文档](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li/ccxt-ke-ti-zu-1.md)
