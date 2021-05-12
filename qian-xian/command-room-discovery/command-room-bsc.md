@@ -15,8 +15,25 @@
 [币安桥](https://www.binance.org/cn/bridge)
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="浏览器" %}
+#### 区块链浏览器：[bscscan](https://bscscan.com/) <a id="bscscan"></a>
+{% endtab %}
 
+{% tab title="动态数据" %}
+**动态数据：**[defistation](https://www.defistation.io/) 
+{% endtab %}
+
+{% tab title="项目" %}
+在 BSC 上比较出彩的项目如下：
+
+* 交易、建流动性、基础性挖矿：Cake
+* 银行赛道：XVS、For、Cream
+* 机枪池：Acryptos、Autofarm、Bunny、Beefy
+* swap 赛道：Cake、Bake、Burger、Anyswap
+* 稳定币赛道：bdolla
+* 保险类：Helmet wstoe
+
+其中，Cake 类似 BNB，XVS 类似 AAVE+UNI+MKR，ACS、Auto、Bunny 类似 YFI、Harvest。
 {% endtab %}
 {% endtabs %}
 
