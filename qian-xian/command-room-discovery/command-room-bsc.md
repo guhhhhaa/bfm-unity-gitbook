@@ -26,9 +26,9 @@
 {% tab title="项目" %}
 在 BSC 上比较出彩的项目如下：
 
-* 交易、建流动性、基础性挖矿：Cake
+* 交易、建流动性、基础性挖矿：[Cake](https://pancakeswap.finance/) \( [Info](https://pancakeswap.info/) \)
 * 银行赛道：XVS、For、Cream
-* 机枪池：Acryptos、Autofarm、Bunny、Beefy
+* 机枪池：Acryptos、[AutoFarm](https://autofarm.network/)、Bunny、Beefy
 * swap 赛道：Cake、Bake、Burger、Anyswap
 * 稳定币赛道：bdolla
 * 保险类：Helmet wstoe
