@@ -1,12 +1,12 @@
 # 指挥室 - 币安智能链
 
+{% page-ref page="./" %}
+
 ![](../../.gitbook/assets/bfm-unity-bsc.png)
 
 {% hint style="danger" %}
 此页面不是最终版本，正在建设中……
 {% endhint %}
-
-{% page-ref page="./" %}
 
 {% tabs %}
 {% tab title="设置钱包" %}
