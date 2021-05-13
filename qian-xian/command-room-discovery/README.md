@@ -16,6 +16,10 @@ description: Command Room (Discovery)
 
 {% page-ref page="zhi-hui-shi-ipfsfil.md" %}
 
+
+
+{% page-ref page="../management-cockpit-operation/ling-hang-duo-lei-da.md" %}
+
 ## 网络安全
 
 [币安学院 - 安全](https://academy.binance.com/zh/articles?tags=security)
