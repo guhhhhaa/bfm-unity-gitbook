@@ -177,5 +177,25 @@
 {% endtab %}
 {% endtabs %}
 
-### 
+### 小贷，网贷，计算器
+
+> 建议别碰小贷，
+>
+> 实在不行可以碰 平安普惠 和 宜信普惠。但是他们也是高利贷。
+>
+> 有条件还是老老实实刷信用卡，分期，提额。还有银行的贷款。
+
+[等额本息计算器](http://www.baiozhuntuixing.com/benxi.aspx) \| [等额本金计算器](http://www.baiozhuntuixing.com/benjin.aspx) \| [等额本金与等额本息的区别](http://www.baiozhuntuixing.com/diff.aspx)
+
+[民间借贷计算器](http://www.baiozhuntuixing.com/people.aspx)
+
+[和讯理财计算器](https://money.hexun.com/toolcase_loans/index.html)
+
+名义利率与实际利率转化
+
+## **名义利率与实际利率计算（使用EXCEL的IRR函数）**
+
+经验公式：等额本息实际利**率=1.8\*名义利率**
+
+[实用tips：如何计算等额本息还款方式贷款的实际年化利率 ](https://www.sohu.com/a/245052510_154368)
 
