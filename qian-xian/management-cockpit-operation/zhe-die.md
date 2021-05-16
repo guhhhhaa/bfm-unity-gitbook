@@ -177,7 +177,11 @@
 {% endtab %}
 {% endtabs %}
 
-### 小贷，网贷，计算器
+## 银行信用卡分期——计算器
+
+#### 快易理财网 - [信用卡分期实际年化利率计算器](https://www.kylc.com/bank/fees/ccinstallmentrate.html)
+
+## 小贷，网贷——计算器
 
 > 建议别碰小贷，
 >
@@ -191,7 +195,9 @@
 
 [和讯理财计算器](https://money.hexun.com/toolcase_loans/index.html)
 
-## **名义利率与实际利率**转化**计算（使用EXCEL的IRR函数）**
+## **名义利率与实际利率**转化**计算**
+
+**（使用EXCEL的IRR函数）**
 
 经验公式：等额本息实际利**率=1.8\*名义利率**
 
