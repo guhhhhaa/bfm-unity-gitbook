@@ -18,7 +18,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/bfm-unity-2.0%20%281%29.png)
 
-## 交易员必进\([卓尔金历法](https://www.bfm-unity.com/management-cockpit-operation/ling-hang-duo-lei-da)\)
+## 交易员必进\([卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)\)
 
 {% page-ref page="qian-xian/management-cockpit-operation/" %}
 

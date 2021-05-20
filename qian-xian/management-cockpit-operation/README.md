@@ -20,14 +20,20 @@ description: Management Cockpit (Operation)
 
 {% page-ref page="si-yao-yun-bao-guan.md" %}
 
-## 卓尔金历法
+## 资产配置
+
+### 战略资产配置——卓尔金历法
 
 {% page-ref page="zi-chan-pei-zhi/ling-hang-duo-lei-da.md" %}
+
+### 战术资产配置
+
+{% page-ref page="zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi.md" %}
 
 ## 核心显示界面
 
 {% hint style="info" %}
-* \*\*\*\*[**卓尔金历法/GPS 🕙**](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/ling-hang-duo-lei-da)\*\*\*\*
+* \*\*\*\*[**卓尔金历法/GPS 🕙**](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)\*\*\*\*
 
   \*\*\*\*[**卓尔金历法**](https://share.weiyun.com/dhfGbd7l)  **\|**  [**卓尔金-探索者号飞船**](https://share.weiyun.com/NAsqLyq8)\*\*\*\*
 
