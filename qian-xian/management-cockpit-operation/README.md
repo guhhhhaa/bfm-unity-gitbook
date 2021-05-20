@@ -22,7 +22,7 @@ description: Management Cockpit (Operation)
 
 ## 卓尔金历法
 
-{% page-ref page="ling-hang-duo-lei-da.md" %}
+{% page-ref page="zi-chan-pei-zhi/ling-hang-duo-lei-da.md" %}
 
 ## 核心显示界面
 
