@@ -2,11 +2,7 @@
 
 ## 公务员行测
 
-{% embed url="https://www.bilibili.com/video/BV1nX4y1g7nz" %}
-
 {% embed url="https://www.bilibili.com/video/BV1gz4y1D7Kj" %}
-
-{% embed url="https://www.bilibili.com/video/BV12v411h7MS" %}
 
 ## 公务员申论
 
@@ -22,11 +18,13 @@
 
 考试计划：[https://www.sac.net.cn/cyry/kspt/kstz/202012/t20201207\_144906.html](https://www.sac.net.cn/cyry/kspt/kstz/202012/t20201207_144906.html)
 
-[投顾教程1](https://www.bilibili.com/video/BV1ab411b7W9?from=search&seid=16668710090922450360)  [投顾教程2](https://www.bilibili.com/video/BV1ho4y1Z7tL/?spm_id_from=autoNext)
+[投顾教程1](https://www.bilibili.com/video/BV1ab411b7W9?from=search&seid=16668710090922450360)
 
 ## 基金从业
 
 [http://baoming.amac.org.cn:10080/JJKSreg/page.htm](http://baoming.amac.org.cn:10080/JJKSreg/page.htm)
+
+[基础知识](https://www.bilibili.com/video/BV1ME411F7hZ) \| [法律法规](https://www.bilibili.com/video/BV1EE411G77p)
 
 ## CIIA，注册国际投资分析师
 

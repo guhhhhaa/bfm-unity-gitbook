@@ -7,7 +7,6 @@
 * [LV1-驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
   * [私钥云保管](qian-xian/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [卓尔金历法/GPS 🕙](qian-xian/management-cockpit-operation/ling-hang-duo-lei-da.md)
-  * [Untitled](qian-xian/management-cockpit-operation/untitled.md)
   * [考试报名](qian-xian/management-cockpit-operation/kao-shi-bao-ming/README.md)
     * [公务员面试](qian-xian/management-cockpit-operation/kao-shi-bao-ming/untitled.md)
   * [云POS无卡支付](qian-xian/management-cockpit-operation/zhe-die.md)
