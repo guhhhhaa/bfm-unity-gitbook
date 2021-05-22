@@ -24,7 +24,7 @@
 
 [http://baoming.amac.org.cn:10080/JJKSreg/page.htm](http://baoming.amac.org.cn:10080/JJKSreg/page.htm)
 
-[基础知识](https://www.bilibili.com/video/BV1ME411F7hZ)\([精点透析](https://www.bilibili.com/video/BV1FV411n7k6)\) \| [法律法规](https://www.bilibili.com/video/BV1EE411G77p)
+[基础知识](https://www.bilibili.com/video/BV1ME411F7hZ)\([精点透析](https://www.bilibili.com/video/BV1FV411n7k6)\) \| [法律法规](https://www.bilibili.com/video/BV1EE411G77p)\([精点透析](https://www.bilibili.com/video/BV12B4y1c7SC)\)
 
 ## CIIA，注册国际投资分析师
 
