@@ -33,7 +33,7 @@ description: Management Cockpit (Operation)
 ## 核心显示界面
 
 {% hint style="info" %}
-* \*\*\*\*[**卓尔金历法/GPS 🕙**](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)\*\*\*\*
+* \*\*\*\*[**卓尔金历法 🕙**](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)\*\*\*\*
 
   \*\*\*\*[**卓尔金历法**](https://share.weiyun.com/dhfGbd7l)  **\|**  [**卓尔金-探索者号飞船**](https://share.weiyun.com/NAsqLyq8)\*\*\*\*
 
