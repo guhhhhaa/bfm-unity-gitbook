@@ -5,6 +5,10 @@
 > ——《三体》- 刘慈欣
 
 {% hint style="info" %}
+Disclaimer: **Any information found on this page is not to be considered as financial advice. You should do your own research before making any decisions.**
+{% endhint %}
+
+{% hint style="success" %}
 哈布历法是战术资产配置，用来配置微观的流动性挖矿1：1交易对的比例。
 
 目前仅支持三个币种。更多币种的策略正在研究中……
