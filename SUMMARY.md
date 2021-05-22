@@ -5,7 +5,7 @@
 ## 前线
 
 * [LV1-驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
-  * [私钥云保管](qian-xian/management-cockpit-operation/si-yao-yun-bao-guan.md)
+  * [私钥云保管 🔑 ☁️](qian-xian/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [资产配置 🕙 ⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/README.md)
     * [战略资产配置——卓尔金历 🕙](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da.md)
     * [战术资产配置——哈布历⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi.md)
