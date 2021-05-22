@@ -22,11 +22,11 @@ description: Management Cockpit (Operation)
 
 ## 资产配置
 
-### 战略资产配置——卓尔金历法
+### 战略资产配置——卓尔金历
 
 {% page-ref page="zi-chan-pei-zhi/ling-hang-duo-lei-da.md" %}
 
-### 战术资产配置
+### 战术资产配置——哈布历
 
 {% page-ref page="zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi.md" %}
 
