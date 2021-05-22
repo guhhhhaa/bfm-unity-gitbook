@@ -22,6 +22,8 @@ description: Management Cockpit (Operation)
 
 ## 资产配置
 
+{% page-ref page="zi-chan-pei-zhi/" %}
+
 ### 战略资产配置——卓尔金历
 
 {% page-ref page="zi-chan-pei-zhi/ling-hang-duo-lei-da.md" %}
