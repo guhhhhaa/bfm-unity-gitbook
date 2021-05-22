@@ -38,3 +38,7 @@
 
 ![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210520-xia-wu-8.29.59.png)
 
+## 延伸阅读
+
+[在币圈进行动态平衡的细节化思考](https://guhhhhaa.gitbook.io/joinquant/joinquant/zai-bi-quan-jin-hang-dong-tai-ping-heng-de-xi-jie-hua-si-kao)
+
