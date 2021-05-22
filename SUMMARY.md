@@ -11,7 +11,6 @@
     * [战术资产配置——哈布历⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi.md)
   * [考试报名](qian-xian/management-cockpit-operation/kao-shi-bao-ming/README.md)
     * [公务员面试](qian-xian/management-cockpit-operation/kao-shi-bao-ming/untitled.md)
-    * [课程学习](qian-xian/management-cockpit-operation/kao-shi-bao-ming/ke-cheng-xue-xi.md)
   * [云POS无卡支付 💳](qian-xian/management-cockpit-operation/zhe-die.md)
   * [数学利器](qian-xian/management-cockpit-operation/shu-xue-li-qi.md)
   * [黄金投资](qian-xian/management-cockpit-operation/huang-jin-tou-zi.md)
