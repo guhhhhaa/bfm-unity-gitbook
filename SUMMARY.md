@@ -106,13 +106,6 @@
 * [B站视频下载 🎬 ⏬](gong-ju/b-zhan-shi-pin-xia-zai.md)
 * [法律文件下载](gong-ju/fa-lv-wen-jian-xia-zai.md)
 
-## 链接
-
-* [看板](https://trello.com/b/z4aDgNAL/todolist)
-* [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
-* [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
-* [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
-
 ## 风控与合规
 
 * [网站备案](feng-kong-yu-he-gui/wang-zhan-bei-an.md)
@@ -125,6 +118,13 @@
   * [如何注册民间团体？](feng-kong-yu-he-gui/zu-zhi-xing-shi/ru-he-zhu-ce-min-jian-tuan-ti.md)
   * [章程参考1](feng-kong-yu-he-gui/zu-zhi-xing-shi/zhang-cheng-can-kao-1.md)
   * [章程参考2](feng-kong-yu-he-gui/zu-zhi-xing-shi/zhang-cheng-can-kao-2.md)
+
+## 链接
+
+* [看板](https://trello.com/b/z4aDgNAL/todolist)
+* [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
+* [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
+* [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
 
 ---
 
