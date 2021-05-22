@@ -151,7 +151,7 @@ return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
-## 4，总结应用（已失效，用[卓尔金历法](https://www.bfm-unity.com/management-cockpit-operation/ling-hang-duo-lei-da)代替）
+## 4，总结应用（已失效，用[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)代替）
 
 ```python
 MVRV            ➡️ 归一化操作 ➡️ 施密特触发器 ↘️
