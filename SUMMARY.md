@@ -98,7 +98,7 @@
 * [黄金投资](chuan-tong-jin-rong/huang-jin-tou-zi.md)
 * [国债逆回购](chuan-tong-jin-rong/guo-zhai-ni-hui-gou.md)
 * [可转债打新](chuan-tong-jin-rong/ke-zhuan-zhai-da-xin.md)
-* [离岸金融 ��](chuan-tong-jin-rong/gang-mei-gu-kai-hu.md)
+* [离岸金融 🌍](chuan-tong-jin-rong/gang-mei-gu-kai-hu.md)
 
 ## 考证学习
 
