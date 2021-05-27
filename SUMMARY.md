@@ -12,6 +12,7 @@
   * [考试报名](qian-xian/management-cockpit-operation/kao-shi-bao-ming/README.md)
     * [公务员面试](qian-xian/management-cockpit-operation/kao-shi-bao-ming/untitled.md)
   * [云POS无卡支付 💳](qian-xian/management-cockpit-operation/zhe-die.md)
+  * [港美股开户](qian-xian/management-cockpit-operation/gang-mei-gu-kai-hu.md)
   * [数学利器](qian-xian/management-cockpit-operation/shu-xue-li-qi.md)
   * [黄金投资](qian-xian/management-cockpit-operation/huang-jin-tou-zi.md)
   * [基金投资](qian-xian/management-cockpit-operation/ji-jin-tou-zi.md)
