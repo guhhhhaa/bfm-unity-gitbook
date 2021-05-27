@@ -6,5 +6,5 @@
 
 【链接】香港公司账户开设攻略与注意事项 \_ 手机搜狐网 [https://m.sohu.com/a/123697977\_587533](https://m.sohu.com/a/123697977_587533)
 
-离岸金融服务由卓信企业提供：[http://www.zhuoxin.hk/](http://www.zhuoxin.hk/)  或  [http://www.zhuoxin.net/](http://www.zhuoxin.net/)
+离岸金融服务由香港卓信会计事务所有限公司提供：[http://www.zhuoxin.hk/](http://www.zhuoxin.hk/)  或  [http://www.zhuoxin.net/](http://www.zhuoxin.net/)
 
