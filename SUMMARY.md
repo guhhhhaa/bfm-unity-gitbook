@@ -91,8 +91,6 @@
 
 ## 传统金融
 
-* [金融考试](chuan-tong-jin-rong/kao-shi-bao-ming.md)
-* [公务员考试](chuan-tong-jin-rong/untitled.md)
 * [云POS无卡支付 💳](chuan-tong-jin-rong/zhe-die.md)
 * [选股](chuan-tong-jin-rong/xuan-gu/README.md)
   * [股票信息工具](chuan-tong-jin-rong/xuan-gu/gu-piao-xin-xi-gong-ju.md)
@@ -101,6 +99,11 @@
 * [国债逆回购](chuan-tong-jin-rong/guo-zhai-ni-hui-gou.md)
 * [可转债打新](chuan-tong-jin-rong/ke-zhuan-zhai-da-xin.md)
 * [离岸金融 ��](chuan-tong-jin-rong/gang-mei-gu-kai-hu.md)
+
+## 考证学习
+
+* [金融考试](kao-zheng-xue-xi/kao-shi-bao-ming.md)
+* [公务员考试](kao-zheng-xue-xi/untitled-1.md)
 
 ## 工具
 
