@@ -8,3 +8,9 @@
 
 ![](../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
 
+## \[BFM - 003\]: BFM Token
+
+[https://pancakeswap.info/token/0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec](https://pancakeswap.info/token/0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec)
+
+[https://bscscan.com/token/0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec](https://bscscan.com/token/0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec)
+
