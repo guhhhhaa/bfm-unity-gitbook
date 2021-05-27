@@ -6,79 +6,79 @@
 
 ## 1 应急应变 <a id="1-ying-ji-ying-bian"></a>
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.26.23.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.26.23.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.27.36%20%281%29.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.27.36%20%281%29.png)
 
 ## 2 - 社会现象 <a id="2-she-hui-xian-xiang"></a>
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.29.53.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.29.53.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.31.55.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.31.55.png)
 
 ## 3 - 组织调研 <a id="3-zu-zhi-tiao-yan"></a>
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.35.41.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.35.41.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.38.05.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.38.05.png)
 
 ## 4 - 沟通协调 <a id="4-gou-tong-xie-tiao"></a>
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.39.20.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.39.20.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.40.45.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.40.45.png)
 
 ## 5 - 社会现象题 <a id="5-she-hui-xian-xiang-ti"></a>
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.42.09.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.42.09.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.42.44.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.42.44.png)
 
 ## 6 - 人生哲理 <a id="6-ren-sheng-zhe-li"></a>
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.07.44.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.07.44.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.13.49.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.13.49.png)
 
 ## 7 - 沟通协调 <a id="1516-zong-he-neng-li"></a>
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.16.11.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.16.11.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.20.15.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.20.15.png)
 
 ## 8 - 组织计划
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.27.55.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.27.55.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.28.05.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.28.05.png)
 
 ## 9 - 情景模拟
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.29.38.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.29.38.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.31.19.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.31.19.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.33.35.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.33.35.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.40.01.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.40.01.png)
 
 ## 11-12 漫画 <a id="1516-zong-he-neng-li"></a>
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.57.44.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.57.44.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.59.08.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-6.59.08.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.02.54.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.02.54.png)
 
 ## 13 组织计划
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.10.05.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.10.05.png)
 
 ## 14 社会现象
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.14.25.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.14.25.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.22.00.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210418-xia-wu-7.22.00.png)
 
 ## 15-16 综合能力 <a id="1516-zong-he-neng-li"></a>
 
@@ -86,19 +86,19 @@
 
 调研，分析，解决‌
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210408-xia-wu-6.05.50.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210408-xia-wu-6.05.50.png)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-5.54.37.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-5.54.37.png)
 
 ## 17 新兴产业 <a id="17-xin-xing-chan-ye"></a>
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MYUDnCzDVdyHgE2Xs8O%2F-MYUDpJaKBNgc5xA1Lyu%2F-MYUFrlr5DLDeI0quHOW%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-03-31%20%E4%B8%8B%E5%8D%883.41.38.png?alt=media&token=1bb8f136-9110-409e-b2f1-d728f8275ac6)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.00.50.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.00.50.png)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MYUDnCzDVdyHgE2Xs8O%2F-MYUDpJaKBNgc5xA1Lyu%2F-MYUGvq5pHNWOQpXW9WM%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-04-17%20%E4%B8%8B%E5%8D%886.01.42.png?alt=media&token=48bcab15-89b1-4e71-83b4-14a2aec03b06)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.02.41.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.02.41.png)
 
 ## 18 工作作风 <a id="18-gong-zuo-zuo-feng"></a>
 
@@ -106,7 +106,7 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MYUDnCzDVdyHgE2Xs8O%2F-MYUDpJaKBNgc5xA1Lyu%2F-MYUHzVHeKWki3DdPc7J%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-04-17%20%E4%B8%8B%E5%8D%886.06.10.png?alt=media&token=a58c9402-e6bd-420a-a8c0-598c02344ddd)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.07.00.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.07.00.png)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MYUDnCzDVdyHgE2Xs8O%2F-MYUDpJaKBNgc5xA1Lyu%2F-MYUIPmp3DJ6WQSiwveC%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-04-17%20%E4%B8%8B%E5%8D%886.08.11.png?alt=media&token=298de992-159d-4b73-adf3-99e9d92672e8)
 
@@ -114,11 +114,11 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MYUDnCzDVdyHgE2Xs8O%2F-MYUDpJaKBNgc5xA1Lyu%2F-MYUJ-BJN2En-0n_CcKj%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-04-17%20%E4%B8%8B%E5%8D%886.10.48.png?alt=media&token=7ac7770d-7581-418e-97b8-384f51286d42)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.11.58.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.11.58.png)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MYUDnCzDVdyHgE2Xs8O%2F-MYUDpJaKBNgc5xA1Lyu%2F-MYUJXQbsoU4vmPH8mbP%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-04-17%20%E4%B8%8B%E5%8D%886.13.08.png?alt=media&token=609e1781-37a6-48c2-9b57-5a4379d0e0d3)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.14.20.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210417-xia-wu-6.14.20.png)
 
 ## 20 - 调查类 <a id="20-tiao-cha-lei"></a>
 

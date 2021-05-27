@@ -9,17 +9,7 @@
   * [资产配置 🕙 ⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/README.md)
     * [战略资产配置——卓尔金历 🕙](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da.md)
     * [战术资产配置——哈布历⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi.md)
-  * [考试报名](qian-xian/management-cockpit-operation/kao-shi-bao-ming/README.md)
-    * [公务员面试](qian-xian/management-cockpit-operation/kao-shi-bao-ming/untitled.md)
-  * [云POS无卡支付 💳](qian-xian/management-cockpit-operation/zhe-die.md)
-  * [港美股开户](qian-xian/management-cockpit-operation/gang-mei-gu-kai-hu.md)
   * [数学利器](qian-xian/management-cockpit-operation/shu-xue-li-qi.md)
-  * [黄金投资](qian-xian/management-cockpit-operation/huang-jin-tou-zi.md)
-  * [基金投资](qian-xian/management-cockpit-operation/ji-jin-tou-zi.md)
-  * [选股](qian-xian/management-cockpit-operation/xuan-gu/README.md)
-    * [股票信息工具](qian-xian/management-cockpit-operation/xuan-gu/gu-piao-xin-xi-gong-ju.md)
-  * [可转债打新](qian-xian/management-cockpit-operation/ke-zhuan-zhai-da-xin.md)
-  * [国债逆回购](qian-xian/management-cockpit-operation/guo-zhai-ni-hui-gou.md)
 * [LV2-影银行 \(枢纽\) 🏦](qian-xian/lv2-yin-hang/README.md)
   * [个人业务](qian-xian/lv2-yin-hang/ge-ren-ye-wu.md)
   * [企业业务](qian-xian/lv2-yin-hang/untitled.md)
@@ -98,6 +88,19 @@
   * [《IT超度指南》](li-shi/hui-shou-zhan/it-chao-du-zhi-nan.md)
   * [动漫](li-shi/hui-shou-zhan/dong-man.md)
   * [01城密咒](li-shi/hui-shou-zhan/untitled.md)
+
+## 传统金融
+
+* [考试报名](chuan-tong-jin-rong/kao-shi-bao-ming/README.md)
+  * [公务员面试](chuan-tong-jin-rong/kao-shi-bao-ming/untitled.md)
+* [云POS无卡支付 💳](chuan-tong-jin-rong/zhe-die.md)
+* [选股](chuan-tong-jin-rong/xuan-gu/README.md)
+  * [股票信息工具](chuan-tong-jin-rong/xuan-gu/gu-piao-xin-xi-gong-ju.md)
+* [基金投资](chuan-tong-jin-rong/ji-jin-tou-zi.md)
+* [黄金投资](chuan-tong-jin-rong/huang-jin-tou-zi.md)
+* [国债逆回购](chuan-tong-jin-rong/guo-zhai-ni-hui-gou.md)
+* [可转债打新](chuan-tong-jin-rong/ke-zhuan-zhai-da-xin.md)
+* [离岸金融](chuan-tong-jin-rong/gang-mei-gu-kai-hu.md)
 
 ## 工具
 

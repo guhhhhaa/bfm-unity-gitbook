@@ -152,7 +152,7 @@
 
 注意先多预留出少量的手续费。
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20201222-xia-wu-7.19.25.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201222-xia-wu-7.19.25.png)
 
 ## 参考：
 

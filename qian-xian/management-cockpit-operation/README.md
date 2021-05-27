@@ -68,17 +68,17 @@ description: Management Cockpit (Operation)
 
 ## 基金股票
 
-{% page-ref page="ji-jin-tou-zi.md" %}
+{% page-ref page="../../chuan-tong-jin-rong/ji-jin-tou-zi.md" %}
 
-{% page-ref page="xuan-gu/" %}
+{% page-ref page="../../chuan-tong-jin-rong/xuan-gu/" %}
 
 ## 薅羊毛
 
-{% page-ref page="ke-zhuan-zhai-da-xin.md" %}
+{% page-ref page="../../chuan-tong-jin-rong/ke-zhuan-zhai-da-xin.md" %}
 
-{% page-ref page="guo-zhai-ni-hui-gou.md" %}
+{% page-ref page="../../chuan-tong-jin-rong/guo-zhai-ni-hui-gou.md" %}
 
 ## 融资加杠杆
 
-{% page-ref page="zhe-die.md" %}
+{% page-ref page="../../chuan-tong-jin-rong/zhe-die.md" %}
 
