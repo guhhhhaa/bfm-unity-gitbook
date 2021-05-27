@@ -91,8 +91,8 @@
 
 ## 传统金融
 
-* [考试报名](chuan-tong-jin-rong/kao-shi-bao-ming/README.md)
-  * [公务员面试](chuan-tong-jin-rong/kao-shi-bao-ming/untitled.md)
+* [金融考试报名](chuan-tong-jin-rong/kao-shi-bao-ming/README.md)
+  * [公务员考试](chuan-tong-jin-rong/kao-shi-bao-ming/untitled.md)
 * [云POS无卡支付 💳](chuan-tong-jin-rong/zhe-die.md)
 * [选股](chuan-tong-jin-rong/xuan-gu/README.md)
   * [股票信息工具](chuan-tong-jin-rong/xuan-gu/gu-piao-xin-xi-gong-ju.md)
