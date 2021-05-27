@@ -5,6 +5,16 @@
 ### 社区Token/NFT拍卖（由 [OpenSea](https://opensea.io/collections) 和 [Rarible](https://rarible.com/) 支持）
 
 {% tabs %}
+{% tab title="BFM Unity Token" %}
+用于社区治理。
+
+BFM币BSC币安智能链合约地址:0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec
+
+{% embed url="https://bscscan.com/token/0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec" %}
+
+{% embed url="https://pancakeswap.info/token/0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec" %}
+{% endtab %}
+
 {% tab title="统治局🚩" %}
 ## 投资者可以优先购买我们的NFT！
 
@@ -13,10 +23,6 @@
 {% embed url="https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:611855" %}
 
 {% embed url="https://opensea.io/assets/0x60f80121c31a0d46b5279700f9df786054aa5ee5/611855" %}
-{% endtab %}
-
-{% tab title="BFM Unity Token" %}
-用于社区购买成员问题回答，和社区治理。
 {% endtab %}
 
 {% tab title="BFM Unity 铭牌 NFT" %}
