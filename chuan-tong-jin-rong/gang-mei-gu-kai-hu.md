@@ -13,3 +13,8 @@
 提供：  
 [http://www.zhuoxin.hk/](http://www.zhuoxin.hk/)  或  [http://www.zhuoxin.net/](http://www.zhuoxin.net/)
 
+离岸金融服务由   
+**宏源国际咨询管理（深圳）有限公司**  
+提供：  
+[https://www.liankuaiche.com/](https://www.liankuaiche.com/)  或  [http://www.hyintern.com/index.html](http://www.hyintern.com/index.html)
+
