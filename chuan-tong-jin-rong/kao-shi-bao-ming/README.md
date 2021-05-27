@@ -26,6 +26,8 @@
 
 [基础知识](https://www.bilibili.com/video/BV1ME411F7hZ)\([精点透析](https://www.bilibili.com/video/BV1FV411n7k6)\) \| [法律法规](https://www.bilibili.com/video/BV1EE411G77p)\([精点透析](https://www.bilibili.com/video/BV12B4y1c7SC)\)
 
+## 从业过线由 [海绵金融](https://www.haimianjinrong.com/) 提供
+
 ## CIIA，注册国际投资分析师
 
 [https://www.sac.net.cn/cyry/kspt/kstz/201607/t20160714\_128421.html](https://www.sac.net.cn/cyry/kspt/kstz/201607/t20160714_128421.html)
