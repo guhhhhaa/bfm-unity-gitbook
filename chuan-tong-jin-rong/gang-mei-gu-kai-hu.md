@@ -1,6 +1,6 @@
 # 离岸金融 🌍
 
-[https://investguider.com/](https://investguider.com/) \| [https://www.mg21.com/](https://www.mg21.com/) \| [https://www.zngm.com/](https://www.zngm.com/)
+[https://investguider.com/](https://investguider.com/) \| [https://www.mg21.com/](https://www.mg21.com/) \| [https://www.zngm.com/](https://www.zngm.com/) \| [https://www.kdkh.com/](https://www.kdkh.com/)
 
 十三张热门香港卡评测+办理攻略  
 [https://zhuanlan.zhihu.com/p/350801551](https://zhuanlan.zhihu.com/p/350801551)
