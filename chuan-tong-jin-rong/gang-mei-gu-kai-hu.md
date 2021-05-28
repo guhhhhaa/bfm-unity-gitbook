@@ -2,7 +2,7 @@
 
 ## 导航指南网站：🧭
 
-[美股之家](https://www.mg21.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/) \| [美股指南](https://investguider.com/)
+[美股之家](https://www.mg21.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/) \| [美股指南](https://investguider.com/) \| [**旺旺来富**](https://wangwanglaifu.com/)\*\*\*\*
 
 ## 离岸银行卡：💳
 
