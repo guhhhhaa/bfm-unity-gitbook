@@ -3,6 +3,9 @@
 十三张热门香港卡评测+办理攻略  
 [https://zhuanlan.zhihu.com/p/350801551](https://zhuanlan.zhihu.com/p/350801551)
 
+手把手教你办理香港民生卡买港股、美股  
+[https://zhuanlan.zhihu.com/p/46755993](https://zhuanlan.zhihu.com/p/46755993)
+
 【链接】「中港两地银行卡」办理全解析 __手机搜狐网 [https://m.sohu.com/a/360061422\_120481337](https://m.sohu.com/a/360061422_120481337) __
 
 【链接】干货  \|「中港两地银行卡」如何办理？手机搜狐网 [https://m.sohu.com/a/209974660\_100014622](https://m.sohu.com/a/209974660_100014622) 
