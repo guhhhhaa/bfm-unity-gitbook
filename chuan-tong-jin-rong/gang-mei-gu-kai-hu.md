@@ -1,8 +1,8 @@
-# 离岸金融 🌍
+# 离岸金融 🌍 港美股
 
-[https://investguider.com/](https://investguider.com/) \| [https://www.mg21.com/](https://www.mg21.com/) \| [https://www.zngm.com/](https://www.zngm.com/) \| [https://www.kdkh.com/](https://www.kdkh.com/)
+[美股之家](https://www.mg21.com/) \| [美股指南](https://investguider.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/)
 
-老虎 \| 雪盈 \| 富途 \| 微牛 \| 华盛
+[推荐互联网券商](https://zhuanlan.zhihu.com/p/349480662)：老虎 \| 雪盈 \| 富途 \| 微牛 \| 华盛
 
 十三张热门香港卡评测+办理攻略  
 [https://zhuanlan.zhihu.com/p/350801551](https://zhuanlan.zhihu.com/p/350801551)
