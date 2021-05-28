@@ -1,16 +1,18 @@
 # 离岸金融 🌍 港美股
 
-## 开卡开户指南：[美股之家](https://www.mg21.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/) \| [美股指南](https://investguider.com/)
+## 导航指南网站：
 
-## 推荐开港卡：
+[美股之家](https://www.mg21.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/) \| [美股指南](https://investguider.com/)
 
+## 香港银行卡：
+
+民生 \| 招商 \| 中信  
+渣打 \| 星展 \| 汇丰  
 中国 \| 工商 \| 建设
 
-民生 \| 招商 \| 中信
+## [互联网券商](https://zhuanlan.zhihu.com/p/349480662)：
 
-汇丰 \| 渣打 \| 星展
-
-## [推荐互联网券商](https://zhuanlan.zhihu.com/p/349480662)：[老虎](https://www.itiger.com/) \| [雪盈](https://www.snowballsecurities.com/) \|[ 富途](https://www.futuhk.com/)\([富途牛牛](https://www.futunn.com/)\) \| [微牛](https://www.webull.com/) \| [华盛](https://www.vbkr.com/)
+[老虎](https://www.itiger.com/) \| [雪盈](https://www.snowballsecurities.com/) \|[ 富途](https://www.futuhk.com/)\([富途牛牛](https://www.futunn.com/)\) \| [微牛](https://www.webull.com/) \| [华盛](https://www.vbkr.com/)
 
 ——————————
 
