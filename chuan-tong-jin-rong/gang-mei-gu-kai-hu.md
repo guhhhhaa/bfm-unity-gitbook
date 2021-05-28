@@ -33,7 +33,8 @@
 0，离岸金融服务由   
 **旺旺来富**  
 提供：[https://wangwanglaifu.com/](https://wangwanglaifu.com/) （[知乎1](https://www.zhihu.com/people/wangwanglaifu)）  
-[个人离岸业务 - 旺旺来富](https://wangwanglaifu.com/individual-offshore-services/)
+[个人离岸业务 - 旺旺来富](https://wangwanglaifu.com/individual-offshore-services/)  
+[其他产品与服务 - 旺旺来富](https://wangwanglaifu.com/products-and-services/)
 
 1，离岸金融服务由   
 **香港卓信会计事务所有限公司**   
