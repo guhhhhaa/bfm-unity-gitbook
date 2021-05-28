@@ -60,7 +60,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 我们的经合关系 <a id="zhan-lve-he-zuo-huo-ban"></a>
 
-![](.gitbook/assets/bfm-unity-zhan-lve-he-zuo-huo-ban-.png)
+![](.gitbook/assets/bfm-unity-zhan-lve-he-zuo-huo-ban-%20%282%29.png)
 
 [全球最大的50家银行在区块链领域的布局](https://cloud.tencent.com/developer/article/1356837)
 
