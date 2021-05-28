@@ -4,11 +4,9 @@
 
 [美股之家](https://www.mg21.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/) \| [美股指南](https://investguider.com/)
 
-## 香港银行卡：💳
+## 离岸银行卡：💳
 
-民生 \| 招商 \| 中信  
-渣打 \| 星展 \| 汇丰 恒生  
-中国 \| 工商 \| 建设
+[远程个人离岸银行开户](https://wangwanglaifu.com/individual-remote-offshore-bank-account-opening/)
 
 ## [互联网券商](https://zhuanlan.zhihu.com/p/349480662)：
 
