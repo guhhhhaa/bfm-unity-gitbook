@@ -2,7 +2,9 @@
 
 [美股之家](https://www.mg21.com/) \| [美股指南](https://investguider.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/)
 
-[推荐互联网券商](https://zhuanlan.zhihu.com/p/349480662)：老虎 \| 雪盈 \| 富途 \| 微牛 \| 华盛
+[推荐互联网券商](https://zhuanlan.zhihu.com/p/349480662)：[老虎](https://www.itiger.com/) \| [雪盈](https://www.snowballsecurities.com/) \|[ 富途](https://www.futuhk.com/)\([富途牛牛](https://www.futunn.com/)\) \| [微牛](https://www.webull.com/) \| [华盛](https://www.vbkr.com/)
+
+——————————
 
 十三张热门香港卡评测+办理攻略  
 [https://zhuanlan.zhihu.com/p/350801551](https://zhuanlan.zhihu.com/p/350801551)
@@ -10,7 +12,7 @@
 手把手教你办理香港民生卡买港股、美股  
 [https://zhuanlan.zhihu.com/p/46755993](https://zhuanlan.zhihu.com/p/46755993)
 
-————————
+——————————
 
 【链接】「中港两地银行卡」办理全解析 __手机搜狐网 [https://m.sohu.com/a/360061422\_120481337](https://m.sohu.com/a/360061422_120481337) __
 
