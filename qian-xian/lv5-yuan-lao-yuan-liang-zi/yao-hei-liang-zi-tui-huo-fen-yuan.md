@@ -2,7 +2,7 @@
 description: BFM Unity - Quantum Annealing Institute
 ---
 
-# 曜黑 · 量子退火分院
+# 曜黑 · 量子退火研究院
 
 ## 比坊梦联合体 - 量子退火研究院 \| BFM Unity - Quantum Annealing Institute
 
