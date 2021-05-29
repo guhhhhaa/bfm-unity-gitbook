@@ -6,7 +6,7 @@
 
 [**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx)\*\*\*\*
 
-{% page-ref page="suan-fa-yan-jiu-yuan.md" %}
+{% page-ref page="suan-fa-yan-jiu-yuan/" %}
 
 ## 一，环境搭建🚩
 
