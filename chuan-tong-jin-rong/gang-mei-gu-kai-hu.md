@@ -8,6 +8,14 @@
 
 [远程个人离岸银行开户](https://wangwanglaifu.com/individual-remote-offshore-bank-account-opening/)
 
+汇丰 \| 渣打 \| 花旗 🇬🇧🇺🇸  
+星展 \| 大华 \| 华侨 🇸🇬  
+恒生 \| 东亚 \| 大新 🇭🇰  
+中国 \| 工商 \| 建设 🇨🇳  
+农业 \| 交通 \| 邮储 🇨🇳  
+民生 \| 招商 \| 中信 🇨🇳  
+平安 \| 光大 \| 兴业 🇨🇳
+
 ## [互联网券商](https://zhuanlan.zhihu.com/p/349480662)：
 
 [老虎](https://www.itiger.com/) \| [雪盈](https://www.snowballsecurities.com/) \|[ 富途](https://www.futuhk.com/)\([富途牛牛](https://www.futunn.com/)\) \| [微牛](https://www.webull.com/) \| [华盛](https://www.vbkr.com/)
