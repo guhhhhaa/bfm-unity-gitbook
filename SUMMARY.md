@@ -30,8 +30,7 @@
     * [开发环境搭建教室 👨‍🏫 🚩](qian-xian/research-institute-development/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
     * [基础财商教育](qian-xian/research-institute-development/xiao-bai-xue-cheng/ji-chu-cai-shang-jiao-yu.md)
     * [文献与数据](qian-xian/research-institute-development/xiao-bai-xue-cheng/wen-xian-yu-shu-ju.md)
-  * [玄黑 · 算法科学分院 🔭 🛰️](qian-xian/research-institute-development/suan-fa-yan-jiu-yuan/README.md)
-    * [曜黑 · 量子退火分院](qian-xian/research-institute-development/suan-fa-yan-jiu-yuan/yao-hei-liang-zi-tui-huo-fen-yuan.md)
+  * [玄黑 · 算法科学分院 🔭 🛰️](qian-xian/research-institute-development/suan-fa-yan-jiu-yuan.md)
   * [正黄 · API接口技术分院👩‍🚀👨‍🚀](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/README.md)
     * [币安API实验室🚩](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
   * [朱红 · 高并发技术分院👩‍🔬 👨‍🔬](qian-xian/research-institute-development/yi-bu-bing-fa-xie-cheng-1/README.md)
@@ -51,6 +50,8 @@
     * [实验室2](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shi-yan-shi-2.md)
     * [py重点实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md)
     * [以太坊部署实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
+* [LV5-元老院 \(量子\) ☢️](qian-xian/lv5-yuan-lao-yuan-liang-zi/README.md)
+  * [曜黑 · 量子退火分院](qian-xian/lv5-yuan-lao-yuan-liang-zi/yao-hei-liang-zi-tui-huo-fen-yuan.md)
 
 ## 后方
 

@@ -48,7 +48,7 @@ description: Research Institute (Development)
 
 {% page-ref page="xiao-bai-xue-cheng/" %}
 
-{% page-ref page="suan-fa-yan-jiu-yuan/" %}
+{% page-ref page="suan-fa-yan-jiu-yuan.md" %}
 
 {% page-ref page="api-jie-kou-yan-jiu-yuan/" %}
 
