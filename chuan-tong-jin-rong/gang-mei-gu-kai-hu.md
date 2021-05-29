@@ -4,7 +4,7 @@
 
 [美股之家](https://www.mg21.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/) \| [美股指南](https://investguider.com/) \| [**旺旺来富**](https://wangwanglaifu.com/)\*\*\*\*
 
-## 离岸银行卡：💳 🇭🇰 🇸🇬
+## 离岸银行卡：💳 - HK🇭🇰 - SG🇸🇬
 
 [远程个人离岸银行开户](https://wangwanglaifu.com/individual-remote-offshore-bank-account-opening/)
 
