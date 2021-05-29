@@ -16,6 +16,8 @@
 民生 \| 招商 \| 中信 🇨🇳 🚩  
 平安 \| 光大 \| 兴业 🇨🇳
 
+[全球最大的50家银行在区块链领域的布局](https://cloud.tencent.com/developer/article/1356837)
+
 ## [互联网券商](https://zhuanlan.zhihu.com/p/349480662)：
 
 [老虎](https://www.itiger.com/) \| [雪盈](https://www.snowballsecurities.com/) \|[ 富途](https://www.futuhk.com/)\([富途牛牛](https://www.futunn.com/)\) \| [微牛](https://www.webull.com/) \| [华盛](https://www.vbkr.com/)
