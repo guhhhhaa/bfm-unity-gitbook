@@ -6,6 +6,8 @@
 
 ## 离岸银行卡：💳 - HK🇭🇰 - SG🇸🇬
 
+[土耳其电子签证避坑攻略](https://zhuanlan.zhihu.com/p/145685753)
+
 [远程个人离岸银行开户](https://wangwanglaifu.com/individual-remote-offshore-bank-account-opening/)
 
 [**汇丰**](https://www.hsbc.com.cn/) **\|** [**渣打**](https://www.sc.com/cn/) **\|** [**花旗**](https://www.citi.com/) **🇬🇧🇺🇸 🚩**  
