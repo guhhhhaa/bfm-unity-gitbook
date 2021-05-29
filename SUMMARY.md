@@ -31,6 +31,7 @@
     * [基础财商教育](qian-xian/research-institute-development/xiao-bai-xue-cheng/ji-chu-cai-shang-jiao-yu.md)
     * [文献与数据](qian-xian/research-institute-development/xiao-bai-xue-cheng/wen-xian-yu-shu-ju.md)
   * [玄黑 · 算法科学分院 🔭 🛰️](qian-xian/research-institute-development/suan-fa-yan-jiu-yuan.md)
+  * [曜黑 · 量子退火分院](qian-xian/research-institute-development/yao-hei-liang-zi-tui-huo-fen-yuan.md)
   * [正黄 · API接口技术分院👩‍🚀👨‍🚀](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/README.md)
     * [币安API实验室🚩](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
   * [朱红 · 高并发技术分院👩‍🔬 👨‍🔬](qian-xian/research-institute-development/yi-bu-bing-fa-xie-cheng-1/README.md)
