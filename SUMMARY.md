@@ -94,8 +94,8 @@
 ## 传统金融
 
 * [云POS无卡支付 💳](chuan-tong-jin-rong/zhe-die.md)
-* [选股](chuan-tong-jin-rong/xuan-gu/README.md)
-  * [股票信息工具](chuan-tong-jin-rong/xuan-gu/gu-piao-xin-xi-gong-ju.md)
+* [股票投资](chuan-tong-jin-rong/gu-piao-xin-xi-gong-ju/README.md)
+  * [选股](chuan-tong-jin-rong/gu-piao-xin-xi-gong-ju/xuan-gu.md)
 * [基金投资](chuan-tong-jin-rong/ji-jin-tou-zi.md)
 * [黄金投资](chuan-tong-jin-rong/huang-jin-tou-zi.md)
 * [国债逆回购](chuan-tong-jin-rong/guo-zhai-ni-hui-gou.md)

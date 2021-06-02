@@ -1,4 +1,4 @@
-# 股票信息工具
+# 股票投资
 
 [萝卜投研](https://robo.datayes.com/v2/)，[集思录](https://www.jisilu.cn/)，[雪球](https://xueqiu.com/)，[价值大师网](https://www.gurufocus.cn/)（[美国席勒市盈率](https://www.gurufocus.cn/indicator/shiller_pe)，[美国巴菲特指标](https://www.gurufocus.cn/indicator/buffett-market-valuation)，[中国巴菲特指标](https://www.gurufocus.cn/indicator/global_market_valuation/CHN)）……
 

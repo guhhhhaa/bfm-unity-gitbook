@@ -70,7 +70,7 @@ description: Management Cockpit (Operation)
 
 {% page-ref page="../../chuan-tong-jin-rong/ji-jin-tou-zi.md" %}
 
-{% page-ref page="../../chuan-tong-jin-rong/xuan-gu/" %}
+{% page-ref page="../../chuan-tong-jin-rong/gu-piao-xin-xi-gong-ju/xuan-gu.md" %}
 
 ## 薅羊毛
 
