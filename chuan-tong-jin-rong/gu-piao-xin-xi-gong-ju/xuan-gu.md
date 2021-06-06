@@ -63,6 +63,15 @@ NOTE: 策略推荐市盈率，市净率策略，
 {% embed url="https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/ji-ben-mian-xuan-gu" %}
 
 {% hint style="success" %}
+## 成长：
+
+净资产收益率ROE＞15%（**&gt;10%**就不错）（ROE=PB/PE），  
+且用杜邦分析剔除杠杆（权益乘数&lt;3）。
+
+股息率＞5%，（[不绝对](https://xueqiu.com/4195046382/148444383)，可以不加）
+
+市盈率相对盈利增长比率[PEG](https://xueqiu.com/8287840120/74917276)＜0.5。（&lt;1也可）（[参考](https://xueqiu.com/8287840120/83909262)）
+
 ## 低估：
 
  介绍：[估值和资本结构因子](https://xueqiu.com/8287840120/102600210)
@@ -71,13 +80,7 @@ NOTE: 策略推荐市盈率，市净率策略，
 
 市净率P/B＜2，1.2-2
 
-## 成长：
 
-净资产收益率ROE＞15%（**&gt;10%**就不错）（ROE=PB/PE），且用杜邦分析剔除杠杆（权益乘数&lt;3）。
-
-股息率＞5%，（[不绝对](https://xueqiu.com/4195046382/148444383)，可以不加）
-
-市盈率相对盈利增长比率[PEG](https://xueqiu.com/8287840120/74917276)＜0.5。（&lt;1也可）（[参考](https://xueqiu.com/8287840120/83909262)）
 
 [**https://www.ricequant.com/quant/wizard/**](https://www.ricequant.com/quant/wizard/)\*\*\*\*
 
