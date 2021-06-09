@@ -175,6 +175,8 @@
 
 ## Layer-2
 
+![](../../.gitbook/assets/image%20%2825%29.png)
+
 ### ZK Rollup\(零知卷叠\)
 
 * [Loopring](https://loopring.io/#/)
