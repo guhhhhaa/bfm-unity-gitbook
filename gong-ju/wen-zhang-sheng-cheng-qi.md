@@ -56,7 +56,7 @@
 
 ## 清华大学九歌系统
 
-[http://jiuge.thunlp.org/jueju.html​](http://jiuge.thunlp.org/jueju.html​)
+[http://jiuge.thunlp.org/jueju.html​](http://jiuge.thunlp.org/jueju.html)
 
 ## 小说续写工具
 
