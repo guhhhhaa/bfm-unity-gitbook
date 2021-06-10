@@ -54,6 +54,10 @@
 
 [https://m.hexun.com/tech/2020-10-28/202316282.html](https://m.hexun.com/tech/2020-10-28/202316282.html)
 
+## 清华大学九歌系统
+
+[http://jiuge.thunlp.org/jueju.html​](http://jiuge.thunlp.org/jueju.html​)
+
 ## 小说续写工具
 
 [http://if.caiyunai.com/dream/\#/](http://if.caiyunai.com/dream/#/)
