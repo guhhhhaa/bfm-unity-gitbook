@@ -13,15 +13,15 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% endhint %}
 
 {% hint style="success" %}
-### 经典版 ——
+### 经典版 1.0
 
 [卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
 
-### 升级版 —— \(推荐，范围更大，考虑情况更多\)
+### 升级版 2.0 —— 范围更大，考虑情况更多
 
 [卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
 
-### 智能版 —— \(推荐，智能函数拟合，更精确，更易调节\)
+### 智能版 3.0 —— 智能函数拟合，更精确，更易调节
 
 [卓尔金-智能原子钟](https://share.weiyun.com/TwarhAdx)  \|  [卓尔金-智能飞船](https://share.weiyun.com/lvxhmaC3)
 {% endhint %}
