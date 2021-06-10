@@ -2,7 +2,7 @@
 
 ## 战略资产配置
 
-{% page-ref page="ling-hang-duo-lei-da.md" %}
+{% page-ref page="ling-hang-duo-lei-da/" %}
 
 ## 战术资产配置
 
