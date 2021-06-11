@@ -105,8 +105,8 @@
 ## 考证学习
 
 * [金融考试](kao-zheng-xue-xi/kao-shi-bao-ming.md)
-* [公务员考试](kao-zheng-xue-xi/untitled-1.md)
 * [计算机考试](kao-zheng-xue-xi/ji-suan-ji-kao-shi.md)
+* [公务员考试](kao-zheng-xue-xi/untitled-1.md)
 
 ## 工具
 
