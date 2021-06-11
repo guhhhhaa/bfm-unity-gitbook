@@ -22,13 +22,13 @@
 
 ## 软件安装
 
-[Kali Linux \| Penetration Testing and Ethical Hacking Linux](https://www.kali.org/)
+[Kali Linux](https://www.kali.org/)
 
-[woolabs/Woobuntu](https://github.com/woolabs/Woobuntu)
+[Woobuntu](https://github.com/woolabs/Woobuntu)
 
 ## 网站
 
 [ZoomEye](https://www.zoomeye.org/)
 
-[Shodan Search Engine](https://www.shodan.io/)
+[Shodan](https://www.shodan.io/)
 
