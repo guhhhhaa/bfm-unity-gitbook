@@ -12,3 +12,6 @@ description: BFM Unity - Quantum Annealing Institute
 
 {% page-ref page="../../he-xin/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md" %}
 
+[http://www.quantumforquants.org/](http://www.quantumforquants.org/)  
+[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186612](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186612)
+
