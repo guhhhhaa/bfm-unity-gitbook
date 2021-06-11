@@ -16,3 +16,5 @@ description: BFM Unity - Quantum Annealing Institute
 
 [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186612](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186612)
 
+[https://1qbit.com/whitepaper/arbitrage/](https://1qbit.com/whitepaper/arbitrage/)
+
