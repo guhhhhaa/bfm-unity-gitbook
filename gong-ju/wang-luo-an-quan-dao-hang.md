@@ -1,6 +1,6 @@
-# 网络安全导航
+# 网络安全
 
-## 软件安装
+## 软件
 
 [Kali Linux](https://www.kali.org/)
 
@@ -12,7 +12,7 @@
 
 [Shodan](https://www.shodan.io/)
 
-## 网站导航
+## 导航
 
 [NaviSec.it – 纳威安全导航\| 网络安全导航](https://navisec.it/)
 
