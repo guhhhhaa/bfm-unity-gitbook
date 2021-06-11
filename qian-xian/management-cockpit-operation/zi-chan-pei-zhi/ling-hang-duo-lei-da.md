@@ -23,7 +23,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 智能版 3.0 —— 智能函数拟合，更精确，更易调节
 
-[卓尔金-智能原子钟](https://share.weiyun.com/TwarhAdx)  \|  [卓尔金-智能飞船](https://share.weiyun.com/lvxhmaC3)
+[卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr)  \|  [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 {% endhint %}
 
 {% hint style="success" %}
