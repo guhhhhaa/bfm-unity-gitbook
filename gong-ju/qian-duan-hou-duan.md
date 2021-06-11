@@ -2,3 +2,5 @@
 
 [https://lemp.ninghao.net/](https://lemp.ninghao.net/)
 
+[https://ninghao.net/](https://ninghao.net/)
+
