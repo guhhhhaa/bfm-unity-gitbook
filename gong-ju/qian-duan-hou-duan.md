@@ -6,7 +6,7 @@ HTML  \|  CSS  \|  JavaScript
 
 Bootstrap，jQuery，AJAX
 
- Vue.js  \|  Angular.js  \|  React.js
+Vue.js  \|  Angular.js  \|  React.js
 
 Node.js
 
