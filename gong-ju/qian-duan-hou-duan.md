@@ -14,7 +14,7 @@ Vue.js  \|  Angular.js  \|  React.js
 
 **LAMP == Linux + Apache + Mysql + PHP** 
 
-**LNMP == Linux + Nginx + Mysql + PHP \(国外喜欢简称为 LEMP, 搜英文资料需要搜 LEMP \)**
+**LNMP == Linux + Nginx + Mysql + PHP \( 国外简称为 LEMP \)**
 
 \*\*\*\*
 
