@@ -23,7 +23,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 智能版 3.0 —— 智能函数拟合，更精确，更易调节
 
-[卓尔金-智能原子钟](https://share.weiyun.com/TwarhAdx)  \|  [卓尔金-智能飞船](https://share.weiyun.com/lvxhmaC3)
+[卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr)  \|  [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 {% endhint %}
 
 {% hint style="success" %}
@@ -96,14 +96,6 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## 模拟神经网络查找表
 
-![&#x4EBA;&#x5DE5;&#x8F93;&#x5165;](../../../../.gitbook/assets/ea68773fef34d62ec100f41782110eff.jpg)
-
-![&#x5747;&#x503C;&#x6269;&#x5C55;](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.39.png)
-
-![&#x4E09;&#x6B21;&#x5E73;&#x6ED1;](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.01.28.png)
-
-![&#x65B0;&#x6982;&#x578B;](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210409-xia-wu-6.48.20.png)
-
 ![&#x8D85;&#x9AD8;&#x6E05;](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210416-xia-wu-1.16.07.png)
 
 ## 确定仓位
@@ -126,6 +118,8 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 ```
 
 ## **与美林时钟的关系**
+
+
 
 ![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-10.44.27.png)
 
