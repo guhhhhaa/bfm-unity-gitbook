@@ -8,6 +8,8 @@
   * [私钥云保管 🔑 ☁️](qian-xian/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [资产配置 🕙 ⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/README.md)
     * [战略资产配置——卓尔金历 🕙](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da.md)
+    * [卓尔金历法的升级1——拟合函数](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
+    * [卓尔金历法的升级2——误差分析](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
     * [战术资产配置——哈布历⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi.md)
   * [数学利器](qian-xian/management-cockpit-operation/shu-xue-li-qi.md)
 * [LV2-影银行 \(枢纽\) 🏦](qian-xian/lv2-yin-hang/README.md)
