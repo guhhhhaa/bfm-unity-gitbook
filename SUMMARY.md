@@ -10,6 +10,7 @@
     * [战略资产配置——卓尔金历 🕙](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/README.md)
       * [卓尔金升级1——拟合函数](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
       * [卓尔金升级2——误差分析](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
+      * [卓尔金升级3——图灵完备](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md)
     * [战术资产配置——哈布历⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi.md)
   * [数学利器](qian-xian/management-cockpit-operation/shu-xue-li-qi.md)
 * [LV2-影银行 \(枢纽\) 🏦](qian-xian/lv2-yin-hang/README.md)
