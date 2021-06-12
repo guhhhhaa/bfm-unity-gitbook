@@ -1,4 +1,4 @@
-# MIS 与 低代码开发
+# MIS 系统开发
 
 MIS \| OA \| ERP \| DRP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \| AI \| BI \| CI
 

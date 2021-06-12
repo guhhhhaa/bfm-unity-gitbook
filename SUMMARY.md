@@ -117,7 +117,7 @@
 * [法律文件下载](gong-ju/fa-lv-wen-jian-xia-zai.md)
 * [网络安全](gong-ju/wang-luo-an-quan-dao-hang.md)
 * [WEB 全栈开发](gong-ju/qian-duan-hou-duan.md)
-* [MIS 与 低代码开发](gong-ju/di-dai-ma-kai-fa.md)
+* [MIS 系统开发](gong-ju/di-dai-ma-kai-fa.md)
 
 ## 风控与合规
 
