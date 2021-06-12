@@ -26,6 +26,10 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 [卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr)  \|  [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 {% endhint %}
 
+{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+
+{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
+
 {% hint style="success" %}
 ### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
 {% endhint %}
