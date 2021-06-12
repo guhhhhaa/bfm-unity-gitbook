@@ -16,7 +16,7 @@ MIS \| OA \| ERP \| DRP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \| AI \|
 
 
 
-什么是HR，（Human Resource Management） 人力资源管理 
+什么是HR，（Human Resource Management）人力资源管理 
 
 什么是CRM，（Customer Relationship Management）客户关系管理
 
