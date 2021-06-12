@@ -1,5 +1,19 @@
 # 前端后端
 
+## 前端架构
+
+HTML CSS JavaScript
+
+Angular.js \| Vue.js \| React.js
+
+Node.js
+
+## 后端架构
+
+LAMP == Linux + Apache + Mysql + PHP 
+
+LNMP == Linux + Nginx + Mysql + PHP \(国外喜欢简称为 LEMP, 搜英文资料需要搜 LEMP \) 
+
 [https://ninghao.net/](https://ninghao.net/)
 
 [https://lemp.ninghao.net/](https://lemp.ninghao.net/)
