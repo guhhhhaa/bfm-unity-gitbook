@@ -20,3 +20,19 @@
 )
 ```
 
+```text
+激活函数
+
+sigmoid(x) = 1/(1 + exp(−x))
+
+tanh(x) = (exp(x) - exp(−x))/(exp(x) + exp(−x))
+tanh(x) = (1 - exp(−2 * x))/(1 + exp(−2 * x))
+
+tanh(x) = 2 * sigmoid(2 * x) - 1
+tanh(x / 2) = 2 * sigmoid(x) - 1 
+
+ReLU(x) = MAX(x,0)
+
+Swish(x) = x * sigmoid(x)
+```
+

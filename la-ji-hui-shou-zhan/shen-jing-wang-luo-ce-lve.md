@@ -10,14 +10,14 @@
 sigmoid(x) = 1/(1 + exp(−x))
 
 tanh(x) = (exp(x) - exp(−x))/(exp(x) + exp(−x))
-tanh(x) = (1 - exp(−2x))/(1 + exp(−2x))
+tanh(x) = (1 - exp(−2 * x))/(1 + exp(−2 * x))
 
-tanh(x) = 2*sigmoid(2*x) - 1
-tanh(x/2) = 2sigmoid(x) - 1 
+tanh(x) = 2 * sigmoid(2 * x) - 1
+tanh(x / 2) = 2 * sigmoid(x) - 1 
 
-ReLU(x)=MAX(x,0)
+ReLU(x) = MAX(x,0)
 
-Swish(x) = x*sigmoid(x)
+Swish(x) = x * sigmoid(x)
 ```
 
 ![&#x795E;&#x7ECF;&#x7F51;&#x7EDC;&#x5EFA;&#x6A21;](../.gitbook/assets/shen-jing-wang-luo-.png)
