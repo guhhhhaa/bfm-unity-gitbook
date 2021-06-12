@@ -2,11 +2,11 @@
 
 什么是MIS，（Management Information System）管理信息系统
 
-什么是OA，（ffice atomation）自动化办公系统
+什么是OA，（Office Automation）自动化办公系统
 
-什么是ERP，（nterprise esource lanning）企业资源计划管理系统
+什么是ERP，（Enterprise Resource Planning）企业资源计划管理系统
 
-什么是CRM，（ustomer elationship anagement）客户关系管理系统
+什么是CRM，（Customer Relationship Management）客户关系管理系统
 
 什么是BPM，（Business Process Management）业务流程管理系统
 
