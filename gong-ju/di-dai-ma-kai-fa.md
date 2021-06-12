@@ -10,7 +10,7 @@
 
 什么是BPM，（Business Process Management）业务流程管理系统
 
-什么是HR，（Human Resource Management） 人力资源管理 
+什么是HRM，（Human Resource Management） 人力资源管理 
 
 什么是DRP，（Distribution Resource Plan）物流资源计划  
   
