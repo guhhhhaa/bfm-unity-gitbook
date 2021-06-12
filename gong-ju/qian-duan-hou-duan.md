@@ -6,7 +6,7 @@
 
 
 
-DOM，Bootstrap，jQuery，AJAX
+DOM，AJAX，jQuery，Bootstrap
 
 Vue.js  \|  Angular.js  \|  React.js
 
