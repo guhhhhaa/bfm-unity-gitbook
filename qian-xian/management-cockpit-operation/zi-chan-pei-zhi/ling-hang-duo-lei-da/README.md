@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 [卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr)  \|  [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 
-### 尊享版 4.0 —— 优化了UI，增加了误差分析功能
+### 尊享版 4.0 —— 优化了UI，增加了误差分析功能 🚩
 
 [卓尔金飞船](https://share.weiyun.com/zy7Vghaq)
 {% endhint %}
