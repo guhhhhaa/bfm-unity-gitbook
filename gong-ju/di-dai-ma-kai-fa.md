@@ -32,7 +32,7 @@ MIS \| OA \| ERP \| DRP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \| AI \|
 
 什么是PLM，（Product Lifecycle Management）产品生命周期管理 
 
-什么是P DDM，（Product Data Management）产品数据管理
+什么是PDM，（Product Data Management）产品数据管理
 
 
 
