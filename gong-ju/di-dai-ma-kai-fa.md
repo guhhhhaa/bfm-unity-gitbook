@@ -1,5 +1,9 @@
 # MIS 与 低代码开发
 
+MIS \| OA \| ERP \| DRP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \| AI \| BI \| CI
+
+
+
 什么是MIS，（Management Information System）管理信息系统
 
 什么是OA，（Office Automation System）自动化办公系统
