@@ -4,8 +4,6 @@
 
 **HTML  \|  CSS  \|  JavaScript**
 
-
-
 BOM/DOM，AJAX，jQuery，Bootstrap
 
 Vue.js  \|  Angular.js  \|  React.js
@@ -16,9 +14,7 @@ Vue.js  \|  Angular.js  \|  React.js
 
 **LNMP == Linux + Nginx + Mysql + PHP \( 国外简称为 LEMP \)**
 
-\*\*\*\*
-
-PHP 可以换成 Node.js，C\#，JAVA，C++，Python
+注：PHP 可以换成 Node.js，C\#，JAVA，C++，Python
 
 [https://ninghao.net/](https://ninghao.net/)
 
