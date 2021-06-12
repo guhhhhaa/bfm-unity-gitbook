@@ -2,9 +2,11 @@
 
 ## 前端架构
 
-HTML CSS JavaScript
+HTML  \|  CSS  \|  JavaScript
 
-Angular.js \| Vue.js \| React.js
+Bootstrap，jQuery，AJAX
+
+ Vue.js  \|  Angular.js  \|  React.js
 
 Node.js
 
