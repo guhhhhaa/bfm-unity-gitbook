@@ -197,7 +197,7 @@
 
 ## **名义利率与实际利率**转化**计算**
 
-**（使用EXCEL的IRR函数）**
+**（使用 EXCEL 的** [**IRR**](https://support.microsoft.com/zh-cn/office/irr-%e5%87%bd%e6%95%b0-64925eaa-9988-495b-b290-3ad0c163c1bc?ui=zh-cn&rs=zh-cn&ad=cn) **函数）**
 
 经验公式：等额本息实际利**率=1.8\*名义利率**
 
