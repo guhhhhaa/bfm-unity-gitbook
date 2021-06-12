@@ -56,7 +56,7 @@
     * [实验室2](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shi-yan-shi-2.md)
     * [py重点实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md)
     * [以太坊部署实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
-* [LV5-元老院 \(量子\) ☢️](qian-xian/lv5-yuan-lao-yuan-liang-zi/README.md)
+* [LV5-研究院 \(量子\) ☢️](qian-xian/lv5-yuan-lao-yuan-liang-zi/README.md)
   * [曜黑 · 量子退火研究院](qian-xian/lv5-yuan-lao-yuan-liang-zi/yao-hei-liang-zi-tui-huo-fen-yuan.md)
 
 ## 后方
