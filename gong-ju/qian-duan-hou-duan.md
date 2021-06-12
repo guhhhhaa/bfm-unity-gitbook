@@ -14,7 +14,9 @@ Node.js
 
 LAMP == Linux + Apache + Mysql + PHP 
 
-LNMP == Linux + Nginx + Mysql + PHP \(国外喜欢简称为 LEMP, 搜英文资料需要搜 LEMP \) 
+LNMP == Linux + Nginx + Mysql + PHP \(国外喜欢简称为 LEMP, 搜英文资料需要搜 LEMP \)
+
+PHP 可以换成 C++，C\#，JAVA，Python
 
 [https://ninghao.net/](https://ninghao.net/)
 
