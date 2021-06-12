@@ -31,8 +31,11 @@
     * [SPSS 教室](qian-xian/research-institute-development/xiao-bai-xue-cheng/spss-jiao-cheng.md)
     * [Python少儿编程教室 👩‍🏫](qian-xian/research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng.md)
     * [开发环境搭建教室 👨‍🏫 🚩](qian-xian/research-institute-development/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
-    * [基础财商教育](qian-xian/research-institute-development/xiao-bai-xue-cheng/ji-chu-cai-shang-jiao-yu.md)
     * [文献与数据](qian-xian/research-institute-development/xiao-bai-xue-cheng/wen-xian-yu-shu-ju.md)
+    * [基础财商教育](qian-xian/research-institute-development/xiao-bai-xue-cheng/ji-chu-cai-shang-jiao-yu.md)
+    * [网络安全](qian-xian/research-institute-development/xiao-bai-xue-cheng/wang-luo-an-quan-dao-hang.md)
+    * [MIS 系统开发](qian-xian/research-institute-development/xiao-bai-xue-cheng/di-dai-ma-kai-fa.md)
+    * [WEB 全栈开发](qian-xian/research-institute-development/xiao-bai-xue-cheng/qian-duan-hou-duan.md)
   * [玄黑 · 算法科学分院 🔭 🛰️](qian-xian/research-institute-development/suan-fa-yan-jiu-yuan.md)
   * [正黄 · API接口技术分院👩‍🚀👨‍🚀](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/README.md)
     * [币安API实验室🚩](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
@@ -118,9 +121,6 @@
 * [发现网站](gong-ju/fa-xian-wang-zhan.md)
 * [B站视频下载 🎬 ⏬](gong-ju/b-zhan-shi-pin-xia-zai.md)
 * [法律文件下载](gong-ju/fa-lv-wen-jian-xia-zai.md)
-* [网络安全](gong-ju/wang-luo-an-quan-dao-hang.md)
-* [WEB 全栈开发](gong-ju/qian-duan-hou-duan.md)
-* [MIS 系统开发](gong-ju/di-dai-ma-kai-fa.md)
 
 ## 风控与合规
 
