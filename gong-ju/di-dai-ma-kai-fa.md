@@ -4,9 +4,13 @@
 
 什么是OA，（Office Automation System）自动化办公系统
 
+
+
 什么是ERP，（Enterprise Resource Planning）企业资源计划
 
 什么是DRP，（Distribution Resource Plan）物流分销资源计划
+
+
 
 什么是HR，（Human Resource Management） 人力资源管理 
 
@@ -19,6 +23,8 @@
 什么是EAM，（Enterprise Asset Management）企业资产管理 
 
 什么是SCM，（Supply Chain Management）供应链管理
+
+
 
 什么是PLM，（Product Lifecycle Management）产品生命周期管理 
 
