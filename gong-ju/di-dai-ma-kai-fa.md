@@ -2,7 +2,7 @@
 
 什么是MIS，（Management Information System）管理信息系统
 
-什么是OA，（Office Automation）自动化办公系统
+什么是OAS，（Office Automation System）自动化办公系统
 
 什么是ERP，（Enterprise Resource Planning）企业资源计划管理系统
 
