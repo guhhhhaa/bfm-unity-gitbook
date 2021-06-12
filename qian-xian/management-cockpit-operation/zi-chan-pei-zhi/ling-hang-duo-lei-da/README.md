@@ -24,6 +24,10 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 ### 智能版 3.0 —— 智能函数拟合，更精确，更易调节
 
 [卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr)  \|  [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
+
+### 尊享版 4.0 —— 优化了UI，增加了误差分析功能
+
+[卓尔金飞船](https://share.weiyun.com/zy7Vghaq)
 {% endhint %}
 
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
