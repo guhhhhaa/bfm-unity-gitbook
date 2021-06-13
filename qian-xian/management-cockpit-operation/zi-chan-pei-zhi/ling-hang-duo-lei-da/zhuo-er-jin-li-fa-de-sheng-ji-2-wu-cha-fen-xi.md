@@ -3,7 +3,7 @@
 {% hint style="success" %}
 ### 尊享版 4.0 —— 优化了UI，增加了误差分析功能 🚩
 
-[卓尔金飞船](https://share.weiyun.com/zy7Vghaq)
+[卓尔金飞船](https://share.weiyun.com/iFMcinAB)
 
 科技赋能金融，提供极致简单体验。  
 比坊梦，打造全新区块链交易操作系统。
