@@ -27,7 +27,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 尊享版 4.0 —— 优化了UI，增加了误差分析功能 🚩
 
-[卓尔金飞船](https://share.weiyun.com/iFMcinAB)
+[卓尔金飞船](https://share.weiyun.com/wqIPTOEd)
 {% endhint %}
 
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
