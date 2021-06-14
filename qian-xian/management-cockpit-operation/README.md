@@ -30,7 +30,7 @@ description: Management Cockpit (Operation)
 
 ### 战术资产配置——哈布历
 
-{% page-ref page="zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi.md" %}
+{% page-ref page="zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/" %}
 
 ## 核心显示界面
 

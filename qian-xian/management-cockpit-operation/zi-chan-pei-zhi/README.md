@@ -6,5 +6,5 @@
 
 ## 战术资产配置
 
-{% page-ref page="zhan-shu-zi-chan-pei-zhi.md" %}
+{% page-ref page="zhan-shu-zi-chan-pei-zhi/" %}
 
