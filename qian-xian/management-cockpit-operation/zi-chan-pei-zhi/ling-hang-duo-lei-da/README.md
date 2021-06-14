@@ -28,6 +28,10 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 ### 尊享版 4.0 —— 优化了UI，增加了误差分析功能 🚩
 
 [卓尔金飞船](https://share.weiyun.com/5vy0sGcS)
+
+### 哈布历 4.9 —— 增加了哈布历法
+
+[卓尔金+哈布飞船](https://share.weiyun.com/O2bZwwMx)
 {% endhint %}
 
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}

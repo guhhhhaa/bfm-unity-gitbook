@@ -1,5 +1,9 @@
 # 哈布历法研究
 
+{% hint style="info" %}
+[卓尔金+哈布飞船](https://share.weiyun.com/O2bZwwMx)
+{% endhint %}
+
 ![](../../../../.gitbook/assets/hb1.png)
 
 ![](../../../../.gitbook/assets/hb2.png)
