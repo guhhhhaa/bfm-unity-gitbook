@@ -4,20 +4,20 @@ description: Main Bridge (Guidance)
 
 # 主舰桥 \(引导\) 🇺🇳
 
-![Blockchain &#xB7; Finance &#xB7; Metaverse](.gitbook/assets/16pic_797125_b.jpeg)
+> ## **比坊梦 —— 区块链 · 金融 · 元宇宙**
+>
+> **BF​M Unity —— Blockchain · Finance · Metaverse**
+
+![](.gitbook/assets/ok6w_kokdtoqqqldbiopanx28uhva7l7rcrxv1ckxgu.jpeg)
 
 {% hint style="info" %}
 NOTE: **This project is in beta. Use at your own risk.** 
-
-## **比坊梦 —— 区块链 · 金融 · 元宇宙**
-
-**BF​M Unity —— Blockchain · Finance · Metaverse**
 
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
 ### [赞助](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang) \| [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) \| [看板](https://trello.com/b/z4aDgNAL/todolist)
 
-### ​[**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **\|** [**设计Assets**](https://share.weiyun.com/l21pilUf)
+### [**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **\|** [**设计Assets**](https://share.weiyun.com/l21pilUf)
 {% endhint %}
 
 ![](.gitbook/assets/bfm-unity-2.0%20%281%29.png)
