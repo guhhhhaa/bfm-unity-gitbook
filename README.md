@@ -4,7 +4,7 @@ description: Main Bridge (Guidance)
 
 # 主舰桥 \(引导\) 🇺🇳
 
-![](.gitbook/assets/16pic_797125_b.jpeg)
+![Blockchain &#xB7; Finance &#xB7; Metaverse](.gitbook/assets/16pic_797125_b.jpeg)
 
 {% hint style="info" %}
 NOTE: **This project is in beta. Use at your own risk.** 
