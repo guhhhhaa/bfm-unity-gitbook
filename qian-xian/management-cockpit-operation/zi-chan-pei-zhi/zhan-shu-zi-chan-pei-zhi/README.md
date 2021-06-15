@@ -21,9 +21,13 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 哈布历法包括两点
 
-1，如何寻找最小变动仓位的调仓路径，来寻找三个货币的最优调仓路径。（变动比例最小）
+#### 哈布历法1层次：
 
-2，如何找到最优的比例，塞进币安流动性挖矿里面。
+如何寻找最小变动仓位的调仓路径，来寻找三个货币的最优调仓路径。（变动比例最小）
+
+#### 哈布历法2层次：
+
+如何找到最优的比例，塞进币安流动性挖矿里面。
 {% endhint %}
 
 ![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210520-xia-wu-5.40.07.png)
