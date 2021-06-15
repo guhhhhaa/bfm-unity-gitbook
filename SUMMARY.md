@@ -4,6 +4,7 @@
 
 ## 前线
 
+* [LV0-主舰桥 \(引导\) 🇺🇳](qian-xian/lv0-zhu-jian-qiao-yin-dao.md)
 * [LV1-驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
   * [私钥云保管 🔑 ☁️](qian-xian/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [资产配置 🕙 ⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/README.md)
