@@ -17,6 +17,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 目前仅支持三个币种。更多币种的策略正在研究中……
 
+## 哈布历法的结构：
+
 ### 哈布历法包括两点
 
 1，如何寻找最小变动仓位的调仓路径，来寻找三个货币的最优调仓路径。（变动比例最小）
