@@ -8,7 +8,7 @@ description: Main Bridge (Guidance)
 >
 > **BF​M Unity —— Blockchain · Finance · Metaverse**
 
-![](.gitbook/assets/16pic_797125_b.jpeg)
+![](.gitbook/assets/bfm-unity-3.0.png)
 
 {% hint style="info" %}
 NOTE: **This project is in beta. Use at your own risk.** 
