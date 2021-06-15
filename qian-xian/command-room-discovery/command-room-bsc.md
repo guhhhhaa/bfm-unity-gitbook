@@ -61,15 +61,21 @@
 我们不想研究那些昙花一现的高收益率，我们要找到可持续的，可长期运行的，稳定的盈利模式。
 
 我们最好避开火币的Heco MDEX生态，我一直对火币的信用感到怀疑，因为毕竟火币分裂出的FCoin跑路了
+
+belt.fi，目前综合来看最好的稳定币项目 
+
+autofarm.network，bsc/heco/polygon链自动复投 
+
+pancakebunny.finance，锁仓量最大的耕作聚合器 
+
+dex.guru，dex聚合器（买小币用） 
+
+然后最近polygon链很火，所以matic回调迅猛
 {% endhint %}
 
 {% tabs %}
 {% tab title="发币" %}
 [http://bsc.tokendiy.defiplot.com/\#/](http://bsc.tokendiy.defiplot.com/#/)
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
 {% endtab %}
 {% endtabs %}
 
