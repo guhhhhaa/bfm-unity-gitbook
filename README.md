@@ -8,6 +8,8 @@ description: BF​M Unity —— Blockchain · Finance · Metaverse
 >
 > **BF​M Unity —— Blockchain · Finance · Metaverse**
 
+![](.gitbook/assets/bfm-unity-3.0%20%282%29.png)
+
 ![](.gitbook/assets/bfm-unity-3.0%20%281%29.png)
 
 {% hint style="info" %}
