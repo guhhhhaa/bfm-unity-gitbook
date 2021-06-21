@@ -20,7 +20,8 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">ETH&#x53D1;&#x5E01;</td>
+      <td style="text-align:left"><a href="http://tokendiy.defiplot.com/#/">TokenDIY-ETH</a>
+      </td>
       <td style="text-align:left">&#x8DE8;&#x94FE;</td>
       <td style="text-align:left">
         <p><a href="https://www.jianshu.com/p/3668a66f3eba"><b>&#x523B;&#x5B57;1</b></a>&lt;b&gt;&lt;/b&gt;</p>
@@ -33,7 +34,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="http://bsc.tokendiy.defiplot.com/#/">BNB&#x53D1;&#x5E01;</a>
+      <td style="text-align:left"><a href="http://bsc.tokendiy.defiplot.com/#/">TokenDIY-BSC</a>
       </td>
       <td style="text-align:left">&#x516C;&#x94FE;</td>
       <td style="text-align:left"></td>
@@ -42,7 +43,8 @@
       style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://www.kaleido.io/">Kaleido.io</a>
+      </td>
       <td style="text-align:left">&#x4FA7;&#x94FE;</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
