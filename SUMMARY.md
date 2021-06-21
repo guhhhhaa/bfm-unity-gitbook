@@ -1,6 +1,6 @@
 # Table of contents
 
-* [比坊梦 —— 区块链 · 金融 · 元宇宙](README.md)
+* [比坊梦 —— 区块链 · 金融科技 · 元宇宙](README.md)
 
 ## 前线
 
