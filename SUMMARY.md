@@ -20,7 +20,7 @@
 * [LV2-影银行 \(枢纽\) 🏦](qian-xian/lv2-yin-hang/README.md)
   * [自营业务](qian-xian/lv2-yin-hang/zi-ying-tou-zi.md)
   * [个人业务](qian-xian/lv2-yin-hang/ge-ren-ye-wu/README.md)
-    * [Untitled](qian-xian/lv2-yin-hang/ge-ren-ye-wu/untitled-1.md)
+    * [资产管理](qian-xian/lv2-yin-hang/ge-ren-ye-wu/untitled-1.md)
   * [企业业务](qian-xian/lv2-yin-hang/untitled.md)
   * [创世业务](qian-xian/lv2-yin-hang/chuang-shi-ye-wu.md)
 * [LV3-指挥室 \(探索\) 👔](qian-xian/command-room-discovery/README.md)
