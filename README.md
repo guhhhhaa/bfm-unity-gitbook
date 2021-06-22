@@ -2,11 +2,11 @@
 description: BF​M Unity —— Blockchain · Finance · Metaverse
 ---
 
-# 比坊梦 —— 区块链 · 金融科技 · 元宇宙
+# 比坊梦 —— 区块链 · 金融 · 元宇宙
 
-> ## **比坊梦 —— 区块链 · 金融科技 · 元宇宙**
+> ## **比坊梦 —— 区块链 · 金融 · 元宇宙**
 >
-> **BF​M Unity —— Blockchain · FinTech · Metaverse**
+> **BF​M Unity —— Blockchain · Finance · Metaverse**
 
 ![](.gitbook/assets/bfm-unity-3.0%20%281%29.png)
 

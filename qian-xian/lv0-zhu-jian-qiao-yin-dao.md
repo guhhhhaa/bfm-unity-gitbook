@@ -4,9 +4,9 @@ description: Main Bridge (Guidance)
 
 # LV0-主舰桥 \(引导\) 🇺🇳
 
-> ## **比坊梦 —— 区块链 · 金融科技 · 元宇宙**
+> ## **比坊梦 —— 区块链 · 金融 · 元宇宙**
 >
-> **BF​M Unity —— Blockchain · FinTech · Metaverse**
+> **BF​M Unity —— Blockchain · Finance · Metaverse**
 
 ![](../.gitbook/assets/ok6w_kokdtoqqqldbiopanx28uhva7l7rcrxv1ckxgu.jpeg)
 
@@ -112,9 +112,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ### 4.0
 
-> ## **比坊梦 —— 区块链 · 金融科技 · 元宇宙**
+> ## **比坊梦 —— 区块链 · 金融 · 元宇宙**
 >
-> **BF​M Unity —— Blockchain · FinTech · Metaverse**
+> **BF​M Unity —— Blockchain · Finance · Metaverse**
 
 ## 底部栏‌ <a id="di-bu-lan"></a>
 
