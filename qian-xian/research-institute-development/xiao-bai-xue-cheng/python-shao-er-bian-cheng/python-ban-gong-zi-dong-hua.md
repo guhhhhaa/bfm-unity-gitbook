@@ -30,3 +30,13 @@
 
 [_Pandas_ VS _Excel_【刘铁猛】](https://www.bilibili.com/video/BV1fW41117cA?from=search&seid=4891947074231402271)
 
+
+
+[_jupyter_ _notebook_的基本使用](https://www.bilibili.com/video/BV1d7411w7hc?from=search&seid=7771092978935938570)
+
+[最易上手的Python环境配置——_Jupyter_ _Notebook_使用](https://www.bilibili.com/video/BV1Z7411L7dy?from=search&seid=7771092978935938570)
+
+[python数据分析神器_Jupyter_ _notebook_快速入门](https://www.bilibili.com/video/BV1Q4411H7fJ?from=search&seid=7771092978935938570)
+
+[台湾高校老师讲解《Python for Data Analysis》](https://www.bilibili.com/video/BV1ZJ411c7VR?from=search&seid=2992632977368457315)
+
