@@ -1,5 +1,9 @@
 # Python 办公自动化
 
+## [天呐！清华大佬终于把Python做成漫画了，如此幽默的学习教程，他试图想拯救我？](https://www.bilibili.com/video/BV1Fh411h7WM)
+
+## B站 搜索 慕课网 Python 办公自动化
+
 [Python 办公自动化（1） 环境搭建](https://www.bilibili.com/video/BV1nk4y1y7sb?from=search&seid=12740591149490430290)
 
 [Python 办公自动化（2）xlrd+xlwt读取-写入Excel数](https://www.bilibili.com/video/BV14p4y1e7RK?from=search&seid=12740591149490430290)
@@ -8,7 +12,7 @@
 
 [Python 办公自动化 （4）玩转Word自动化](https://www.bilibili.com/video/BV1SA411E77W?from=search&seid=12740591149490430290)
 
-
+## B站 搜索 openpyxl
 
 [Python办公自动化之Excel篇 _openpyxl_库 python中的VBA](https://www.bilibili.com/video/BV1L5411W7wD?from=search&seid=13139251396422054128)
 
@@ -18,7 +22,7 @@
 
 [从入门到精通 Excel 神器 — _OpenPyXl_](https://www.bilibili.com/video/BV1d5411T7Yg?from=search&seid=13139251396422054128)
 
-
+## B站 搜索 pandas excel
 
 [【Python】【_Pandas_】 数据分析 & _Excel_ 办公自动化 超详细动画可视化讲解 自](https://www.bilibili.com/video/BV1Ni4y1t7tf?from=search&seid=4891947074231402271)
 
