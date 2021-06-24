@@ -1,5 +1,7 @@
 # MIS 系统开发
 
+![](../../../.gitbook/assets/qq20210625-0.jpg)
+
 MIS \| OA \| ERP \| DRP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \| AI \| BI \| CI
 
 
