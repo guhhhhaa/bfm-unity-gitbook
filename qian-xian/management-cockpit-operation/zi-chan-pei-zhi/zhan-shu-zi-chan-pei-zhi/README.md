@@ -1,5 +1,7 @@
 # 战术资产配置——哈布历⌚️
 
+![](../../../../.gitbook/assets/qq20210625-3.jpg)
+
 {% hint style="info" %}
 [卓尔金+哈布飞船](https://share.weiyun.com/O2bZwwMx)
 {% endhint %}

@@ -34,6 +34,7 @@
     * [Power BI 教室](qian-xian/research-institute-development/xiao-bai-xue-cheng/power-bi-jiao-cheng.md)
     * [SPSS 教室](qian-xian/research-institute-development/xiao-bai-xue-cheng/spss-jiao-cheng.md)
     * [Python少儿编程教室 👩‍🏫](qian-xian/research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng/README.md)
+      * [Python 办公自动化](qian-xian/research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng/python-ban-gong-zi-dong-hua.md)
       * [Python Project](qian-xian/research-institute-development/xiao-bai-xue-cheng/python-shao-er-bian-cheng/python.md)
     * [开发环境搭建教室 👨‍🏫 🚩](qian-xian/research-institute-development/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
     * [文献与数据](qian-xian/research-institute-development/xiao-bai-xue-cheng/wen-xian-yu-shu-ju.md)
