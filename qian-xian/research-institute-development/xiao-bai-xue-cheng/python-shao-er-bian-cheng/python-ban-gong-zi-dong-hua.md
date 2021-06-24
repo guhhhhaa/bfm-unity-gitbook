@@ -1,6 +1,18 @@
 # Python 办公自动化
 
+![](../../../../.gitbook/assets/qq20210625-2.jpg)
+
 ## [天呐！清华大佬终于把Python做成漫画了，如此幽默的学习教程，他试图想拯救我？](https://www.bilibili.com/video/BV1Fh411h7WM)
+
+## Jupyter Noteboo
+
+[_jupyter_ _notebook_的基本使用](https://www.bilibili.com/video/BV1d7411w7hc?from=search&seid=7771092978935938570)
+
+[最易上手的Python环境配置——_Jupyter_ _Notebook_使用](https://www.bilibili.com/video/BV1Z7411L7dy?from=search&seid=7771092978935938570)
+
+[python数据分析神器_Jupyter_ _notebook_快速入门](https://www.bilibili.com/video/BV1Q4411H7fJ?from=search&seid=7771092978935938570)
+
+[台湾高校老师讲解《Python for Data Analysis》](https://www.bilibili.com/video/BV1ZJ411c7VR?from=search&seid=2992632977368457315)
 
 ## B站 搜索 慕课网 Python 办公自动化
 
@@ -30,13 +42,7 @@
 
 [_Pandas_ VS _Excel_【刘铁猛】](https://www.bilibili.com/video/BV1fW41117cA?from=search&seid=4891947074231402271)
 
+## atplotlib
 
-
-[_jupyter_ _notebook_的基本使用](https://www.bilibili.com/video/BV1d7411w7hc?from=search&seid=7771092978935938570)
-
-[最易上手的Python环境配置——_Jupyter_ _Notebook_使用](https://www.bilibili.com/video/BV1Z7411L7dy?from=search&seid=7771092978935938570)
-
-[python数据分析神器_Jupyter_ _notebook_快速入门](https://www.bilibili.com/video/BV1Q4411H7fJ?from=search&seid=7771092978935938570)
-
-[台湾高校老师讲解《Python for Data Analysis》](https://www.bilibili.com/video/BV1ZJ411c7VR?from=search&seid=2992632977368457315)
+[论文数据分析经验之谈：为什么不用_excel_，要用python，要用_matplotlib_](https://www.bilibili.com/video/BV1CK4y187DL?from=search&seid=1236558773767757527)
 
