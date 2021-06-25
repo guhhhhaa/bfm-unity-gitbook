@@ -131,7 +131,7 @@
 
 ## 风控与合规
 
-* [LICENCE：GNU GPL V3](feng-kong-yu-he-gui/gpl-v3.md)
+* [LICENCE：GNU GPL v3.0](feng-kong-yu-he-gui/gpl-v3.md)
 * [网站备案](feng-kong-yu-he-gui/wang-zhan-bei-an.md)
 * [反洗钱](feng-kong-yu-he-gui/fan-xi-qian.md)
 * [组织形式](feng-kong-yu-he-gui/zu-zhi-xing-shi/README.md)
