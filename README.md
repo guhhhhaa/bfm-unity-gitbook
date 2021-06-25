@@ -42,3 +42,5 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 本项目使用 GNU General Public License v3.0
 
+\(我也不知道它是啥，反正先挂着，以防有人找茬。\)
+
