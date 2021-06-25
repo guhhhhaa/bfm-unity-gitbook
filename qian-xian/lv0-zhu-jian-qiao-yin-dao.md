@@ -136,5 +136,11 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20210411-xia-wu-7.59.52.png)
 
+## 本项目使用 GNU General Public License v3.0
+
+{% page-ref page="../feng-kong-yu-he-gui/gpl-v3.md" %}
+
+\(我也不知道它是啥，反正先挂着，以防有人找茬。\)
+
 **© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**™](https://www.bfm-unity.com/)**.** [**比坊梦联合体**™](https://www.bfm-unity.com/)**. All Rights Reserved.**
 
