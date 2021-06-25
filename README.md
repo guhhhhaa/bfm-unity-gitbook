@@ -40,3 +40,5 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](.gitbook/assets/bfm-unity-3.0%20%282%29.png)
 
+## 本项目使用 GNU General Public License v3.0
+
