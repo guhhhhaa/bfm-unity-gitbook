@@ -44,5 +44,3 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="feng-kong-yu-he-gui/gpl-v3.md" %}
 
-\(我也不知道它是啥，反正先挂着，以防有人找茬。\)
-
