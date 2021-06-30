@@ -68,7 +68,7 @@ description: Management Cockpit (Operation)
 
 ## 基金股票
 
-{% page-ref page="../../chuan-tong-jin-rong/ji-jin-tou-zi.md" %}
+{% page-ref page="../../chuan-tong-jin-rong/ji-jin-tou-zi/" %}
 
 {% page-ref page="../../chuan-tong-jin-rong/gu-piao-xin-xi-gong-ju/xuan-gu.md" %}
 
