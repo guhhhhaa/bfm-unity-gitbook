@@ -66,7 +66,7 @@ description: Management Cockpit (Operation)
   [**估值**](https://terminal.tokenterminal.com/dashboard/Dapps)**（**[**参考链接**](https://www.chainnews.com/articles/649261412781.htm)**）**
 {% endhint %}
 
-## Polygon\(Matic\)操作面板
+## Layer-2 Polygon\(Matic\)操作面板
 
 {% hint style="danger" %}
 不稳定，正在建设中
