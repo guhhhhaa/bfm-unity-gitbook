@@ -16,3 +16,7 @@
 
 #### \*\*\*\*[前海开源人工智能主题混合\[001986\]](http://fund.eastmoney.com/001986.html)
 
+## 若尘的且慢基金
+
+{% page-ref page="ruo-chen-de-qie-man-ji-jin.md" %}
+
