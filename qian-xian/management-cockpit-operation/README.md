@@ -71,7 +71,7 @@ description: Management Cockpit (Operation)
 {% hint style="danger" %}
 不稳定，正在建设中
 
-users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/) or [Zapper Bridge](https://zapper.fi/bridge). 
+users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge). 
 
 * [**QuickSwap**](https://quickswap.exchange/#/swap)  **\|**  [**QuickSwap Info**](https://info.quickswap.exchange/)\*\*\*\*
 * \*\*\*\*[**polygon.Balancer**](https://polygon.balancer.fi/)\*\*\*\*
