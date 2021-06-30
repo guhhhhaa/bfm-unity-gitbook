@@ -54,7 +54,7 @@
 
 [_Pandas_ VS _Excel_【刘铁猛】](https://www.bilibili.com/video/BV1fW41117cA?from=search&seid=4891947074231402271)
 
-## B站 搜索 atplotlib
+## B站 搜索 atplotlib 
 
 [论文数据分析经验之谈：为什么不用_excel_，要用python，要用_matplotlib_](https://www.bilibili.com/video/BV1CK4y187DL?from=search&seid=1236558773767757527)
 
