@@ -45,7 +45,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
 
 {% hint style="success" %}
-### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [代言视频](https://www.bilibili.com/video/BV13x411R7Lf)
+### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [代言视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [代言视频2](https://www.bilibili.com/video/BV12b411p7Hi)
 {% endhint %}
 
 ![](../../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
