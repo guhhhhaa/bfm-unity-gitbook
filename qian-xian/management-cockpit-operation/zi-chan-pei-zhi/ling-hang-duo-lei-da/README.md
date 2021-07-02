@@ -38,6 +38,10 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 ### 哈布历 5.0 —— 微调更新，优化了部分公式，修复了链接型的BUG，优化了UI，添加了LOGO
 
 [卓尔金+哈布飞船\(1\)](https://share.weiyun.com/kqakKw4y)
+
+### 哈布历 5.01 —— 增加了与目录间的链接
+
+[卓尔金+哈布飞船5.01](https://share.weiyun.com/miHqj1Ri)
 {% endhint %}
 
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
