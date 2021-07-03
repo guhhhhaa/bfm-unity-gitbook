@@ -31,7 +31,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 [卓尔金飞船](https://share.weiyun.com/5vy0sGcS)
 
-### 哈布历 4.9 —— 增加了哈布历法 🚩
+### 哈布历 4.9 —— 增加了哈布历法
 
 [卓尔金+哈布飞船](https://share.weiyun.com/O2bZwwMx)
 
@@ -42,6 +42,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 ### 哈布历 5.01 —— 增加了与目录间的链接
 
 [卓尔金+哈布飞船5.01](https://share.weiyun.com/miHqj1Ri)
+
+### 哈布历 5.02 —— 增加了对卓尔金历法中心和延展的控制；重组了卓尔金历法实验室，以适应更复杂的分析。（正在研发中）
 {% endhint %}
 
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
