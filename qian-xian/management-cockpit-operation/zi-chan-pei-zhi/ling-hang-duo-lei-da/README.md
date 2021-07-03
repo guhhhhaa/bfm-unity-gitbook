@@ -43,7 +43,15 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 [卓尔金+哈布飞船5.01](https://share.weiyun.com/miHqj1Ri)
 
-### 哈布历 5.02 —— 增加了对卓尔金历法中心和延展的控制；重组了卓尔金历法实验室，以适应更复杂的分析。（正在研发中）
+### 哈布历 5.02 —— 
+
+### 重组了卓尔金历法实验室，以适应更复杂的分析；
+
+### 增加了卓尔金历法实验室与其他模块的连接，使卓尔金历法更智能；
+
+### 增加了对卓尔金历法中心的控制，对延展的控制正在研究中；
+
+[卓尔金+哈布飞船5.02](https://share.weiyun.com/7rzN1OXD)
 {% endhint %}
 
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
