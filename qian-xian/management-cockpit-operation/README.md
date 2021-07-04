@@ -37,7 +37,7 @@ description: Management Cockpit (Operation)
 {% hint style="info" %}
 * \*\*\*\*[**卓尔金历法 🕙**](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)
 
-  [卓尔金+哈布飞船5.01](https://share.weiyun.com/miHqj1Ri)  
+  [卓尔金+哈布飞船5.02](https://share.weiyun.com/7rzN1OXD)  
   ****
 
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)[（](https://www.jianshu.com/p/f6992e6c6ea6)[Python获取MVRV](https://coinmetrics.io/newdata/split/btc_CapMVRVCur.txt)，[参考链接](https://www.jianshu.com/p/f6992e6c6ea6)）  \|  [**S2F**](https://www.qkl123.com/data/s2f/btc)  ****\|  [**HODL Waves**](https://unchained-capital.com/hodlwaves/)  **\|**  [减半时间](https://www.qkl123.com/data/halve/btc)  \|  [CFTC持仓报告](https://www.tradingster.com/cot/futures/fin/133741)  \|  [彩虹图🌈](https://www.blockchaincenter.net/bitcoin-rainbow-chart/)
