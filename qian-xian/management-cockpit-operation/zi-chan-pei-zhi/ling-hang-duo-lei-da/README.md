@@ -325,3 +325,5 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 #### [座头鲸沿直线洄游奥秘：或观星望日定方位](https://www.chinadaily.com.cn/hqgj/2011-04/22/content_12373180.htm)
 
+#### 背景图片：[https://photo.16pic.com/00/07/97/16pic\_797125\_b.jpg](https://photo.16pic.com/00/07/97/16pic_797125_b.jpg)
+
