@@ -12,6 +12,7 @@
       * [卓尔金升级1——拟合函数](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
       * [卓尔金升级2——误差分析](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
       * [卓尔金升级3——图灵完备](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md)
+      * [卓尔金升级4——动态图表](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md)
     * [战术资产配置——哈布历⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/README.md)
       * [哈布历法1层次](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/ha-bu-li-fa-yan-jiu.md)
       * [哈布历法2层次](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/ha-bu-li-fa-gou-xiang-1.md)
