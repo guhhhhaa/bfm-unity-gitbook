@@ -31,7 +31,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% page-ref page="zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md" %}
 
 {% hint style="info" %}
-### 版本记录
+## 版本记录
 
 ### 经典版 1.0
 
