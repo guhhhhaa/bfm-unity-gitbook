@@ -15,6 +15,24 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% endhint %}
 
 {% hint style="success" %}
+## 最新版    [卓尔金+哈布飞船5.02](https://share.weiyun.com/7rzN1OXD)
+{% endhint %}
+
+{% hint style="success" %}
+### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [代言视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [代言视频2](https://www.bilibili.com/video/BV12b411p7Hi)
+{% endhint %}
+
+{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+
+{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
+
+{% page-ref page="zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md" %}
+
+{% page-ref page="zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md" %}
+
+{% hint style="info" %}
+### 版本记录
+
 ### 经典版 1.0
 
 [卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
@@ -50,14 +68,6 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 增加了卓尔金历法实验室对神经网络中心点的控制，对延展参数的控制正在研究中。
 
 [卓尔金+哈布飞船5.02](https://share.weiyun.com/7rzN1OXD)
-{% endhint %}
-
-{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
-
-{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
-
-{% hint style="success" %}
-### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [代言视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [代言视频2](https://www.bilibili.com/video/BV12b411p7Hi)
 {% endhint %}
 
 ![](../../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
