@@ -2,7 +2,7 @@
 description: Tesseract
 ---
 
-# 卓尔金升级5——回归分析
+# 卓尔金升级5——分类网络
 
 {% hint style="info" %}
 ### 使用工具
