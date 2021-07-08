@@ -1,5 +1,5 @@
 ---
-description: The Tzolkin calendar
+description: The Tzolkin Calendar
 ---
 
 # 战略资产配置——卓尔金历 🕙

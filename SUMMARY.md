@@ -8,7 +8,7 @@
 * [LV1-驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
   * [私钥云保管 🔑 ☁️](qian-xian/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [资产配置 🕙 ⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/README.md)
-    * [宇宙魔方（回归分析）](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+    * [战略资产配置——宇宙魔方（回归分析）](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/yu-zhou-mo-fang-hui-gui-fen-xi.md)
     * [战略资产配置——卓尔金历 🕙](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/README.md)
       * [卓尔金升级1——拟合函数](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
       * [卓尔金升级2——误差分析](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)

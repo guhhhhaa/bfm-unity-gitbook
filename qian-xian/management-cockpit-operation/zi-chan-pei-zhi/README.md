@@ -4,9 +4,9 @@
 
 ## 战略资产配置
 
-{% page-ref page="ling-hang-duo-lei-da/" %}
-
 {% page-ref page="yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+
+{% page-ref page="ling-hang-duo-lei-da/" %}
 
 ## 战术资产配置
 
