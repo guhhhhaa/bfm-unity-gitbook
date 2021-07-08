@@ -6,11 +6,11 @@ description: Tesseract
 
 {% page-ref page="ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
+{% hint style="info" %}
 [**TensorFlow**](https://www.tensorflow.org/) **\|** [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn) **\|** [**TensorBoard.dev**](https://tensorboard.dev/) **\|** [**Colab**](https://colab.research.google.com/notebooks/intro.ipynb)\*\*\*\*
 
 [**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)\*\*\*\*
-
-
+{% endhint %}
 
 [22 款神经网络的设计和可视化工具](https://www.huaweicloud.com/articles/d90130bfd852a55e505155e381ebfab1.html)
 
