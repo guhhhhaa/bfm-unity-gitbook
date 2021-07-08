@@ -26,6 +26,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="management-cockpit-operation/" %}
 
+{% page-ref page="management-cockpit-operation/zi-chan-pei-zhi/" %}
+
 ## 银行客户必进
 
 {% page-ref page="lv2-yin-hang/" %}
