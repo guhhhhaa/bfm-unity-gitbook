@@ -9,7 +9,7 @@ description: Tesseract
 {% hint style="info" %}
 ### 使用工具
 
-[**TensorFlow**](https://www.tensorflow.org/)  **\|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **\|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **\|**  [**Colab**](https://colab.research.google.com/notebooks/intro.ipynb)
+[**TensorFlow**](https://www.tensorflow.org/)  **\|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **\|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **\|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)\*\*\*\*
 
 [**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)\*\*\*\*
 
