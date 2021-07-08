@@ -24,14 +24,6 @@ description: Management Cockpit (Operation)
 
 {% page-ref page="zi-chan-pei-zhi/" %}
 
-### 战略资产配置——卓尔金历
-
-{% page-ref page="zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
-
-### 战术资产配置——哈布历
-
-{% page-ref page="zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/" %}
-
 ## 核心显示界面
 
 {% hint style="info" %}
