@@ -74,13 +74,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 愿景及使命 <a id="yuan-jing-ji-shi-ming"></a>
 
-我喜欢坐在 [**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) 上，看 [**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) 的公告。（[**愿景及使命1**](https://www.bilibili.com/bangumi/play/ss28381/) **\|** [**愿景及使命2**](http://www.dilidili3.com/play/3998/135852.html)）
+我喜欢坐在 [**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) 上，看 [**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) 的公告。（[**愿景及使命1**](https://www.bilibili.com/bangumi/play/ss28381/) **\|** [**愿景及使命2**](https://www.dilidili3.com/play/7107-1-1/)）
 
 ## ‌核心价值观
 
 ### 1.0
 
-> ## 寻找网络终端遗传因子
+> ## [寻找网络终端遗传因子](https://www.dilidili3.com/play/7107-1-1/)
 
 ### 2.0
 
