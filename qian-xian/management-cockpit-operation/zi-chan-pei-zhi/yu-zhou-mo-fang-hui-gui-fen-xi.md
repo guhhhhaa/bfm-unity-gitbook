@@ -7,9 +7,15 @@ description: Tesseract
 {% page-ref page="ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
 {% hint style="info" %}
-[**TensorFlow**](https://www.tensorflow.org/)  **\|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **\|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **\|**  [**Colab**](https://colab.research.google.com/notebooks/intro.ipynb)\*\*\*\*
+### 使用工具
+
+[**TensorFlow**](https://www.tensorflow.org/)  **\|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **\|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **\|**  [**Colab**](https://colab.research.google.com/notebooks/intro.ipynb)
 
 [**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)\*\*\*\*
+
+### 数据来源
+
+[MVRV](https://www.qkl123.com/data/mvrv/btc)  \|  [S2F](https://www.qkl123.com/data/s2f/btc)  \|  [NVT](https://www.qkl123.com/data/nvt/btc)
 {% endhint %}
 
 [22 款神经网络的设计和可视化工具](https://www.huaweicloud.com/articles/d90130bfd852a55e505155e381ebfab1.html)
@@ -56,8 +62,7 @@ description: Tesseract
 
 这个模型被称为：宇宙魔方（Tesseract）
 
-问题的模型已经建立了，解决起来就只是时间问题了。  
-考虑使用 [**TensorFlow**](https://www.tensorflow.org/)  **\|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **\|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **\|**  [**Colab**](https://colab.research.google.com/notebooks/intro.ipynb) ****解决此问题。
+问题的模型已经建立了，解决起来就只是时间问题了。
 
 ## 规整化算法
 
