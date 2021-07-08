@@ -53,7 +53,7 @@ description: Tesseract
 这个模型被称为：宇宙魔方（Tesseract）
 
 问题的模型已经建立了，解决起来就只是时间问题了。  
-考虑使用[TensorFlow](https://www.tensorflow.org/) \| [TensorBoard](https://www.tensorflow.org/tensorboard?hl=zh-cn)解决此问题
+考虑使用[TensorFlow](https://www.tensorflow.org/) \| [TensorBoard](https://www.tensorflow.org/tensorboard?hl=zh-cn)解决此问题。
 
 ## 规整化算法
 
