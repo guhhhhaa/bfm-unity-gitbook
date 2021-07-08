@@ -6,9 +6,9 @@ description: Tesseract
 
 {% page-ref page="ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
-[TensorFlow](https://www.tensorflow.org/) \| [TensorBoard](https://www.tensorflow.org/tensorboard?hl=zh-cn)
+[**TensorFlow**](https://www.tensorflow.org/) **\|** [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn) **\|** [**TensorBoard.dev**](https://tensorboard.dev/) **\|** [**Colab**](https://colab.research.google.com/notebooks/intro.ipynb)\*\*\*\*
 
-[https://playground.tensorflow.org/](https://playground.tensorflow.org/)
+[**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)\*\*\*\*
 
 
 
