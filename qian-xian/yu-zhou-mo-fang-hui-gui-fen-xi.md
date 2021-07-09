@@ -29,7 +29,7 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 
 问题已经被Excel解决，但是不具有扩展性。
 
-## 宇宙魔方
+## [宇宙魔方](https://www.bfm-unity.com/qian-xian/yu-zhou-mo-fang-hui-gui-fen-xi)
 
 我们现在这个问题属于三维空间中的，分类问题， 
 
@@ -41,7 +41,7 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 
 模型的预计输出结果是，（-1，2）的仓位控制策略模型，
 
-这个模型被称为：宇宙魔方（Tesseract）
+这个模型被称为：[宇宙魔方](https://www.bfm-unity.com/qian-xian/yu-zhou-mo-fang-hui-gui-fen-xi)（Tesseract）
 
 问题的模型已经建立了，解决起来就只是时间问题了。
 
