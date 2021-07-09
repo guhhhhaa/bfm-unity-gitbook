@@ -30,7 +30,11 @@ description: Tesseract
 
 [Q&A: 机器学习与金融行业](http://www.fintechgl.com/articles/59)
 
+## 问题描述
+
 ![](../../../.gitbook/assets/a4%20%281%29.png)
+
+## 开发环境
 
 ![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210709-shang-wu-7.54.06.png)
 
