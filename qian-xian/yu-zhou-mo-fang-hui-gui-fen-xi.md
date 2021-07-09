@@ -115,3 +115,7 @@ import matplotlib.pyplot as plt
 
 [python-tutorial](https://www.runoob.com/python/python-tutorial.html) 找到了python基础教程，重新回去学python
 
+不学了，要吐了
+
+再想想
+
