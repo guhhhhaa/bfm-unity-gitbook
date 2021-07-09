@@ -62,3 +62,7 @@
 
 [http://if.caiyunai.com/dream/\#/](http://if.caiyunai.com/dream/#/)
 
+## 高考作文写作工具
+
+[https://gitee.com/chenyang918/EssayKiller\_v2](https://gitee.com/chenyang918/EssayKiller_v2)
+
