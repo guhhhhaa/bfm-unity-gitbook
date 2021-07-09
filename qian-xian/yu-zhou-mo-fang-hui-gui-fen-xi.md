@@ -50,7 +50,7 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 
 **pandas**是一个数据处理的包，本身提供了许多读取文件的函数，像read\_csv（读取csv文件），read\_excel（读取excel文件）等，只需一行代码就能实现文件的读取。
 
-## 卓尔金历法
+## [卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)
 
 我们之前所说的卓尔金历法，解决的是二维空间中的分类问题，
 
