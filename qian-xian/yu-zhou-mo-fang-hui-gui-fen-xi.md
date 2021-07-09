@@ -119,3 +119,6 @@ import matplotlib.pyplot as plt
 
 再想想
 
+找到了一本书：利用Python进行数据分析：[![](https://gblobscdn.gitbook.com/spaces%2F-LF_s_ql-GHXb31QEE8_%2Favatar.png?alt=media)README](https://seancheney.gitbook.io/python-for-data-analysis-2nd/)  
+
+
