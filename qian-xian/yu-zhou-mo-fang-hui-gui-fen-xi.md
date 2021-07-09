@@ -13,6 +13,38 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 
 ![](../.gitbook/assets/a4%20%281%29.png)
 
+## [卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)
+
+我们之前所说的[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)，解决的是二维空间中的分类问题，
+
+使用的方法是逻辑回归LR，使用的激活函数是sigmoid函数
+
+二维空间，指的是 MVRV，S2F月预测价格/价格， 这两个变量，经过规整化，90%概率分布于（-1，1）后，构成的空间，
+
+喂进去的训练数据是，经过数学处理，90%概率分布于（-1，2）的，基于（50天后的涨跌幅分布）的训练数据。
+
+模型的预计输出结果是，（-1，2）的仓位控制策略模型，
+
+这个模型被称为：[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)，或，二向箔。 
+
+问题已经被Excel解决，但是不具有扩展性。
+
+## 宇宙魔方
+
+我们现在这个问题属于三维空间中的，分类问题， 
+
+使用的方法是逻辑回归LR，使用的激活函数是sigmoid函数
+
+三维空间，指的是 MVRV，S2F月预测价格/价格，NVT的90日均线， 这三个变量，经过规整化，90%概率分布于（-1，1）后，构成的空间，
+
+喂进去的训练数据是，经过数学处理，90%概率分布于（-1，2）的，基于（50天后的涨跌幅分布）的训练数据。
+
+模型的预计输出结果是，（-1，2）的仓位控制策略模型，
+
+这个模型被称为：宇宙魔方（Tesseract）
+
+问题的模型已经建立了，解决起来就只是时间问题了。
+
 ## 使用工具
 
 [Anaconda](https://www.anaconda.com/) \(Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras\)还有matplotlib，差点忘了
@@ -49,38 +81,6 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 ![](../.gitbook/assets/qq20210625-2.jpg)
 
 **pandas**是一个数据处理的包，本身提供了许多读取文件的函数，像read\_csv（读取csv文件），read\_excel（读取excel文件）等，只需一行代码就能实现文件的读取。
-
-## [卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)
-
-我们之前所说的[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)，解决的是二维空间中的分类问题，
-
-使用的方法是逻辑回归LR，使用的激活函数是sigmoid函数
-
-二维空间，指的是 MVRV，S2F月预测价格/价格， 这两个变量，经过规整化，90%概率分布于（-1，1）后，构成的空间，
-
-喂进去的训练数据是，经过数学处理，90%概率分布于（-1，2）的，基于（50天后的涨跌幅分布）的训练数据。
-
-模型的预计输出结果是，（-1，2）的仓位控制策略模型，
-
-这个模型被称为：[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)，或，二向箔。 
-
-问题已经被Excel解决，但是不具有扩展性。
-
-## 宇宙魔方
-
-我们现在这个问题属于三维空间中的，分类问题， 
-
-使用的方法是逻辑回归LR，使用的激活函数是sigmoid函数
-
-三维空间，指的是 MVRV，S2F月预测价格/价格，NVT的90日均线， 这三个变量，经过规整化，90%概率分布于（-1，1）后，构成的空间，
-
-喂进去的训练数据是，经过数学处理，90%概率分布于（-1，2）的，基于（50天后的涨跌幅分布）的训练数据。
-
-模型的预计输出结果是，（-1，2）的仓位控制策略模型，
-
-这个模型被称为：宇宙魔方（Tesseract）
-
-问题的模型已经建立了，解决起来就只是时间问题了。
 
 ## 规整化算法
 
