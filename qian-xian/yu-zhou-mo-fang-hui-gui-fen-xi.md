@@ -4,6 +4,8 @@ description: TesrAct，是TensorAct，还是Tesseract
 
 # 战略资产配置——宇宙魔方（分类网络）
 
+## TesrAct，是TensorAct，还是Tesseract
+
 {% page-ref page="management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
 {% hint style="info" %}
@@ -91,5 +93,7 @@ description: TesrAct，是TensorAct，还是Tesseract
 #### 2021.7.9 
 
 安装了Anaconda，借助Anaconda 安装了  
-Jupyter Notebook，Jupyter Lab，Numpy，Pandas，TensorFlow，Keras
+Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras
+
+课程？[在看了在看了](https://www.bilibili.com/video/BV1rz4y117p1)。
 
