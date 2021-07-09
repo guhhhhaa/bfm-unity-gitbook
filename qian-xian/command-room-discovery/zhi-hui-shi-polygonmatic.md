@@ -3,7 +3,7 @@
 ![](../../.gitbook/assets/34bca558a0944fef7f6a81540618be5f.jpg)
 
 {% hint style="danger" %}
-不稳定，正在建设中
+不稳定，正在建设中……
 
 users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge). 
 
