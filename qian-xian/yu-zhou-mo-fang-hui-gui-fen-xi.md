@@ -11,7 +11,7 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 {% hint style="info" %}
 ### 使用工具
 
-[Anaconda](https://www.anaconda.com/) \(Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras\)
+[Anaconda](https://www.anaconda.com/) \(Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras\)还有matplotlib，差点忘了
 
 [**TensorFlow**](https://www.tensorflow.org/)  **\|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **\|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **\|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)\*\*\*\*
 
@@ -95,7 +95,8 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 #### 2021.7.9 
 
 安装了Anaconda，借助Anaconda 安装了  
-Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras
+Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras  
+还有matplotlib，差点忘了
 
 课程？[在看了在看了](https://www.bilibili.com/video/BV1rz4y117p1)。
 
@@ -106,7 +107,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
-找到了 [TensorFlow学习笔记](https://www.zhihu.com/column/c_1377756991213998081) ，发现分类问题应该用**交叉熵损失函数，**而不是**均方误差MSE损失函数**
+找到了 [TensorFlow学习笔记](https://www.zhihu.com/column/c_1377756991213998081) ，发现逻辑回归分类问题应该用**交叉熵损失函数，**而不是**均方误差MSE损失函数**
 
 \*\*\*\*[交叉熵](https://baike.baidu.com/item/%E4%BA%A4%E5%8F%89%E7%86%B5/8983241) \|  ****[损失函数](https://baike.baidu.com/item/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/1783236)  \|  [归一化指数函数](https://baike.baidu.com/item/%E5%BD%92%E4%B8%80%E5%8C%96%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0)\(Softmax函数\)
 
