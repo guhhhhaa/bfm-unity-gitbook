@@ -1,10 +1,10 @@
 ---
-description: Te-s-r-act，是TensorAct，还是Tesseract
+description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 ---
 
 # 战略资产配置——宇宙魔方（分类网络）
 
-## Te-s-r-act，是TensorAct，还是Tesseract
+## Te-s-r-act，是 TensorAct，还是Tesseract ?
 
 {% page-ref page="management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
