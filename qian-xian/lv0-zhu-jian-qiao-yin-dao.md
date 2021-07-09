@@ -76,7 +76,11 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 愿景及使命 <a id="yuan-jing-ji-shi-ming"></a>
 
-我喜欢坐在 [**SCP-2950**](https://www.bilibili.com/video/BV1ts411g7Qw) 上，看 [**GOC**](https://www.bilibili.com/video/BV1gW411J7eP) 的公告。（[**愿景及使命1**](https://www.bilibili.com/bangumi/play/ss28381/) **\|** [**愿景及使命2**](https://www.dilidili3.com/play/7107-1-1/) **\|** [**愿景及使命3**](https://www.dm233.cc/anime/20200054.html) **\|** [**愿景及使命4**](https://www.bilibili.com/bangumi/play/ss4098/)）
+我喜欢坐在 [**SCP-2950**](http://scp-wiki-cn.wikidot.com/scp-2950) 上，看 [**GOC**](http://scp-wiki-cn.wikidot.com/goc-hub-page) 的公告。
+
+（[**愿景及使命1**](https://www.bilibili.com/bangumi/play/ss28381/) **\|** [**愿景及使命2**](https://www.dilidili3.com/play/7107-1-1/) **\|** [**愿景及使命3**](https://www.dm233.cc/anime/20200054.html) **\|** [**愿景及使命4**](https://www.bilibili.com/bangumi/play/ss4098/)）
+
+意识存储器：Bilibili，嘀哩嘀哩，233动漫网
 
 ## ‌核心价值观
 
