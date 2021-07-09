@@ -9,7 +9,11 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 {% page-ref page="management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
 {% hint style="info" %}
-### 使用工具
+## 问题描述
+
+![](../.gitbook/assets/a4%20%281%29.png)
+
+## 使用工具
 
 [Anaconda](https://www.anaconda.com/) \(Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras\)还有matplotlib，差点忘了
 
@@ -33,10 +37,6 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 [一文读懂机器学习分类算法（附图文详解）](https://zhuanlan.zhihu.com/p/82114104)
 
 [Q&A: 机器学习与金融行业](http://www.fintechgl.com/articles/59)
-
-## 问题描述
-
-![](../.gitbook/assets/a4%20%281%29.png)
 
 ## 开发环境
 
