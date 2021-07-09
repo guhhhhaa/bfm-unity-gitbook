@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## 最新版下载链接🔗    [卓尔金+哈布飞船5.02](https://share.weiyun.com/7rzN1OXD)
 
-### 含有重要数据下载链接🔗     [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
+### 含有重要数据分析报告下载链接🔗     [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 {% endhint %}
 
 {% hint style="success" %}
