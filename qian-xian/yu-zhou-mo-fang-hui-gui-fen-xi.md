@@ -99,3 +99,10 @@ Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras
 
 课程？[在看了在看了](https://www.bilibili.com/video/BV1rz4y117p1)。
 
+```python
+from tensorflow import keras
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+```
+
