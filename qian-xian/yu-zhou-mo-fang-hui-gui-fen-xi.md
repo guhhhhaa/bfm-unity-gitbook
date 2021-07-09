@@ -52,7 +52,7 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 
 ## [卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)
 
-我们之前所说的卓尔金历法，解决的是二维空间中的分类问题，
+我们之前所说的[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)，解决的是二维空间中的分类问题，
 
 使用的方法是逻辑回归LR，使用的激活函数是sigmoid函数
 
@@ -62,7 +62,7 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 
 模型的预计输出结果是，（-1，2）的仓位控制策略模型，
 
-这个模型被称为：卓尔金历法，或，二向箔。 
+这个模型被称为：[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)，或，二向箔。 
 
 问题已经被Excel解决，但是不具有扩展性。
 
