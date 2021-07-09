@@ -11,6 +11,8 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 {% hint style="info" %}
 ### 使用工具
 
+[Anaconda](https://www.anaconda.com/) \(Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras\)
+
 [**TensorFlow**](https://www.tensorflow.org/)  **\|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **\|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **\|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)\*\*\*\*
 
 [**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)\*\*\*\*
