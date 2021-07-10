@@ -356,3 +356,5 @@ from scipy import stats  # 其他的子模块类似
 
 ![](../.gitbook/assets/a3.png)
 
+## [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)
+
