@@ -218,7 +218,9 @@ Pandas 的 DataFrame（数据表）是一种 2 维数据结构，数据以表格
 
 ```text
 pd.DataFrame(data,index)
+```
 
+```text
 df = pd.DataFrame(data,index) 
 ```
 
