@@ -92,7 +92,7 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 
 ## 研发进度
 
-#### 2021.7.9 
+### 2021.7.9 
 
 安装了Anaconda，借助Anaconda 安装了  
 Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras  
@@ -154,15 +154,21 @@ import matplotlib.pyplot as plt
 
 **pandas**是一个数据处理的包，本身提供了许多读取文件的函数，像read\_csv（读取csv文件），read\_excel（读取excel文件）等，只需一行代码就能实现文件的读取。
 
+### 2021.7.10
+
 [python pandas read\_html快读读取中国商情网的A股，港股以及新三板股票](https://www.bilibili.com/video/BV1aQ4y1A7fh)
 
 [pandas.read\_csv 详细介绍](https://www.gairuo.com/p/pandas-read-csv)
 
 [pandas.read\_excel 详细介绍](https://www.gairuo.com/p/pandas-read-excel)
 
+### 教程
+
 [30分钟带你入门数据分析工具 Pandas](https://oicebot.github.io/2018/09/05/30-mins-into-pandas-for-data-science.html)
 
-[十分钟入门 Pandas](https://www.pypandas.cn/docs/getting_started/10min.html)
+[十分钟入门 Pandas](https://www.pypandas.cn/docs/getting_started/10min.html) 🚩
+
+### 读取写入数据
 
 * CSV
   * [写入 CSV 文件 \(opens new window\)](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-store-in-csv)。
@@ -224,5 +230,41 @@ pd.DataFrame(data,index)
 df = pd.DataFrame(data,index) 
 ```
 
+### 可视化 <a id="&#x53EF;&#x89C6;&#x5316;"></a>
 
+详见[可视化 \(opens new window\)](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#visualization)文档。
+
+```text
+In [135]: ts = pd.Series(np.random.randn(1000),
+   .....:                index=pd.date_range('1/1/2000', periods=1000))
+   .....: 
+
+In [136]: ts = ts.cumsum()
+
+In [137]: ts.plot()
+Out[137]: <matplotlib.axes._subplots.AxesSubplot at 0x7f2b5771ac88>
+```
+
+![&#x53EF;&#x89C6;&#x5316;](https://static.pypandas.cn/public/static/images/series_plot_basic.png)
+
+DataFrame 的 [plot\(\) \(opens new window\)](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#visualization)方法可以快速绘制所有带标签的列：
+
+```text
+In [138]: df = pd.DataFrame(np.random.randn(1000, 4), index=ts.index,
+   .....:                   columns=['A', 'B', 'C', 'D'])
+   .....: 
+
+In [139]: df = df.cumsum()
+
+In [140]: plt.figure()
+Out[140]: <Figure size 640x480 with 0 Axes>
+
+In [141]: df.plot()
+Out[141]: <matplotlib.axes._subplots.AxesSubplot at 0x7f2b53a2d7f0>
+
+In [142]: plt.legend(loc='best')
+Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
+```
+
+![&#x53EF;&#x89C6;&#x5316;2](https://static.pypandas.cn/public/static/images/frame_plot_basic.png)
 
