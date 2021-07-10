@@ -295,3 +295,7 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 | Jupyter Notebook/Lab |  |  |
 | PyCharm |  |  |
 
+[SciPy - Stats\_学习Scipy\|WIKI教程](https://iowiki.com/scipy/scipy_stats.html)
+
+[Scipy统计函数- Scipy教程™ - 易百教程](https://www.yiibai.com/scipy/scipy_stats.html) 🚩
+
