@@ -350,6 +350,7 @@ import numpy as np
 from scipy import stats  # 其他的子模块类似
 ```
 
-`scipy`的主要命名空间通常包含的函数其实是numpy（试一下`scipy.cos`其实是`np.cos`\) 。这些函数的暴露只是因为历史原因；通常没有必要在你的代码中使用`import scipy`。  
+`scipy`的主要命名空间通常包含的函数其实是numpy（试一下`scipy.cos`其实是`np.cos`\) 。这些函数的暴露只是因为历史原因；通常没有必要在你的代码中使用`import scipy`。
 
+![](../.gitbook/assets/a3.png)
 
