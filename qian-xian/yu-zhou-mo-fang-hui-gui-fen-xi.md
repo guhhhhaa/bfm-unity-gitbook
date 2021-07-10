@@ -268,3 +268,15 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 ![&#x53EF;&#x89C6;&#x5316;2](https://static.pypandas.cn/public/static/images/frame_plot_basic.png)
 
+## [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY)🚩
+
+## [Excel动态仪表盘制作流程，非常详细【完结】](https://www.bilibili.com/video/BV1ov41147UG)🚩
+
+## [python实现统计学包Scipy所有语法](https://www.bilibili.com/read/cv12026943)
+
+## [python 正态分布\_python绘制正态分布及三大抽样分布的概率密度图像](https://blog.csdn.net/weixin_39725403/article/details/111293843) <a id="articleContentId"></a>
+
+## [太玄的工具库0X04 NumPy SciPy](https://www.bilibili.com/read/cv115510)
+
+## [【2021新版】Python入门编程100例，用小例子提升实战技能！](https://www.bilibili.com/video/BV1of4y1a7pz) 
+
