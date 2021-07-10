@@ -303,7 +303,53 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 [Scipy统计函数- Scipy教程教学\| 程式教程网- 亿聚网](https://www.1ju.org/scipy/scipy-stats)
 
-[1.5 ScSciPy Lecture Notes 中文版 🚩](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/4.html)
+## [1.5 ScSciPy Lecture Notes 中文版 🚩](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/4.html)
 
 * [scipy：高级科学计算\| SciPy Lecture Notes 中文版 🚩](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/4.html)
+
+## 1.5 Scipy：高级科学计算 <a id="15-scipy&#xFF1A;&#x9AD8;&#x7EA7;&#x79D1;&#x5B66;&#x8BA1;&#x7B97;"></a>
+
+作者：Adrien Chauve, Andre Espaze, Emmanuelle Gouillart, Gaël Varoquaux, Ralf Gommers
+
+**Scipy**
+
+`scipy`包包含许多专注于科学计算中的常见问题的工具箱。它的子模块对应于不同的应用，比如插值、积分、优化、图像处理、统计和特殊功能等。
+
+`scipy`可以与其他标准科学计算包相对比，比如GSL \(C和C++的GNU科学计算包\), 或者Matlab的工具箱。`scipy`是Python中科学程序的核心程序包；这意味着有效的操作`numpy`数组，因此，numpy和scipy可以一起工作。
+
+在实现一个程序前，有必要确认一下需要的数据处理时候已经在scipy中实现。作为非专业程序员，科学家通常倾向于**重新发明轮子**，这产生了小玩具、不优化、很难分享以及不可以维护的代码。相反，scipy的程序是优化并且测试过的，因此应该尽可能使用。
+
+**警告** 这个教程根本不是数值计算的介绍。因为列举scipy的不同子模块和功能将会是非常枯燥的，相反我们将聚焦于列出一些例子，给出如何用scipy进行科学计算的大概思路。
+
+scipy是由针对特定任务的子模块组成的：
+
+|  |  |
+| :--- | :--- |
+| [`scipy.cluster`](http://docs.scipy.org/doc/scipy/reference/cluster.html#scipy.cluster) | 向量计算 / Kmeans |
+| [`scipy.constants`](http://docs.scipy.org/doc/scipy/reference/constants.html#scipy.constants) | 物理和数学常量 |
+| [`scipy.fftpack`](http://docs.scipy.org/doc/scipy/reference/fftpack.html#scipy.fftpack) | 傅里叶变换 |
+| [`scipy.integrate`](http://docs.scipy.org/doc/scipy/reference/integrate.html#scipy.integrate) | 积分程序 |
+| [`scipy.interpolate`](http://docs.scipy.org/doc/scipy/reference/interpolate.html#scipy.interpolate) | 插值 |
+| [`scipy.io`](http://docs.scipy.org/doc/scipy/reference/io.html#scipy.io) | 数据输入和输出 |
+| [`scipy.linalg`](http://docs.scipy.org/doc/scipy/reference/linalg.html#scipy.linalg) | 线性代数程序 |
+| [`scipy.ndimage`](http://docs.scipy.org/doc/scipy/reference/ndimage.html#scipy.ndimage) | n-维图像包 |
+| [`scipy.odr`](http://docs.scipy.org/doc/scipy/reference/odr.html#scipy.odr) | 正交距离回归 |
+| [`scipy.optimize`](http://docs.scipy.org/doc/scipy/reference/optimize.html#scipy.optimize) | 优化 |
+| [`scipy.signal`](http://docs.scipy.org/doc/scipy/reference/signal.html#scipy.signal) | 信号处理 |
+| [`scipy.sparse`](http://docs.scipy.org/doc/scipy/reference/sparse.html#scipy.sparse) | 稀疏矩阵 |
+| [`scipy.spatial`](http://docs.scipy.org/doc/scipy/reference/spatial.html#scipy.spatial) | 空间数据结构和算法 |
+| [`scipy.special`](http://docs.scipy.org/doc/scipy/reference/special.html#scipy.special) | 一些特殊数学函数 |
+| [`scipy.stats`](http://docs.scipy.org/doc/scipy/reference/stats.html#scipy.stats) | 统计 |
+
+他们全都依赖于[numpy](http://docs.scipy.org/doc/numpy/reference/index.html#numpy), 但是大多数是彼此独立的。导入Numpy和Scipy的标准方式：
+
+In \[1\]:
+
+```text
+import numpy as np
+from scipy import stats  # 其他的子模块类似
+```
+
+`scipy`的主要命名空间通常包含的函数其实是numpy（试一下`scipy.cos`其实是`np.cos`\) 。这些函数的暴露只是因为历史原因；通常没有必要在你的代码中使用`import scipy`。  
+
 
