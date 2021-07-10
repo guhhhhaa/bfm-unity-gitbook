@@ -160,3 +160,5 @@ import matplotlib.pyplot as plt
 
 [pandas.read\_excel 详细介绍](https://www.gairuo.com/p/pandas-read-excel)
 
+[30分钟带你入门数据分析工具 Pandas](https://oicebot.github.io/2018/09/05/30-mins-into-pandas-for-data-science.html)
+
