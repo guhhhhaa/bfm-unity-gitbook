@@ -162,3 +162,32 @@ import matplotlib.pyplot as plt
 
 [30分钟带你入门数据分析工具 Pandas](https://oicebot.github.io/2018/09/05/30-mins-into-pandas-for-data-science.html)
 
+[十分钟入门 Pandas](https://www.pypandas.cn/docs/getting_started/10min.html)
+
+* CSV
+  * [写入 CSV 文件 \(opens new window\)](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-store-in-csv)。
+
+```text
+In [143]: df.to_csv('foo.csv')
+```
+
+* * 读取 CSV 文件数据：
+
+```text
+In [144]: pd.read_csv('foo.csv')
+```
+
+* Excel
+  * 详见 [Excel \(opens new window\)](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel)文档。
+  * 写入 Excel 文件：
+
+```text
+In [147]: df.to_excel('foo.xlsx', sheet_name='Sheet1')
+```
+
+* * 读取 Excel 文件：
+
+```text
+In [148]: pd.read_excel('foo.xlsx', 'Sheet1', index_col=None, na_values=['NA'])
+```
+
