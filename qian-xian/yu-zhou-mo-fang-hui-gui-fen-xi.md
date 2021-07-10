@@ -278,7 +278,9 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 ## [太玄的工具库0X04 NumPy SciPy](https://www.bilibili.com/read/cv115510) 🚩
 
-## [【2021新版】Python入门编程100例，用小例子提升实战技能！](https://www.bilibili.com/video/BV1of4y1a7pz) 
+## [【2021新版】Python入门编程100例，用小例子提升实战技能！](https://www.bilibili.com/video/BV1of4y1a7pz)
+
+## [python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP) 
 
 |  |  |  |
 | :--- | :--- | :--- |
