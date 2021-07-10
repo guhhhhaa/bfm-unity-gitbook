@@ -293,5 +293,3 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 | Jupyter Notebook/Lab |  |  |
 | PyCharm |  |  |
 
-
-
