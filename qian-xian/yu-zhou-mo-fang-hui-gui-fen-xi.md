@@ -191,3 +191,36 @@ In [147]: df.to_excel('foo.xlsx', sheet_name='Sheet1')
 In [148]: pd.read_excel('foo.xlsx', 'Sheet1', index_col=None, na_values=['NA'])
 ```
 
+
+
+### Pandas 数据结构 <a id="pandas-&#x6570;&#x636E;&#x7ED3;&#x6784;"></a>
+
+#### 1. Series <a id="1-series"></a>
+
+Series 是一种一维数组，和 NumPy 里的数组很相似。事实上，Series 基本上就是基于 NumPy 的数组对象来的。和 NumPy 的数组不同，Series 能为数据自定义标签，也就是索引（index），然后通过索引来访问数组中的数据。
+
+```text
+import numpy as np
+import pandas as pd
+```
+
+创建一个 Series 的基本语法如下：
+
+```text
+my_series = pd.Series(data, index)
+```
+
+#### 2. DataFrames <a id="2-dataframes"></a>
+
+Pandas 的 DataFrame（数据表）是一种 2 维数据结构，数据以表格的形式存储，分成若干行和列。通过 DataFrame，你能很方便地处理数据。常见的操作比如选取、替换行或列的数据，还能重组数据表、修改索引、多重筛选等。
+
+构建一个 DataFrame 对象的基本语法如下：
+
+```text
+pd.DataFrame(data,index)
+
+df = pd.DataFrame(data,index) 
+```
+
+
+
