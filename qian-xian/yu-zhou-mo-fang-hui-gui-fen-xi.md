@@ -303,5 +303,7 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 [Scipy统计函数- Scipy教程教学\| 程式教程网- 亿聚网](https://www.1ju.org/scipy/scipy-stats)
 
-[1.5 Scipy：高级科学计算\| SciPy Lecture Notes 中文版](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/4.html)
+[1.5 ScSciPy Lecture Notes 中文版 🚩](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/4.html)
+
+* [scipy：高级科学计算\| SciPy Lecture Notes 中文版 🚩](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/4.html)
 
