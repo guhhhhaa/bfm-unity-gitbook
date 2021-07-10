@@ -284,7 +284,7 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 | :--- | :--- | :--- |
 | numpy | 矩阵 |  |
 | scipy |  | scipy.stats |
-| pandas | seris,dataframe | excel,csv |
+| pandas | Series,DataFrame | excel,csv |
 | matplotlib |  |  |
 | tensorflow |  | keras |
 |  |  |  |
