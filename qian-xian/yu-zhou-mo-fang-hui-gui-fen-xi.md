@@ -282,7 +282,7 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 |  |  |  |
 | :--- | :--- | :--- |
-| numpy | 矩阵 |  |
+| numpy | np.array \# ndarray | NumPy 提供了很多[统计函数](https://www.runoob.com/numpy/numpy-statistical-functions.html)，用于从数组中查找最小元素，最大元素，百分位标准差和方差等。 |
 | scipy |  | scipy.stats |
 | pandas | Series,DataFrame | excel,csv |
 | matplotlib |  |  |
