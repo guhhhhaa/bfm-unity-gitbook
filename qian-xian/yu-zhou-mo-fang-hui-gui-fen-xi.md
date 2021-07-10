@@ -280,12 +280,13 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 ## [【2021新版】Python入门编程100例，用小例子提升实战技能！](https://www.bilibili.com/video/BV1of4y1a7pz) 
 
-| numpy | 矩阵 |  |
+|  |  |  |
 | :--- | :--- | :--- |
-| scipy | scipy.stats |  |
+| numpy | 矩阵 |  |
+| scipy |  | scipy.stats |
 | pandas | seris,dataframe | excel,csv |
 | matplotlib |  |  |
-| tensorflow |  |  |
+| tensorflow |  | keras |
 |  |  |  |
 | IPython |  |  |
 | Spyder |  |  |
