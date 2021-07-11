@@ -333,14 +333,10 @@ from scipy import stats  # 其他的子模块类似
 ## [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)
 
 {% hint style="info" %}
-## [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY)  🚩
-
-## [python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP)🚩
-
-## [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)🚩
-
-【链接】机器学习之数据的偏态分布和数据的标准化 [https://blog.csdn.net/m0\_37870649/article/details/80638179](https://blog.csdn.net/m0_37870649/article/details/80638179)
-
-[https://www.icourse163.org/learn/PKU-1002536002?tid=1452937471&from=study\#/learn/announce](https://www.icourse163.org/learn/PKU-1002536002?tid=1452937471&from=study#/learn/announce)
+* [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY)  🚩
+* [python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP)🚩
+* [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)🚩
+* \*\*\*\*[**机器学习之数据的偏态分布和数据的标准化**](https://blog.csdn.net/m0_37870649/article/details/80638179)**🚩**
+* [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002?tid=1452937471)🚩
 {% endhint %}
 
