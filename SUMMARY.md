@@ -68,7 +68,9 @@
     * [以太坊部署实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
 * [LV5-研究院 \(量子\) ☢️](qian-xian/lv5-yuan-lao-yuan-liang-zi/README.md)
   * [曜黑 · 量子退火研究院](qian-xian/lv5-yuan-lao-yuan-liang-zi/yao-hei-liang-zi-tui-huo-fen-yuan.md)
-* [战略资产配置——宇宙魔方（分类网络）](qian-xian/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+* [LV6-星魔方 \(分类\)](qian-xian/lv6-xing-mo-fang-fen-lei/README.md)
+  * [实验室展示柜](qian-xian/lv6-xing-mo-fang-fen-lei/shi-yan-shi-zhan-shi-gui.md)
+  * [混乱的实验室](qian-xian/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
 
 ## 后方
 

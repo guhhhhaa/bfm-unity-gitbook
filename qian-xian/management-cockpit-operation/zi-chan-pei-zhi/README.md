@@ -4,7 +4,7 @@
 
 ## 战略资产配置
 
-{% page-ref page="../../yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+{% page-ref page="../../lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
 
 {% page-ref page="ling-hang-duo-lei-da/" %}
 

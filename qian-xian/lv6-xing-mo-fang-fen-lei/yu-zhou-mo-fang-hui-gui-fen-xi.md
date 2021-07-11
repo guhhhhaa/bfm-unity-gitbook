@@ -2,48 +2,18 @@
 description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 ---
 
-# 战略资产配置——宇宙魔方（分类网络）
+# 混乱的实验室
 
 ## Te-s-r-act，是 TensorAct，还是Tesseract ?
 
-{% page-ref page="management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+{% page-ref page="../management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
 {% hint style="info" %}
 ## 问题描述
 
-![](../.gitbook/assets/a4%20%281%29.png)
+![](../../.gitbook/assets/a4%20%281%29.png)
 
-## [卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)
-
-我们之前所说的[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)，解决的是二维空间中的分类问题，
-
-使用的方法是逻辑回归LR，使用的激活函数是sigmoid函数
-
-二维空间，指的是 MVRV的60日均线，S2F月预测价格/价格的60日均线， 这两个变量，经过规整化，90%概率分布于（-1，1）后，构成的空间，
-
-喂进去的训练数据是，经过数学处理，90%概率分布于（-1，2）的，基于（60天后的涨跌幅分布）的训练数据。
-
-模型的预计输出结果是，（-1，2）的仓位控制策略模型，
-
-这个模型被称为：[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)，或，二向箔。 
-
-问题已经被Excel解决，但是不具有扩展性。
-
-## [宇宙魔方](https://www.bfm-unity.com/qian-xian/yu-zhou-mo-fang-hui-gui-fen-xi)
-
-我们现在这个问题属于三维空间中的，分类问题， 
-
-使用的方法是逻辑回归LR，使用的激活函数是sigmoid函数
-
-三维空间，指的是 MVRV的60日均线，S2F月预测价格/价格的60日均线，NVT的60日均线， 这三个变量，经过规整化，90%概率分布于（-1，1）后，构成的空间，
-
-喂进去的训练数据是，经过数学处理，90%概率分布于（-1，2）的，基于（60天后的涨跌幅分布）的训练数据。
-
-模型的预计输出结果是，（-1，2）的仓位控制策略模型，
-
-这个模型被称为：[宇宙魔方](https://www.bfm-unity.com/qian-xian/yu-zhou-mo-fang-hui-gui-fen-xi)（Tesseract）
-
-问题的模型已经建立了，解决起来就只是时间问题了。
+## 
 
 ## 使用工具
 
@@ -53,12 +23,14 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 
 [**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)\*\*\*\*
 
+\*\*\*\*[**https://nbviewer.jupyter.org/**](https://nbviewer.jupyter.org/)\*\*\*\*
+
 ### 数据来源
 
 [MVRV](https://www.qkl123.com/data/mvrv/btc)  \|  [S2F](https://www.qkl123.com/data/s2f/btc)  \|  [NVT](https://www.qkl123.com/data/nvt/btc)
 {% endhint %}
 
-![](../.gitbook/assets/a4_3.png)
+![](../../.gitbook/assets/a4_3.png)
 
 [22 款神经网络的设计和可视化工具](https://www.huaweicloud.com/articles/d90130bfd852a55e505155e381ebfab1.html)
 
@@ -74,13 +46,13 @@ description: Te-s-r-act，是 TensorAct，还是 Tesseract ?
 
 ## 开发环境
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210709-shang-wu-7.54.06.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210709-shang-wu-7.54.06.png)
 
 [https://www.anaconda.com/](https://www.anaconda.com/)
 
 [https://www.anaconda.com/pycharm](https://www.anaconda.com/pycharm)
 
-![](../.gitbook/assets/qq20210625-2.jpg)
+![](../../.gitbook/assets/qq20210625-2.jpg)
 
 **pandas**是一个数据处理的包，本身提供了许多读取文件的函数，像read\_csv（读取csv文件），read\_excel（读取excel文件）等，只需一行代码就能实现文件的读取。
 
@@ -272,6 +244,8 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 ## [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY)  🚩
 
+## [python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP)🚩
+
 ## [Excel动态仪表盘制作流程，非常详细【完结】](https://www.bilibili.com/video/BV1ov41147UG)🚩
 
 ## [python实现统计学包Scipy所有语法](https://www.bilibili.com/read/cv12026943) 🚩
@@ -354,7 +328,19 @@ from scipy import stats  # 其他的子模块类似
 
 `scipy`的主要命名空间通常包含的函数其实是numpy（试一下`scipy.cos`其实是`np.cos`\) 。这些函数的暴露只是因为历史原因；通常没有必要在你的代码中使用`import scipy`。
 
-![](../.gitbook/assets/a3.png)
+![](../../.gitbook/assets/a3.png)
 
 ## [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)
+
+{% hint style="info" %}
+## [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY)  🚩
+
+## [python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP)🚩
+
+## [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)🚩
+
+【链接】机器学习之数据的偏态分布和数据的标准化 [https://blog.csdn.net/m0\_37870649/article/details/80638179](https://blog.csdn.net/m0_37870649/article/details/80638179)
+
+[https://www.icourse163.org/learn/PKU-1002536002?tid=1452937471&from=study\#/learn/announce](https://www.icourse163.org/learn/PKU-1002536002?tid=1452937471&from=study#/learn/announce)
+{% endhint %}
 
