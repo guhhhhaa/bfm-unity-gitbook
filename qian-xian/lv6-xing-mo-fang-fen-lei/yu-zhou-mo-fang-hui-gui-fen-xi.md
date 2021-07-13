@@ -340,3 +340,37 @@ from scipy import stats  # 其他的子模块类似
 * [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002?tid=1452937471)🚩
 {% endhint %}
 
+## 2021.7.13
+
+### columns 列
+
+### 连接 pandas.concat\(\)
+
+pandas.concat\(\)通常用来连接DataFrame对象。  
+[pandas中concat\(\)的用法](https://zhuanlan.zhihu.com/p/69224745)
+
+### 索引 pandas \(loc、iloc、ix\)
+
+[pandas \(loc、iloc、ix\)的区别](https://www.cnblogs.com/keye/p/7825280.html)  
+**loc：**通过行标签索引数据  
+**iloc：**通过行号索引行数据  
+**ix：**通过行标签或行号索引数据（基于loc和iloc的混合）
+
+### 删除 pandas.drop\(columns=\_\_\_\_\_\)
+
+### 插入 pandas.insert\(1,columns=\_\_\_\_\_,value=\_\_\_\_\_\)
+
+### 改名 pandas.rename\(字典\)
+
+### line 行
+
+### 追加.append
+
+### .reset\_index\(drop=True\)
+
+### .at
+
+
+
+
+

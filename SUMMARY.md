@@ -6,6 +6,7 @@
 
 * [LV0-主舰桥 \(引导\) 🇺🇳](qian-xian/lv0-zhu-jian-qiao-yin-dao.md)
 * [LV1-驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
+  * [什么样的人适合投资比特币？](qian-xian/management-cockpit-operation/shen-me-yang-de-ren-kuo-he-tou-zi-bi-te-bi.md)
   * [私钥云保管 🔑 ☁️](qian-xian/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [资产配置 🕙 ⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/README.md)
     * [战略资产配置——卓尔金历 🕙](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/README.md)
@@ -46,6 +47,7 @@
     * [网络安全](qian-xian/research-institute-development/xiao-bai-xue-cheng/wang-luo-an-quan-dao-hang.md)
     * [MIS 系统开发](qian-xian/research-institute-development/xiao-bai-xue-cheng/di-dai-ma-kai-fa.md)
     * [WEB 全栈开发](qian-xian/research-institute-development/xiao-bai-xue-cheng/qian-duan-hou-duan.md)
+    * [企业战略分析](qian-xian/research-institute-development/xiao-bai-xue-cheng/qi-ye-zhan-lve-fen-xi.md)
   * [玄黑 · 算法科学分院 🔭 🛰️](qian-xian/research-institute-development/suan-fa-yan-jiu-yuan.md)
   * [正黄 · API接口技术分院👩‍🚀👨‍🚀](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/README.md)
     * [币安API实验室🚩](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
