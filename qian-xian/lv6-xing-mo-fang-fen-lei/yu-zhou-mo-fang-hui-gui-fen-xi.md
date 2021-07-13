@@ -382,3 +382,5 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [原创 PANDAS 数据合并与重塑（join/merge篇）](https://blog.csdn.net/stevenkwong/article/details/52540605)
 
+[原创 pandas笔记 基础／groupby／concat／merge／join](https://blog.csdn.net/sinat_27400761/article/details/79647448)
+
