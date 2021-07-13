@@ -370,7 +370,9 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 ### .at
 
+### 删除行.index
 
 
 
+### .concat\(\),.iloc\(\),.drop\(\),.insert\(\),.rename\(\),.append\(\),.reset\_index\(\),.at\(\),.index\(\)
 
