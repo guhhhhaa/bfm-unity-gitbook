@@ -349,6 +349,8 @@ from scipy import stats  # 其他的子模块类似
 pandas.concat\(\)通常用来连接DataFrame对象。  
 [pandas中concat\(\)的用法](https://zhuanlan.zhihu.com/p/69224745)
 
+#### .reset\_index\(drop=True\)
+
 ### 索引 pandas \(loc、iloc、ix\)
 
 [pandas \(loc、iloc、ix\)的区别](https://www.cnblogs.com/keye/p/7825280.html)  
@@ -366,7 +368,7 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 ### 追加.append
 
-### .reset\_index\(drop=True\)
+#### .reset\_index\(drop=True\)
 
 ### .at
 
@@ -375,4 +377,8 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 
 ### .concat\(\),.iloc\(\),.drop\(\),.insert\(\),.rename\(\),.append\(\),.reset\_index\(\),.at\(\),.index\(\)
+
+[原创 PANDAS 数据合并与重塑（concat篇）](https://blog.csdn.net/stevenkwong/article/details/52528616)
+
+[原创 PANDAS 数据合并与重塑（join/merge篇）](https://blog.csdn.net/stevenkwong/article/details/52540605)
 
