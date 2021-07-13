@@ -388,6 +388,10 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 
 
+## [数据分析之Pandas（四）DataFrame运算](https://blog.csdn.net/qq_42642945/article/details/88636151) <a id="articleContentId"></a>
+
+## [pandas笔记（7）DataFrame数学运算](https://blog.csdn.net/weixin_44830542/article/details/108248919) <a id="articleContentId"></a>
+
 ## [Python绘制三维散点图](https://blog.csdn.net/qq_29066329/article/details/89916973) <a id="articleContentId"></a>
 
 ## [matplotlib绘制三维散点图](https://blog.csdn.net/qq_29066329/article/details/89916973) <a id="articleContentId"></a>
