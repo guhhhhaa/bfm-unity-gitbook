@@ -48,7 +48,7 @@
     * [MIS 系统开发](qian-xian/research-institute-development/xiao-bai-xue-cheng/di-dai-ma-kai-fa.md)
     * [WEB 全栈开发](qian-xian/research-institute-development/xiao-bai-xue-cheng/qian-duan-hou-duan.md)
     * [企业战略分析](qian-xian/research-institute-development/xiao-bai-xue-cheng/qi-ye-zhan-lve-fen-xi.md)
-    * [风水玄学儒释道占卜塔罗吸引力灵性修行](qian-xian/research-institute-development/xiao-bai-xue-cheng/feng-shui-xuan-xue-ru-shi-dao-zhan-bu-ta-luo-xi-yin-li-ling-xing-xiu-hang.md)
+    * [风水玄学儒释道占卜塔罗吸引力法则灵性修行](qian-xian/research-institute-development/xiao-bai-xue-cheng/feng-shui-xuan-xue-ru-shi-dao-zhan-bu-ta-luo-xi-yin-li-ling-xing-xiu-hang.md)
   * [玄黑 · 算法科学分院 🔭 🛰️](qian-xian/research-institute-development/suan-fa-yan-jiu-yuan.md)
   * [正黄 · API接口技术分院👩‍🚀👨‍🚀](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/README.md)
     * [币安API实验室🚩](qian-xian/research-institute-development/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
