@@ -2,20 +2,6 @@
 
 * [比坊梦 —— 区块链 · 金融 · 元宇宙](README.md)
 
-## 空间站
-
-* [BFM \| 比坊梦](kong-jian-zhan/bfm-bi-fang-meng.md)
-* [————————](kong-jian-zhan/undefined-2.md)
-* [BFM Unity \| 比坊梦联合体](kong-jian-zhan/bfm-unity-bi-fang-meng-lian-he-ti.md)
-* [BFM DA \| 比坊梦数产](kong-jian-zhan/bfm-da-bi-fang-meng-shu-chan.md)
-* [————————](kong-jian-zhan/undefined.md)
-* [BFM R-Ins. \| 比坊梦科学研究院](kong-jian-zhan/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan.md)
-* [BFM D-Ins. \| 比坊梦工程设计院](kong-jian-zhan/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan.md)
-* [————————](kong-jian-zhan/undefined-3.md)
-* [BFM Univ. \| 比坊梦大学](kong-jian-zhan/bfm-univ.-bi-fang-meng-da-xue.md)
-* [BFM Cult. \| 比坊梦文化](kong-jian-zhan/bfm-cult.-bi-fang-meng-wen-hua.md)
-* [BFM Trad. \| 比坊梦金典](kong-jian-zhan/bfm-trad.-bi-fang-meng-jin-dian.md)
-
 ## 前线
 
 * [LV0-主舰桥 \(引导\) 🇺🇳](qian-xian/lv0-zhu-jian-qiao-yin-dao.md)
@@ -88,6 +74,20 @@
 * [LV6-星魔方 \(分类\) 🎲](qian-xian/lv6-xing-mo-fang-fen-lei/README.md)
   * [实验室展示柜](qian-xian/lv6-xing-mo-fang-fen-lei/shi-yan-shi-zhan-shi-gui.md)
   * [混乱的实验室](qian-xian/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+
+## 空间站
+
+* [BFM \| 比坊梦](kong-jian-zhan/bfm-bi-fang-meng.md)
+* [————————](kong-jian-zhan/undefined-2.md)
+* [BFM Unity \| 比坊梦联合体](kong-jian-zhan/bfm-unity-bi-fang-meng-lian-he-ti.md)
+* [BFM DA \| 比坊梦数产](kong-jian-zhan/bfm-da-bi-fang-meng-shu-chan.md)
+* [————————](kong-jian-zhan/undefined.md)
+* [BFM R-Ins. \| 比坊梦科学研究院](kong-jian-zhan/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan.md)
+* [BFM D-Ins. \| 比坊梦工程设计院](kong-jian-zhan/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan.md)
+* [————————](kong-jian-zhan/undefined-3.md)
+* [BFM Univ. \| 比坊梦大学](kong-jian-zhan/bfm-univ.-bi-fang-meng-da-xue.md)
+* [BFM Cult. \| 比坊梦文化](kong-jian-zhan/bfm-cult.-bi-fang-meng-wen-hua.md)
+* [BFM Trad. \| 比坊梦金典](kong-jian-zhan/bfm-trad.-bi-fang-meng-jin-dian.md)
 
 ## 后方
 
