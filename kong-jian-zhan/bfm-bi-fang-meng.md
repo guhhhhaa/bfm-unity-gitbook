@@ -1,4 +1,8 @@
-# BFM \| 比坊梦
+# BFM \| 比坊梦（建设中）
+
+{% hint style="danger" %}
+建设中，未挂载
+{% endhint %}
 
 BFM Unity \| 比坊梦联合体 \(行政：服务，运营，咨询\)
 
