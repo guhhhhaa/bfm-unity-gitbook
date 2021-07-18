@@ -72,7 +72,5 @@
 
 {% embed url="https://github.com/guhhhhaa/TensorAct-of-Stars" %}
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210719-shang-wu-2.38.56.png)
-
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210719-shang-wu-2.39.05.png)
+{% embed url="https://nbviewer.jupyter.org/github/guhhhhaa/TensorAct-of-Stars/blob/main/TensorAct1.0.ipynb" %}
 
