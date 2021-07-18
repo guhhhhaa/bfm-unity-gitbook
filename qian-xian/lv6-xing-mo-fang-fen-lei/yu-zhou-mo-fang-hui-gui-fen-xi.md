@@ -420,3 +420,5 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [Pandas中把dataframe和np.array的相互转换](https://blog.csdn.net/weixin_39223665/article/details/79935467)
 
+[将Pandas中的DataFrame转换成Numpy中数组](https://blog.csdn.net/weixin_42263508/article/details/90487483)
+
