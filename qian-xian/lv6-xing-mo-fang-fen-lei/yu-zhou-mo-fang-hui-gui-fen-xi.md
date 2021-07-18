@@ -444,5 +444,11 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [pandas应用——滚动计算、筛选、判断空值、列移动、行列删除](https://blog.csdn.net/lamusique/article/details/95099965)
 
+
+
+[python数据处理——同一行或同一列的错位相减法](https://blog.csdn.net/m0_37876745/article/details/85163883)
+
+[【python】pandas库常用函数之shift详解](https://blog.csdn.net/brucewong0516/article/details/80157639)
+
 ## [pandas选择单元格，选择行列](https://www.cnblogs.com/guxh/p/8627251.html) 🚩
 
