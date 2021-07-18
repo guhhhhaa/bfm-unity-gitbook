@@ -396,7 +396,7 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [Python绘制三维散点图](https://blog.csdn.net/qq_29066329/article/details/89916973)
 
-[matplotlib绘制三维散点图](https://blog.csdn.net/qq_29066329/article/details/89916973)
+[matplotlib绘制三维散点图](https://blog.csdn.net/qq_41149269/article/details/81774026)
 
 
 
