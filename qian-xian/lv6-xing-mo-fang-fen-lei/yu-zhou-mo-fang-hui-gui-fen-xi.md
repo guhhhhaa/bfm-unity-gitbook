@@ -416,3 +416,7 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [Python-pandas的fillna\(\)方法-填充空值](https://blog.csdn.net/qq_17753903/article/details/89892631)
 
+
+
+[Pandas中把dataframe和np.array的相互转换](https://blog.csdn.net/weixin_39223665/article/details/79935467)
+
