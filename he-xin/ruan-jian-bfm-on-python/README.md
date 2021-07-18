@@ -135,6 +135,10 @@ if __name__ == "__main__":
 # Space Complexity: O(N^2)
 ```
 
+## 运行结果：
+
+{% embed url="https://nbviewer.jupyter.org/github/guhhhhaa/TensorAct-of-Stars/blob/main/BFM.ipynb" %}
+
 {% hint style="info" %}
 看完之后如果有帮助，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****我。
 {% endhint %}
