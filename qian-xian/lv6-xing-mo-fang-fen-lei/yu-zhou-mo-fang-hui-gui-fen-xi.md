@@ -392,17 +392,19 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [pandas笔记（7）DataFrame数学运算](https://blog.csdn.net/weixin_44830542/article/details/108248919)
 
-
+## 三维散点图
 
 [Python绘制三维散点图](https://blog.csdn.net/qq_29066329/article/details/89916973)
 
 [matplotlib绘制三维散点图](https://blog.csdn.net/qq_41149269/article/details/81774026)
 
+## 二维散点图（高级）
+
+[厉害了，Matplotlib还能这样画散点图！](https://cloud.tencent.com/developer/article/1708487)
+
 
 
 [68–95–99.7原则](https://zh.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7%E5%8E%9F%E5%89%87)
-
-[厉害了，Matplotlib还能这样画散点图！](https://cloud.tencent.com/developer/article/1708487)
 
 [Python求均值，方差，标准差](https://blog.csdn.net/qq_38826019/article/details/82875407)
 
