@@ -440,3 +440,9 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [PythonPandas-根据给定的窗口并从某个值开始计算某一列的和。](https://cloud.tencent.com/developer/ask/189430)
 
+[如何更快计算Dataframe里某一列中，上下两值的差值](https://blog.csdn.net/C10997/article/details/109526567)
+
+[pandas应用——滚动计算、筛选、判断空值、列移动、行列删除](https://blog.csdn.net/lamusique/article/details/95099965)
+
+## [pandas选择单元格，选择行列](https://www.cnblogs.com/guxh/p/8627251.html) 🚩
+
