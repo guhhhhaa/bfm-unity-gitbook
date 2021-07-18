@@ -402,9 +402,11 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [厉害了，Matplotlib还能这样画散点图！](https://cloud.tencent.com/developer/article/1708487)
 
+## 简单图形绘制
 
+[Python Pandas 图形绘制（一）：折线图，柱状图](https://blog.csdn.net/qq_42067550/article/details/106366432)
 
-## [Python Pandas 图形绘制（一）：折线图，柱状图](https://blog.csdn.net/qq_42067550/article/details/106366432) <a id="articleContentId"></a>
+[matplotlib绘制直方图、条形图和饼图](https://blog.csdn.net/hohaizx/article/details/79101322)
 
 
 
@@ -412,7 +414,7 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [Python求均值，方差，标准差](https://blog.csdn.net/qq_38826019/article/details/82875407)
 
-[matplotlib绘制直方图、条形图和饼图](https://blog.csdn.net/hohaizx/article/details/79101322)
+
 
 [pandas数据合并之一文弄懂pd.concat（）](https://zhuanlan.zhihu.com/p/132593960)
 
