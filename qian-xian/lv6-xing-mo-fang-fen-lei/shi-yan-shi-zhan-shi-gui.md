@@ -62,3 +62,7 @@
 * \*\*\*\*[**机器学习之数据的偏态分布和数据的标准化**](https://blog.csdn.net/m0_37870649/article/details/80638179)**🚩**
 * [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002?tid=1452937471)🚩
 
+## 已经实现部分代码并开源
+
+{% embed url="https://github.com/guhhhhaa/TensorAct-of-Stars" %}
+
