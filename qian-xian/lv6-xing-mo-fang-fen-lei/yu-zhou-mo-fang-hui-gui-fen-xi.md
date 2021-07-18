@@ -410,3 +410,7 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [pandas数据合并之一文弄懂pd.concat（）](https://zhuanlan.zhihu.com/p/132593960)
 
+[pandas-DataFrame列移动](https://blog.csdn.net/sinat_41701878/article/details/80945861)
+
+[Python-pandas的fillna\(\)方法-填充空值](https://blog.csdn.net/qq_17753903/article/details/89892631)
+
