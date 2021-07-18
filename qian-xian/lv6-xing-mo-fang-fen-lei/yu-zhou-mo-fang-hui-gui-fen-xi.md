@@ -434,5 +434,9 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 
 
+[高效的5个pandas函数，你都用过吗？](https://zhuanlan.zhihu.com/p/258699675)
 
+## [Pandas 窗口函数](https://geek-docs.com/pandas/pandas-tutorials/pandas-window-function.html)
+
+[PythonPandas-根据给定的窗口并从某个值开始计算某一列的和。](https://cloud.tencent.com/developer/ask/189430)
 
