@@ -74,6 +74,7 @@
 * [LV6-星魔方 \(分类\) 🎲](qian-xian/lv6-xing-mo-fang-fen-lei/README.md)
   * [实验室展示柜](qian-xian/lv6-xing-mo-fang-fen-lei/shi-yan-shi-zhan-shi-gui.md)
   * [混乱的实验室](qian-xian/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+  * [人工智能的盆景箱](qian-xian/lv6-xing-mo-fang-fen-lei/ren-gong-zhi-neng-de-pen-jing-xiang.md)
 
 ## 后方
 
