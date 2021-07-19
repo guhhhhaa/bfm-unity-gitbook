@@ -462,3 +462,9 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [np.log 和math.log的底数是什么，默认都是e](https://www.cnblogs.com/cgmcoding/p/13640281.html)
 
+## 已经实现部分代码并开源
+
+{% embed url="https://github.com/guhhhhaa/TensorAct-of-Stars" %}
+
+{% embed url="https://nbviewer.jupyter.org/github/guhhhhaa/TensorAct-of-Stars/blob/main/TensorAct1.0.ipynb" %}
+
