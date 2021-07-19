@@ -452,3 +452,7 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 ## [pandas选择单元格，选择行列](https://www.cnblogs.com/guxh/p/8627251.html) 🚩
 
+## [数据可视化—使用matplotlib绘制常用类型图表](https://zhuanlan.zhihu.com/p/357477796)
+
+## [matplotlib画3D图形时设置z轴尺寸](https://blog.csdn.net/qq_41009742/article/details/106292396)
+
