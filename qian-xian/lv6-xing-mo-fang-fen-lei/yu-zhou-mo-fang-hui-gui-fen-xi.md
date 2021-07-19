@@ -458,3 +458,7 @@ pandas.concat\(\)通常用来连接DataFrame对象。
 
 [matplotlib画3D图形时设置z轴尺寸](https://blog.csdn.net/qq_41009742/article/details/106292396)
 
+
+
+[np.log 和math.log的底数是什么，默认都是e](https://www.cnblogs.com/cgmcoding/p/13640281.html)
+
