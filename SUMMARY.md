@@ -113,6 +113,7 @@
   * [《IT超度指南》](li-shi/hui-shou-zhan/it-chao-du-zhi-nan.md)
   * [动漫](li-shi/hui-shou-zhan/dong-man.md)
   * [01城密咒](li-shi/hui-shou-zhan/untitled.md)
+  * [心理学](li-shi/hui-shou-zhan/xin-li-xue.md)
 
 ## 传统金融
 
