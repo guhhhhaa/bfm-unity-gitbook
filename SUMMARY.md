@@ -72,9 +72,9 @@
 * [LV5-研究院 \(量子\) ☢️](qian-xian/lv5-yuan-lao-yuan-liang-zi/README.md)
   * [曜黑 · 量子退火研究院](qian-xian/lv5-yuan-lao-yuan-liang-zi/yao-hei-liang-zi-tui-huo-fen-yuan.md)
 * [LV6-星魔方 \(分类\) 🎲](qian-xian/lv6-xing-mo-fang-fen-lei/README.md)
-  * [实验室展示柜](qian-xian/lv6-xing-mo-fang-fen-lei/shi-yan-shi-zhan-shi-gui.md)
-  * [混乱的实验室](qian-xian/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
-  * [人工智能的盆景箱](qian-xian/lv6-xing-mo-fang-fen-lei/ren-gong-zhi-neng-de-pen-jing-xiang.md)
+  * [数据分析-精炼](qian-xian/lv6-xing-mo-fang-fen-lei/shi-yan-shi-zhan-shi-gui.md)
+  * [数据分析-实验](qian-xian/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+  * [人工智能-实验](qian-xian/lv6-xing-mo-fang-fen-lei/ren-gong-zhi-neng-de-pen-jing-xiang.md)
 
 ## 后方
 
