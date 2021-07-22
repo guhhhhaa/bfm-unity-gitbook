@@ -132,9 +132,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](../.gitbook/assets/bfm-unity-logo%20%281%29.png)
 
-#### ​[BFM Unity](https://www.bfm-unity.com/)[™](https://www.bfm-unity.com/) \| [Blockchain\(₿itcoin\)-Financial-Management Unity™](https://www.bfm-unity.com/) \| [Bellman-Ford-Moore Unity™](https://www.bfm-unity.com/) \|  <a id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li-yuan-ru-kou-github-wen-dang-di-zhi-github-dai-ma-di-zhi-bzhan-zhu-ye"></a>
+#### ​[BFM Unity](https://www.bfm-unity.com/) \| [Blockchain\(₿itcoin\)-Financial-Management Unity](https://www.bfm-unity.com/) \| [Bellman-Ford-Moore Unity](https://www.bfm-unity.com/) \|  <a id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li-yuan-ru-kou-github-wen-dang-di-zhi-github-dai-ma-di-zhi-bzhan-zhu-ye"></a>
 
-#### \*\*\*\*[**比坊梦联合体**™](https://www.bfm-unity.com/) **\|** [**币丰枚联合体**™](https://www.bfm-unity.com/) **\|** [**百分秒联合体**™](https://www.bfm-unity.com/) <a id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li-yuan-ru-kou-github-wen-dang-di-zhi-github-dai-ma-di-zhi-bzhan-zhu-ye"></a>
+#### \*\*\*\*[**比坊梦联合体**](https://www.bfm-unity.com/) **\|** [**币丰枚联合体**](https://www.bfm-unity.com/) **\|** [**百分秒联合体**](https://www.bfm-unity.com/) <a id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li-yuan-ru-kou-github-wen-dang-di-zhi-github-dai-ma-di-zhi-bzhan-zhu-ye"></a>
 
 #### 2020.3.23 - 至今 \| [_**管理员入口**_](https://app.gitbook.com/@guhhhhaa/s/bfm/) **\|** [**Github 文档地址**](https://github.com/guhhhhaa/bfm-gitbook) **\|** [**Github 代码地址**](https://github.com/guhhhhaa/bfm-group-file) **\|** [**B站主页**](https://space.bilibili.com/11708778) <a id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li-yuan-ru-kou-github-wen-dang-di-zhi-github-dai-ma-di-zhi-bzhan-zhu-ye"></a>
 
@@ -146,5 +146,5 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="../feng-kong-yu-he-gui/gpl-v3.md" %}
 
-**© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**™](https://www.bfm-unity.com/)**.** [**比坊梦联合体**™](https://www.bfm-unity.com/)**. All Rights Reserved.**
+**© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**](https://www.bfm-unity.com/)**.** [**比坊梦联合体**](https://www.bfm-unity.com/)**. All Rights Reserved.**
 
