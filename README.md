@@ -44,5 +44,5 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="feng-kong-yu-he-gui/gpl-v3.md" %}
 
-**© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**™](https://www.bfm-unity.com/)**.** [**比坊梦联合体**™](https://www.bfm-unity.com/)**. All Rights Reserved.**
+**© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**](https://www.bfm-unity.com/)**.** [**比坊梦联合体**](https://www.bfm-unity.com/)**. All Rights Reserved.**
 
