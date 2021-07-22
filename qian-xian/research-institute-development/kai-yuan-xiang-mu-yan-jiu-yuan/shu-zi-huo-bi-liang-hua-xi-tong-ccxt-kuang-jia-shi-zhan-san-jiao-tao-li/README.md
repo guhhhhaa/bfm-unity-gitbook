@@ -196,6 +196,10 @@ if __name__ == '__main__':
     main()
 ```
 
+## 运行结果：
+
+{% embed url="https://nbviewer.jupyter.org/github/guhhhhaa/TensorAct-of-Stars/blob/main/BFM.ipynb" %}
+
 结果：
 
 ![](../../../../.gitbook/assets/kvc6cwouee.png)
