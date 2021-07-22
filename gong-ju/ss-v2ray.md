@@ -55,7 +55,7 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 {% endtab %}
 
 {% tab title="Windows" %}
-[V2RayN](https://v2free.org/ssr-download/v2rayn.zip)
+[V2RayN](https://v2free.org/ssr-download/v2rayn.zip)（[https://github.com/2dust/v2rayN/releases/download/4.20/v2rayN-Core.zip](https://github.com/2dust/v2rayN/releases/download/4.20/v2rayN-Core.zip)）
 {% endtab %}
 
 {% tab title="Android" %}
