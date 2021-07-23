@@ -112,6 +112,7 @@
 * [【文化】组织文化 📚](li-shi/hui-shou-zhan/README.md)
   * [《IT超度指南》](li-shi/hui-shou-zhan/it-chao-du-zhi-nan.md)
   * [动漫](li-shi/hui-shou-zhan/dong-man.md)
+  * [漫画](li-shi/hui-shou-zhan/man-hua.md)
   * [01城密咒](li-shi/hui-shou-zhan/untitled.md)
   * [心理学](li-shi/hui-shou-zhan/xin-li-xue.md)
 
