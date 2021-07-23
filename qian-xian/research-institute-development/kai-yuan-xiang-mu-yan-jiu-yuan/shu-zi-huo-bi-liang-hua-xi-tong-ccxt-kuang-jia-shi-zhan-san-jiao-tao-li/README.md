@@ -1,6 +1,6 @@
 # CCXT 领域级重点实验室🚩
 
-[**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)**）**[**课程地址**](https://study.163.com/course/courseMain.htm?courseId=1006162003)\*\*\*\*
+[**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li) **\|** [**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li) **\|** [**课程地址**](https://study.163.com/course/courseMain.htm?courseId=1006162003) **\|** [**源码**](https://github.com/guhhhhaa/Bitcoin-Quant/tree/main)\*\*\*\*
 
 \*\*\*\*[**CCXT中文文档**](http://cw.hubwiz.com/card/c/ccxt-dev-manual/1/1/1/)  **\|**  [**CCXT英文文档**](https://github.com/ccxt/ccxt/wiki)\*\*\*\*
 
