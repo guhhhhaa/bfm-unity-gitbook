@@ -8,11 +8,11 @@
 
 {% page-ref page="python.md" %}
 
-{% page-ref page="../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md" %}
+{% page-ref page="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md" %}
 
 
 
-{% page-ref page="../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yi-bu-bing-fa-xie-cheng-1/xin-ban-ben-gao-bing-fa-shi-yan-shi.md" %}
+{% page-ref page="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yi-bu-bing-fa-xie-cheng-1/xin-ban-ben-gao-bing-fa-shi-yan-shi.md" %}
 
 
 

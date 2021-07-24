@@ -10,9 +10,9 @@
 
 ## 一，环境搭建🚩
 
-{% page-ref page="../bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/" %}
+{% page-ref page="../bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng.md" %}
 
-{% page-ref page="../bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md" %}
+{% page-ref page="../bfm-univ.-bi-fang-meng-da-xue/ben-di-kai-fa-huan-jing.md" %}
 
 ### **量化框架**
 

@@ -1,6 +1,6 @@
 # Python 办公自动化 OA
 
-![](../../../.gitbook/assets/qq20210625-2.jpg)
+![](../../.gitbook/assets/qq20210625-2.jpg)
 
 ## [天呐！清华大佬终于把Python做成漫画了，如此幽默的学习教程，他试图想拯救我？](https://www.bilibili.com/video/BV1Fh411h7WM)
 

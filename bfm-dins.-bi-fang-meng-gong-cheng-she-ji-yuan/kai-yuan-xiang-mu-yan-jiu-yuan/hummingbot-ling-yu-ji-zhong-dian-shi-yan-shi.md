@@ -1,6 +1,6 @@
 # HummingBot领域级重点实验室🚩
 
-{% page-ref page="../../bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md" %}
+{% page-ref page="../../bfm-univ.-bi-fang-meng-da-xue/ben-di-kai-fa-huan-jing.md" %}
 
 ## [安装](https://docs.hummingbot.io/installation/linux/)  \|  [启动](https://docs.hummingbot.io/operation/client/#start-hummingbot-running-in-the-background)  \|  [策略](https://docs.hummingbot.io/strategies/overview/)  \|  [挖矿](https://miner.hummingbot.io/) \([英文文档](https://docs.hummingbot.io/)\)
 

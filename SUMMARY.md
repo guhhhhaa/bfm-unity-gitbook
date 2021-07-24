@@ -111,22 +111,22 @@
 
 ## BFM Univ. \| 比坊梦大学
 
-* [素白 · 密斯卡托尼克大学 🏫](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/README.md)
-  * [Excel 教室](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/excel-jiao-shi.md)
-  * [Power BI 教室](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/power-bi-jiao-cheng.md)
-  * [SPSS 教室](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/spss-jiao-cheng.md)
-  * [Python少儿编程教室 👩‍🏫](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/python-shao-er-bian-cheng/README.md)
-    * [Python 办公自动化 OA](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/python-shao-er-bian-cheng/python-ban-gong-zi-dong-hua.md)
-    * [Python 金融 Finance](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/python-shao-er-bian-cheng/python-finance.md)
-    * [Python Project](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/python-shao-er-bian-cheng/python.md)
-  * [开发环境搭建教室 👨‍🏫 🚩](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/ben-di-kai-fa-huan-jing.md)
-  * [文献与数据](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/wen-xian-yu-shu-ju.md)
-  * [网络安全](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/wang-luo-an-quan-dao-hang.md)
-  * [MIS 系统开发](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/di-dai-ma-kai-fa.md)
-  * [WEB 全栈开发](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/qian-duan-hou-duan.md)
-  * [企业战略分析](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/qi-ye-zhan-lve-fen-xi.md)
-  * [基础财商教育](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/ji-chu-cai-shang-jiao-yu.md)
-  * [风水玄学儒释道瑜伽占卜塔罗吸引力法则灵性修行](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng/feng-shui-xuan-xue-ru-shi-dao-zhan-bu-ta-luo-xi-yin-li-ling-xing-xiu-hang.md)
+* [素白 · 密斯卡托尼克大学 🏫](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng.md)
+* [Excel 教室](bfm-univ.-bi-fang-meng-da-xue/excel-jiao-shi.md)
+* [Power BI 教室](bfm-univ.-bi-fang-meng-da-xue/power-bi-jiao-cheng.md)
+* [SPSS 教室](bfm-univ.-bi-fang-meng-da-xue/spss-jiao-cheng.md)
+* [Python少儿编程教室 👩‍🏫](bfm-univ.-bi-fang-meng-da-xue/python-shao-er-bian-cheng/README.md)
+  * [Python 办公自动化 OA](bfm-univ.-bi-fang-meng-da-xue/python-shao-er-bian-cheng/python-ban-gong-zi-dong-hua.md)
+  * [Python 金融 Finance](bfm-univ.-bi-fang-meng-da-xue/python-shao-er-bian-cheng/python-finance.md)
+  * [Python Project](bfm-univ.-bi-fang-meng-da-xue/python-shao-er-bian-cheng/python.md)
+* [开发环境搭建教室 👨‍🏫 🚩](bfm-univ.-bi-fang-meng-da-xue/ben-di-kai-fa-huan-jing.md)
+* [文献与数据](bfm-univ.-bi-fang-meng-da-xue/wen-xian-yu-shu-ju.md)
+* [网络安全](bfm-univ.-bi-fang-meng-da-xue/wang-luo-an-quan-dao-hang.md)
+* [MIS 系统开发](bfm-univ.-bi-fang-meng-da-xue/di-dai-ma-kai-fa.md)
+* [WEB 全栈开发](bfm-univ.-bi-fang-meng-da-xue/qian-duan-hou-duan.md)
+* [企业战略分析](bfm-univ.-bi-fang-meng-da-xue/qi-ye-zhan-lve-fen-xi.md)
+* [基础财商教育](bfm-univ.-bi-fang-meng-da-xue/ji-chu-cai-shang-jiao-yu.md)
+* [风水玄学儒释道瑜伽占卜塔罗吸引力法则灵性修行](bfm-univ.-bi-fang-meng-da-xue/feng-shui-xuan-xue-ru-shi-dao-zhan-bu-ta-luo-xi-yin-li-ling-xing-xiu-hang.md)
 
 ## BFM Cult. \| 比坊梦文化
 

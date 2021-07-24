@@ -1,6 +1,6 @@
 # 素白 · 密斯卡托尼克大学 🏫
 
-![](../../.gitbook/assets/r43126f5d8305fcbfac32a88fd89eefc1.jpeg)
+![](../.gitbook/assets/r43126f5d8305fcbfac32a88fd89eefc1.jpeg)
 
 {% page-ref page="excel-jiao-shi.md" %}
 
