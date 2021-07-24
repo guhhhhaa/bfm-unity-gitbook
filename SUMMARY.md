@@ -15,24 +15,6 @@
 * [【组织】团队构成](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/README.md)
   * [创始人信息](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi.md)
 
-## 工具
-
-* [SS/V2Ray 科学上网 ✈️](gong-ju/ss-v2ray.md)
-* [文章论文生成器](gong-ju/wen-zhang-sheng-cheng-qi.md)
-* [发现网站](gong-ju/fa-xian-wang-zhan.md)
-* [B站视频下载 🎬 ⏬](gong-ju/b-zhan-shi-pin-xia-zai.md)
-
-## 风控与合规
-
-* [LICENCE：GNU GPL v3.0](feng-kong-yu-he-gui/gpl-v3.md)
-
-## 链接
-
-* [看板](https://trello.com/b/z4aDgNAL/todolist)
-* [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
-* [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
-* [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
-
 ## BFM DA \| 比坊梦数产
 
 * [驾驶舱 \(运行\)](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
@@ -150,4 +132,22 @@
 * [国债逆回购](bfm-trad.-bi-fang-meng-jin-dian/guo-zhai-ni-hui-gou.md)
 * [可转债打新](bfm-trad.-bi-fang-meng-jin-dian/ke-zhuan-zhai-da-xin.md)
 * [离岸 HK·SG 🌍 港美股](bfm-trad.-bi-fang-meng-jin-dian/gang-mei-gu-kai-hu.md)
+
+## 风控与合规
+
+* [LICENCE：GNU GPL v3.0](feng-kong-yu-he-gui/gpl-v3.md)
+
+## 工具
+
+* [SS/V2Ray 科学上网 ✈️](gong-ju/ss-v2ray.md)
+* [文章论文生成器](gong-ju/wen-zhang-sheng-cheng-qi.md)
+* [发现网站](gong-ju/fa-xian-wang-zhan.md)
+* [B站视频下载 🎬 ⏬](gong-ju/b-zhan-shi-pin-xia-zai.md)
+
+## 链接
+
+* [看板](https://trello.com/b/z4aDgNAL/todolist)
+* [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
+* [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
+* [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
 
