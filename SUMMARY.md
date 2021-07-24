@@ -108,7 +108,6 @@
 * [WEB 全栈开发](bfm-univ.-bi-fang-meng-da-xue/qian-duan-hou-duan.md)
 * [企业战略分析](bfm-univ.-bi-fang-meng-da-xue/qi-ye-zhan-lve-fen-xi.md)
 * [基础财商教育](bfm-univ.-bi-fang-meng-da-xue/ji-chu-cai-shang-jiao-yu.md)
-* [风水玄学儒释道瑜伽占卜塔罗吸引力法则灵性修行](bfm-univ.-bi-fang-meng-da-xue/feng-shui-xuan-xue-ru-shi-dao-zhan-bu-ta-luo-xi-yin-li-ling-xing-xiu-hang.md)
 
 ## BFM Cult. \| 比坊梦文化
 
@@ -119,6 +118,7 @@
   * [漫画](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/man-hua.md)
   * [01城密咒](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/untitled.md)
   * [心理学](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/xin-li-xue.md)
+* [风水玄学儒释道瑜伽占卜塔罗吸引力法则灵性修行](bfm-cult.-bi-fang-meng-wen-hua/feng-shui-xuan-xue-ru-shi-dao-zhan-bu-ta-luo-xi-yin-li-ling-xing-xiu-hang.md)
 * [【传媒】引起兴趣](bfm-cult.-bi-fang-meng-wen-hua/wo-men-zai-wan-de-geng.md)
 
 ## BFM Trad. \| 比坊梦金典
