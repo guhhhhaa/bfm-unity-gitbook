@@ -2,6 +2,17 @@
 
 * [比坊梦 —— 区块链 · 金融 · 元宇宙](README.md)
 
+## 空间站（建设中……） <a id="kong-jian-zhan"></a>
+
+* [BFM \| 比坊梦（建设中……）](kong-jian-zhan/bfm-bi-fang-meng.md)
+* [0-0 BFM Unity \| 比坊梦联合体](kong-jian-zhan/bfm-unity-bi-fang-meng-lian-he-ti.md)
+* [0-1 BFM DA \| 比坊梦数产](kong-jian-zhan/bfm-da-bi-fang-meng-shu-chan.md)
+* [1-0 BFM R-Ins. \| 比坊梦科学研究院](kong-jian-zhan/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan.md)
+* [1-1 BFM D-Ins. \| 比坊梦工程设计院](kong-jian-zhan/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan.md)
+* [2-0 BFM Univ. \| 比坊梦大学](kong-jian-zhan/bfm-univ.-bi-fang-meng-da-xue.md)
+* [2-1 BFM Cult. \| 比坊梦文化](kong-jian-zhan/bfm-cult.-bi-fang-meng-wen-hua.md)
+* [2-2 BFM Trad. \| 比坊梦金典](kong-jian-zhan/bfm-trad.-bi-fang-meng-jin-dian.md)
+
 ## 前线
 
 * [LV0-主舰桥 \(引导\) 🇺🇳](qian-xian/lv0-zhu-jian-qiao-yin-dao.md)
@@ -162,17 +173,6 @@
 * [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
 * [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
 * [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
-
-## 空间站（建设中……） <a id="kong-jian-zhan"></a>
-
-* [BFM \| 比坊梦（建设中……）](kong-jian-zhan/bfm-bi-fang-meng.md)
-* [0-0 BFM Unity \| 比坊梦联合体](kong-jian-zhan/bfm-unity-bi-fang-meng-lian-he-ti.md)
-* [0-1 BFM DA \| 比坊梦数产](kong-jian-zhan/bfm-da-bi-fang-meng-shu-chan.md)
-* [1-0 BFM R-Ins. \| 比坊梦科学研究院](kong-jian-zhan/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan.md)
-* [1-1 BFM D-Ins. \| 比坊梦工程设计院](kong-jian-zhan/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan.md)
-* [2-0 BFM Univ. \| 比坊梦大学](kong-jian-zhan/bfm-univ.-bi-fang-meng-da-xue.md)
-* [2-1 BFM Cult. \| 比坊梦文化](kong-jian-zhan/bfm-cult.-bi-fang-meng-wen-hua.md)
-* [2-2 BFM Trad. \| 比坊梦金典](kong-jian-zhan/bfm-trad.-bi-fang-meng-jin-dian.md)
 
 ---
 
