@@ -139,12 +139,6 @@
 * [可转债打新](chuan-tong-jin-rong/ke-zhuan-zhai-da-xin.md)
 * [离岸 HK·SG 🌍 港美股](chuan-tong-jin-rong/gang-mei-gu-kai-hu.md)
 
-## 考证学习
-
-* [金融考试](kao-zheng-xue-xi/kao-shi-bao-ming.md)
-* [计算机考试](kao-zheng-xue-xi/ji-suan-ji-kao-shi.md)
-* [公务员考试](kao-zheng-xue-xi/untitled-1.md)
-
 ## 工具
 
 * [SS/V2Ray 科学上网 ✈️](gong-ju/ss-v2ray.md)
