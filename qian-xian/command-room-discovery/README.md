@@ -161,8 +161,6 @@ description: Command Room (Discovery)
   （以7天平均为准）
 
 * [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
-
-{% page-ref page="../../la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md" %}
 {% endtab %}
 
 {% tab title="S2F" %}

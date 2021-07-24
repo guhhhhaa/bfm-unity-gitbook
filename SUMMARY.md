@@ -151,21 +151,10 @@
 * [文章论文生成器](gong-ju/wen-zhang-sheng-cheng-qi.md)
 * [发现网站](gong-ju/fa-xian-wang-zhan.md)
 * [B站视频下载 🎬 ⏬](gong-ju/b-zhan-shi-pin-xia-zai.md)
-* [法律文件下载](gong-ju/fa-lv-wen-jian-xia-zai.md)
 
 ## 风控与合规
 
 * [LICENCE：GNU GPL v3.0](feng-kong-yu-he-gui/gpl-v3.md)
-* [网站备案](feng-kong-yu-he-gui/wang-zhan-bei-an.md)
-* [反洗钱](feng-kong-yu-he-gui/fan-xi-qian.md)
-* [组织形式](feng-kong-yu-he-gui/zu-zhi-xing-shi/README.md)
-  * [腾讯云公司注册](feng-kong-yu-he-gui/zu-zhi-xing-shi/teng-xun-yun-gong-si-zhu-ce.md)
-  * [公司注册](feng-kong-yu-he-gui/zu-zhi-xing-shi/gong-si-zhu-ce.md)
-  * [申请社会团体](feng-kong-yu-he-gui/zu-zhi-xing-shi/shen-qing-she-hui-tuan-ti.md)
-  * [组织命名](feng-kong-yu-he-gui/zu-zhi-xing-shi/untitled.md)
-  * [如何注册民间团体？](feng-kong-yu-he-gui/zu-zhi-xing-shi/ru-he-zhu-ce-min-jian-tuan-ti.md)
-  * [章程参考1](feng-kong-yu-he-gui/zu-zhi-xing-shi/zhang-cheng-can-kao-1.md)
-  * [章程参考2](feng-kong-yu-he-gui/zu-zhi-xing-shi/zhang-cheng-can-kao-2.md)
 
 ## 链接
 
@@ -173,14 +162,4 @@
 * [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
 * [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
 * [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
-
----
-
-* [【垃圾】回收站 ♻️](la-ji-hui-shou-zhan/README.md)
-  * [入群费用](la-ji-hui-shou-zhan/yi-shi-xiao.md)
-  * [指挥室](la-ji-hui-shou-zhan/zhi-hui-shi.md)
-  * [神经网络策略](la-ji-hui-shou-zhan/shen-jing-wang-luo-ce-lve.md)
-  * [挖狗狗币](la-ji-hui-shou-zhan/wa-gou-gou-bi.md)
-  * [MVRV](la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md)
-  * [驾驶舱](la-ji-hui-shou-zhan/cong-jia-shi-cang-xie-xia-de-la-ji.md)
 
