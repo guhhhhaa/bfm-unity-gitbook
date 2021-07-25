@@ -28,7 +28,3 @@ MVC, MVP, MVVM
 
 ASP.Net, ADO.Net
 
-
-
-
-
