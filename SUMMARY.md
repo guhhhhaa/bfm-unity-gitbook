@@ -108,6 +108,7 @@
 * [WEB 全栈开发](bfm-univ.-bi-fang-meng-da-xue/qian-duan-hou-duan.md)
 * [企业战略分析](bfm-univ.-bi-fang-meng-da-xue/qi-ye-zhan-lve-fen-xi.md)
 * [基础财商教育](bfm-univ.-bi-fang-meng-da-xue/ji-chu-cai-shang-jiao-yu.md)
+* [C\#教室](bfm-univ.-bi-fang-meng-da-xue/c-jiao-shi.md)
 
 ## BFM Cult. \| 比坊梦文化
 
