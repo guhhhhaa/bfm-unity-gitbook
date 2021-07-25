@@ -56,6 +56,8 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 
 {% tab title="Windows" %}
 [V2RayN](https://github.com/2dust/v2rayN/releases/download/4.20/v2rayN-Core.zip)
+
+如果无法访问，可能是因为时钟没有同步。
 {% endtab %}
 
 {% tab title="Android" %}
