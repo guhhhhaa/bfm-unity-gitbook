@@ -11,7 +11,8 @@ description: BF​M Unity —— Blockchain · Finance · Metaverse
 ![](.gitbook/assets/bfm-unity-3.0%20%283%29.png)
 
 {% hint style="info" %}
-NOTE: **v2.0.0版本已于2021.7.24被冻结，且不再修改。**
+NOTE: **v2.0.0 版本已于 2021.7.24 被冻结，且不再修改。**  
+新版本为 v3.0.0 版本，且在更新中。**（本页左上角可切换版本）**
 
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
