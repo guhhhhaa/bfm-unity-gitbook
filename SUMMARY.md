@@ -45,6 +45,22 @@
 * [会客厅 \(赞助\) 💰 & 资产公示](bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md)
 * [财务](bfm-da-bi-fang-meng-shu-chan/ji-du-cai-wu-bao-biao.md)
 
+## BFM Trad. \| 比坊梦金典
+
+* [云POS无卡支付 💳](bfm-trad.-bi-fang-meng-jin-dian/zhe-die.md)
+* [股票投资](bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/README.md)
+  * [选股](bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/xuan-gu.md)
+* [基金投资](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/README.md)
+  * [若尘的且慢基金](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/ruo-chen-de-qie-man-ji-jin.md)
+* [黄金投资](bfm-trad.-bi-fang-meng-jin-dian/huang-jin-tou-zi.md)
+* [国债逆回购](bfm-trad.-bi-fang-meng-jin-dian/guo-zhai-ni-hui-gou.md)
+* [可转债打新](bfm-trad.-bi-fang-meng-jin-dian/ke-zhuan-zhai-da-xin.md)
+* [离岸 HK·SG 🌍 港美股](bfm-trad.-bi-fang-meng-jin-dian/gang-mei-gu-kai-hu.md)
+
+## BFM Meta \| 比坊梦元宇宙 <a id="bfm-meta"></a>
+
+* [比坊梦元宇宙](bfm-meta/bi-fang-meng-yuan-yu-zhou.md)
+
 ## BFM R-Ins. \| 比坊梦科学研究院
 
 * [【算法】算法描述](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/README.md)
@@ -122,18 +138,6 @@
 * [风水玄学儒释道瑜伽占卜塔罗吸引力法则灵性修行](bfm-cult.-bi-fang-meng-wen-hua/feng-shui-xuan-xue-ru-shi-dao-zhan-bu-ta-luo-xi-yin-li-ling-xing-xiu-hang.md)
 * [【传媒】引起兴趣](bfm-cult.-bi-fang-meng-wen-hua/wo-men-zai-wan-de-geng.md)
 
-## BFM Trad. \| 比坊梦金典
-
-* [云POS无卡支付 💳](bfm-trad.-bi-fang-meng-jin-dian/zhe-die.md)
-* [股票投资](bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/README.md)
-  * [选股](bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/xuan-gu.md)
-* [基金投资](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/README.md)
-  * [若尘的且慢基金](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/ruo-chen-de-qie-man-ji-jin.md)
-* [黄金投资](bfm-trad.-bi-fang-meng-jin-dian/huang-jin-tou-zi.md)
-* [国债逆回购](bfm-trad.-bi-fang-meng-jin-dian/guo-zhai-ni-hui-gou.md)
-* [可转债打新](bfm-trad.-bi-fang-meng-jin-dian/ke-zhuan-zhai-da-xin.md)
-* [离岸 HK·SG 🌍 港美股](bfm-trad.-bi-fang-meng-jin-dian/gang-mei-gu-kai-hu.md)
-
 ## 风控与合规
 
 * [LICENCE：GNU GPL v3.0](feng-kong-yu-he-gui/gpl-v3.md)
@@ -151,8 +155,4 @@
 * [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
 * [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
 * [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
-
-## BFM Meta \| 比坊梦元宇宙 <a id="bfm-meta"></a>
-
-* [比坊梦元宇宙](bfm-meta/bi-fang-meng-yuan-yu-zhou.md)
 
