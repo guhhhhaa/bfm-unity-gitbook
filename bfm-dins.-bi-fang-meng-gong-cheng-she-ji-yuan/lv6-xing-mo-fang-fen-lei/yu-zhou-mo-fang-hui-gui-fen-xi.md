@@ -338,6 +338,9 @@ from scipy import stats  # 其他的子模块类似
 * [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)🚩
 * \*\*\*\*[**机器学习之数据的偏态分布和数据的标准化**](https://blog.csdn.net/m0_37870649/article/details/80638179)**🚩**
 * [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002?tid=1452937471)🚩
+  * 源码下载链接：[https://pan.baidu.com/s/19XC28Hz\_TwnSQeuVifg1UQ](https://pan.baidu.com/s/19XC28Hz_TwnSQeuVifg1UQ) 
+
+    提取码：mocm
 {% endhint %}
 
 ## 2021.7.13
