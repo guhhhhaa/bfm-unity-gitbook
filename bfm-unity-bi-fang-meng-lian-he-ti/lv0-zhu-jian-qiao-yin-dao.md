@@ -126,11 +126,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 设计统一色号：[**\#**4A90E2](https://www.color-hex.com/color/4a90e2)  [\#FCA735](https://www.color-hex.com/color/fca735)
 
-![](../.gitbook/assets/bfm-unity-logo-square.png)
+![](../.gitbook/assets/bian-zu-.png)
 
-![](../.gitbook/assets/bfm-unity-bi-fang-meng-logo.png)
-
-![](../.gitbook/assets/bfm-unity-logo%20%281%29.png)
+![](../.gitbook/assets/bi-fang-meng-xin-logo3.png)
 
 #### ​[BFM Unity](https://www.bfm-unity.com/) \| [Blockchain\(₿itcoin\)-Financial-Management Unity](https://www.bfm-unity.com/) \| [Bellman-Ford-Moore Unity](https://www.bfm-unity.com/) \|  <a id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li-yuan-ru-kou-github-wen-dang-di-zhi-github-dai-ma-di-zhi-bzhan-zhu-ye"></a>
 
