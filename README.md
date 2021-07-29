@@ -36,7 +36,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md" %}
 
-![](.gitbook/assets/bfm-unity-3.0%20%282%29.png)
+![](.gitbook/assets/bfm-unity-3.0%20%285%29.png)
 
 ## 本项目使用 GNU General Public License v3.0
 
