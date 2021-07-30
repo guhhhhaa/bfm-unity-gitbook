@@ -3,7 +3,7 @@
 {% hint style="danger" %}
 本章包含 **核心算法** ，需要 **开发者** 细读，  
   
-如不想看算法，想直接看 **程序，**可跳到 [**这一页**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python)\*\*\*\*
+如不想看算法，想直接看 **程序，**可跳到 [**这一页**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python)\*\*\*\*
 
 \*\*\*\*
 
