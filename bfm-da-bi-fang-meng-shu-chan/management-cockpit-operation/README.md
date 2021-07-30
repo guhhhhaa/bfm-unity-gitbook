@@ -97,3 +97,7 @@ users must first migrate their digital assets to the Polygon network through the
 
 {% page-ref page="../../bfm-trad.-bi-fang-meng-jin-dian/gang-mei-gu-kai-hu.md" %}
 
+## 科学上网
+
+{% page-ref page="../../gong-ju/ss-v2ray.md" %}
+
