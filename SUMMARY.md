@@ -128,6 +128,7 @@
 
 ## BFM Cult. \| 比坊梦文化
 
+* [党建宣传](bfm-cult.-bi-fang-meng-wen-hua/dang-jian-xuan-chuan.md)
 * [设计](bfm-cult.-bi-fang-meng-wen-hua/she-ji-tu.md)
 * [组织文化](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/README.md)
   * [IT超度指南](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/it-chao-du-zhi-nan.md)
