@@ -75,6 +75,10 @@
 
 ## BFM D-Ins. \| 比坊梦工程设计院
 
+* [LV6-星魔方 \(分类\) 🎲](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/README.md)
+  * [数据分析-精炼](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/shi-yan-shi-zhan-shi-gui.md)
+  * [数据分析-实验](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+  * [人工智能-实验](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/ren-gong-zhi-neng-de-pen-jing-xiang.md)
 * [【架构】架构设计](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/guan-li-fa-zhan-lu-xian/README.md)
   * [【规划】发展路线](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/guan-li-fa-zhan-lu-xian/gui-hua-fa-zhan-lu-xian.md)
   * [【规划】AMM下潜](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/guan-li-fa-zhan-lu-xian/amm-and-pooled-arbitrage.md)
@@ -83,10 +87,6 @@
   * [【软件】Graph algorithms and currency arbitrage](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/untitled.md)
   * [【创新】未来发展](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md)
   * [【创新】DeFi - AMM](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/defi-amm.md)
-* [LV6-星魔方 \(分类\) 🎲](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/README.md)
-  * [数据分析-精炼](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/shi-yan-shi-zhan-shi-gui.md)
-  * [数据分析-实验](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
-  * [人工智能-实验](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/ren-gong-zhi-neng-de-pen-jing-xiang.md)
 * [正黄 · API接口技术分院👩‍🚀👨‍🚀](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/api-jie-kou-yan-jiu-yuan/README.md)
   * [币安API实验室🚩](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
 * [朱红 · 高并发技术分院👩‍🔬 👨‍🔬](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yi-bu-bing-fa-xie-cheng-1/README.md)
