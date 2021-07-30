@@ -1,5 +1,13 @@
 # 比坊梦元宇宙
 
+{% hint style="info" %}
+[https://bridge.axieinfinity.com/](https://bridge.axieinfinity.com/)
+
+[https://marketplace.axieinfinity.com/](https://marketplace.axieinfinity.com/)
+
+[https://axieinfinity.com/](https://axieinfinity.com/)
+{% endhint %}
+
 ## [链闻精选｜读懂如日中天的链游王者 Axie Infinity](https://www.chainnews.com/articles/957020285467.htm)
 
 [【链接】Axie背后的神秘推手：打金公会YGG如何「边赚](https://www.chainnews.com/articles/051571365157.htm) [https://www.chainnews.com/articles/051571365157.htm](https://www.chainnews.com/articles/051571365157.htm) 
