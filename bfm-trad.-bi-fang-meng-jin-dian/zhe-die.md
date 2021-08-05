@@ -203,6 +203,8 @@
 
 [实用tips：如何计算等额本息还款方式贷款的实际年化利率 ](https://www.sohu.com/a/245052510_154368)
 
+![](../.gitbook/assets/image%20%2818%29.png)
+
 ## 其他
 
 ### 利息计算
@@ -222,13 +224,13 @@
 24期为：24 * 0.6 * 24 / 25 = 13.82%;
 ```
 
+![](../.gitbook/assets/image%20%2828%29.png)
+
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 ![](../.gitbook/assets/image%20%2829%29.png)
-
-![](../.gitbook/assets/image%20%2828%29.png)
 
 [那种预收手续费和利息的贷款，其真实年化利率怎么算？](https://www.zhihu.com/question/264159567/answer/278840567)
 
