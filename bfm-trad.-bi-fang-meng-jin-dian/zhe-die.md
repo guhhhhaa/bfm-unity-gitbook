@@ -195,11 +195,39 @@
 
 [和讯理财计算器](https://money.hexun.com/toolcase_loans/index.html)
 
-## **名义利率与实际利率**转化**计算**
+## **名义利率与实际利率**转化**计算（**分清[IRR](https://support.microsoft.com/zh-cn/office/irr-%e5%87%bd%e6%95%b0-64925eaa-9988-495b-b290-3ad0c163c1bc?ui=zh-cn&rs=zh-cn&ad=cn)，[XIRR](https://support.microsoft.com/zh-cn/office/xirr-%e5%87%bd%e6%95%b0-de1242ec-6477-445b-b11b-a303ad9adc9d?ui=zh-CN&rs=zh-CN&ad=CN)和[RATE](https://support.microsoft.com/zh-cn/office/rate-%e5%87%bd%e6%95%b0-9f665657-4a7e-4bb7-a030-83fc59e748ce?ui=zh-CN&rs=zh-CN&ad=CN)**）**
 
-**（使用 EXCEL 的** [**IRR**](https://support.microsoft.com/zh-cn/office/irr-%e5%87%bd%e6%95%b0-64925eaa-9988-495b-b290-3ad0c163c1bc?ui=zh-cn&rs=zh-cn&ad=cn) **函数）**
+**（使用 EXCEL 的** [**IRR**](https://support.microsoft.com/zh-cn/office/irr-%e5%87%bd%e6%95%b0-64925eaa-9988-495b-b290-3ad0c163c1bc?ui=zh-cn&rs=zh-cn&ad=cn) **函数）（**年化接近20%，用 [**XIRR**](https://support.microsoft.com/zh-cn/office/xirr-%e5%87%bd%e6%95%b0-de1242ec-6477-445b-b11b-a303ad9adc9d?ui=zh-CN&rs=zh-CN&ad=CN)**）**
 
 经验公式：等额本息实际利**率=1.8\*名义利率**
 
 [实用tips：如何计算等额本息还款方式贷款的实际年化利率 ](https://www.sohu.com/a/245052510_154368)
+
+## 其他
+
+### 利息计算
+
+[信用卡分期的实际利息是多少？具体怎么计算？](https://www.zhihu.com/question/29996548/answer/200971263)
+
+[那种预收手续费和利息的贷款，其真实年化利率怎么算？](https://www.zhihu.com/question/264159567/answer/278840567)
+
+[等额本息与等额本金，从财务管理的角度充分考虑货币时间价值，哪个对于购房人来说更划算？](https://www.zhihu.com/question/21745865/answer/106330850)
+
+### 话术
+
+[各位大神，做电销贷款的开场白怎么说？](https://www.zhihu.com/question/397717716/answer/1993805983)
+
+### 贷款推荐
+
+[2020年各大行的信用消费贷分析](https://zhuanlan.zhihu.com/p/141519313)
+
+[15家银行信用卡背后的贷款汇总](https://www.hubeidaikuan.com/news/766.html)
+
+\*\*\*\*[各银行信用贷款汇总](https://zhuanlan.zhihu.com/p/308778621)
+
+[靠谱的银行贷款](https://zhuanlan.zhihu.com/p/65264714)
+
+[十四家银行线上贷款产品](https://zhuanlan.zhihu.com/p/73224639)
+
+[你有哪些内行人才知道的省钱诀窍？](https://www.zhihu.com/question/41854964/answer/1972553758)
 

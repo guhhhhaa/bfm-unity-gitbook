@@ -26,3 +26,5 @@ Word，Excel，PPT，Power BI，SPSS……
 
 国外软件 1 英为财情 2 ft财报 3 富途 4 trading viewing 5 hypercharts
 
+[庄家能把散户看透到什么地步？](https://www.zhihu.com/question/435574315/answer/1642051710)
+
