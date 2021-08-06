@@ -10,6 +10,20 @@
 
 #### [**华宝香港大盘A\[501301\]**](http://fund.eastmoney.com/501301.html)\*\*\*\*
 
+## **量子科技基金**
+
+[**汇丰晋信科技先锋股票\(540010\)**](https://fund.eastmoney.com/540010.html)\*\*\*\*
+
+\*\*\*\*[**信诚中证TMT产业主题指数\(LOF\)\(165522\)**](http://fund.eastmoney.com/165522.html)\*\*\*\*
+
+\*\*\*\*[**广发信息技术联接A\(000942\)**](https://fund.eastmoney.com/000942.html)\*\*\*\*
+
+\*\*\*\*[**中邮信息产业灵活配置混合\(001227\)**](https://fund.eastmoney.com/001227.html)\*\*\*\*
+
+\*\*\*\*[**长盛电子信息产业混合\(080012\)**](https://fund.eastmoney.com/080012.html)\*\*\*\*
+
+\*\*\*\*[**广发信息技术联接C\(002974\)**](https://fund.eastmoney.com/002974.html)
+
 ## **ETF基金**
 
 [**易方达中概互联50ETF\(513050\)**](http://fund.eastmoney.com/513050.html)\*\*\*\*
