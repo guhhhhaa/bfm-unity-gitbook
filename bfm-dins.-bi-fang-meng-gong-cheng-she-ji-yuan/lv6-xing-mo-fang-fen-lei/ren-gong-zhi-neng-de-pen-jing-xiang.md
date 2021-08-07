@@ -13,5 +13,7 @@ description: 人工智能的盆景箱
 
 {% embed url="https://cloud.google.com/automl/docs?hl=zh-cn" %}
 
+{% embed url="https://cloud.google.com/automl-tables/docs?hl=zh-cn" %}
 
+{% embed url="https://console.cloud.google.com/automl-tables" %}
 
