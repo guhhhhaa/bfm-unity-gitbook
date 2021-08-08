@@ -6,9 +6,11 @@
 
 #### \*\*\*\*[广发纳斯达克100指数A\[270042\]](http://fund.eastmoney.com/270042.html)
 
-#### [**交银中证海外中国互联网指数\[164906\]**](http://fund.eastmoney.com/164906.html)\*\*\*\*
+#### [**华宝香港大盘A\[501301\]**](http://fund.eastmoney.com/501301.html)
 
-#### [**华宝香港大盘A\[501301\]**](http://fund.eastmoney.com/501301.html)\*\*\*\*
+#### 
+
+#### [**交银中证海外中国互联网指数\[164906\]**](http://fund.eastmoney.com/164906.html)\*\*\*\*
 
 ## **ETF基金**
 
