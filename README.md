@@ -26,9 +26,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
 
-{% page-ref page="bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/" %}
-
 {% page-ref page="bfm-da-bi-fang-meng-shu-chan/command-room-discovery/" %}
+
+{% page-ref page="bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/" %}
 
 {% page-ref page="bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md" %}
 
