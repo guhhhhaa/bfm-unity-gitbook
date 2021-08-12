@@ -9,7 +9,7 @@ description: 人工智能的盆景箱
 
     提取码：mocm
 
-  * 
+  * [https://github.com/guhhhhaa/Artificial-intelligence-combat-tensorflow-notes](https://github.com/guhhhhaa/Artificial-intelligence-combat-tensorflow-notes)
 
 {% embed url="https://cloud.google.com/products/ai?hl=zh-cn" %}
 
