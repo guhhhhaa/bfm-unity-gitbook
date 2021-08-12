@@ -9,6 +9,8 @@ description: 人工智能的盆景箱
 
     提取码：mocm
 
+  * 
+
 {% embed url="https://cloud.google.com/products/ai?hl=zh-cn" %}
 
 {% embed url="https://cloud.google.com/automl/docs?hl=zh-cn" %}
