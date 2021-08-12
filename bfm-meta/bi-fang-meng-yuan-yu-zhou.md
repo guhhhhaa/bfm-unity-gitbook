@@ -4,6 +4,8 @@
 [ETH链游排名](https://dappradar.com/rankings/protocol/ethereum/category/games) \| [BSC链游排名](https://dappradar.com/rankings/protocol/binance-smart-chain/category/games)
 
 [**Axie**](https://axieinfinity.com/) : [bridge](https://bridge.axieinfinity.com/) \| [marketplace](https://marketplace.axieinfinity.com/)
+
+[https://zkga.me/](https://zkga.me/) \| dark forest
 {% endhint %}
 
 ## [链闻精选｜读懂如日中天的链游王者 Axie Infinity](https://www.chainnews.com/articles/957020285467.htm)
