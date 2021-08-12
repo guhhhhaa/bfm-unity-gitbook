@@ -41,6 +41,10 @@ BSC的格局之大，在于构建CeFi与DeFi之间的超级桥梁，媲美甚至
 
 其中，Cake 类似 BNB，XVS 类似 AAVE+UNI+MKR，ACS、Auto、Bunny 类似 YFI、Harvest。
 {% endtab %}
+
+{% tab title="开发" %}
+## \*\*\*\*[**BSC 开发快速上手指南 \(第一版\)**](https://obsidianlabs.medium.com/bsc-%E5%BC%80%E5%8F%91%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97-7a84efa128ea)\*\*\*\* <a id="fe07"></a>
+{% endtab %}
 {% endtabs %}
 
 > [https://www.chainnews.com/articles/798797725591.htm](https://www.chainnews.com/articles/798797725591.htm)
