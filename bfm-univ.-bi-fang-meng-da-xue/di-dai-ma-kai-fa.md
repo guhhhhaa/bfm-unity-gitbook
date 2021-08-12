@@ -10,6 +10,8 @@ MIS \| OA \| ERP \| DRP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \| AI \|
 
 {% embed url="https://www.weaver.com.cn/" %}
 
+{% embed url="https://www.yonyou.com/" %}
+
 
 
 什么是MIS，（Management Information System）管理信息系统
