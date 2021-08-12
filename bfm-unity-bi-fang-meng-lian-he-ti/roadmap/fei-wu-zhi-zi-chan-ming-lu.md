@@ -1,6 +1,6 @@
 # 虚拟资产编号名录
 
-## \[BFM - 001\]: [BFM算法](https://www.bfm-unity.com/qian-xian/research-institute-development/suan-fa-yan-jiu-yuan)
+## \[BFM - 001\]: [BFM算法](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al)
 
 ![Bellman-Ford&#x7B97;&#x6CD5;&#x7814;&#x7A76;](../../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
 
