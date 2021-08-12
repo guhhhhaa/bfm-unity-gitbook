@@ -8,6 +8,10 @@
 此页面不是最终版本，正在建设中……
 {% endhint %}
 
+{% hint style="success" %}
+BSC的格局之大，在于构建CeFi与DeFi之间的超级桥梁，媲美甚至超越以太坊。BSC采取的共识协议为PoSA，结合了DPoS和PoA机制的联合功能，建立在21个验证节点的网络上，秒级出块时间能够为DeFi协议建立高速的基础设施。比后期上线的以太坊2.0单纯的POS机制更有先见之明。
+{% endhint %}
+
 {% tabs %}
 {% tab title="设置钱包" %}
 如果你是第一次参与 BSC，需要设置 BSC 网络。以小狐狸钱包为例，在 Google 浏览器上打开小狐狸插件，选择自定义 RPC，网络名称填写币安智能链，新的 RPC URL 填写 [https://bsc-dataseed1.binance.org/](https://bsc-dataseed1.binance.org/)，链 ID 填写 56，符号填写 BNB，屏蔽管理器 URL 填写 [https://bscscan.com/](https://bscscan.com/)（具体设置可以参考这篇 [文档](https://bscscan.freshdesk.com/support/solutions/articles/67000185905-how-to-connect-metamask-to-binance-smart-chain-)）  
