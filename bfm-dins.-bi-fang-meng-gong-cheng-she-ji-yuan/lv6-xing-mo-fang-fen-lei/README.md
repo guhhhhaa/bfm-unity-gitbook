@@ -1,5 +1,11 @@
 # LV6-星魔方 \(分类\) 🎲
 
+{% page-ref page="shi-yan-shi-zhan-shi-gui.md" %}
+
+{% page-ref page="yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+
+{% page-ref page="ren-gong-zhi-neng-de-pen-jing-xiang.md" %}
+
 {% hint style="info" %}
 ## 问题描述
 
