@@ -2,7 +2,7 @@
 
 ## 本地开发环境：
 
-### 软件安装 
+### 软件安装
 
 微软[PowerShell](https://docs.microsoft.com/zh-cn/powershell/)  \|  [清华的brew镜像](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 
