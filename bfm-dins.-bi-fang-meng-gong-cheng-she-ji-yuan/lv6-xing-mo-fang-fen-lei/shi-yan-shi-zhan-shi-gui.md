@@ -75,3 +75,5 @@ description: 实验室展示柜
 
 {% embed url="https://nbviewer.jupyter.org/github/guhhhhaa/TensorAct-of-Stars/blob/main/TensorAct1.0.ipynb" %}
 
+{% page-ref page="./" %}
+
