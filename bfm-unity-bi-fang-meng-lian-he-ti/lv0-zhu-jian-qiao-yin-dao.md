@@ -26,7 +26,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
 
-
+{% page-ref page="../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/" %}
 
 {% page-ref page="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
 
