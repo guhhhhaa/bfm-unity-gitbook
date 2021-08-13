@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/qq20210625-0.jpg)
 
-MIS \| OA \| ERP \| DRP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \| AI \| BI \| CI
+MIS \| OA \| ERP \| DRP \| BIP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \| AI \| BI \| CI
 
 
 
