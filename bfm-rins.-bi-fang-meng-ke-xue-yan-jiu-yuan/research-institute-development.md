@@ -9,9 +9,9 @@ description: Research Institute (Development)
 ![](../.gitbook/assets/bfm-unity-hei-dong-tan-suo-.png)
 
 {% hint style="info" %}
-我们在尝试部署[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al)在[**币安**](https://www.binance.com/cn)上或者Uniswap上，进行单交易所内部多币种的多角套利。
+我们在尝试部署[**BellmanFord算法**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al)在[**币安**](https://www.binance.com/cn)上或者Uniswap上，进行单交易所内部多币种的多角套利。
 
-如果在[**币安**](https://www.binance.com/cn)上运行，需要对接交易所API。使用[**python**](https://www.python.org/downloads/)，ccxt，asyncio，通过异步并发协程的方式运行[Bellman-Ford算法](https://www.bfm-unity.com/what-is-bfm-al)，以寻找套利路径。
+如果在[**币安**](https://www.binance.com/cn)上运行，需要对接交易所API。使用[**python**](https://www.python.org/downloads/)，ccxt，asyncio，通过异步并发协程的方式运行[Bellman-Ford算法](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al)，以寻找套利路径。
 
 我们发现了一个可以参考的项目：Peregrine，它可以**打印**出一个套利路径，但是没有**执行**下单的程序。
 
@@ -21,7 +21,7 @@ description: Research Institute (Development)
 ![](../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-.png)
 
 {% hint style="info" %}
-[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx) **+** [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)\*\*\*\*
+[**BellmanFord算法**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/bfm-al-ckwx) **+** [**三角套利核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan)\*\*\*\*
 
 千千的搬砖之王策略  \|  [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA)  **\|**  [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)  
 ****BellmanFord三角套利策略，是千千搬砖之王策略的算法升级版
