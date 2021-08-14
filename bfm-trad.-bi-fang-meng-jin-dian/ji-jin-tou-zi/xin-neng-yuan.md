@@ -1,6 +1,8 @@
 # 新能源
 
-[盘点盘点新能源指数基金（建议收藏！）](https://view.inews.qq.com/a/20210715A0D0QW00)
+## [盘点盘点新能源指数基金（建议收藏！）](https://view.inews.qq.com/a/20210715A0D0QW00)
+
+## [十大新能源主题基金大对比](http://www.360doc.com/content/20/1201/00/10440836_948805138.shtml)
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 
