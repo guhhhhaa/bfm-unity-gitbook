@@ -1,5 +1,7 @@
 # 若尘的且慢基金
 
+## [数学之美：cholesky矩阵分解](https://blog.csdn.net/wfei101/article/details/81951888) <a id="articleContentId"></a>
+
 使用 Cov协方差 和 Cholesky 分解在中国大陆工作的基金熔断器
 
 A fundFuser using Cov and Cholesky Decomposition for working in China mainland
