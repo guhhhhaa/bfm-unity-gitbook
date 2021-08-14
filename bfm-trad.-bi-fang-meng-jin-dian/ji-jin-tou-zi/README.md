@@ -38,6 +38,8 @@
 
 {% page-ref page="ruo-chen-de-qie-man-ji-jin.md" %}
 
+## [场内ETF指数基金收录大全！（一定要收藏）科技+消费+金融](https://xueqiu.com/6367307975/187393897)
+
 ## **量子科技基金（待清洗）**
 
 ### \*\*\*\*[**量子通信\(930852\)**](http://quote.eastmoney.com/zz/2.930852.html)\*\*\*\*
@@ -53,4 +55,6 @@
 \*\*\*\*[**长盛电子信息产业混合\(080012\)**](https://fund.eastmoney.com/080012.html)\*\*\*\*
 
 \*\*\*\*[**广发信息技术联接C\(002974\)**](https://fund.eastmoney.com/002974.html)
+
+
 
