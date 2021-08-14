@@ -1,5 +1,9 @@
 # 若尘的且慢基金
 
+使用 Cov协方差 和 Cholesky 分解在中国大陆工作的基金熔断器
+
+A fundFuser using Cov and Cholesky Decomposition for working in China mainland
+
 [https://github.com/sffred/fundFuser](https://github.com/sffred/fundFuser)
 
 主策略（长期高收益）20% [https://qieman.com/portfolios/ZH084662](https://qieman.com/portfolios/ZH084662) 
