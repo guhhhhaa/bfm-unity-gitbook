@@ -55,6 +55,7 @@
   * [地产](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/di-chan.md)
   * [白酒](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/bai-jiu.md)
   * [医药](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/yi-yao.md)
+  * [互联网](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/hu-lian-wang.md)
   * [新能源](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/xin-neng-yuan.md)
   * [若尘的且慢基金](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/ruo-chen-de-qie-man-ji-jin.md)
 * [黄金投资](bfm-trad.-bi-fang-meng-jin-dian/huang-jin-tou-zi.md)
