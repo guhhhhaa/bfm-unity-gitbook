@@ -99,3 +99,11 @@ NOTE: 策略推荐市盈率，市净率策略，
 
 ![](../../.gitbook/assets/image%20%2833%29.png)
 
+## 海龟交易法则
+
+{% embed url="https://www.zhihu.com/zvideo/1408466616892313601" %}
+
+{% embed url="https://www.zhihu.com/zvideo/1386620312193126400" %}
+
+
+
