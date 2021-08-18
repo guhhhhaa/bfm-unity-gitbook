@@ -97,7 +97,7 @@ NOTE: 策略推荐市盈率，市净率策略，
 
 ## 林园投资
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 ## 海龟交易法则
 
@@ -105,5 +105,7 @@ NOTE: 策略推荐市盈率，市净率策略，
 
 {% embed url="https://www.zhihu.com/zvideo/1386620312193126400" %}
 
+浮盈0.5个ATR加仓，亏损2个ATR止损
 
+![](../../.gitbook/assets/image%20%2832%29.png)
 
