@@ -142,6 +142,7 @@
   * [IT超度指南](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/it-chao-du-zhi-nan.md)
   * [动漫](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/dong-man.md)
   * [漫画](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/man-hua.md)
+  * [游戏](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/you-xi.md)
   * [01城密咒](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/untitled.md)
   * [心理学](bfm-cult.-bi-fang-meng-wen-hua/hui-shou-zhan/xin-li-xue.md)
 * [风水玄学儒释道瑜伽占卜塔罗吸引力法则灵性修行](bfm-cult.-bi-fang-meng-wen-hua/feng-shui-xuan-xue-ru-shi-dao-zhan-bu-ta-luo-xi-yin-li-ling-xing-xiu-hang.md)
