@@ -46,6 +46,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 {% page-ref page="zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
+{% page-ref page="zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md" %}
+
 {% hint style="info" %}
 ## 版本记录
 
