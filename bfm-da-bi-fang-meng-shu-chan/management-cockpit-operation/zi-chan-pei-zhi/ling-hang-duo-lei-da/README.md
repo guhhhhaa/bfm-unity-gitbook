@@ -89,7 +89,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 [卓尔金+哈布飞船5.03](https://share.weiyun.com/KngDwZPD)
 
-### 哈布历 5.03 —— 增加了派网驾驶舱，增加了比例换算尺和仓位单元
+### 哈布历 5.04 —— 增加了派网驾驶舱，增加了比例换算尺和仓位单元
 
 原驾驶舱更名为币安驾驶舱。
 
