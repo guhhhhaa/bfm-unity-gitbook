@@ -25,3 +25,5 @@ description: 人工智能的盆景箱
 
 {% page-ref page="./" %}
 
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20210823-xia-wu-6.37.08.png)
+

@@ -80,3 +80,7 @@
 
 {% embed url="https://nbviewer.jupyter.org/github/guhhhhaa/TensorAct-of-Stars/blob/main/TensorAct1.0.ipynb" %}
 
+## 已经通过人工智能发现了MVRV，S2F和NVT三个指标的优先级，S2F&gt;MVRV&gt;NVT
+
+
+
