@@ -20,5 +20,5 @@ POWER((ABS(EV$34-$DJ$6)),3)
 )))-0.5)
 ```
 
-
+![](../../../../.gitbook/assets/image%20%2837%29.png)
 
