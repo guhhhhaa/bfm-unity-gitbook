@@ -27,6 +27,7 @@
       * [卓尔金升级4——动态图表](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md)
       * [卓尔金升级5——分类网络](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md)
       * [卓尔金升级6——仓位单元](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
+      * [卓尔金升级7——引力透镜](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md)
     * [战术资产配置——哈布历⌚️](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/README.md)
       * [哈布历法1层次](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/ha-bu-li-fa-yan-jiu.md)
       * [哈布历法2层次](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/ha-bu-li-fa-gou-xiang-1.md)
