@@ -102,7 +102,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 ### 引力透镜 5.05 —— 
 
 增加了引力透镜，精度提高一倍从0.1至0.05，  
-优化了驾驶舱内部的结构。
+优化了驾驶舱内部的结构，支持了历史极值跟踪和更精确的误差分析。
 
 [引力透镜 5.05](https://share.weiyun.com/7fDhamQ4)
 {% endhint %}
