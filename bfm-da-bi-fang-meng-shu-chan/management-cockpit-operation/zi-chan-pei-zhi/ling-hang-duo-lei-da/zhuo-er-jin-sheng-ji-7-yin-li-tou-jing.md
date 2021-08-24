@@ -5,7 +5,7 @@
 {% hint style="info" %}
 ### 引力透镜 5.05 —— 增加了引力透镜，精度提高一倍从0.1至0.05
 
-[引力透镜 5.05](https://share.weiyun.com/m1lCHgXR)
+[引力透镜 5.05](https://share.weiyun.com/xynRtfZa)
 {% endhint %}
 
 ![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210823-shang-wu-9.03.45.png)
