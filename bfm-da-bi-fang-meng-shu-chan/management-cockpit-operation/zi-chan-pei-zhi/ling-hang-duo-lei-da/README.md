@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [引力透镜 5.05](https://share.weiyun.com/xynRtfZa)
+## 最新版下载链接🔗   [引力透镜 5.05](https://share.weiyun.com/7fDhamQ4)
 
 ### [表格怎么](https://www.bilibili.com/video/BV1HU4y1a7Ve)[使用？](https://www.bilibili.com/video/BV1HU4y1a7Ve)        ⬅️ 不会用的小白看这个
 
@@ -99,9 +99,12 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 [卓尔金+哈布飞船5.04](https://share.weiyun.com/F5Zb2drW)
 
-### 引力透镜 5.05 —— 增加了引力透镜，精度提高一倍从0.1至0.05
+### 引力透镜 5.05 —— 
 
-[引力透镜 5.05](https://share.weiyun.com/xynRtfZa)
+增加了引力透镜，精度提高一倍从0.1至0.05，  
+优化了驾驶舱内部的结构。
+
+[引力透镜 5.05](https://share.weiyun.com/7fDhamQ4)
 {% endhint %}
 
 ![](../../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
