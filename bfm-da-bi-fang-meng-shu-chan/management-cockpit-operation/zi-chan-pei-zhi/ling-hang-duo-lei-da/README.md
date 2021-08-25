@@ -50,6 +50,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 {% page-ref page="zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md" %}
 
+{% page-ref page="zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md" %}
+
 {% hint style="info" %}
 ## 版本记录
 
@@ -107,7 +109,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 [引力透镜 5.05](https://share.weiyun.com/7fDhamQ4)
 
-## 货币政策 5.06 —— 
+### 货币政策 5.06 —— 
 
 增加了货币政策解读（函数生成），修复了“卓尔金历法中的标尺不准“和“记录仪里卓尔金历法的公式没有更新“这两个BUG。
 
