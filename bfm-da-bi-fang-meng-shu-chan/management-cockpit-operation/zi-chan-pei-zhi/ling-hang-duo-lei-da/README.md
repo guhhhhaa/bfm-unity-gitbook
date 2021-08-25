@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [货币政策 5.06](https://share.weiyun.com/amja9AEY)
+## 最新版下载链接🔗   [货币政策 5.06](https://share.weiyun.com/V2IAriMS)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 不会用的小白看这个
 
@@ -113,7 +113,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 增加了货币政策解读（函数生成），修复了“卓尔金历法中的标尺不准“和“记录仪里卓尔金历法的公式没有更新“这两个BUG。
 
-[货币政策 5.06](https://share.weiyun.com/amja9AEY)
+[货币政策 5.06](https://share.weiyun.com/V2IAriMS)
 {% endhint %}
 
 ![](../../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
