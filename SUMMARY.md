@@ -15,6 +15,10 @@
 * [【组织】团队构成](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/README.md)
   * [创始人信息](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi.md)
 
+## BFM URS. \| 比坊梦联储 <a id="bfmurs"></a>
+
+* [比坊梦联合体储备系统](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
+
 ## BFM DA \| 比坊梦数产
 
 * [驾驶舱 \(运行\)](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
@@ -168,8 +172,4 @@
 * [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
 * [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
 * [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
-
-## BFM URS. \| 比坊梦联储 <a id="bfmurs"></a>
-
-* [比坊梦联合体储备系统](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
 
