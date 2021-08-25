@@ -25,9 +25,9 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [引力透镜 5.05](https://share.weiyun.com/7fDhamQ4)
+## 最新版下载链接🔗   [货币政策 5.06](https://share.weiyun.com/amja9AEY)
 
-### [表格怎么](https://www.bilibili.com/video/BV1HU4y1a7Ve)[使用？](https://www.bilibili.com/video/BV1HU4y1a7Ve)        ⬅️ 不会用的小白看这个
+### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 不会用的小白看这个
 
 ### 含有重要数据分析报告下载链接🔗     [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 {% endhint %}
@@ -102,9 +102,16 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 ### 引力透镜 5.05 —— 
 
 增加了引力透镜，精度提高一倍从0.1至0.05，  
-优化了驾驶舱内部的结构，支持了历史极值跟踪和更精确的误差分析。
+优化了驾驶舱内部的结构，支持了历史极值跟踪和更精确的误差分析。  
+（有一点小BUG，因为卓尔金历法中的标尺不准。）
 
 [引力透镜 5.05](https://share.weiyun.com/7fDhamQ4)
+
+## 货币政策 5.06 —— 
+
+增加了货币政策解读（函数生成），修复了“卓尔金历法中的标尺不准“和“记录仪里卓尔金历法的公式没有更新“这两个BUG。
+
+[货币政策 5.06](https://share.weiyun.com/amja9AEY)
 {% endhint %}
 
 ![](../../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
