@@ -10,3 +10,9 @@ The BFM Unity Reserve System Established on August 24, 2021, it is a decentraliz
 
 {% page-ref page="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
 
+{% embed url="https://www.youtube.com/watch?v=3LmF-MDgDI8&list=PLy5s8SHCGHgMLYF-wC085-H\_IonBW7k8c" %}
+
+{% embed url="https://www.youtube.com/watch?v=hd9FL18Q-sw&list=PLy5s8SHCGHgOhZ0KjlfRaQVBWFSUSQPNS" %}
+
+
+
