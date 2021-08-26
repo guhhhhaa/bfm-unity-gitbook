@@ -20,7 +20,7 @@
 
 ## 4，怎么分成:
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210825-xia-wu-6.46.22.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210826-xia-wu-1.55.30.png)
 
 收费包括：
 

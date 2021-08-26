@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/yin-hang-deng-xiang-.png)
 
-{% page-ref page="ge-ren-ye-wu/" %}
+{% page-ref page="ge-ren-ye-wu.md" %}
 
 {% page-ref page="untitled.md" %}
 

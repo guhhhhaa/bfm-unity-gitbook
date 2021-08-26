@@ -1,8 +1,8 @@
 # 个人业务
 
-![](../../../.gitbook/assets/yin-hang-pai-bian-.png)
+![](../../.gitbook/assets/yin-hang-pai-bian-.png)
 
-![](../../../.gitbook/assets/yin-hang-deng-xiang-.png)
+![](../../.gitbook/assets/yin-hang-deng-xiang-.png)
 
 {% hint style="danger" %}
 正在建设中……
