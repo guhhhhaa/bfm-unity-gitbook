@@ -1,6 +1,14 @@
+---
+description: BFM Unity Foundation
+---
+
 # 比坊梦基金会
 
-@全体成员 比坊梦基金会提供资产管理服务。
+> **比坊梦基金会**
+>
+> **BFM Unity Foundation**
+
+比坊梦基金会提供资产管理服务。
 
 {% hint style="info" %}
 ## [比坊梦基金会 表格](https://share.weiyun.com/Giyox4Hw)
