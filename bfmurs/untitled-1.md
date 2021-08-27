@@ -1,12 +1,12 @@
 ---
-description: BFM Unity Foundation
+description: BFM Foundation
 ---
 
 # 比坊梦基金会
 
 > **比坊梦基金会**
 >
-> **BFM Unity Foundation**
+> **BFM Foundation**
 
 比坊梦基金会提供资产管理服务。
 
