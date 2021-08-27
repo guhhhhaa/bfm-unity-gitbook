@@ -2,6 +2,10 @@
 
 @全体成员 比坊梦基金会提供资产管理服务。
 
+{% hint style="info" %}
+## [比坊梦基金会 表格](https://share.weiyun.com/Giyox4Hw)
+{% endhint %}
+
 ## 1，我能做什么:
 
 帮您做资产管理。 
