@@ -20,7 +20,7 @@ description: BFM Unity Foundation
 
 ## 2，我怎么做:
 
-把你的钱放在我的币安账号上，只投BTC/ETH和USDT/DAI 流动性挖矿
+把你的钱放在我的币安和派网账号上，只投BTC/ETH和USDT/DAI 流动性挖矿
 
 ## 3，怎么担保:
 
