@@ -115,6 +115,16 @@ description: BFM Unity Foundation
 
 2，手续费浮存金支持的平台币价值管理核心——PancakeSwap
 
+## 14，基金运作周期
+
+每周开放一次申赎，
+
+每周一到周五开放预约申赎，
+
+周六整理名单，
+
+周日上午调仓核算，下午结算申赎，公布基金净值，并在油管发布宏观经济货币政策。
+
 
 
 | BTC/ETH | DeFi | BTC/ETH/DeFi | NFT | Metaverse/NFT |
