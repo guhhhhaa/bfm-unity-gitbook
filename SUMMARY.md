@@ -17,8 +17,8 @@
 
 ## BFM URS. \| 比坊梦联储 <a id="bfmurs"></a>
 
-* [比坊梦联合体储备系统](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
-* [比坊梦基金会——资产管理](bfmurs/untitled-1.md)
+* [比坊梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
+* [比坊梦基金会](bfmurs/untitled-1.md)
 
 ## BFM DA \| 比坊梦数产
 
