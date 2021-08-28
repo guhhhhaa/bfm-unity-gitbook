@@ -165,6 +165,7 @@ description: Command Room (Discovery)
 
 {% tab title="S2F" %}
 * \*\*\*\*[**S2F目标价格**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
+* \*\*\*\*[**https://stats.buybitcoinworldwide.com/stock-to-flow/**](https://stats.buybitcoinworldwide.com/stock-to-flow/)\*\*\*\*
 {% endtab %}
 
 {% tab title="彩虹图🌈" %}
