@@ -11,11 +11,11 @@ description: BFM Foundation
 比坊梦基金会提供资产管理服务。
 
 {% hint style="info" %}
-## [比坊梦基金会 表格](https://share.weiyun.com/Giyox4Hw)
+#### [比坊梦基金会 表格](https://share.weiyun.com/Giyox4Hw)
 
 [https://www.tokensets.com/v2/set/polygon/0x9be797c292EEB6D3DDB977aCb0256BEBE38fA631](https://www.tokensets.com/v2/set/polygon/0x9be797c292EEB6D3DDB977aCb0256BEBE38fA631) 
 
-基金已经成功在polygon网络上发行，大家可以购买
+### 基金已经成功在polygon网络上发行，大家可以购买。
 {% endhint %}
 
 ## 1，我能做什么:
