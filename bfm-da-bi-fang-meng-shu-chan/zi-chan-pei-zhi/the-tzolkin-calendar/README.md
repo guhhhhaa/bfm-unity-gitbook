@@ -29,7 +29,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
-### 含有重要数据分析报告下载链接🔗     [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
+### 含有重要数据下载链接🔗     [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 {% endhint %}
 
 {% hint style="success" %}
