@@ -6,7 +6,7 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 
 ## Te-s-r-act，是 TensorAct，还是Tesseract ?
 
-{% page-ref page="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/ling-hang-duo-lei-da/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+{% page-ref page="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
 {% hint style="info" %}
 ## 问题描述
