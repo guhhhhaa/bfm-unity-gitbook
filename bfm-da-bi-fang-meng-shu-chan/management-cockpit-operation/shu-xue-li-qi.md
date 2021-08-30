@@ -153,6 +153,8 @@ return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 
 ## 4，总结应用（已失效，用[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)代替）
 
+{% page-ref page="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+
 ```python
 MVRV            ➡️ 归一化操作 ➡️ 施密特触发器 ↘️
                                         同架策略 ➡️ 仓位结果
