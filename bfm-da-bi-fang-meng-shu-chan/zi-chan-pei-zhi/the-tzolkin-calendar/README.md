@@ -4,8 +4,6 @@ description: The Tzolkin Calendar
 
 # 战略资产配置——卓尔金历 🕙
 
-![](../../../.gitbook/assets/bfm-unity-3.0%20%286%29.png)
-
 > My clock is paper financial time    我的**时钟**显示账面的**金融时间**
 >
 > ——[《C》-  岩崎琢](https://music.163.com/#/song?id=22713696)
