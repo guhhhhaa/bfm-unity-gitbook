@@ -24,18 +24,18 @@
 
 而且，每移动一次，这个超平面就被降维一次，直到最后被降维成0，就移动结束了。
 
-![](../../../../.gitbook/assets/hb1.png)
+![](../../../.gitbook/assets/hb1.png)
 
 Guhhhhaa：也许银河系只是根据一个高维空间内的最短路径产生的螺旋结构。   
 若尘：哈哈，某种意义上讲你说的不错，根据相对论，万有引力下的物体总是沿着闵科夫斯基空间中的最短路径运动
 
-![](../../../../.gitbook/assets/hb2.png)
+![](../../../.gitbook/assets/hb2.png)
 
-![](../../../../.gitbook/assets/hb3.png)
+![](../../../.gitbook/assets/hb3.png)
 
-![](../../../../.gitbook/assets/hb4.png)
+![](../../../.gitbook/assets/hb4.png)
 
-![](../../../../.gitbook/assets/st1.png)
+![](../../../.gitbook/assets/st1.png)
 
-![](../../../../.gitbook/assets/st2.png)
+![](../../../.gitbook/assets/st2.png)
 

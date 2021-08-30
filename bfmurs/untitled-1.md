@@ -75,7 +75,7 @@ description: BFM Foundation
 
 策略是公开的，就是客观的卓尔金历法，加上一点主观判断，不过主观判断很少。
 
-{% page-ref page="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
+{% page-ref page="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
 
 ## 8，申购和赎回费怎么收取:
 

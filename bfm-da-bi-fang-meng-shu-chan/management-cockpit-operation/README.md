@@ -22,11 +22,11 @@ description: Management Cockpit (Operation)
 
 ## 资产配置
 
-{% page-ref page="zi-chan-pei-zhi/" %}
+{% page-ref page="../zi-chan-pei-zhi/" %}
 
 ## 核心显示界面
 
-{% page-ref page="zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
+{% page-ref page="../zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
 
 {% page-ref page="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/" %}
 

@@ -8,7 +8,7 @@
 [引力透镜 5.05](https://share.weiyun.com/7fDhamQ4)
 {% endhint %}
 
-![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210823-shang-wu-9.03.45.png)
+![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210823-shang-wu-9.03.45.png)
 
 ```text
 =2*(1/(1+EXP(-4/0.5*(
@@ -20,5 +20,5 @@ POWER((ABS(EV$34-$DJ$6)),3)
 )))-0.5)
 ```
 
-![](../../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2837%29.png)
 

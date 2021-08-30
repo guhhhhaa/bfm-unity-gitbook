@@ -22,7 +22,7 @@ description: Command Room (Discovery)
 
 
 
-{% page-ref page="../management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
+{% page-ref page="../zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
 
 ## 网络安全
 
@@ -254,7 +254,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ### MVRV和S2F投资策略
 
-{% page-ref page="../management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
+{% page-ref page="../zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
 
 ## 纳指指标
 

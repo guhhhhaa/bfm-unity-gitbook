@@ -4,7 +4,7 @@ description: the Haab Calendar
 
 # 战术资产配置——哈布历⌚️
 
-![](../../../../.gitbook/assets/qq20210625-3.jpg)
+![](../../../.gitbook/assets/qq20210625-3.jpg)
 
 {% hint style="info" %}
 [卓尔金+哈布飞船](https://share.weiyun.com/O2bZwwMx)
@@ -38,7 +38,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 如何找到最优的比例，塞进币安流动性挖矿里面。
 {% endhint %}
 
-![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210520-xia-wu-5.40.07.png)
+![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210520-xia-wu-5.40.07.png)
 
 ## 哈布历介绍
 
@@ -62,11 +62,11 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 边代表币种，顶点和相切圆代表流动性挖矿交易对。
 
-![](../../../../.gitbook/assets/image%20%2824%29.png)
+![](../../../.gitbook/assets/image%20%2824%29.png)
 
-![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210520-xia-wu-5.42.35.png)
+![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210520-xia-wu-5.42.35.png)
 
-![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210520-xia-wu-8.29.59.png)
+![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210520-xia-wu-8.29.59.png)
 
 ## 延伸阅读
 
