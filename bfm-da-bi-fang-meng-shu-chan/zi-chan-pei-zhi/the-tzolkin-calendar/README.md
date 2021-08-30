@@ -27,7 +27,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ## 最新版下载链接🔗   [基金管理6.00](https://share.weiyun.com/djiMy3na)
 
-### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 不会用的小白看这个
+### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
 ### 含有重要数据分析报告下载链接🔗     [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 {% endhint %}
