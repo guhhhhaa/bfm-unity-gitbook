@@ -22,7 +22,7 @@ description: Command Room (Discovery)
 
 
 
-{% page-ref page="../zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+{% page-ref page="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
 
 ## 网络安全
 
