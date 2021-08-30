@@ -42,7 +42,7 @@
   * [战术资产配置——哈布历⌚️](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/README.md)
     * [哈布历法1层次](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/ha-bu-li-fa-yan-jiu.md)
     * [哈布历法2层次](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/ha-bu-li-fa-gou-xiang-1.md)
-    * [卓尔金升级6——仓位单元](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
+    * [哈布历法3——仓位单元](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
     * [已废弃](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/yi-fei-qi.md)
 * [影银行 \(枢纽\)](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/README.md)
   * [自营业务](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/zi-ying-tou-zi.md)

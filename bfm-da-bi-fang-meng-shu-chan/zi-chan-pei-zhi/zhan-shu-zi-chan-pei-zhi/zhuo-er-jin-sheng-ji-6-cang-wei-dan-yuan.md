@@ -1,4 +1,4 @@
-# 卓尔金升级6——仓位单元
+# 哈布历法3——仓位单元
 
 ## [The two types of Altcoins, an investor's view](https://woobull.com/the-two-types-of-altcoins-an-investors-view/)
 
