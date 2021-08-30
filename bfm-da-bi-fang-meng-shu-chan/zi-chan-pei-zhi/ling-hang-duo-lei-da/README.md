@@ -46,7 +46,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 {% page-ref page="zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md" %}
+{% page-ref page="../zhan-shu-zi-chan-pei-zhi/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md" %}
 
 {% page-ref page="zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md" %}
 
