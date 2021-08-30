@@ -12,11 +12,11 @@ description: BFM Foundation
 
 {% hint style="info" %}
 ### [基金管理6.00](https://share.weiyun.com/djiMy3na)
-
-[https://www.tokensets.com/v2/set/polygon/0x9be797c292EEB6D3DDB977aCb0256BEBE38fA631](https://www.tokensets.com/v2/set/polygon/0x9be797c292EEB6D3DDB977aCb0256BEBE38fA631) 
+{% endhint %}
 
 ### 基金已经成功在 Polygon 网络上发行，大家可以购买。
-{% endhint %}
+
+{% embed url="https://www.tokensets.com/v2/set/polygon/0x9be797c292EEB6D3DDB977aCb0256BEBE38fA631" %}
 
 {% embed url="https://www.youtube.com/watch?v=AMQH6FG8gf8" %}
 
