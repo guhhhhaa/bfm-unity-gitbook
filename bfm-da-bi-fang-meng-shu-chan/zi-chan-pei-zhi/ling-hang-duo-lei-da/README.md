@@ -140,23 +140,35 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 {% page-ref page="../../management-cockpit-operation/" %}
 
-## [归一化操作](https://www.bfm-unity.com/management-cockpit-operation/shu-xue-li-qi) 
+## 归一化操作
+
+{% page-ref page="zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md" %}
+
+{% page-ref page="../../management-cockpit-operation/shu-xue-li-qi.md" %}
 
 数据归一到（-1，1）
 
 ```python
-LN(MVRV/1.80)/0.91 # 对MVRV的处理
+定义 a_1, b_1
+定义 f_1(), f_2()
 
-LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
+f_2() = LN(f_1()/a_1)
+        /b_1 
+        * 4 
+# 因为sigmod函数x取(-4,4)时，y在约(0,1), 所以这里最后*4
+# 你也可以*5，大概覆盖增长区间就行
+
+a_1 = 几何平均数(f_1()) 
+# 几何平均数：GEOMEAN
+
+b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
+      - 算数平均数(极小值(LN(f_1()/a_1),N)
+# 算数平均数：AVERAGE
 ```
 
-## 图表说明
+**横X轴——MVRV——**[**数据来源**](https://www.blockchain.com/charts/mvrv)\*\*\*\*
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210329-xia-wu-9.13.03.png)
-
-**蓝色曲线——横X轴——MVRV——**[**数据来源**](https://www.blockchain.com/charts/mvrv)\*\*\*\*
-
-**橙色曲线——纵Y轴——S2F月预测价格/价格——**[**数据来源**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
+**纵Y轴——S2F月预测价格/价格——**[**数据来源**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
 
 ## 回测研究
 
