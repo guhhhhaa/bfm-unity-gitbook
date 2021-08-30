@@ -22,7 +22,7 @@ description: Command Room (Discovery)
 
 
 
-{% page-ref page="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+{% page-ref page="../zi-chan-pei-zhi/zhuo-er-jin-li-xin-zhu-ye/the-tzolkin-calendar.md" %}
 
 ## 网络安全
 
@@ -254,7 +254,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ### MVRV和S2F投资策略
 
-{% page-ref page="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+{% page-ref page="../zi-chan-pei-zhi/zhuo-er-jin-li-xin-zhu-ye/the-tzolkin-calendar.md" %}
 
 ## 纳指指标
 

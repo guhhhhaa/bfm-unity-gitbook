@@ -2,7 +2,7 @@
 description: The Tzolkin Calendar
 ---
 
-# 战略资产配置——卓尔金历 🕙
+# 旧版页面
 
 ![](../../../.gitbook/assets/v2-57e4789f96a64829e512ff545e8cc34d_1440w.jpeg)
 

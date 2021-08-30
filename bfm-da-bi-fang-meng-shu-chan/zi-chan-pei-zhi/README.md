@@ -6,7 +6,7 @@
 
 {% page-ref page="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
 
-{% page-ref page="the-tzolkin-calendar/" %}
+{% page-ref page="zhuo-er-jin-li-xin-zhu-ye/the-tzolkin-calendar.md" %}
 
 ## 战术资产配置
 
