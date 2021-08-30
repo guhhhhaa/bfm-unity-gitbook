@@ -10,5 +10,5 @@
 
 ## 战术资产配置
 
-{% page-ref page="zhan-shu-zi-chan-pei-zhi/" %}
+{% page-ref page="the-haab-calendar/" %}
 
