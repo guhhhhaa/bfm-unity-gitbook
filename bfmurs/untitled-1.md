@@ -73,6 +73,8 @@ description: BFM Foundation
 
 策略是公开的，就是客观的卓尔金历法，加上一点主观判断，不过主观判断很少。
 
+{% page-ref page="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da/" %}
+
 ## 8，申购和赎回费怎么收取:
 
 参考[广发纳斯达克指数A](http://fundf10.eastmoney.com/jjfl_270042.html)，是[广发纳斯达克100指数A](http://fundf10.eastmoney.com/jjfl_270042.html)的两倍。期限和费率都参考[广发纳斯达克指数A](http://fundf10.eastmoney.com/jjfl_270042.html)，不过不能保证，因为我可能睡懒觉。
