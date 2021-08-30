@@ -34,7 +34,7 @@ description: The Tzolkin Calendar
 
 **就像一个时钟一样，很方便。**
 
-## **与美林时钟的关系**
+## **美林时钟**
 
 
 
