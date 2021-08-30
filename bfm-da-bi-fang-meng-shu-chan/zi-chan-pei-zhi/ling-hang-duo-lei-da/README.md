@@ -122,6 +122,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 [基金管理6.00](https://share.weiyun.com/djiMy3na)
 {% endhint %}
 
+## **周期发现**
+
 ![](../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
 
 #### [http://www.chidaolian.com/article-45496-1](http://www.chidaolian.com/article-45496-1)
@@ -166,11 +168,11 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 # 算数平均数：AVERAGE
 ```
 
+## 回测研究
+
 **横X轴——MVRV——**[**数据来源**](https://www.blockchain.com/charts/mvrv)\*\*\*\*
 
 **纵Y轴——S2F月预测价格/价格——**[**数据来源**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
-
-## 回测研究
 
 ![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46.png)
 
@@ -198,29 +200,6 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 **就像一个时钟一样，很方便。**
 
-## 模拟神经网络查找表
-
-![&#x8D85;&#x9AD8;&#x6E05;](../../../.gitbook/assets/ping-mu-kuai-zhao-20210416-xia-wu-1.16.07.png)
-
-## 确定仓位
-
-* [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538_825825)
-* [EXCEL取小数点后一位](https://zhidao.baidu.com/question/27632380.html)
-
-```python
-=INDEX(
-    神经网络!C26:W46,
-    MATCH(
-        ROUND(卓尔金历法GPS定位系统!D9,1),
-        神经网络!B26:B46,
-        0),
-    MATCH(
-        ROUND(卓尔金历法GPS定位系统!D7,1),
-        神经网络!C25:W25,
-        0)
-    )
-```
-
 ## **与美林时钟的关系**
 
 
@@ -236,6 +215,29 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 在比特币，这两个随机变量是MVRV，S2F。 
 
 在现实世界，这两个随机变量是GDP，CPI，或者货币，信用。
+
+## 确定仓位
+
+```python
+=INDEX(
+    神经网络!C26:W46,
+    MATCH(
+        ROUND(卓尔金历法GPS定位系统!D9,1),
+        神经网络!B26:B46,
+        0),
+    MATCH(
+        ROUND(卓尔金历法GPS定位系统!D7,1),
+        神经网络!C25:W25,
+        0)
+    )
+```
+
+* [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538_825825)
+* [EXCEL取小数点后一位](https://zhidao.baidu.com/question/27632380.html)
+
+## 模拟神经网络查找表
+
+{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
 
 ## 逻辑解释
 
