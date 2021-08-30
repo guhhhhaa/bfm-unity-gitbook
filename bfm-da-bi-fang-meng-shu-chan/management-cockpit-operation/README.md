@@ -26,7 +26,7 @@ description: Management Cockpit (Operation)
 
 ## 核心显示界面
 
-{% page-ref page="../zi-chan-pei-zhi/zhuo-er-jin-li-xin-zhu-ye/the-tzolkin-calendar.md" %}
+{% page-ref page="../zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
 
 {% page-ref page="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/" %}
 
