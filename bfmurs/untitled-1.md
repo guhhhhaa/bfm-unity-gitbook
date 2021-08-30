@@ -18,6 +18,8 @@ description: BFM Foundation
 ### 基金已经成功在polygon网络上发行，大家可以购买。
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=AMQH6FG8gf8" %}
+
 ## 1，我能做什么:
 
 帮您做资产管理。 
