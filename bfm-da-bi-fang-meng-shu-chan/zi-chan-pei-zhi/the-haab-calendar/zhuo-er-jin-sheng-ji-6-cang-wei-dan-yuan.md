@@ -1,4 +1,4 @@
-# 哈布历法3——仓位单元
+# 哈布历法3——仓位单元，量子调仓
 
 ## [The two types of Altcoins, an investor's view](https://woobull.com/the-two-types-of-altcoins-an-investors-view/)
 
