@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [基金管理6.00](https://share.weiyun.com/djiMy3na)
+## 最新版下载链接🔗   [基金管理6.01](https://share.weiyun.com/DthR1zgk)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
@@ -120,6 +120,12 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 增加了部分备注，优化了UI，提供了基金管理功能。
 
 [基金管理6.00](https://share.weiyun.com/djiMy3na)
+
+### 基金管理6.01——
+
+修补了部分BUG，更新了参数，优化了UI
+
+[基金管理6.01](https://share.weiyun.com/DthR1zgk)
 {% endhint %}
 
 ## **周期发现**
