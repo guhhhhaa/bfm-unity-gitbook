@@ -50,7 +50,7 @@ description: The Tzolkin Calendar
 
 ## 参数设置
 
--1，2，4
+-1，2，4 或 -1.5，3，4
 
 1，0，0.5
 
