@@ -48,6 +48,16 @@ description: The Tzolkin Calendar
 
 ![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-10.44.27.png)
 
+## 参数设置
+
+-1，2，4
+
+1，0，0.5
+
+## 回测结果
+
+![](../../../.gitbook/assets/f92ac38b6b8ef52244f60616bcd8acf6.jpg)
+
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
 
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
