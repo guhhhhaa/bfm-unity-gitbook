@@ -12,9 +12,9 @@ users must first migrate their digital assets to the Polygon network through the
 * \*\*\*\*[**polygon.Balancer**](https://polygon.balancer.fi/)\*\*\*\*
 * \*\*\*\*[**polygon.Curve**](https://polygon.curve.fi/)\*\*\*\*
 
-[Layer 2使用教程系列一：教你使用几大Layer 2应用 - 区块链](https://www.theblockbeats.com/news/21604)
+[Layer 2使用教程系列一：教你使用几大Layer 2应用](https://www.theblockbeats.com/news/21604)
 
-[Layer 2使用教程系列二：如何使用Matic Network完成资产跨链 ](https://www.bishijie.com/shendu/172332.html)
+[Layer 2使用教程系列二：如何使用Matic Network完成资产跨链并进行交易](https://www.theblockbeats.com/news/22403)
 {% endhint %}
 
 ![](../../.gitbook/assets/0ca565acfc14af2a6672005f6248036c.jpg)
