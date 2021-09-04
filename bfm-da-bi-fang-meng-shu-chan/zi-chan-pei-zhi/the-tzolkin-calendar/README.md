@@ -80,5 +80,5 @@ description: The Tzolkin Calendar
 
 {% page-ref page="the-tzolkin-calendar-0.md" %}
 
-[Office 365 ](http://www.52pjb.net/xiazai/26220.html#xzdz)
+{% embed url="http://www.52pjb.net/xiazai/26220.html\#xzdz" %}
 
