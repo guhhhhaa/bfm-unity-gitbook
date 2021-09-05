@@ -16,6 +16,8 @@ description: The Tzolkin Calendar
 ## [基金管理6.01](https://share.weiyun.com/DthR1zgk)
 
 ### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
+
+### [卓尔金历法纪念NFT（共100枚）](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/3481443462298934920924795063914650435277564372996772120928129705210787397732/)
 {% endhint %}
 
 ## **周期发现**
