@@ -44,9 +44,15 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="feng-kong-yu-he-gui/gpl-v3.md" %}
 
+## 经济矩阵
+
+| [代币购买](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [直接捐赠](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) |
+| :--- | :--- |
+| [比坊梦联储](https://www.bfm-unity.com/bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong) | [比坊梦基金会](https://www.bfm-unity.com/bfmurs/untitled-1) |
+
 ## 媒体矩阵
 
-|  |  |
+| [Gitbook 群主页](https://www.bfm-unity.com/) | [Trello 看板](https://trello.com/b/z4aDgNAL/todolist) |
 | :--- | :--- |
 | \*\*\*\*[**Github 文档地址**](https://github.com/guhhhhaa/bfm-gitbook)\*\*\*\* | \*\*\*\*[**Github 代码地址**](https://github.com/guhhhhaa/bfm-group-file)\*\*\*\* |
 | [B站视频主页](https://space.bilibili.com/11708778) | [ YouTube视频主页](https://www.youtube.com/channel/UCfiSjf-6Sxnf0t9J2xGVzuA) |
