@@ -28,11 +28,15 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 
 如果想要自行建群讨论类似问题，建议引用或拷贝该文档，并建议群组名称以 BFM Unity Team 作为开头。
 
-## TG 群组（优先）
+## TG 群组（优先维护）
 
 
 
-## QQ群组
+## Reddit论坛（优先维护）
+
+
+
+## QQ群组（放弃维护）
 
 {% tabs %}
 {% tab title="主群" %}
@@ -50,7 +54,7 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 
 ## 
 
-## 微信群（可能失效，加[群主](https://www.bfm-unity.com/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi)可拉你进群）
+## 微信群（放弃维护，可能失效，加[群主](https://www.bfm-unity.com/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi)可拉你进群）
 
 ![](../../.gitbook/assets/6ba1bcf02ffd6ab8f4186253e7759948.png)
 
