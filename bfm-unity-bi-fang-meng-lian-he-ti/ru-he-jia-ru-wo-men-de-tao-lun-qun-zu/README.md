@@ -64,6 +64,14 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 
 ![](../../.gitbook/assets/6ba1bcf02ffd6ab8f4186253e7759948.png)
 
+## B站主页
+
+{% embed url="https://space.bilibili.com/11708778" %}
+
+## YouTube主页
+
+{% embed url="https://www.youtube.com/channel/UCfiSjf-6Sxnf0t9J2xGVzuA" %}
+
 ## 群名称：BFM Unity 
 
 ## 群文档
