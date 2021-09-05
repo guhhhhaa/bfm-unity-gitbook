@@ -44,5 +44,14 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 {% page-ref page="feng-kong-yu-he-gui/gpl-v3.md" %}
 
+## 媒体矩阵
+
+|  |  |
+| :--- | :--- |
+| \*\*\*\*[**Github 文档地址**](https://github.com/guhhhhaa/bfm-gitbook)\*\*\*\* | \*\*\*\*[**Github 代码地址**](https://github.com/guhhhhaa/bfm-group-file)\*\*\*\* |
+| [B站视频主页](https://space.bilibili.com/11708778) | [ YouTube视频主页](https://www.youtube.com/channel/UCfiSjf-6Sxnf0t9J2xGVzuA) |
+| [Telegram群组](https://t.me/BFMUnity) | [Telegram频道](https://t.me/BFM_Unity) |
+| [Reddit论坛](https://www.reddit.com/r/BFM_Unity/) |  |
+
 **© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**](https://www.bfm-unity.com/)**.** [**比坊梦联合体**](https://www.bfm-unity.com/)**. All Rights Reserved.**
 
