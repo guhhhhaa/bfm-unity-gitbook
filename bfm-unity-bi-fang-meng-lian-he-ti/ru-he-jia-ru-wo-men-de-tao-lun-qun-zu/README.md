@@ -30,7 +30,13 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 
 ## Telegram 群组（优先维护）
 
+### BFM Unity 比坊梦联合体 官方群
 
+{% embed url="https://t.me/BFMUnity" %}
+
+### BFM Unity 比坊梦联合体 官方频道 
+
+{% embed url="https://t.me/BFM\_Unity" %}
 
 ## Reddit 论坛（优先维护）
 
