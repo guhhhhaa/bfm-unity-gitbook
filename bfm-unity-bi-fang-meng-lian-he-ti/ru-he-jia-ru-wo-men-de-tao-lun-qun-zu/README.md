@@ -68,7 +68,7 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 
 ## 
 
-## 微信群（放弃维护，可能失效，加[群主](https://www.bfm-unity.com/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi)可拉你进群）
+## 微信群（放弃维护，可能失效，加[群主](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi)可拉你进群）
 
 ![](../../.gitbook/assets/6ba1bcf02ffd6ab8f4186253e7759948.png)
 
@@ -85,8 +85,4 @@ BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观�
 ## 群文件备份
 
 {% embed url="https://github.com/guhhhhaa/bfm-group-file" %}
-
-## 群主的B站空间
-
-{% embed url="https://space.bilibili.com/11708778" %}
 
