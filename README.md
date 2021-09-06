@@ -49,6 +49,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 | [代币购买](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [直接捐赠](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) |
 | :--- | :--- |
 | [比坊梦联储](https://www.bfm-unity.com/bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong) | [比坊梦基金会](https://www.bfm-unity.com/bfmurs/untitled-1) |
+| [卓尔金历法](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar) | [BFM算法](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) |
 
 ## 媒体矩阵
 
