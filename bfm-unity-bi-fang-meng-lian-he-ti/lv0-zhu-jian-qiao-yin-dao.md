@@ -24,6 +24,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 交易员必进
 
+{% page-ref page="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+
 {% page-ref page="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
 
 {% page-ref page="../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/" %}
