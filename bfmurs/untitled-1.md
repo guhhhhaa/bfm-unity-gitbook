@@ -18,6 +18,13 @@ description: BFM Foundation
 
 {% embed url="https://www.tokensets.com/v2/set/polygon/0x9be797c292EEB6D3DDB977aCb0256BEBE38fA631" %}
 
+### 基金已经成功在 且慢 上发行，大家可以购买。
+
+### [比坊梦全球互联网指数](https://qieman.com/portfolios/ZH116702
+)
+
+{% embed url="https://qieman.com/portfolios/ZH116702" %}
+
 {% embed url="https://www.youtube.com/watch?v=AMQH6FG8gf8" %}
 
 ## 以下内容，部分已经不合时宜。
