@@ -20,6 +20,8 @@ description: BFM Foundation
 
 {% embed url="https://www.youtube.com/watch?v=AMQH6FG8gf8" %}
 
+## 以下内容，部分已经不合时宜。
+
 ## 1，我能做什么:
 
 帮您做资产管理。 
