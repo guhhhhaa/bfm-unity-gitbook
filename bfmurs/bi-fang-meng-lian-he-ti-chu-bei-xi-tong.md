@@ -10,7 +10,7 @@ The BFM Unity Reserve System Established on August 24, 2021, it is a decentraliz
 
 {% page-ref page="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
 
-{% embed url="https://www.youtube.com/watch?v=3LmF-MDgDI8&list=PLy5s8SHCGHgMLYF-wC085-H\_IonBW7k8c" %}
+{% embed url="https://www.youtube.com/playlist?list=PLy5s8SHCGHgMLYF-wC085-H\_IonBW7k8c" %}
 
 {% embed url="https://www.youtube.com/watch?v=hd9FL18Q-sw&list=PLy5s8SHCGHgOhZ0KjlfRaQVBWFSUSQPNS" %}
 
