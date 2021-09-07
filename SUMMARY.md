@@ -19,6 +19,7 @@
 
 * [比坊梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
 * [比坊梦基金会](bfmurs/untitled-1.md)
+* [比坊梦全球互联网基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
 
 ## BFM DA \| 比坊梦数产
 
