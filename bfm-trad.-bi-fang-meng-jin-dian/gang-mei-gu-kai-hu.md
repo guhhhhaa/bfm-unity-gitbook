@@ -25,22 +25,6 @@
 
 [老虎](https://www.itiger.com/) \| [雪盈](https://www.snowballsecurities.com/) \|[ 富途](https://www.futuhk.com/)\([富途牛牛](https://www.futunn.com/)\) \| [微牛](https://www.webull.com/) \| [华盛](https://www.vbkr.com/)
 
-——————————
-
-十三张热门香港卡评测+办理攻略  
-[https://zhuanlan.zhihu.com/p/350801551](https://zhuanlan.zhihu.com/p/350801551)
-
-手把手教你办理香港民生卡买港股、美股  
-[https://zhuanlan.zhihu.com/p/46755993](https://zhuanlan.zhihu.com/p/46755993)
-
-——————————
-
-【链接】「中港两地银行卡」办理全解析 __手机搜狐网 [https://m.sohu.com/a/360061422\_120481337](https://m.sohu.com/a/360061422_120481337) __
-
-【链接】干货  \|「中港两地银行卡」如何办理？手机搜狐网 [https://m.sohu.com/a/209974660\_100014622](https://m.sohu.com/a/209974660_100014622) 
-
-【链接】香港公司账户开设攻略与注意事项 \_ 手机搜狐网 [https://m.sohu.com/a/123697977\_587533](https://m.sohu.com/a/123697977_587533)
-
 ## 离岸金融服务
 
 <table>
@@ -115,4 +99,20 @@
     </tr>
   </tbody>
 </table>
+
+## 其他信息
+
+十三张热门香港卡评测+办理攻略  
+[https://zhuanlan.zhihu.com/p/350801551](https://zhuanlan.zhihu.com/p/350801551)
+
+手把手教你办理香港民生卡买港股、美股  
+[https://zhuanlan.zhihu.com/p/46755993](https://zhuanlan.zhihu.com/p/46755993)
+
+——————————
+
+【链接】「中港两地银行卡」办理全解析 __手机搜狐网 [https://m.sohu.com/a/360061422\_120481337](https://m.sohu.com/a/360061422_120481337) __
+
+【链接】干货  \|「中港两地银行卡」如何办理？手机搜狐网 [https://m.sohu.com/a/209974660\_100014622](https://m.sohu.com/a/209974660_100014622) 
+
+【链接】香港公司账户开设攻略与注意事项 \_ 手机搜狐网 [https://m.sohu.com/a/123697977\_587533](https://m.sohu.com/a/123697977_587533)
 
