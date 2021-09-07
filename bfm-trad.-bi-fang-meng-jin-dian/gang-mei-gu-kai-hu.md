@@ -42,19 +42,25 @@
 【链接】香港公司账户开设攻略与注意事项 \_ 手机搜狐网 [https://m.sohu.com/a/123697977\_587533](https://m.sohu.com/a/123697977_587533)
 
 0，离岸金融服务由   
+**中界海外**  
+提供：公司官网：[www.zjhw2020.com](https://www.zjhw2020.com/)  
+公众号：中界海外  
+微信号：mu17362861994
+
+1，离岸金融服务由   
 **旺旺来富**  
 提供：[https://wangwanglaifu.com/](https://wangwanglaifu.com/) （[知乎1](https://www.zhihu.com/people/wangwanglaifu)）  
 [个人离岸业务 - 旺旺来富](https://wangwanglaifu.com/individual-offshore-services/)  
 [其他产品与服务 - 旺旺来富](https://wangwanglaifu.com/products-and-services/)
 
-1，离岸金融服务由   
+2，离岸金融服务由   
 **香港卓信会计事务所有限公司**   
 或   
 **杭州卓信经济信息咨询有限公司（卓信企业）**  
 提供：  
 [http://www.zhuoxin.hk/](http://www.zhuoxin.hk/)  或  [http://www.zhuoxin.net/](http://www.zhuoxin.net/)
 
-2，离岸金融服务由   
+3，离岸金融服务由   
 **宏源国际咨询管理（深圳）有限公司**  
 提供：  
 [https://www.liankuaiche.com/](https://www.liankuaiche.com/)  或  [http://www.hyintern.com/index.html](http://www.hyintern.com/index.html)
