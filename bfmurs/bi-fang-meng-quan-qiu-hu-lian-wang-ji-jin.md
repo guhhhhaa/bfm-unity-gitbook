@@ -1,5 +1,9 @@
 # 比坊梦全球互联网 基金
 
+## 比坊梦全球互联网 - 策略表格
+
+
+
 ## 比坊梦全球互联网 - 被动 基金
 
 {% embed url="https://qieman.com/portfolios/ZH116702" %}
