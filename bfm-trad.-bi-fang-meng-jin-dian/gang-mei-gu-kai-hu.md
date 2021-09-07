@@ -1,9 +1,5 @@
 # 离岸 HK·SG 🌍 港美股
 
-## 导航指南网站  🧭
-
-[美股之家](https://www.mg21.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/) \| [美股指南](https://investguider.com/) \| [**旺旺来富**](https://wangwanglaifu.com/)\*\*\*\*
-
 ## 离岸银行卡  💳 - HK🇭🇰 - SG🇸🇬
 
 [土耳其电子签证避坑攻略](https://zhuanlan.zhihu.com/p/145685753)
@@ -24,6 +20,10 @@
 ## [互联网券商](https://zhuanlan.zhihu.com/p/349480662)
 
 [老虎](https://www.itiger.com/) \| [雪盈](https://www.snowballsecurities.com/) \|[ 富途](https://www.futuhk.com/)\([富途牛牛](https://www.futunn.com/)\) \| [微牛](https://www.webull.com/) \| [华盛](https://www.vbkr.com/)
+
+## 美股导航
+
+[美股之家](https://www.mg21.com/) \| [中牛港美](https://www.zngm.com/) \| [口袋开户](https://www.kdkh.com/) \| [美股指南](https://investguider.com/)
 
 ## 离岸金融服务
 
@@ -85,7 +85,7 @@
         </td>
     </tr>
     <tr>
-      <td style="text-align:left">X</td>
+      <td style="text-align:left">XZX</td>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="http://www.zhuoxin.hk/"><b>&#x9999;&#x6E2F;&#x5353;&#x4FE1;&#x4F1A;&#x8BA1;&#x4E8B;&#x52A1;&#x6240;&#x6709;&#x9650;&#x516C;&#x53F8;</b> </a>
         <br
         />&#x6216;
@@ -98,7 +98,7 @@
         <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">ZHY</td>
+      <td style="text-align:left">XHY</td>
       <td style="text-align:left">
         <p><b>&#x5B8F;&#x6E90;&#x56FD;&#x9645;&#x54A8;&#x8BE2;&#x7BA1;&#x7406;&#xFF08;&#x6DF1;&#x5733;&#xFF09;&#x6709;&#x9650;&#x516C;&#x53F8;</b>
         </p>
