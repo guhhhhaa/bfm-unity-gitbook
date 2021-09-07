@@ -1,4 +1,4 @@
-# 若尘的且慢基金
+# 若尘的基金
 
 ## [数学之美：cholesky矩阵分解](https://blog.csdn.net/wfei101/article/details/81951888) <a id="articleContentId"></a>
 

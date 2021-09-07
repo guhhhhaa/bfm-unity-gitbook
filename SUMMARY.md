@@ -20,6 +20,7 @@
 * [比坊梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
 * [比坊梦基金会](bfmurs/untitled-1.md)
 * [比坊梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
+* [若尘的基金](bfmurs/ruo-chen-de-qie-man-ji-jin.md)
 
 ## BFM DA \| 比坊梦数产
 
@@ -67,7 +68,6 @@
   * [医药](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/yi-yao.md)
   * [互联网](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/hu-lian-wang.md)
   * [新能源](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/xin-neng-yuan.md)
-  * [若尘的且慢基金](bfm-trad.-bi-fang-meng-jin-dian/ji-jin-tou-zi/ruo-chen-de-qie-man-ji-jin.md)
 * [黄金投资](bfm-trad.-bi-fang-meng-jin-dian/huang-jin-tou-zi.md)
 * [国债逆回购](bfm-trad.-bi-fang-meng-jin-dian/guo-zhai-ni-hui-gou.md)
 * [可转债打新](bfm-trad.-bi-fang-meng-jin-dian/ke-zhuan-zhai-da-xin.md)
