@@ -56,7 +56,12 @@ description: Management Cockpit (Operation)
 * \*\*\*\*[**DPI**](https://www.indexcoop.com/dpi)
 * \*\*\*\*[**BCP \(PieDAO Balanced Crypto Pie\)**](https://pools.piedao.org/#/pie/0xe4f726adc8e89c6a6017f01eada77865db22da14) **\(** 🥧 [**Oven**](https://pools.piedao.org/#/oven) **\) \(**[**介绍**](https://medium.com/piedao/announcing-balanced-crypto-pie-bcp-btc-eth-and-defi-7a2423c5d94e)**\)**
 * [**YPIE**](https://pools.piedao.org/#/pie/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31)  ****,  ****[**DEFI++**](https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033)\*\*\*\*
-* [**MVI**](https://app.zerion.io/invest/asset/MVI-0x72e364f2abdc788b7e918bc238b21f109cd634d7)  ****,  ****[**$PLAY**](https://app.zerion.io/invest/asset/PLAY-0x33e18a092a93ff21ad04746c7da12e35d34dc7c4)  **,**  [**NFTX**](https://app.zerion.io/invest/asset/NFTX-0x87d73e916d7057945c9bcd8cdd94e42a6f47f776) ****
+* [**MVI**](https://app.zerion.io/invest/asset/MVI-0x72e364f2abdc788b7e918bc238b21f109cd634d7)  ****,  ****[**$PLAY**](https://app.zerion.io/invest/asset/PLAY-0x33e18a092a93ff21ad04746c7da12e35d34dc7c4)  **,**  [**NFTX**](https://app.zerion.io/invest/asset/NFTX-0x87d73e916d7057945c9bcd8cdd94e42a6f47f776)\*\*\*\*
+* \*\*\*\*[**https://app.cryptex.finance/**](https://app.cryptex.finance/) **TCAP全加密市场指数**
+
+  
+  ****
+
 * \*\*\*\*[**Gas费**](https://gasnow.sparkpool.com/)\*\*\*\*
 
   
