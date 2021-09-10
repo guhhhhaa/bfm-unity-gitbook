@@ -71,7 +71,7 @@ description: Management Cockpit (Operation)
 ## Layer-2 Polygon\(Matic\)操作面板
 
 {% hint style="danger" %}
-不稳定，正在建设中……
+NOTE: **💀 This project is in beta. Use at your own risk.** 
 
 users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge). 
 
