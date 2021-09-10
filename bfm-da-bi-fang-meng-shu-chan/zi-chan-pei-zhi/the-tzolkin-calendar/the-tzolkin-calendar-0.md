@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [基金管理6.01](https://share.weiyun.com/DthR1zgk)
+## 最新版下载链接🔗   [泰坦6.02](https://share.weiyun.com/iuPGzGEW)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
@@ -126,6 +126,13 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 修补了部分BUG，更新了参数，优化了UI
 
 [基金管理6.01](https://share.weiyun.com/DthR1zgk)
+
+### 泰坦6.02——
+
+增加了总指挥室替代原币安驾驶舱的功能，  
+更新派网驾驶舱为币圈驾驶舱，增加了杠杆控制表格。
+
+[泰坦6.02](https://share.weiyun.com/iuPGzGEW)
 {% endhint %}
 
 ## **周期发现**

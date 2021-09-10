@@ -13,7 +13,7 @@ description: The Tzolkin Calendar
 > —— 《三体》- 刘慈欣
 
 {% hint style="success" %}
-## [基金管理6.01](https://share.weiyun.com/DthR1zgk)
+## [泰坦6.02](https://share.weiyun.com/iuPGzGEW)
 
 ### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
 
