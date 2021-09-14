@@ -153,6 +153,39 @@ description: Command Room (Discovery)
 
 **著名地址:** [**0xb1**](https://debank.com/profile/0xb1adceddb2941033a090dd166a462fe1c2029484)\*\*\*\*
 
+\*\*\*\*
+
+{% tabs %}
+{% tab title="Crypto分析⼯具" %}
+| Crypto分析⼯具 |  |
+| :--- | :--- |
+| Dune Analytics | [https://dune.xyz/home](https://www.google.com/url?q=https://dune.xyz/home&sa=D&source=editors&ust=1631628890252000&usg=AOvVaw0UQ_DrSz2jvY7Dt_xvmij7) |
+| Nansen | [https://www.nansen.ai/](https://www.google.com/url?q=https://www.nansen.ai/&sa=D&source=editors&ust=1631628890252000&usg=AOvVaw2wNDwvYiAQtF4xJ2wxPQB8) |
+| Messari | [https://messari.io/](https://www.google.com/url?q=https://messari.io/&sa=D&source=editors&ust=1631628890252000&usg=AOvVaw23BFRmzPBNBADYC-dwtDm2) |
+| Token Terminal | [https://www.tokenterminal.com/](https://www.google.com/url?q=https://www.tokenterminal.com/&sa=D&source=editors&ust=1631628890253000&usg=AOvVaw1JzQ8dMTCCDc08VrVnA8-1) |
+| DeFi Pulse | [https://defipulse.com/](https://www.google.com/url?q=https://defipulse.com/&sa=D&source=editors&ust=1631628890253000&usg=AOvVaw3lIkPUO53ip0W6BMQUKZxe) |
+| DeBank | [https://debank.com/](https://www.google.com/url?q=https://debank.com/&sa=D&source=editors&ust=1631628890253000&usg=AOvVaw2s8SBZIpW4ifvfEQS9VAQj) |
+| Etherscan | [https://etherscan.io/](https://www.google.com/url?q=https://etherscan.io/&sa=D&source=editors&ust=1631628890254000&usg=AOvVaw1zARlFpt7aK69X6Gm6kWY2) |
+| CoinMetrics | [https://coinmetrics.io/](https://www.google.com/url?q=https://coinmetrics.io/&sa=D&source=editors&ust=1631628890254000&usg=AOvVaw1q1Uxg2h7g6DOJUpoeYtoR) |
+| Glassnode | [https://glassnode.com/](https://www.google.com/url?q=https://glassnode.com/&sa=D&source=editors&ust=1631628890254000&usg=AOvVaw2G4D7f-WhHS8qpnRIviJd1) |
+| IntotheBlock | [https://www.intotheblock.com/](https://www.google.com/url?q=https://www.intotheblock.com/&sa=D&source=editors&ust=1631628890255000&usg=AOvVaw2Kw1yPu0uIDWeEEos5s0ZV) |
+| Crypto Quant | [https://cryptoquant.com/overview/btc-exchange-flows](https://www.google.com/url?q=https://cryptoquant.com/overview/btc-exchange-flows&sa=D&source=editors&ust=1631628890255000&usg=AOvVaw1-scxN5RAq3xfFURGXiMiw) |
+| The Block research | [https://www.theblockresearch.com/](https://www.google.com/url?q=https://www.theblockresearch.com/&sa=D&source=editors&ust=1631628890255000&usg=AOvVaw0PVQftlAUDiqCs7U6H3-vB) |
+| Lunacrash | [https://lunarcrush.com/](https://www.google.com/url?q=https://lunarcrush.com/&sa=D&source=editors&ust=1631628890256000&usg=AOvVaw14BLfLL7kPFT0y9MjvjZmh) |
+| Tokentrove | [https://tokentrove.com/](https://www.google.com/url?q=https://tokentrove.com/&sa=D&source=editors&ust=1631628890256000&usg=AOvVaw2JNU-ggnBBHj-SxhnqPbpg) |
+| Uniwhales | [https://uniwhales.io/](https://www.google.com/url?q=https://uniwhales.io/&sa=D&source=editors&ust=1631628890257000&usg=AOvVaw3VtoJ-nof0HfpFpQlyJ_1b) |
+| Crypto投资⽅信息 |  |
+| Cypherhunter | [https://www.cypherhunter.com/zh-hans/](https://www.google.com/url?q=https://www.cypherhunter.com/zh-hans/&sa=D&source=editors&ust=1631628890257000&usg=AOvVaw3hQCSffOdSNgKP6NQZnK8K) |
+| Crunchbase | [https://www.crunchbase.com/](https://www.google.com/url?q=https://www.crunchbase.com/&sa=D&source=editors&ust=1631628890258000&usg=AOvVaw2LhEglU8j0-98ynY0iNDj8) |
+| Block123 | [https://www.block123.com/](https://www.google.com/url?q=https://www.block123.com/&sa=D&source=editors&ust=1631628890258000&usg=AOvVaw2nLy2gscOW2YGAPv_V6To3) |
+| 项⽬信息平台 |  |
+| ICOdrops | [https://icodrops.com/](https://www.google.com/url?q=https://icodrops.com/&sa=D&source=editors&ust=1631628890258000&usg=AOvVaw33f3TnVxx8YFbGAj8XIIVc) |
+| CoinMarketCap | [https://coinmarketcap.com/zh/](https://www.google.com/url?q=https://coinmarketcap.com/zh/&sa=D&source=editors&ust=1631628890259000&usg=AOvVaw2zfF2b7KuK5hsPT0amtuBL) |
+| CoinGecko | [https://www.coingecko.com/zh](https://www.google.com/url?q=https://www.coingecko.com/zh&sa=D&source=editors&ust=1631628890259000&usg=AOvVaw2RSAc0HuW5Ghfw78UwlRND) |
+| ICO Bench | [https://icobench.com/](https://www.google.com/url?q=https://icobench.com/&sa=D&source=editors&ust=1631628890259000&usg=AOvVaw1qJ2fKxiub7Yx-j9LRxy4T) |
+{% endtab %}
+{% endtabs %}
+
 ## 比特币指标
 
 {% tabs %}
