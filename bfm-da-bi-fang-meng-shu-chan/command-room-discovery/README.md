@@ -16,6 +16,8 @@ description: Command Room (Discovery)
 
 {% page-ref page="zhi-hui-shi-polygonmatic.md" %}
 
+{% page-ref page="zhi-hui-shi-arbitrum.md" %}
+
 
 
 {% page-ref page="zhi-hui-shi-ipfsfil.md" %}

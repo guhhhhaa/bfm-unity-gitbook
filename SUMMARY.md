@@ -31,6 +31,7 @@
   * [指挥室 - ETH以太坊](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-eth.md)
   * [指挥室 - BSC币安智能链](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-bsc.md)
   * [指挥室 - Polygon\(Matic\)](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-polygonmatic.md)
+  * [指挥室 - Arbitrum](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-arbitrum.md)
   * [指挥室 - IPFS/FIL](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-ipfsfil.md)
 * [资产配置 🕙 ⌚️](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/README.md)
   * [战略资产配置——卓尔金历 🕙](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/README.md)
