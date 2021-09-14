@@ -178,6 +178,7 @@
 {% tab title="NFT" %}
 * [手把手教你如何使用 IPFS 创建 NFT 和部署智能合约](https://www.chainnews.com/articles/457949123989.htm)
 * [https://www.ultrasound.money/](https://www.ultrasound.money/)
+* [https://sourceful.us/doc/978/crypto-data-tools-](https://sourceful.us/doc/978/crypto-data-tools-)
 {% endtab %}
 {% endtabs %}
 
