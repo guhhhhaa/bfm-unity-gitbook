@@ -77,7 +77,8 @@
 
 ## BFM Meta \| 比坊梦元宇宙 <a id="bfm-meta"></a>
 
-* [比坊梦元宇宙](bfm-meta/bi-fang-meng-yuan-yu-zhou.md)
+* [比坊梦元宇宙](bfm-meta/bi-fang-meng-yuan-yu-zhou/README.md)
+  * [比坊梦NFT](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-nft.md)
 
 ## BFM R-Ins. \| 比坊梦科学研究院
 
