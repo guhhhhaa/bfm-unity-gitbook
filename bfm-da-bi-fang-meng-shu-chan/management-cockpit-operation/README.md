@@ -73,7 +73,7 @@ description: Management Cockpit (Operation)
 {% hint style="danger" %}
 NOTE: **💀 This project is in beta. Use at your own risk.** 
 
-users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge). 
+Users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge). 
 
 * [**QuickSwap**](https://quickswap.exchange/#/swap)  **\|**  [**QuickSwap Info**](https://info.quickswap.exchange/) **\|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
 * [**DeBank - Polygon**](https://debank.com/projects?chain=matic) **项目排名**
@@ -85,21 +85,20 @@ users must first migrate their digital assets to the Polygon network through the
 [Layer 2使用教程系列二：如何使用Matic Network完成资产跨链并进行交易](https://www.theblockbeats.com/news/22403)
 {% endhint %}
 
-## Layer-2 rbitrum操 作面板
+## Layer-2 Arbitrum 操作面板
 
 {% hint style="danger" %}
 NOTE: **💀 This project is in beta. Use at your own risk.** 
 
-users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge). 
+Users must first migrate their digital assets to the **Arbitrum** network through the [Arbitrum Token Bridge](https://bridge.arbitrum.io/). 
 
-* [**QuickSwap**](https://quickswap.exchange/#/swap)  **\|**  [**QuickSwap Info**](https://info.quickswap.exchange/) **\|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
-* [**DeBank - Polygon**](https://debank.com/projects?chain=matic) **项目排名**
-* \*\*\*\*[**polygon.Balancer**](https://polygon.balancer.fi/)\*\*\*\*
-* \*\*\*\*[**polygon.Curve**](https://polygon.curve.fi/)\*\*\*\*
+* \*\*\*\*[**arbitrum.Uniswap**](https://app.uniswap.org/#/swap)  **\|**  [**arbitrum.Info**](https://info.uniswap.org/#/arbitrum/)\*\*\*\*
+* [**DeBank - Arbitrum**](https://debank.com/projects?chain=arb) **项目排名**
+* \*\*\*\*[**arbitrum.balancer**](https://arbitrum.balancer.fi/)\*\*\*\*
+* \*\*\*\*[**arbitrum.SushiSwap**](https://app.sushi.com/zh_CN)\*\*\*\*
+* \*\*\*\*[**arbitrum.curve**](https://arbitrum.curve.fi/)\*\*\*\*
 
-[Layer 2使用教程系列一：教你使用几大Layer 2应用](https://www.theblockbeats.com/news/21604)
-
-[Layer 2使用教程系列二：如何使用Matic Network完成资产跨链并进行交易](https://www.theblockbeats.com/news/22403)
+\*\*\*\*[热门L2网络Arbitrum启航，有哪些收益耕作机会](https://www.chainnews.com/articles/294841654081.htm)
 {% endhint %}
 
 ## 元宇宙
