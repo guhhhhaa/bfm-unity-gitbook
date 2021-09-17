@@ -12,6 +12,8 @@ description: The Tzolkin Calendar
 >
 > —— 《三体》- 刘慈欣
 
+[什么是卓尔金历？](https://www.jianshu.com/p/5b3a31f95a1d)
+
 {% hint style="success" %}
 ## [泰坦6.02](https://share.weiyun.com/iuPGzGEW)
 
