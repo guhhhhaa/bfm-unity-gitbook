@@ -19,7 +19,6 @@
 
 * [比坊梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
 * [比坊梦基金会](bfmurs/untitled-1.md)
-* [三角套利程序众筹（🔥）](bfmurs/san-jiao-tao-li-cheng-xu-zhong-chou.md)
 * [比坊梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
 * [若尘的基金](bfmurs/ruo-chen-de-qie-man-ji-jin.md)
 
@@ -185,4 +184,8 @@
 * [投资方法论](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
 * [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
 * [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
+
+## 回收站
+
+* [三角套利程序众筹（🔥）](hui-shou-zhan/san-jiao-tao-li-cheng-xu-zhong-chou.md)
 

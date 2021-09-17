@@ -1,5 +1,9 @@
 # 三角套利程序众筹（🔥）
 
+{% hint style="danger" %}
+大神不同意定金方式，已经下架，未来再合作
+{% endhint %}
+
 ## 众筹声明
 
 [https://github.com/zlq4863947/triangular-arbitrage2](https://github.com/zlq4863947/triangular-arbitrage2) 
