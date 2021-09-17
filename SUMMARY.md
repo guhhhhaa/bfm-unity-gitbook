@@ -187,5 +187,5 @@
 
 ## 回收站
 
-* [三角套利程序众筹（🔥）](hui-shou-zhan/san-jiao-tao-li-cheng-xu-zhong-chou.md)
+* [三角套利程序众筹（中止）](hui-shou-zhan/san-jiao-tao-li-cheng-xu-zhong-chou.md)
 
