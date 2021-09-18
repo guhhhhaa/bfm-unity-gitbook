@@ -22,12 +22,9 @@ description: BFM Foundation
 
 \*\*\*\*[**BTC2x-FLI**](https://www.tokensets.com/portfolio/btcfli)\*\*\*\*
 
-### 基金已经成功在 且慢 上发行，大家可以购买。
+## **比坊梦全球互联网 基金**
 
-### [比坊梦全球互联网指数](https://qieman.com/portfolios/ZH116702
-)
-
-{% embed url="https://qieman.com/portfolios/ZH116702" %}
+{% page-ref page="bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md" %}
 
 {% embed url="https://www.youtube.com/watch?v=AMQH6FG8gf8" %}
 
