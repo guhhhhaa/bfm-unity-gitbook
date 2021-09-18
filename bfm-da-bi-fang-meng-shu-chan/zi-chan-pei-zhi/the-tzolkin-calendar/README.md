@@ -88,7 +88,5 @@ description: The Tzolkin Calendar
 
 {% embed url="http://www.52pjb.net/xiazai/office/551.html" %}
 
-{% embed url="https://www.mac69.com/mac/2648.html" %}
-
 {% embed url="https://sufan.maytide.net/read.php/1871.htm" %}
 
