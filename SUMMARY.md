@@ -50,6 +50,7 @@
     * [卓尔金升级8——货币政策](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md)
     * [卓尔金升级9——杠杆控制](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-9-gang-gan-kong-zhi.md)
     * [卓尔金升级A1——市占幂修](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)
+    * [卓尔金升级A2——参数读取](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a2-can-shu-du-qu.md)
     * [卓尔金历法旧版页面](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
   * [战术资产配置——哈布历⌚️](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/README.md)
     * [哈布历法1层次](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/ha-bu-li-fa-yan-jiu.md)
