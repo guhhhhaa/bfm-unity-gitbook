@@ -1,5 +1,9 @@
 # Excel 教室
 
+## 安装下载
+
+[https://www.coolhub.top/](https://www.coolhub.top/)
+
 ## 实用极简
 
 * \*\*\*\*[**初学者，零基础必备的18个Excel工作表函数，易学易懂易用**](https://zhuanlan.zhihu.com/p/341616011)\*\*\*\*
