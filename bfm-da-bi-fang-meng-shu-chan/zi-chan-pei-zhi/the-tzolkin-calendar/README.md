@@ -15,7 +15,9 @@ description: The Tzolkin Calendar
 > [什么是卓尔金历？](https://www.jianshu.com/p/5b3a31f95a1d)
 
 {% hint style="success" %}
-## [泰坦6.02](https://share.weiyun.com/iuPGzGEW)
+**现在部署你的宇宙旗舰：**
+
+### 米玛塔尔共和国拉格纳洛克级[泰坦6.02](https://share.weiyun.com/iuPGzGEW)
 
 ### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
 
@@ -84,7 +86,9 @@ description: The Tzolkin Calendar
 
 {% page-ref page="the-tzolkin-calendar-0.md" %}
 
-[https://www.coolhub.top/](https://www.coolhub.top/)
+## 友情链接
+
+{% embed url="https://www.coolhub.top/" %}
 
 {% embed url="http://www.52pjb.net/xiazai/26220.html\#xzdz" %}
 
