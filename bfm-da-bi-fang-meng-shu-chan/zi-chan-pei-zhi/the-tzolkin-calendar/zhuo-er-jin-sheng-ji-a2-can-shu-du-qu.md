@@ -1,9 +1,9 @@
 # 卓尔金升级A2——参数读取
 
 {% hint style="info" %}
-## 参数读取由 CryptoSheets 和 GlassNode 支持
+## 参数读取由 [CryptoSheets](https://app.cryptosheets.com/) 和 [GlassNode](https://studio.glassnode.com/settings/api) 支持
 
-未来考虑增加 [https://sheets.santiment.net/](https://sheets.santiment.net/) 的支持[https://sheets.santiment.n](https://sheets.santiment.net/)
+未来考虑增加 [https://sheets.santiment.net/](https://sheets.santiment.net/) 的支持
 {% endhint %}
 
 【链接】HowtopullCCXTdataintoExcelandGoogleSheets [https://docs.cryptosheets.com/providers/ccxt/](https://docs.cryptosheets.com/providers/ccxt/)
