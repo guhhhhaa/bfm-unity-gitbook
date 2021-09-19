@@ -98,5 +98,14 @@ description: The Tzolkin Calendar
 
 链接: [https://pan.baidu.com/s/19aD-i0B7khux5R5xiYtPig](https://pan.baidu.com/s/19aD-i0B7khux5R5xiYtPig) 密码: eint--来自百度网盘超级会员V5的分享
 
+{% embed url="https://camrojud.com/microsoft-office-365-product-key-crack-2020-for-mac-free-download/" %}
+
+#### How to Activate & Crack Office 365 Lifetime?
+
+1. First of all, [Download](https://www.microsoft.com/en-us/download/details.aspx?id=55942) the full version here
+2. Install it.
+3. Copy the product key and paste it into your software.
+4. Please wait a few seconds, and It is a lifetime cracked.  
+
 {% embed url="https://sufan.maytide.net/read.php/1871.htm" %}
 
