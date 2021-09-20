@@ -88,10 +88,12 @@ description: The Tzolkin Calendar
 
 ## 友情链接
 
-{% hint style="info" %}
+{% hint style="success" %}
 ## 如果实在不会破解Office，建议直接使用[拼多多](https://yangkeduo.com/search_result.html?search_key=office%20365%20mac)，
 
 ### 拼多多上，只需要十几块钱，就可以一对一指导破解安装。
+
+**推荐下载最新版的 MicroSoft 365 for Windows/Mac，这样才能支持CryptoSheets插件。**
 {% endhint %}
 
 {% embed url="https://www.coolhub.top/" %}
