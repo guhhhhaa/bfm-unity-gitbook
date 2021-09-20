@@ -89,7 +89,9 @@ description: The Tzolkin Calendar
 ## 友情链接
 
 {% hint style="success" %}
-## 如果实在不会破解Office，建议直接使用[拼多多](https://yangkeduo.com/search_result.html?search_key=office%20365%20mac)，
+## 如果实在不会破解 **MicroSoft** Office **365**
+
+### 建议直接使用[拼多多](https://yangkeduo.com/search_result.html?search_key=office%20365%20mac)，
 
 ### 拼多多上，只需要¥十几块，就可以一对一指导破解安装。
 
