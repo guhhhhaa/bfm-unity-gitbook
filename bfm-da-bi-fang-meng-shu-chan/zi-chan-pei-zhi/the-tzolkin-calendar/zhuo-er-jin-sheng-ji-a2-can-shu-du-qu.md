@@ -35,6 +35,10 @@
 
 2，市值：通过CryptoSheets读取各个币种的美元市值（实时），输出到Excel表格。（通过[https://app.cryptosheets.com/\#/templates/133](https://app.cryptosheets.com/#/templates/133)已完成）
 
+[https://cryptosheets.com/templates](https://cryptosheets.com/templates)
+
+[https://app.cryptosheets.com/\#/browse/templates](https://app.cryptosheets.com/#/browse/templates)
+
 3，MVRV：通过CryptoSheets读取BTC的MVRV（当日），输出到Excel表格。
 
 4，S2F：通过CryptoSheets读取BTC的S2F（当日），输出到Excel表格。
