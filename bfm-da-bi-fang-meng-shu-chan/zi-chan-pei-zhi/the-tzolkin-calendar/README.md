@@ -62,7 +62,7 @@ description: The Tzolkin Calendar
 
 ## 回测结果
 
-![](../../../.gitbook/assets/f92ac38b6b8ef52244f60616bcd8acf6.jpg)
+![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210920-shang-wu-11.47.15.png)
 
 {% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
 
