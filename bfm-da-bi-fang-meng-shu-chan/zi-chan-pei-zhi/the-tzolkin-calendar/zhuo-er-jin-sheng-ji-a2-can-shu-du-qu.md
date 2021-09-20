@@ -10,6 +10,8 @@
 
 [https://store.office.com/addinsinstallpage.aspx%3Frs=en-US&assetid=WA104381695&ui=en-US&ad=US](https://store.office.com/addinsinstallpage.aspx%3Frs=en-US&assetid=WA104381695&ui=en-US&ad=US)
 
+[https://docs.cryptosheets.com/cryptosheets-concepts/beginner-tutorial/](https://docs.cryptosheets.com/cryptosheets-concepts/beginner-tutorial/)
+
 [https://docs.cryptosheets.com/functions/querya/](https://docs.cryptosheets.com/functions/querya/)
 
 [https://docs.cryptosheets.com/providers/glassnode/mvrv-z-score/](https://docs.cryptosheets.com/providers/glassnode/mvrv-z-score/)
