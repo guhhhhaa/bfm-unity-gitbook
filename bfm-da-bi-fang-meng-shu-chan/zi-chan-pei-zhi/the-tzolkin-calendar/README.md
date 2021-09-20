@@ -93,7 +93,7 @@ description: The Tzolkin Calendar
 
 ### 拼多多上，只需要十几块钱，就可以一对一指导破解安装。
 
-**推荐下载最新版的 MicroSoft 365 for Windows/Mac，这样才能支持CryptoSheets插件。**
+**推荐下载最新版的 MicroSoft 365 for Windows/Mac，这样才能支持CryptoSheets 插件扩展。**
 {% endhint %}
 
 {% embed url="https://www.coolhub.top/" %}
