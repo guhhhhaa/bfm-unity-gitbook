@@ -96,6 +96,8 @@ description: The Tzolkin Calendar
 **推荐下载最新版的 MicroSoft 365 for Windows/Mac，这样才能支持CryptoSheets 插件扩展。**
 {% endhint %}
 
+{% page-ref page="zhuo-er-jin-sheng-ji-a2-can-shu-du-qu.md" %}
+
 {% embed url="https://www.coolhub.top/" %}
 
 {% embed url="http://www.52pjb.net/xiazai/26220.html\#xzdz" %}
