@@ -8,7 +8,9 @@
 
 _隐含波动率_\(Implied Volatility\)是将市场上的期权或权证交易价格代入权证理论价格模型&lt;Black-Scholes模型&gt;，反推出来的波动率数值。
 
+[https://docs.cryptosheets.com/scenarios/historical-constant-skew-for-btc-&-eth-options/](https://docs.cryptosheets.com/scenarios/historical-constant-skew-for-btc-&-eth-options/)
 
+[https://docs.cryptosheets.com/providers/genesisvolatility/options-skew-term-structure-iv-current-orderbook-skew-strike/](https://docs.cryptosheets.com/providers/genesisvolatility/options-skew-term-structure-iv-current-orderbook-skew-strike/)
 
 Excel 滑动时间窗
 
