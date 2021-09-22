@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [泰坦6.02](https://share.weiyun.com/m5YzCYl9) 泰坦6.03 泰坦6.04
+## 最新版下载链接🔗   [泰坦6.02](https://share.weiyun.com/m5YzCYl9) [泰坦6.03](https://share.weiyun.com/MAjvUh6t) [泰坦6.04](https://share.weiyun.com/BPHPP0iq)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
@@ -133,6 +133,19 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 更新派网驾驶舱为币圈驾驶舱，增加了杠杆控制表格。
 
 [泰坦6.02](https://share.weiyun.com/m5YzCYl9)
+
+### 泰坦6.03——
+
+增加了止损熔断器  
+更新派网驾驶舱为币圈驾驶舱，增加了杠杆控制表格。
+
+[泰坦6.02](https://share.weiyun.com/m5YzCYl9)
+
+### 泰坦6.03——
+
+增加了空间站主舰桥，修复了一些BUG
+
+[泰坦6.04](https://share.weiyun.com/BPHPP0iq)
 {% endhint %}
 
 ## **周期发现**
