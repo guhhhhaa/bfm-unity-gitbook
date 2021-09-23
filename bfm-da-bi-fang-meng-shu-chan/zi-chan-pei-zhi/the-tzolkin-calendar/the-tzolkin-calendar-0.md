@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [泰坦6.05](https://share.weiyun.com/vc0gZ9cI)
+## 最新版下载链接🔗   [泰坦6.06](https://share.weiyun.com/btzpOov6)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
@@ -152,6 +152,12 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 止损熔断器由手动改为自动，修复了一些BUG
 
 [泰坦6.05](https://share.weiyun.com/vc0gZ9cI)
+
+### 泰坦6.06——
+
+在神经网络页面增加了一个安全带以对最大杠杆率进行预警，修复了一些BUG
+
+[泰坦6.06](https://share.weiyun.com/btzpOov6)
 {% endhint %}
 
 ## **周期发现**
