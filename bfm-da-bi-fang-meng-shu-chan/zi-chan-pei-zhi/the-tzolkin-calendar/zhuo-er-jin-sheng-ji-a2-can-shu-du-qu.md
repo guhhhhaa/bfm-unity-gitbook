@@ -24,8 +24,6 @@
 
 [http://help.cryptosheets.com/en/articles/3499319-troubleshooting-cannot-log-in-or-you-are-not-logged-in-and-other-login-errors](http://help.cryptosheets.com/en/articles/3499319-troubleshooting-cannot-log-in-or-you-are-not-logged-in-and-other-login-errors)
 
-
-
 {% hint style="info" %}
 准备发起一个新活动，
 
@@ -39,8 +37,13 @@
 
 [https://app.cryptosheets.com/\#/browse/templates](https://app.cryptosheets.com/#/browse/templates)
 
-3，MVRV：通过CryptoSheets读取BTC的MVRV（当日），输出到Excel表格。
+3，MVRV：通过CryptoSheets读取BTC的MVRV（当日），输出到Excel表格。\(已完成\)
+
+[https://docs.cryptosheets.com/scenarios/marketcap-metrics---realized,-mvrv-and-basic-historical-marketcap/](https://docs.cryptosheets.com/scenarios/marketcap-metrics---realized,-mvrv-and-basic-historical-marketcap/)
 
 4，S2F：通过CryptoSheets读取BTC的S2F（当日），输出到Excel表格。
 {% endhint %}
+
+* [Unix时间与Excel时间转换](https://blog.csdn.net/flora_zhl/article/details/73920260)
+* [通过Excel将Unix时间转换为日期时间](https://www.it1352.com/2037257.html)
 
