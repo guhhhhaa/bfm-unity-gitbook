@@ -31,6 +31,8 @@
 
 1，练手：通过CryptoSheets读取各个币种对美元，人民币，比特币和以太坊的价格（群主已完成）
 
+[http://help.cryptosheets.com/en/articles/4448907-what-s-the-difference-between-cs-exrate-vs-cs-price-vs-cs-pricea](http://help.cryptosheets.com/en/articles/4448907-what-s-the-difference-between-cs-exrate-vs-cs-price-vs-cs-pricea)
+
 2，市值：通过CryptoSheets读取各个币种的美元市值（实时），输出到Excel表格。（通过[https://app.cryptosheets.com/\#/templates/133](https://app.cryptosheets.com/#/templates/133)已完成）
 
 [https://cryptosheets.com/templates](https://cryptosheets.com/templates)
