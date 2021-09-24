@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [泰坦6.07](https://share.weiyun.com/PHKMPflD)
+## 最新版下载链接🔗   [泰坦6.07](https://share.weiyun.com/ZF9buuZt)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
@@ -163,7 +163,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 扩展了支持币种的个数，增加了挂载舱个数的设置，修复了一些BUG
 
-[泰坦6.07](https://share.weiyun.com/PHKMPflD)
+[泰坦6.07](https://share.weiyun.com/ZF9buuZt)
 {% endhint %}
 
 ## **周期发现**
