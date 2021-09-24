@@ -15,7 +15,7 @@ description: The Tzolkin Calendar
 > [什么是卓尔金历？](https://www.jianshu.com/p/5b3a31f95a1d)
 
 {% hint style="success" %}
-## **现在部署你的宇宙旗舰：**[泰坦6.07](https://share.weiyun.com/wHNhIeGA)
+## **现在部署你的宇宙旗舰：**[泰坦6.07](https://share.weiyun.com/SWyfs46Q)
 
 ### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
 

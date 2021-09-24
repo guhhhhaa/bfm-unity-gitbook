@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [泰坦6.07](https://share.weiyun.com/wHNhIeGA)
+## 最新版下载链接🔗   [泰坦6.07](https://share.weiyun.com/SWyfs46Q)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
@@ -155,15 +155,15 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 泰坦6.06——
 
-在神经网络页面增加了一个安全带以对最大杠杆率进行预警，修复了一些BUG
+在神经网络页面增加一个安全带以对最大杠杆率进行预警，修复了一些BUG
 
 [泰坦6.06](https://share.weiyun.com/btzpOov6)
 
 ### 泰坦6.07——
 
-扩展了支持币种的个数，增加了挂载舱个数的设置，修复了一些BUG
+扩展支持币种的个数，增加挂载舱个数的设置，增加了对读取MVRV的支持，但没有实际应用，修复了一些BUG
 
-[泰坦6.07](https://share.weiyun.com/wHNhIeGA)
+[泰坦6.07](https://share.weiyun.com/SWyfs46Q)
 {% endhint %}
 
 ## **周期发现**
