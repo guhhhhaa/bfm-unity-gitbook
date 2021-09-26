@@ -1,4 +1,4 @@
-# 指挥室 - BSC - 币安智能链
+# 指挥室 - BNB - BSC
 
 {% page-ref page="./" %}
 
