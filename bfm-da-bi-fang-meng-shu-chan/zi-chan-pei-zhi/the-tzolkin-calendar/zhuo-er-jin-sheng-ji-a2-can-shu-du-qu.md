@@ -46,6 +46,8 @@
 4，S2F：通过CryptoSheets读取BTC的S2F（当日），输出到Excel表格。
 
 5，增加交易所排名支持
+
+[https://app.cryptosheets.com/\#/templates/428](https://app.cryptosheets.com/#/templates/428)
 {% endhint %}
 
 * [Unix时间与Excel时间转换](https://blog.csdn.net/flora_zhl/article/details/73920260)
