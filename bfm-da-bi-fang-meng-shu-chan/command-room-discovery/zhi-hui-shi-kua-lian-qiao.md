@@ -17,6 +17,7 @@
 
 一层公链：
 
+* Binance官方桥：[binance.org/en/bridge](https://www.google.com/url?q=http://binance.org/en/bridge&sa=D&source=editors&ust=1631629363816000&usg=AOvVaw0BZg4ar52SQCUToeoGsH8T)
 * Solana Wormhole Bridge：[https://www.wormholebridge.com/\#/move](https://www.wormholebridge.com/#/move)
 * Fantom Anyswap Bridge：[https://ftm.anyswap.exchange/bridge](https://ftm.anyswap.exchange/bridge)
 * Avalanche Bridge：[https://bridge.avax.network/login](https://bridge.avax.network/login)
@@ -44,5 +45,5 @@
 | wbtc官网 | wbtc.network/dashboard/partners | 冰糖橙跨链到以太坊上推荐大家使用wbtc官网上面的工具wrap成WBTC。 |
 | tp钱包的闪兑：Xswap |  | 支持eth↔bsc↔heco↔trx↔matic↔oec↔ftm↔eos↔hsc↔btc↔dot↔ksm↔lost这么多链的互跨，功能有点强大。 |
 | cbridge.celer.network | cbridge.celer.network | 7月新出的跨链桥，支持eth↔bsc↔matic↔xdai↔arbitrum互跨，手续费很低。 |
-| 跨链桥 | [https://www.cointofu.com/cross-chain-bridge](https://www.google.com/url?q=https://www.cointofu.com/cross-chain-bridge&sa=D&source=editors&ust=1631629363817000&usg=AOvVaw0l_PnNJ6l-FIAOnck3Yx54) | 只要选你想把资金从哪个链转去哪个链，就会自动输出对应的结果 |
+| 跨链桥 | [https://www.cointofu.com/cross-chain-bridge](https://www.cointofu.com/cross-chain-bridge) | 只要选你想把资金从哪个链转去哪个链，就会自动输出对应的结果 |
 
