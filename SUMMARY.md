@@ -29,7 +29,7 @@
   * [数学利器](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/shu-xue-li-qi.md)
 * [指挥室 \(探索\)](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/README.md)
   * [指挥室 - 跨链桥](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-kua-lian-qiao.md)
-  * [指挥室 - ETH - 以太坊](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-eth.md)
+  * [指挥室 - ETH - MainNet](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-eth.md)
   * [指挥室 - BNB - BSC](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-bsc.md)
   * [指挥室 - LUNA - Terra](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-terra.md)
   * [指挥室 - SOL - Solana](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-sol-solana.md)

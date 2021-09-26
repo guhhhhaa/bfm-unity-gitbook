@@ -1,4 +1,4 @@
-# 指挥室 - ETH - 以太坊
+# 指挥室 - ETH - MainNet
 
 {% page-ref page="./" %}
 
