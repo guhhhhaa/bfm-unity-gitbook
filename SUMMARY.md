@@ -31,7 +31,7 @@
   * [指挥室 - 跨链桥](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-kua-lian-qiao.md)
   * [指挥室 - ETH - 以太坊](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-eth.md)
   * [指挥室 - BSC - 币安智能链](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-bsc.md)
-  * [指挥室 - Terra](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-terra.md)
+  * [指挥室 - LUNA - Terra](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-terra.md)
   * [指挥室 - SOL - Solana](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-sol-solana.md)
   * [指挥室 - FTM - Fantom](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-ftm-fantom.md)
   * [指挥室 - AVAX - Avalanche](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-avax-avalanche.md)
