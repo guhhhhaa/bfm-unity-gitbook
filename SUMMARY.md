@@ -160,6 +160,7 @@
 * [C\#教室](bfm-univ.-bi-fang-meng-da-xue/c-jiao-shi.md)
 * [金融考试](bfm-univ.-bi-fang-meng-da-xue/jin-rong-kao-shi.md)
 * [计算机考试](bfm-univ.-bi-fang-meng-da-xue/ji-suan-ji-kao-shi.md)
+* [发卡卡密交易平台](bfm-univ.-bi-fang-meng-da-xue/fa-ka-ka-mi-jiao-yi-ping-tai.md)
 
 ## BFM Cult. \| 比坊梦文化
 
