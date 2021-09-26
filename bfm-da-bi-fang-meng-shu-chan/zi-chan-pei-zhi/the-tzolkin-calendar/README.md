@@ -4,7 +4,7 @@ description: The Tzolkin Calendar
 
 # 战略资产配置——卓尔金历 🕙
 
-> My clock is paper financial time    我的**时钟**显示账面的**金融时间**
+> eeMy clock is paper financial time    我的**时钟**显示账面的**金融时间**
 >
 > ——[《C》-  岩崎琢](https://music.163.com/#/song?id=22713696)
 
@@ -23,7 +23,7 @@ description: The Tzolkin Calendar
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**cryptosheets**](https://cryptosheets.com/) **\|** [templates](https://cryptosheets.com/templates) \| [templates2](https://app.cryptosheets.com/#/browse/templates)
+\*\*\*\*[**cryptosheets**](https://cryptosheets.com/) **\|** [templates](https://cryptosheets.com/templates) \| [templates2](https://app.cryptosheets.com/#/browse/templates) Excel 插件/模版
 {% endhint %}
 
 ## **周期发现**
