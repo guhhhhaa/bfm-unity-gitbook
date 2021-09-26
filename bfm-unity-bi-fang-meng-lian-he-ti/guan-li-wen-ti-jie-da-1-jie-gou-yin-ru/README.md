@@ -34,6 +34,20 @@ BFM是 Bellman-Ford-Moore 算法的简称。
 
 > BFM Unity 是以算法为核心驱动的去中心化自治组织（DAO）。
 
+## BFM Unity 的组织性质具体是什么？
+
+> BFM Unity 在政治，经济和世界范围内均保持中立。   
+> 它是耗散结构集群的去中心化的金融和经济统一体，  
+> 由智能算法驱动的微观经济结构的模块化单元的分布式自组织形成。
+
+> BFM Unity is neutral politically, economically and worldwide.   
+> It is a decentralized financial and economic continuum of dissipative structure clusters,   
+> formed by distributed self-organization of modular units of microeconomic structures driven by intelligent algorithms.
+
+BFM Unity 并不需要新加入的 Unit\(s\) 公开响应或者认同价值观。
+
+不管基于牟利或其他目的，只要使用 BFM 算法，都是在壮大我们在市场中的力量，所以也就都是 BFM Unity 的一部分。
+
 ## BFM 的愿景是什么？
 
 BFM 的愿景是，在 **不暴力推翻** 社会主义和资本主义的基础上，实现对 **社会主义** 和 **资本主义** 的 **超越与扬弃**，并最终实现 **共产主义**。
