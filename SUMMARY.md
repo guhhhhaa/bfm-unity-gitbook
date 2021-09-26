@@ -87,6 +87,7 @@
 * [国债逆回购](bfm-trad.-bi-fang-meng-jin-dian/guo-zhai-ni-hui-gou.md)
 * [可转债打新](bfm-trad.-bi-fang-meng-jin-dian/ke-zhuan-zhai-da-xin.md)
 * [离岸 HK·SG 🌍 港美股](bfm-trad.-bi-fang-meng-jin-dian/gang-mei-gu-kai-hu.md)
+* [海外手机号办理](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-shou-ji-hao-ban-li.md)
 
 ## BFM Meta \| 比坊梦元宇宙 <a id="bfm-meta"></a>
 
