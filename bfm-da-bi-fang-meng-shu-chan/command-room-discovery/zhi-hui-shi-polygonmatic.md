@@ -1,4 +1,4 @@
-# 指挥室 - Polygon\(Matic\)
+# 指挥室 - Matic - Polygon
 
 ![](../../.gitbook/assets/34bca558a0944fef7f6a81540618be5f.jpg)
 

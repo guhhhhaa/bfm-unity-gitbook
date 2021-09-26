@@ -37,7 +37,7 @@
   * [指挥室 - AVAX - Avalanche](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-avax-avalanche.md)
   * [指挥室 - Near](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-near.md)
   * [指挥室 - ATOM](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-atom.md)
-  * [指挥室 - Polygon\(Matic\)](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-polygonmatic.md)
+  * [指挥室 - Matic - Polygon](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-polygonmatic.md)
   * [指挥室 - Arbitrum](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-arbitrum.md)
   * [指挥室 - IPFS/FIL](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-ipfsfil.md)
 * [资产配置 🕙 ⌚️](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/README.md)
