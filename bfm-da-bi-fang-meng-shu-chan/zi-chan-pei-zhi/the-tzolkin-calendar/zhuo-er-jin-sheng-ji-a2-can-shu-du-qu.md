@@ -44,6 +44,8 @@
 [https://docs.cryptosheets.com/scenarios/marketcap-metrics---realized,-mvrv-and-basic-historical-marketcap/](https://docs.cryptosheets.com/scenarios/marketcap-metrics---realized,-mvrv-and-basic-historical-marketcap/)
 
 4，S2F：通过CryptoSheets读取BTC的S2F（当日），输出到Excel表格。
+
+5，增加交易所排名支持
 {% endhint %}
 
 * [Unix时间与Excel时间转换](https://blog.csdn.net/flora_zhl/article/details/73920260)
