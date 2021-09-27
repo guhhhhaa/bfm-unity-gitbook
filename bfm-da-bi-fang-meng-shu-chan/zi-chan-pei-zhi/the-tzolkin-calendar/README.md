@@ -21,10 +21,25 @@ description: The Tzolkin Calendar
   * BFM URS \(The Tzolkin Calendar\) Popular
   * BFM URS \(The Tzolkin Calendar\) Air
   * BFM URS \(The Tzolkin Calendar\) Mini
+  * BFM URS \(The Tzolkin Calendar\) Plus
   * BFM URS \(The Tzolkin Calendar\) Pro
 * BFM URS \(The Tzolkin Calendar\) Beta
 * BFM URS \(The Tzolkin Calendar\) [Developer](https://share.weiyun.com/lWcLhfBg)
 {% endhint %}
+
+| 版本 | Popular | Air | Mini | Plus | Pro | Beta | Developer |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 卓尔金历 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 神经网络 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 参数实验室 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 记录仪 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| 币圈空间站手动 | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| 币圈空间站自动 | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| CryptoSheets | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| 总指挥室 | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| 且慢驾驶舱 | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| 哈布历法 | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| 基金管理 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 
 {% hint style="success" %}
 ### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
