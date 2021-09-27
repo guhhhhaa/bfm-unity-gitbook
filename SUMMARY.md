@@ -42,6 +42,7 @@
   * [指挥室 - IPFS/FIL](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-ipfsfil.md)
 * [资产配置 🕙 ⌚️](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/README.md)
   * [战略资产配置——卓尔金历 🕙](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/README.md)
+    * [卓尔金历法 商业版](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-li-fa-shang-ye-ban.md)
     * [卓尔金升级1——拟合函数](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
     * [卓尔金升级2——误差分析](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
     * [卓尔金升级3——智能实验](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md)
