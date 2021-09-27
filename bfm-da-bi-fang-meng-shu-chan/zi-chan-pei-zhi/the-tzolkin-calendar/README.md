@@ -18,9 +18,10 @@ description: The Tzolkin Calendar
 ## **现在部署你的宇宙旗舰：**[泰坦6.08](https://share.weiyun.com/lWcLhfBg)
 
 * BFM URS \(The Tzolkin Calendar\) Stable
-* BFM URS \(The Tzolkin Calendar\) Air
-* BFM URS \(The Tzolkin Calendar\) Mini
-* BFM URS \(The Tzolkin Calendar\) Pro 
+  * BFM URS \(The Tzolkin Calendar\) Popular
+  * BFM URS \(The Tzolkin Calendar\) Air
+  * BFM URS \(The Tzolkin Calendar\) Mini
+  * BFM URS \(The Tzolkin Calendar\) Pro
 * BFM URS \(The Tzolkin Calendar\) Beta
 * BFM URS \(The Tzolkin Calendar\) [Developer](https://share.weiyun.com/lWcLhfBg)
 {% endhint %}
