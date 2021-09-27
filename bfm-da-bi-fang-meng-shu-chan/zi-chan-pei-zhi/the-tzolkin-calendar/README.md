@@ -27,7 +27,7 @@ description: The Tzolkin Calendar
 * BFM URS \(The Tzolkin Calendar\) [Developer](https://share.weiyun.com/lWcLhfBg)
 {% endhint %}
 
-| 版本 | Popular | Air | Mini | Plus | Pro | Beta | Developer |
+| 版本 | Popular | Air | Mini | Plus（🔥） | Pro | Beta | Developer |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 卓尔金历 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 神经网络 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
