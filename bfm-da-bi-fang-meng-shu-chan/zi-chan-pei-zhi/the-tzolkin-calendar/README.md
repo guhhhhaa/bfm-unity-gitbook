@@ -41,7 +41,6 @@ description: The Tzolkin Calendar
 | 且慢驾驶舱 | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
 | 哈布历法 | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
 | 基金管理 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-|  |  |  |  |  |  |  |  |
 
 {% hint style="success" %}
 ### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
