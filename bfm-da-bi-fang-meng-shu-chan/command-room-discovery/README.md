@@ -67,7 +67,10 @@ description: Command Room (Discovery)
 {% tab title="交易所🏦" %}
 ## **交易所**
 
+
+
 * \*\*\*\*[**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI) **（返现比例：我**10%，你10%**）**
+* \*\*\*\*[**FTX 交易所**](https://ftx.com/#a=45676115) ****600种加密货币、美股凭证任你买卖
 
 ![](../../.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
 
