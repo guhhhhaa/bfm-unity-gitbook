@@ -16,9 +16,9 @@ NOTE: **v2.0.0 版本已于 2021.7.24 被冻结，且不再修改。**
 
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
-### [赞助](https://guhhhhaa.gitbook.io/bfm/juan-zeng-da-shang) \| [加群](https://guhhhhaa.gitbook.io/bfm/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) \| [看板](https://trello.com/b/z4aDgNAL/todolist)
+### [赞助](https://www.bfm-unity.com/v/v2.0.0/hou-fang/juan-zeng-da-shang) \| [加群](https://www.bfm-unity.com/v/v2.0.0/li-shi/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) \| [看板](https://trello.com/b/z4aDgNAL/todolist)
 
-### [**系统核心代码**](https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python) **\|** [**CCXT重点实验室**](https://www.bfm-unity.com/qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
+### [**系统核心代码**](https://www.bfm-unity.com/v/v2.0.0/he-xin/ruan-jian-bfm-on-python) **\|** [**CCXT重点实验室**](https://www.bfm-unity.com/v/v2.0.0/qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie)
 {% endhint %}
 
 {% page-ref page="qian-xian/lv0-zhu-jian-qiao-yin-dao.md" %}
