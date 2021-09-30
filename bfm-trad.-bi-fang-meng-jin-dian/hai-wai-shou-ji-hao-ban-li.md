@@ -2,6 +2,11 @@
 
 ## [如何拥有真实的美国手机号 \| 从免费到超贵，三种实用方案推荐 \| VLOG32](https://luolei.org/how-to-get-a-us-mobile-phone-number/)
 
+**【链接】普通 Google Voice 谷歌语音\|可转移GV号码-外贸帐** [http://www.zhanghao1688.com/product/4.html](http://www.zhanghao1688.com/product/4.html)
+
+**从零开始认识 Google Voice**  
+[https://zhuanlan.zhihu.com/p/117420254](https://zhuanlan.zhihu.com/p/117420254)
+
 **Google Voice**
 
 [Google Voice](https://voice.google.com/u/0/calls)是谷歌2009年推出的一个VoIP服务，注册成功后，就有一个真实的美国号码，能够拿来接受美国的短信验证码，发动短信，拨打美国电话等。
