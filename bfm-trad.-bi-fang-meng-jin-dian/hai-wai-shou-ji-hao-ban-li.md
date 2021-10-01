@@ -1,11 +1,14 @@
 # 海外手机号
 
+![](../.gitbook/assets/image%20%2847%29.png)
+
 ## [如何拥有真实的美国手机号 \| 从免费到超贵，三种实用方案推荐 \| VLOG32](https://luolei.org/how-to-get-a-us-mobile-phone-number/)
 
-**【链接】普通 Google Voice 谷歌语音\|可转移GV号码-外贸帐** [http://www.zhanghao1688.com/product/4.html](http://www.zhanghao1688.com/product/4.html)
-
-**从零开始认识 Google Voice**  
-[https://zhuanlan.zhihu.com/p/117420254](https://zhuanlan.zhihu.com/p/117420254)
+* [**从零开始认识 Google Voice**](https://zhuanlan.zhihu.com/p/117420254)
+* [Google Voice 号码转移图文教程](https://zhuanlan.zhihu.com/p/344231299)
+* [**【链接】普通 Google Voice 谷歌语音\|可转移GV号码-外贸帐** ](http://www.zhanghao1688.com/product/4.html)\*\*\*\*
+* [google voice指导篇 ——总结](http://www.gv-google.com/gvjc/19.html)
+* \*\*\*\*[**Google Voice指导篇 -关于Google Voice 所有教程和常见问题**](https://zhuanlan.zhihu.com/p/201516310)\*\*\*\*
 
 **Google Voice**
 
