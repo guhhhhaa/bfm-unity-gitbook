@@ -289,6 +289,11 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ![](../../.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
 {% endtab %}
+
+{% tab title="Metcalfe\'s law" %}
+* [Bitcoin Market Cap should be $40b according to Metcalfe's law](https://woobull.com/bitcoin-market-cap-should-be-40b-according-to-metcalfes-law/)
+* [Metcalfe’s Law and Bitcoin’s Value](https://dcresearch.medium.com/metcalfes-law-and-bitcoin-s-value-2b99c7efd1fa)
+{% endtab %}
 {% endtabs %}
 
 ### MVRV和S2F投资策略
