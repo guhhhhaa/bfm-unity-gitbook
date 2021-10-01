@@ -1,11 +1,26 @@
 # 离岸 HK·SG 🌍 港美股
 
+{% hint style="info" %}
+政策监管之下交易所纷纷注销内地用户如何处理。 
+
+币安，火币，欧易三大交易所在年前肯定会清退中国存量用户 
+
+我觉得可以参考的解决方案有这么几种： 
+
+1.注册一家离岸公司，BVI，开曼，塞舌尔，英国等等在火币网进行机构认证，即可解决清退 
+
+2.办张港卡或者新加坡卡甚至瑞士CIM作为OTC通道出入金 
+
+这是可以作为保留或者退出都可以解决当下监管的问题
+{% endhint %}
+
 ## 离岸银行卡  💳 - HK🇭🇰 - SG🇸🇬
 
 [土耳其电子签证避坑攻略](https://zhuanlan.zhihu.com/p/145685753)
 
 [远程个人离岸银行开户](https://wangwanglaifu.com/individual-remote-offshore-bank-account-opening/)
 
+杜高斯贝 🇨🇭  
 [**汇丰**](https://www.hsbc.com.cn/) **\|** [**渣打**](https://www.sc.com/cn/) **\|** [**花旗**](https://www.citi.com/) **🇬🇧🇺🇸 🚩**  
 [**星展**](https://www.dbs.com.sg/) **\|** [**大华**](https://www.uob.com.sg/chi/) **\|** [**华侨**](https://www.ocbc.com/) **🇸🇬 🚩**  
 [**恒生**](https://www.hangseng.com.cn/) **\|** [**东亚**](https://www.hkbea.com.cn/PersonalBusiness/) **\|** [**大新**](https://www.dahsing.com/) **🇭🇰 🚩**  

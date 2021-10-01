@@ -14,5 +14,5 @@
 
 {% page-ref page="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yi-bu-bing-fa-xie-cheng-1/xin-ban-ben-gao-bing-fa-shi-yan-shi.md" %}
 
-
+Python电子书+课件+思维导图+编程规范+Python练习题： [https://pan.baidu.com/s/19UUZ8vXobrrmealiZioWpA](https://pan.baidu.com/s/19UUZ8vXobrrmealiZioWpA) 提取码：qwer
 

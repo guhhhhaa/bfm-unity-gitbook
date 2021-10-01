@@ -95,6 +95,7 @@
 
 * [比坊梦元宇宙](bfm-meta/bi-fang-meng-yuan-yu-zhou/README.md)
   * [比坊梦NFT](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-nft.md)
+  * [比坊梦游戏🎮](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-you-xi.md)
 
 ## BFM R-Ins. \| 比坊梦科学研究院
 
