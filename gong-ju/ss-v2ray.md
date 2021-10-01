@@ -73,7 +73,7 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 
 ## 账号获取
 
-### Freefq
+### Freefq（🔥）
 
 {% embed url="https://github.com/freefq/free" %}
 
