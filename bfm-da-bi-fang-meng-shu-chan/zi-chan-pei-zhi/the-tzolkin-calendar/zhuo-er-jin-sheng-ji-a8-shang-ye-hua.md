@@ -1,4 +1,4 @@
-# 卓尔金历法 商业版
+# 卓尔金升级A8——商业化
 
 {% hint style="success" %}
 * BFM URS \(The Tzolkin Calendar\) Trial 
@@ -30,4 +30,10 @@
 | 哈布历法 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |  |
 | 基金管理 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |  |
 | 卡密价格（年付） | Free | Ð8 | Ð4 | Ð2 | Ð16 | Ð32 | Ð64 | Ð128 |  |
+
+{% embed url="https://wordpress.org/plugins/mycryptocheckout/" %}
+
+{% embed url="https://www.binance.com/en/blog/421499824684901137/payment/spend-bnb-and-busd-at-shopify-merchants-via-alchemy-pay" %}
+
+![](../../../.gitbook/assets/image%20%2846%29.png)
 
