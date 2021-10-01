@@ -8,3 +8,7 @@
 
 [https://www.youtube.com/watch?v=lxkPWeCXm5I](https://www.youtube.com/watch?v=lxkPWeCXm5I)
 
+
+
+## [微软Excel在线版](https://www.office.com/launch/excel?ui=zh-CN&auth=1) \| [谷歌Sheet在线版](https://docs.google.com/spreadsheets/u/0/)
+
