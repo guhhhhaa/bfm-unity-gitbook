@@ -249,18 +249,24 @@ USDT市值增长的导数，决定了比特币的涨跌
 * \*\*\*\*[**B站视频**](https://www.bilibili.com/video/BV1Be411s7pj)\*\*\*\*
 {% endtab %}
 
+{% tab title="NVT & NVTS" %}
+* [**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **（Woobull）或** [**NVT**](https://www.blockchain.com/charts/nvt) **&** [**NVTS**](https://www.blockchain.com/charts/nvts)**（Blockchain.com）** [**NVT**](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/#fnref2)**：90**（表示高估）和 **40**（表示低估） **如果价格小幅下跌后，NVT依然&gt;90，说明是泡沫，应该立即离场。** [**NVTS**](https://woobull.com/nvt-signal-a-new-trading-indicator-to-pick-tops-and-bottoms/)**：150**（表示高估）和 **45**（表示低估）
+
+![](../../.gitbook/assets/image%20%288%29.png)
+{% endtab %}
+
+{% tab title="Metcalfe\'s law" %}
+* [Bitcoin Market Cap should be $40b according to Metcalfe's law](https://woobull.com/bitcoin-market-cap-should-be-40b-according-to-metcalfes-law/)
+* [Metcalfe’s Law and Bitcoin’s Value](https://dcresearch.medium.com/metcalfes-law-and-bitcoin-s-value-2b99c7efd1fa)
+* [基于交易指标衍生而来的**NVT \(Network Value to Transactions\)**，和基于用户指标衍生而来的**梅特卡夫指标\(Metcalfe's law\)**](https://new.qq.com/omn/20190807/20190807A0K3X200.html?pc)\*\*\*\*
+{% endtab %}
+
 {% tab title="Sharpe Ratio" %}
 \*\*\*\*[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)
 {% endtab %}
 
 {% tab title="活跃地址数" %}
 [**比特币活跃地址数**](https://www.qkl123.com/data/active_address/btc)的平方和其价值之间存在一定对应关系，符合梅特卡夫定律。
-{% endtab %}
-
-{% tab title="NVT & NVTS" %}
-* [**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **（Woobull）或** [**NVT**](https://www.blockchain.com/charts/nvt) **&** [**NVTS**](https://www.blockchain.com/charts/nvts)**（Blockchain.com）** [**NVT**](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/#fnref2)**：90**（表示高估）和 **40**（表示低估） **如果价格小幅下跌后，NVT依然&gt;90，说明是泡沫，应该立即离场。** [**NVTS**](https://woobull.com/nvt-signal-a-new-trading-indicator-to-pick-tops-and-bottoms/)**：150**（表示高估）和 **45**（表示低估）
-
-![](../../.gitbook/assets/image%20%288%29.png)
 {% endtab %}
 
 {% tab title="RVT" %}
@@ -288,11 +294,6 @@ USDT市值增长的导数，决定了比特币的涨跌
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/) **下跌至第二条布林线离场**
 
 ![](../../.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
-{% endtab %}
-
-{% tab title="Metcalfe\'s law" %}
-* [Bitcoin Market Cap should be $40b according to Metcalfe's law](https://woobull.com/bitcoin-market-cap-should-be-40b-according-to-metcalfes-law/)
-* [Metcalfe’s Law and Bitcoin’s Value](https://dcresearch.medium.com/metcalfes-law-and-bitcoin-s-value-2b99c7efd1fa)
 {% endtab %}
 {% endtabs %}
 
