@@ -78,7 +78,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 [全球最大的50家银行在区块链领域的布局](https://cloud.tencent.com/developer/article/1356837)
 
-![](../.gitbook/assets/bfm-unity-you-shang-.png)
+![](../.gitbook/assets/bfm-unitybji-you-shang-.png)
+
+![](../.gitbook/assets/bfm-unitycji-bie-you-shang-.png)
 
 ### ~~~~[~~我们的友商2~~](https://www.bilibili.com/video/BV1YW411d7ZY)~~~~
 
