@@ -1,5 +1,7 @@
 # 卓尔金升级A8——商业化
 
+## 正在努力对接币安支付，Alchemy Pay，Shopify和WordPress，争取把表格卖出去💪
+
 {% hint style="success" %}
 * BFM URS \(The Tzolkin Calendar\) Trial 
 * BFM URS \(The Tzolkin Calendar\) Stable
