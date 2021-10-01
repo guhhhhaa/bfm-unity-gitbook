@@ -255,7 +255,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 ![](../../.gitbook/assets/image%20%288%29.png)
 {% endtab %}
 
-{% tab title="Metcalfe\'s law" %}
+{% tab title="梅特卡夫定律 Metcalfe\'s law" %}
 * [Bitcoin Market Cap should be $40b according to Metcalfe's law](https://woobull.com/bitcoin-market-cap-should-be-40b-according-to-metcalfes-law/)
 * [Metcalfe’s Law and Bitcoin’s Value](https://dcresearch.medium.com/metcalfes-law-and-bitcoin-s-value-2b99c7efd1fa)
 * [基于交易指标衍生而来的**NVT \(Network Value to Transactions\)**，和基于用户指标衍生而来的**梅特卡夫指标\(Metcalfe's law\)**](https://new.qq.com/omn/20190807/20190807A0K3X200.html?pc)\*\*\*\*
@@ -294,6 +294,10 @@ USDT市值增长的导数，决定了比特币的涨跌
 * \*\*\*\*[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/) **下跌至第二条布林线离场**
 
 ![](../../.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
+{% endtab %}
+
+{% tab title="每日活动地址 DAA" %}
+![](../../.gitbook/assets/image%20%2848%29.png)
 {% endtab %}
 {% endtabs %}
 
