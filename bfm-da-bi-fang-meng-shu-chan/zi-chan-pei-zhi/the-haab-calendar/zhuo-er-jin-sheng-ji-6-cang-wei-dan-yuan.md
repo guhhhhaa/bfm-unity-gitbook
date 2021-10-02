@@ -24,7 +24,7 @@
 
 精确的量子调仓由4部分组成：
 
-1，银行家舍入 
+1，[银行家舍入 ](https://www.ituring.com.cn/article/35304)
 
 2，根据数量扩充单元格 （[https://jingyan.baidu.com/article/922554461774d1851648f4da.html](https://jingyan.baidu.com/article/922554461774d1851648f4da.html)）
 
