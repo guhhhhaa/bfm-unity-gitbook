@@ -46,3 +46,7 @@
     )
 ```
 
+[不仅仅是做图表，用EXCEL排会议座位图你试过么？](https://baijiahao.baidu.com/s?id=1664682492776373374)
+
+[再只会单一升降排序就OUT了，教你三种EXCEL中的数字排列](https://baijiahao.baidu.com/s?id=1664500298511765341)
+
