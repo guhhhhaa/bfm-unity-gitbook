@@ -36,7 +36,7 @@
 
 ### [银行家舍入算法](https://www.ituring.com.cn/article/35304)（四舍六入五取偶）
 
-```text
+```python
 =IFS(MOD(C25,D25)<D25/2,C25-MOD(C25,D25),
      MOD(C25,D25)>D25/2,C25-MOD(C25,D25)+D25,
      MOD(C25,D25)=D25/2,IFS(
