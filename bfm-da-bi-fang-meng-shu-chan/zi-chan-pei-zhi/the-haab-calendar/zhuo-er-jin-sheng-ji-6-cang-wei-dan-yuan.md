@@ -16,7 +16,25 @@
 [卓尔金+哈布飞船5.04](https://share.weiyun.com/F5Zb2drW)
 {% endhint %}
 
+## 粗略固定的量子调仓
+
 ![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210902-xia-wu-3.52.15.png)
+
+## 精确的量子调仓
+
+精确的量子调仓由4部分组成：
+
+1，银行家舍入 
+
+2，根据数量扩充单元格 （[https://jingyan.baidu.com/article/922554461774d1851648f4da.html](https://jingyan.baidu.com/article/922554461774d1851648f4da.html)）
+
+3，换行，分组到多行 
+
+4，相同的单元格显示相同的颜色。
+
+（[https://zhidao.baidu.com/question/1644347434384497340.htm](https://zhidao.baidu.com/question/1644347434384497340.htm)）
+
+### [银行家舍入算法](https://www.ituring.com.cn/article/35304)（四舍六入五取偶）
 
 ```text
 =IFS(MOD(C25,D25)<D25/2,C25-MOD(C25,D25),
