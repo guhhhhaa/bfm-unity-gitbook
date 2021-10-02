@@ -18,3 +18,13 @@
 
 ![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210902-xia-wu-3.52.15.png)
 
+```text
+=IFS(MOD(C25,D25)<D25/2,C25-MOD(C25,D25),
+         MOD(C25,D25)>D25/2,C25-MOD(C25,D25)+D25,
+         MOD(C25,D25)=D25/2, IFS(
+                                 MOD(C25,2*D25)=0.5*D25,C25-MOD(C25,2*D25),
+                                 MOD(C25,2*D25)=1.5*D25,C25-MOD(C25,2*D25)+2*D25
+                                 )
+    )
+```
+
