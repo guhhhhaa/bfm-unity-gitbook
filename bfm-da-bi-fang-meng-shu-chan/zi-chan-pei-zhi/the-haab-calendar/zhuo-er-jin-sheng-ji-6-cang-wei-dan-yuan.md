@@ -26,13 +26,19 @@
 
 1，[银行家舍入 ](https://www.ituring.com.cn/article/35304)
 
-2，根据数量扩充单元格 （[https://jingyan.baidu.com/article/922554461774d1851648f4da.html](https://jingyan.baidu.com/article/922554461774d1851648f4da.html)）
+2，根据数量扩充单元格 
+
+[EXCEL中如何根据指定数量扩充单元格](https://jingyan.baidu.com/article/922554461774d1851648f4da.html)
 
 3，换行，分组到多行 
 
+[不仅仅是做图表，用EXCEL排会议座位图你试过么？](https://baijiahao.baidu.com/s?id=1664682492776373374)
+
+[再只会单一升降排序就OUT了，教你三种EXCEL中的数字排列](https://baijiahao.baidu.com/s?id=1664500298511765341)
+
 4，相同的单元格显示相同的颜色。
 
-（[https://zhidao.baidu.com/question/1644347434384497340.htm](https://zhidao.baidu.com/question/1644347434384497340.htm)）
+[如何让EXCEL相同的单元格显示一样的颜色](https://zhidao.baidu.com/question/1644347434384497340.htm)
 
 ### [银行家舍入算法](https://www.ituring.com.cn/article/35304)（四舍六入五取偶）
 
@@ -46,7 +52,5 @@
     )
 ```
 
-[不仅仅是做图表，用EXCEL排会议座位图你试过么？](https://baijiahao.baidu.com/s?id=1664682492776373374)
 
-[再只会单一升降排序就OUT了，教你三种EXCEL中的数字排列](https://baijiahao.baidu.com/s?id=1664500298511765341)
 
