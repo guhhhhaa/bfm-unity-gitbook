@@ -30,5 +30,5 @@ Discourse
 
 ## Wiki 建设
 
-wikidot \| 
+WikiDot \| Notion
 
