@@ -12,8 +12,6 @@ description: BF​M Unity —— Blockchain · Finance · Metaverse
 
 {% page-ref page="xin-ren-bi-kan.md" %}
 
-{% page-ref page="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-
 {% hint style="info" %}
 NOTE: **💀 This project is in beta. Use at your own risk.** 
 
@@ -23,6 +21,8 @@ NOTE: **💀 This project is in beta. Use at your own risk.**
 
 ### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) \| [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **\|** [**设计Assets**](https://share.weiyun.com/0nbQ5ZM9)
 {% endhint %}
+
+{% page-ref page="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
 
 {% page-ref page="bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md" %}
 
