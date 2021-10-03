@@ -8,13 +8,16 @@
 ## 2，机器人（年化收益：100%）
 
 * **通过TRC20链将USDT提到派网Pionex**
-* \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)\*\*\*\*
+* \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S) ****
+* 或者绑定API直接用[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)**交易**
 
 ## 3，指导表格（年化收益：500%）
 
 {% page-ref page="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
 
 ## 4，其他交易所 和 DeFi
+
+* \*\*\*\*[**FTX 交易所**](https://ftx.com/#a=45676115) ****600种加密货币、美股凭证任你买卖，可以购买B站，台积电，特斯拉，谷歌等公司股票。
 
 {% page-ref page="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
 
