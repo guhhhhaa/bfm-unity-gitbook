@@ -25,7 +25,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [泰坦6.08](https://share.weiyun.com/lWcLhfBg)
+## 最新版下载链接🔗   [飞行船6.09](https://share.weiyun.com/9XySlLxq)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
@@ -170,6 +170,12 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 扩展了币圈驾驶舱为币圈空间站，增加了熔断时的仓位控制模块，增加了对读取交易所排名的支持，但没有实际应用，修复了一些BUG
 
 [泰坦6.08](https://share.weiyun.com/lWcLhfBg)
+
+### 泰坦6.09——
+
+扩展整合了用户界面，修复了一些BUG
+
+[飞行船6.09](https://share.weiyun.com/9XySlLxq)
 {% endhint %}
 
 ## **周期发现**

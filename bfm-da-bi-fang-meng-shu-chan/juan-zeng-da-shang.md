@@ -10,6 +10,10 @@ bfm-unity.com 是一个社区支持的社区，我们十分感谢任何捐助和
 
 {% tabs %}
 {% tab title="BFM Unity Token" %}
+## 投资BFM Unity网站，立刻交易BFM代币！
+
+{% embed url="https://pancakeswap.finance/swap?inputCurrency=0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec" %}
+
 用于社区治理。
 
 BFM币BSC币安智能链合约地址:0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec

@@ -10,6 +10,8 @@ description: BF​M Unity —— Blockchain · Finance · Metaverse
 
 ![](.gitbook/assets/bfm-unity-3.0%20%284%29.png)
 
+## 你是新人？请点击以下链接：
+
 {% page-ref page="xin-ren-bi-kan.md" %}
 
 {% hint style="info" %}

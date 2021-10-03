@@ -107,6 +107,10 @@ Users must first migrate their digital assets to the **Arbitrum** network throug
 \*\*\*\*[热门L2网络Arbitrum启航，有哪些收益耕作机会](https://www.chainnews.com/articles/294841654081.htm)
 {% endhint %}
 
+## 跨链桥
+
+{% page-ref page="../command-room-discovery/zhi-hui-shi-kua-lian-qiao.md" %}
+
 ## 元宇宙
 
 {% hint style="info" %}

@@ -51,7 +51,8 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://terminals.coin98.com/issuer">Coin98 Issur</a>
+      </td>
       <td style="text-align:left">&#x8054;&#x76DF;&#x94FE;</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
