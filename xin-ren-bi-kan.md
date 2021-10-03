@@ -1,12 +1,14 @@
 # 新人必看
 
-## 1，入金
+## 1，入金（年化收益：50%）
 
+* \*\*\*\*[**欧易 - OKEx**](https://www.ouyi.fit/join/3626787)**（支持中国大陆新用户注册，法币入金）**
 
+## 2，机器人（年化收益：100%）
 
-## 2，机器人
+* \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)\*\*\*\*
 
-## 3，指导表格
+## 3，指导表格（年化收益：500%）
 
 {% page-ref page="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
 
