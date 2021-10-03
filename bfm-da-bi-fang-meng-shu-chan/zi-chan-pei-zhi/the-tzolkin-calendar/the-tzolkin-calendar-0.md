@@ -171,7 +171,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 [泰坦6.08](https://share.weiyun.com/lWcLhfBg)
 
-### 泰坦6.09——
+### 飞行船6.09——
 
 扩展整合了用户界面，修复了一些BUG
 
