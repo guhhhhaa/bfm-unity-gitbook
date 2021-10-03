@@ -10,6 +10,8 @@ description: BF​M Unity —— Blockchain · Finance · Metaverse
 
 ![](.gitbook/assets/bfm-unity-3.0%20%284%29.png)
 
+{% page-ref page="xin-ren-bi-kan.md" %}
+
 {% page-ref page="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
 
 {% hint style="info" %}
