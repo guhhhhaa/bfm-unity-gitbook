@@ -1,7 +1,7 @@
 # Table of contents
 
 * [比坊梦 —— 区块链 · 金融 · 元宇宙](README.md)
-* [新人必看](xin-ren-bi-kan.md)
+* [新人必看（🔥）](xin-ren-bi-kan.md)
 
 ## BFM Unity \| 比坊梦联合体
 
@@ -41,7 +41,7 @@
   * [指挥室 - Arbitrum](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-arbitrum.md)
   * [指挥室 - Matic - Polygon](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-polygonmatic.md)
   * [指挥室 - IPFS/FIL](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-ipfsfil.md)
-* [资产配置 🕙 ⌚️](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/README.md)
+* [资产配置 🕙 ⌚️（🔥）](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/README.md)
   * [战略资产配置——卓尔金历 🕙](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/README.md)
     * [卓尔金升级1——拟合函数](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
     * [卓尔金升级2——误差分析](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
