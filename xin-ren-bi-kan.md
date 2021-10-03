@@ -9,7 +9,7 @@
 
 * **通过TRC20链将USDT提到派网Pionex**
 * \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S) ****
-* 或者绑定API直接用[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)**交易**
+* 或者绑定交易所API直接用[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)**交易**
 
 ## 3，指导表格（年化收益：500%）
 
