@@ -10,7 +10,7 @@ description: Management Cockpit (Operation)
 
 {% page-ref page="../command-room-discovery/" %}
 
-![](../../.gitbook/assets/dang-jian-xuan-chuan-23.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 ## 基本驾驶模块
 

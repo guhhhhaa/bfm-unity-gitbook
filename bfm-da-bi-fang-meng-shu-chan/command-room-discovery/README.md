@@ -298,7 +298,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="每日活动地址 DAA" %}
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 {% endtab %}
 {% endtabs %}
 
