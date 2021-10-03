@@ -7,7 +7,7 @@
 
 ## 2，机器人（年化收益：100%）
 
-* **通过TRC20链将USDT提到派网Pionex**
+* **通过 波场链TRC20 将 USDT 提到 派网Pionex**
 * \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S) ****
 * 或者绑定交易所API直接用[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)**交易**
 
@@ -18,6 +18,7 @@
 ## 4，其他交易所 和 DeFi
 
 * \*\*\*\*[**FTX 交易所**](https://ftx.com/#a=45676115) ****600种加密货币、美股凭证任你买卖，可以购买B站，台积电，特斯拉，谷歌等公司股票。
+* 可以绑定交易所API用[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)**对以上股票进行网格做市。**
 
 {% page-ref page="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
 
