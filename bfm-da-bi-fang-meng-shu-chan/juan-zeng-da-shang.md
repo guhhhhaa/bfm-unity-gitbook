@@ -1,7 +1,7 @@
 # 会客厅 \(赞助\) 💰 & 资产公示
 
 {% hint style="success" %}
-bfm-unity.com 是一个社区支持的社区，我们十分感谢任何捐助和代币/NFT投资。这些捐助和投资会用于改进网站。
+bfm-unity.com 是一个社区支持的社区，我们十分感谢任何捐助和Token/NFT投资。这些捐助和投资会用于改进网站。
 {% endhint %}
 
 ## 赞助
@@ -10,7 +10,7 @@ bfm-unity.com 是一个社区支持的社区，我们十分感谢任何捐助和
 
 {% tabs %}
 {% tab title="BFM Unity Token" %}
-## 投资BFM Unity网站，立刻交易BFM代币！
+## 投资BFM Unity网站，立刻交易BFM治理通证Token！
 
 {% embed url="https://pancakeswap.finance/swap?inputCurrency=0x40ff7612ff4d951ddfbaac3871d004d5e95c12ec" %}
 

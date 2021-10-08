@@ -30,7 +30,7 @@
 
 {% page-ref page="bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/" %}
 
-## 6，投资这里成为股东，或者自立门户！
+## 6，投资治理通证Token，或者自立门户！
 
 {% page-ref page="bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md" %}
 
