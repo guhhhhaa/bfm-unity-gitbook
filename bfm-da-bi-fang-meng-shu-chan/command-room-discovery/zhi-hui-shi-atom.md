@@ -1,7 +1,7 @@
 # 指挥室 - ATOM - Cosmos
 
-{% hint style="info" %}
-
+{% hint style="danger" %}
+NOTE: **💀 This project is in beta. Use at your own risk.** 
 
 Gravity DEX：[https://cosmos.network/gravity-dex/](https://cosmos.network/gravity-dex/)
 
@@ -10,8 +10,6 @@ Osmosis：[https://app.osmosis.zone/](https://app.osmosis.zone)
 Sifchain：[https://sifchain.finance/](https://sifchain.finance)
 
 CoinSwap：[https://coinswap.space/](https://coinswap.space) [https://app.coinswap.space/#/](https://app.coinswap.space/#/)
-
-
 {% endhint %}
 
 ## 关注cosmos生态：defi和空投
