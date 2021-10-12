@@ -17,7 +17,7 @@ description: Management Cockpit (Operation)
 ## 基本驾驶模块
 
 * [**币安 - Binance**](https://accounts.binancezh.cz/zh-CN/register?ref=H7ZMPFPE)** (此链接返现比例: 我22%, 你20%**)([**流动性挖矿**](https://www.binance.com/zh-CN/swap/liquidity)**）**
-* ****[**欧易 - OKEx**](https://www.ouyi.fit/join/3626787)**（支持中国大陆新用户注册，法币入金）**
+* ****[**欧易 - OKEx**](https://www.ouyi.fit/join/3626787447)**（支持中国大陆新用户注册，法币入金）**
 * ****[**FTX 交易所**](https://ftx.com/#a=45676115)** **600种加密货币、美股凭证任你买卖，可以购买B站，台积电，特斯拉，谷歌等公司股票。
 * ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)****
 * [**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)，[**Trust Wallet**](https://trustwallet.com)，[**Blockchain.com**](https://www.blockchain.com/wallet)****
