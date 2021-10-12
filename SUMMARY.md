@@ -1,6 +1,6 @@
 # Table of contents
 
-* [比坊梦 —— 区块链 · 金融 · 元宇宙](README.md)
+* [💎 比坊梦 —— 区块链 · 金融 · 元宇宙](README.md)
 * [新人必看（🔥）](xin-ren-bi-kan.md)
 
 ## BFM Unity | 比坊梦联合体
