@@ -3,10 +3,10 @@
 * [比坊梦 —— 区块链 · 金融 · 元宇宙](README.md)
 * [新人必看（🔥）](xin-ren-bi-kan.md)
 
-## BFM Unity \| 比坊梦联合体
+## BFM Unity | 比坊梦联合体
 
-* [主舰桥 \(引导\)](bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md)
-* [陈列室 \(历程\)](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/README.md)
+* [主舰桥 (引导)](bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md)
+* [陈列室 (历程)](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/README.md)
   * [虚拟资产编号名录](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/fei-wu-zhi-zi-chan-ming-lu.md)
 * [新人指导](bfm-unity-bi-fang-meng-lian-he-ti/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/README.md)
   * [【管理】宪章说明](bfm-unity-bi-fang-meng-lian-he-ti/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/guan-li-wen-ti-jie-da-zu-zhi-de-cun-xu.md)
@@ -16,21 +16,22 @@
 * [【组织】团队构成](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/README.md)
   * [创始人信息](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi.md)
 
-## BFM URS. \| 比坊梦联储 <a id="bfmurs"></a>
+## BFM URS. | 比坊梦联储 <a href="bfmurs" id="bfmurs"></a>
 
 * [比坊梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
 * [比坊梦基金会](bfmurs/untitled-1.md)
 * [比坊梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
 * [若尘的基金](bfmurs/ruo-chen-de-qie-man-ji-jin.md)
 
-## BFM DA \| 比坊梦数产
+## BFM DA | 比坊梦数产
 
-* [驾驶舱 \(运行\) （🔥）](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
+* [驾驶舱 (运行) （🔥）](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
   * [私钥云保管 🔑 ☁️](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [数学利器](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/shu-xue-li-qi.md)
-* [指挥室 \(探索\) 🛰️](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/README.md)
+* [指挥室 (探索) 🛰️](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/README.md)
   * [指挥室 - 跨链桥](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-kua-lian-qiao.md)
   * [指挥室 - ETH - MainNet](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-eth.md)
+  * [指挥室 - ADA - Cardano](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-ada-cardano.md)
   * [指挥室 - BNB - BSC](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-bsc.md)
   * [指挥室 - LUNA - Terra](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-terra.md)
   * [指挥室 - SOL - Solana](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-sol-solana.md)
@@ -66,15 +67,15 @@
     * [哈布历法2层次](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/ha-bu-li-fa-gou-xiang-1.md)
     * [哈布历法3——仓位单元，量子调仓](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
     * [已废弃](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/yi-fei-qi.md)
-* [影银行 \(枢纽\)](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/README.md)
+* [影银行 (枢纽)](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/README.md)
   * [自营业务](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/zi-ying-tou-zi.md)
   * [个人业务](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/ge-ren-ye-wu.md)
   * [企业业务](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/untitled.md)
   * [创世业务](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/chuang-shi-ye-wu.md)
-* [会客厅 \(赞助\) 💰 & 资产公示](bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md)
+* [会客厅 (赞助) 💰 & 资产公示](bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md)
 * [财务](bfm-da-bi-fang-meng-shu-chan/ji-du-cai-wu-bao-biao.md)
 
-## BFM Trad. \| 比坊梦金典
+## BFM Trad. | 比坊梦金典
 
 * [云POS无卡支付 💳](bfm-trad.-bi-fang-meng-jin-dian/zhe-die.md)
 * [股票投资](bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/README.md)
@@ -91,14 +92,16 @@
 * [可转债打新](bfm-trad.-bi-fang-meng-jin-dian/ke-zhuan-zhai-da-xin.md)
 * [离岸 HK·SG 🌍 港美股](bfm-trad.-bi-fang-meng-jin-dian/gang-mei-gu-kai-hu.md)
 * [海外手机号](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-shou-ji-hao-ban-li.md)
+* [海外银行卡办理](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-yin-hang-ka-ban-li.md)
+* [草稿](bfm-trad.-bi-fang-meng-jin-dian/cao-gao.md)
 
-## BFM Meta \| 比坊梦元宇宙 <a id="bfm-meta"></a>
+## BFM Meta | 比坊梦元宇宙 <a href="bfm-meta" id="bfm-meta"></a>
 
 * [比坊梦元宇宙](bfm-meta/bi-fang-meng-yuan-yu-zhou/README.md)
   * [比坊梦NFT](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-nft.md)
   * [比坊梦游戏🎮](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-you-xi.md)
 
-## BFM R-Ins. \| 比坊梦科学研究院
+## BFM R-Ins. | 比坊梦科学研究院
 
 * [【算法】算法描述](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/README.md)
   * [【研究】参考文献](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/bfm-al-ckwx.md)
@@ -107,12 +110,12 @@
 * [玄黑 · 算法科学分院 🔭 🛰️](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/suan-fa-yan-jiu-yuan.md)
 * [曜黑 · 量子退火研究院](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/yao-hei-liang-zi-tui-huo-fen-yuan.md)
 * [导游](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/dao-you.md)
-* [研究院 \(架构\)](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md)
-* [LV5-研究院 \(量子\) ☢️](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/lv5-yuan-lao-yuan-liang-zi.md)
+* [研究院 (架构)](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md)
+* [LV5-研究院 (量子) ☢️](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/lv5-yuan-lao-yuan-liang-zi.md)
 
-## BFM D-Ins. \| 比坊梦工程设计院
+## BFM D-Ins. | 比坊梦工程设计院
 
-* [LV6-星魔方 \(分类\) 🎲](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/README.md)
+* [LV6-星魔方 (分类) 🎲](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/README.md)
   * [数据分析-精炼](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/shi-yan-shi-zhan-shi-gui.md)
   * [数据分析-实验](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
   * [人工智能-实验](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/ren-gong-zhi-neng-de-pen-jing-xiang.md)
@@ -145,7 +148,7 @@
   * [py重点实验室](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md)
   * [以太坊部署实验室](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
 
-## BFM Univ. \| 比坊梦大学
+## BFM Univ. | 比坊梦大学
 
 * [素白 · 密斯卡托尼克大学 🏫](bfm-univ.-bi-fang-meng-da-xue/xiao-bai-xue-cheng.md)
 * [Excel 教室](bfm-univ.-bi-fang-meng-da-xue/excel-jiao-shi.md)
@@ -162,12 +165,12 @@
 * [WEB 全栈开发](bfm-univ.-bi-fang-meng-da-xue/qian-duan-hou-duan.md)
 * [企业战略分析](bfm-univ.-bi-fang-meng-da-xue/qi-ye-zhan-lve-fen-xi.md)
 * [基础财商教育](bfm-univ.-bi-fang-meng-da-xue/ji-chu-cai-shang-jiao-yu.md)
-* [C\#教室](bfm-univ.-bi-fang-meng-da-xue/c-jiao-shi.md)
+* [C#教室](bfm-univ.-bi-fang-meng-da-xue/c-jiao-shi.md)
 * [金融考试](bfm-univ.-bi-fang-meng-da-xue/jin-rong-kao-shi.md)
 * [计算机考试](bfm-univ.-bi-fang-meng-da-xue/ji-suan-ji-kao-shi.md)
 * [发卡卡密交易平台](bfm-univ.-bi-fang-meng-da-xue/fa-ka-ka-mi-jiao-yi-ping-tai.md)
 
-## BFM Cult. \| 比坊梦文化
+## BFM Cult. | 比坊梦文化
 
 * [党建宣传](bfm-cult.-bi-fang-meng-wen-hua/dang-jian-xuan-chuan.md)
 * [设计](bfm-cult.-bi-fang-meng-wen-hua/she-ji-tu.md)
@@ -202,4 +205,3 @@
 ## 回收站
 
 * [三角套利程序众筹（中止）](hui-shou-zhan/san-jiao-tao-li-cheng-xu-zhong-chou.md)
-
