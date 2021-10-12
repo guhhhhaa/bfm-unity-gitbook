@@ -1,10 +1,10 @@
 # CCXT手册
 
-## \*\*\*\*[**CCXT手册**](http://cw.hubwiz.com/card/c/ccxt-dev-manual/)
+## ****[**CCXT手册**](http://cw.hubwiz.com/card/c/ccxt-dev-manual/)
 
 ## **CCXT开发概述**
 
-### \*\*\*\*[CCXT概述](http://cw.hubwiz.com/card/c/ccxt-dev-manual/1/1/1/)
+### ****[CCXT概述](http://cw.hubwiz.com/card/c/ccxt-dev-manual/1/1/1/)
 
 #### CCXT开发库概述
 
@@ -14,7 +14,7 @@ ccxt库包含了众多交易所的抽象类，提供访问多个数字货币交�
 
 ccxt库的结构概览如下图所示：
 
-```text
+```
                                  User
     +-------------------------------------------------------------+
     |                            CCXT                             |
@@ -59,134 +59,134 @@ ccxt库的结构概览如下图所示：
 
 CCXT目前支持127个数字货币交易所和交易API：
 
-|        logo        | id | 名称 | 版本 | 文档 | 认证标志 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| [![\_1btcxe](https://user-images.githubusercontent.com/1294454/27766049-2b294408-5ecc-11e7-85cc-adaff013dc1a.jpg)](https://1btcxe.com/) | \_1btcxe | [1BTCXE](https://1btcxe.com/) |  | [API](https://1btcxe.com/api-docs.php) |  |
-| [![acx](https://user-images.githubusercontent.com/1294454/30247614-1fe61c74-9621-11e7-9e8c-f1a627afa279.jpg)](https://acx.io/) | acx | [ACX](https://acx.io/) | 2 | [API](https://acx.io/documents/api_v2) |  |
-| [![adara](https://user-images.githubusercontent.com/1294454/49189583-0466a780-f380-11e8-9248-57a631aad2d6.jpg)](https://adara.io/) | adara | [Adara](https://adara.io/) | 1 | [API](https://api.adara.io/v1) |  |
-| [![allcoin](https://user-images.githubusercontent.com/1294454/31561809-c316b37c-b061-11e7-8d5a-b547b4d730eb.jpg)](https://www.allcoin.com/) | allcoin | [Allcoin](https://www.allcoin.com/) | 1 | [API](https://www.allcoin.com/api_market/market) |  |
-| [![anxpro](https://user-images.githubusercontent.com/1294454/27765983-fd8595da-5ec9-11e7-82e3-adb3ab8c2612.jpg)](https://anxpro.com/) | anxpro | [ANXPro](https://anxpro.com/) |  | [API](https://anxv2.docs.apiary.io/) |  |
-| [![bcex](https://user-images.githubusercontent.com/1294454/43362240-21c26622-92ee-11e8-9464-5801ec526d77.jpg)](https://www.bcex.top/register?invite_code=758978&lang=en) | bcex | [BCEX](https://www.bcex.top/register?invite_code=758978&lang=en) | 1 | [API](https://github.com/BCEX-TECHNOLOGY-LIMITED/API_Docs/wiki/Interface) |  |
-| [![bequant](https://user-images.githubusercontent.com/1294454/55248342-a75dfe00-525a-11e9-8aa2-05e9dca943c6.jpg)](https://bequant.io/) | bequant | [Bequant](https://bequant.io/) | 2 | [API](https://api.bequant.io/) |  |
-| [![bibox](https://user-images.githubusercontent.com/1294454/34902611-2be8bf1a-f830-11e7-91a2-11b2f292e750.jpg)](https://www.bibox.com/signPage?id=11114745&lang=en) | bibox | [Bibox](https://www.bibox.com/signPage?id=11114745&lang=en) | 1 | [API](https://github.com/Biboxcom/api_reference/wiki/home_en) |  |
-| [![bigone](https://user-images.githubusercontent.com/1294454/42803606-27c2b5ec-89af-11e8-8d15-9c8c245e8b2c.jpg)](https://b1.run/users/new?code=D3LLBVFT) | bigone | [BigONE](https://b1.run/users/new?code=D3LLBVFT) | 2 | [API](https://open.big.one/docs/api.html) |  |
-| [![binance](https://user-images.githubusercontent.com/1294454/29604020-d5483cdc-87ee-11e7-94c7-d1a8d9169293.jpg)](https://www.binance.com/?ref=10205187) | binance | [Binance](https://www.binance.com/?ref=10205187) |  | [API](https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![binanceje](https://user-images.githubusercontent.com/1294454/54874009-d526eb00-4df3-11e9-928c-ce6a2b914cd1.jpg)](https://www.binance.je/?ref=35047921) | binanceje | [Binance Jersey](https://www.binance.je/?ref=35047921) |  | [API](https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md) |  |
-| [![binanceus](https://user-images.githubusercontent.com/1294454/65177307-217b7c80-da5f-11e9-876e-0b748ba0a358.jpg)](https://www.binance.us/?ref=35005074) | binanceus | [Binance US](https://www.binance.us/?ref=35005074) |  | [API](https://github.com/binance-us/binance-official-api-docs) |  |
-| [![bit2c](https://user-images.githubusercontent.com/1294454/27766119-3593220e-5ece-11e7-8b3a-5a041f6bcc3f.jpg)](https://bit2c.co.il/Aff/63bfed10-e359-420c-ab5a-ad368dab0baf) | bit2c | [Bit2C](https://bit2c.co.il/Aff/63bfed10-e359-420c-ab5a-ad368dab0baf) |  | [API](https://www.bit2c.co.il/home/api) |  |
-| [![bitbank](https://user-images.githubusercontent.com/1294454/37808081-b87f2d9c-2e59-11e8-894d-c1900b7584fe.jpg)](https://bitbank.cc/) | bitbank | [bitbank](https://bitbank.cc/) | 1 | [API](https://docs.bitbank.cc/) |  |
-| [![bitbay](https://user-images.githubusercontent.com/1294454/27766132-978a7bd8-5ece-11e7-9540-bc96d1e9bbb8.jpg)](https://auth.bitbay.net/ref/jHlbB4mIkdS1) | bitbay | [BitBay](https://auth.bitbay.net/ref/jHlbB4mIkdS1) |  | [API](https://bitbay.net/public-api) |  |
-| [![bitfinex](https://user-images.githubusercontent.com/1294454/27766244-e328a50c-5ed2-11e7-947b-041416579bb3.jpg)](https://www.bitfinex.com/) | bitfinex | [Bitfinex](https://www.bitfinex.com/) | 1 | [API](https://docs.bitfinex.com/v1/docs) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![bitfinex2](https://user-images.githubusercontent.com/1294454/27766244-e328a50c-5ed2-11e7-947b-041416579bb3.jpg)](https://www.bitfinex.com/) | bitfinex2 | [Bitfinex](https://www.bitfinex.com/) | 2 | [API](https://docs.bitfinex.com/v2/docs/) |  |
-| [![bitflyer](https://user-images.githubusercontent.com/1294454/28051642-56154182-660e-11e7-9b0d-6042d1e6edd8.jpg)](https://bitflyer.jp/) | bitflyer | [bitFlyer](https://bitflyer.jp/) | 1 | [API](https://lightning.bitflyer.com/docs?lang=en) |  |
-| [![bitforex](https://user-images.githubusercontent.com/1294454/44310033-69e9e600-a3d8-11e8-873d-54d74d1bc4e4.jpg)](https://www.bitforex.com/en/invitationRegister?inviterId=1867438) | bitforex | [Bitforex](https://www.bitforex.com/en/invitationRegister?inviterId=1867438) | 1 | [API](https://github.com/bitforexapi/API_Docs/wiki) |  |
-| [![bithumb](https://user-images.githubusercontent.com/1294454/30597177-ea800172-9d5e-11e7-804c-b9d4fa9b56b0.jpg)](https://www.bithumb.com/) | bithumb | [Bithumb](https://www.bithumb.com/) |  | [API](https://apidocs.bithumb.com/) |  |
-| [![bitkk](https://user-images.githubusercontent.com/1294454/32859187-cd5214f0-ca5e-11e7-967d-96568e2e2bd1.jpg)](https://www.bitkk.com/) | bitkk | [bitkk](https://www.bitkk.com/) | 1 | [API](https://www.bitkk.com/i/developer) |  |
-| [![bitlish](https://user-images.githubusercontent.com/1294454/27766275-dcfc6c30-5ed3-11e7-839d-00a846385d0b.jpg)](https://bitlish.com/) | bitlish | [Bitlish](https://bitlish.com/) | 1 | [API](https://bitlish.com/api) |  |
-| [![bitmart](https://user-images.githubusercontent.com/1294454/61835713-a2662f80-ae85-11e9-9d00-6442919701fd.jpg)](http://www.bitmart.com/?r=rQCFLh) | bitmart | [BitMart](http://www.bitmart.com/?r=rQCFLh) | 2 | [API](https://github.com/bitmartexchange/bitmart-official-api-docs) |  |
-| [![bitmex](https://user-images.githubusercontent.com/1294454/27766319-f653c6e6-5ed4-11e7-933d-f0bc3699ae8f.jpg)](https://www.bitmex.com/register/rm3C16) | bitmex | [BitMEX](https://www.bitmex.com/register/rm3C16) | 1 | [API](https://www.bitmex.com/app/apiOverview) |  |
-| [![bitso](https://user-images.githubusercontent.com/1294454/27766335-715ce7aa-5ed5-11e7-88a8-173a27bb30fe.jpg)](https://bitso.com/?ref=itej) | bitso | [Bitso](https://bitso.com/?ref=itej) | 3 | [API](https://bitso.com/api_info) |  |
-| [![bitstamp](https://user-images.githubusercontent.com/1294454/27786377-8c8ab57e-5fe9-11e7-8ea4-2b05b6bcceec.jpg)](https://www.bitstamp.net/) | bitstamp | [Bitstamp](https://www.bitstamp.net/) | 2 | [API](https://www.bitstamp.net/api) |  |
-| [![bitstamp1](https://user-images.githubusercontent.com/1294454/27786377-8c8ab57e-5fe9-11e7-8ea4-2b05b6bcceec.jpg)](https://www.bitstamp.net/) | bitstamp1 | [Bitstamp](https://www.bitstamp.net/) | 1 | [API](https://www.bitstamp.net/api) |  |
-| [![bittrex](https://user-images.githubusercontent.com/1294454/27766352-cf0b3c26-5ed5-11e7-82b7-f3826b7a97d8.jpg)](https://bittrex.com/) | bittrex | [Bittrex](https://bittrex.com/) | 1.1 | [API](https://bittrex.github.io/api/) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![bitz](https://user-images.githubusercontent.com/1294454/35862606-4f554f14-0b5d-11e8-957d-35058c504b6f.jpg)](https://u.bit-z.com/register?invite_code=1429193) | bitz | [Bit-Z](https://u.bit-z.com/register?invite_code=1429193) | 2 | [API](https://apidoc.bit-z.com/en/) |  |
-| [![bl3p](https://user-images.githubusercontent.com/1294454/28501752-60c21b82-6feb-11e7-818b-055ee6d0e754.jpg)](https://bl3p.eu/) | bl3p | [BL3P](https://bl3p.eu/) | 1 | [API](https://github.com/BitonicNL/bl3p-api/tree/master/docs) |  |
-| [![bleutrade](https://user-images.githubusercontent.com/1294454/30303000-b602dbe6-976d-11e7-956d-36c5049c01e7.jpg)](https://bleutrade.com/) | bleutrade | [Bleutrade](https://bleutrade.com/) | 2 | [API](https://app.swaggerhub.com/apis-docs/bleu/white-label/3.0.0) |  |
-| [![braziliex](https://user-images.githubusercontent.com/1294454/34703593-c4498674-f504-11e7-8d14-ff8e44fb78c1.jpg)](https://braziliex.com/?ref=5FE61AB6F6D67DA885BC98BA27223465) | braziliex | [Braziliex](https://braziliex.com/?ref=5FE61AB6F6D67DA885BC98BA27223465) |  | [API](https://braziliex.com/exchange/api.php) |  |
-| [![btcalpha](https://user-images.githubusercontent.com/1294454/42625213-dabaa5da-85cf-11e8-8f99-aa8f8f7699f0.jpg)](https://btc-alpha.com/?r=123788) | btcalpha | [BTC-Alpha](https://btc-alpha.com/?r=123788) | 1 | [API](https://btc-alpha.github.io/api-docs) |  |
-| [![btcbox](https://user-images.githubusercontent.com/1294454/31275803-4df755a8-aaa1-11e7-9abb-11ec2fad9f2d.jpg)](https://www.btcbox.co.jp/) | btcbox | [BtcBox](https://www.btcbox.co.jp/) | 1 | [API](https://www.btcbox.co.jp/help/asm) |  |
-| [![btcchina](https://user-images.githubusercontent.com/1294454/27766368-465b3286-5ed6-11e7-9a11-0f6467e1d82b.jpg)](https://www.btcchina.com/) | btcchina | [BTCChina](https://www.btcchina.com/) | 1 | [API](https://www.btcchina.com/apidocs) |  |
-| [![btcmarkets](https://user-images.githubusercontent.com/1294454/29142911-0e1acfc2-7d5c-11e7-98c4-07d9532b29d7.jpg)](https://btcmarkets.net/) | btcmarkets | [BTC Markets](https://btcmarkets.net/) |  | [API](https://github.com/BTCMarkets/API) |  |
-| [![btctradeim](https://user-images.githubusercontent.com/1294454/36770531-c2142444-1c5b-11e8-91e2-a4d90dc85fe8.jpg)](https://m.baobi.com/invite?inv=1765b2) | btctradeim | [BtcTrade.im](https://m.baobi.com/invite?inv=1765b2) |  | [API](https://www.btctrade.im/help.api.html) |  |
-| [![btctradeua](https://user-images.githubusercontent.com/1294454/27941483-79fc7350-62d9-11e7-9f61-ac47f28fcd96.jpg)](https://btc-trade.com.ua/registration/22689) | btctradeua | [BTC Trade UA](https://btc-trade.com.ua/registration/22689) |  | [API](https://docs.google.com/document/d/1ocYA0yMy_RXd561sfG3qEPZ80kyll36HUxvCRe5GbhE/edit) |  |
-| [![btcturk](https://user-images.githubusercontent.com/1294454/27992709-18e15646-64a3-11e7-9fa2-b0950ec7712f.jpg)](https://www.btcturk.com/) | btcturk | [BTCTurk](https://www.btcturk.com/) |  | [API](https://github.com/BTCTrader/broker-api-docs) |  |
-| [![buda](https://user-images.githubusercontent.com/1294454/47380619-8a029200-d706-11e8-91e0-8a391fe48de3.jpg)](https://www.buda.com/) | buda | [Buda](https://www.buda.com/) | 2 | [API](https://api.buda.com/) |  |
-| [![bxinth](https://user-images.githubusercontent.com/1294454/27766412-567b1eb4-5ed7-11e7-94a8-ff6a3884f6c5.jpg)](https://bx.in.th/ref/cYHknT/) | bxinth | [BX.in.th](https://bx.in.th/ref/cYHknT/) |  | [API](https://bx.in.th/info/api) |  |
-| [![cex](https://user-images.githubusercontent.com/1294454/27766442-8ddc33b0-5ed8-11e7-8b98-f786aef0f3c9.jpg)](https://cex.io/r/0/up105393824/0/) | cex | [CEX.IO](https://cex.io/r/0/up105393824/0/) |  | [API](https://cex.io/cex-api) |  |
-| [![chilebit](https://user-images.githubusercontent.com/1294454/27991414-1298f0d8-647f-11e7-9c40-d56409266336.jpg)](https://chilebit.net/) | chilebit | [ChileBit](https://chilebit.net/) | 1 | [API](https://blinktrade.com/docs) |  |
-| [![cobinhood](https://user-images.githubusercontent.com/1294454/35755576-dee02e5c-0878-11e8-989f-1595d80ba47f.jpg)](https://cobinhood.com/?referrerId=a9d57842-99bb-4d7c-b668-0479a15a458b) | cobinhood | [COBINHOOD](https://cobinhood.com/?referrerId=a9d57842-99bb-4d7c-b668-0479a15a458b) | 1 | [API](https://cobinhood.github.io/api-public) |  |
-| [![coinbase](https://user-images.githubusercontent.com/1294454/40811661-b6eceae2-653a-11e8-829e-10bfadb078cf.jpg)](https://www.coinbase.com/join/58cbe25a355148797479dbd2) | coinbase | [Coinbase](https://www.coinbase.com/join/58cbe25a355148797479dbd2) | 2 | [API](https://developers.coinbase.com/api/v2) |  |
-| [![coinbaseprime](https://user-images.githubusercontent.com/1294454/44539184-29f26e00-a70c-11e8-868f-e907fc236a7c.jpg)](https://prime.coinbase.com/) | coinbaseprime | [Coinbase Prime](https://prime.coinbase.com/) |  | [API](https://docs.prime.coinbase.com/) |  |
-| [![coinbasepro](https://user-images.githubusercontent.com/1294454/41764625-63b7ffde-760a-11e8-996d-a6328fa9347a.jpg)](https://pro.coinbase.com/) | coinbasepro | [Coinbase Pro](https://pro.coinbase.com/) |  | [API](https://docs.pro.coinbase.com/) |  |
-| [![coincheck](https://user-images.githubusercontent.com/1294454/27766464-3b5c3c74-5ed9-11e7-840e-31b32968e1da.jpg)](https://coincheck.com/) | coincheck | [coincheck](https://coincheck.com/) |  | [API](https://coincheck.com/documents/exchange/api) |  |
-| [![coinegg](https://user-images.githubusercontent.com/1294454/36770310-adfa764e-1c5a-11e8-8e09-449daac3d2fb.jpg)](https://www.coinegg.com/user/register?invite=523218) | coinegg | [CoinEgg](https://www.coinegg.com/user/register?invite=523218) |  | [API](https://www.coinegg.com/explain.api.html) |  |
-| [![coinex](https://user-images.githubusercontent.com/1294454/38046312-0b450aac-32c8-11e8-99ab-bc6b136b6cc7.jpg)](https://www.coinex.com/register?refer_code=yw5fz) | coinex | [CoinEx](https://www.coinex.com/register?refer_code=yw5fz) | 1 | [API](https://github.com/coinexcom/coinex_exchange_api/wiki) |  |
-| [![coinexchange](https://user-images.githubusercontent.com/1294454/34842303-29c99fca-f71c-11e7-83c1-09d900cb2334.jpg)](https://www.coinexchange.io/?r=a1669e56) | coinexchange | [CoinExchange](https://www.coinexchange.io/?r=a1669e56) |  | [API](https://coinexchangeio.github.io/slate/) |  |
-| [![coinfalcon](https://user-images.githubusercontent.com/1294454/41822275-ed982188-77f5-11e8-92bb-496bcd14ca52.jpg)](https://coinfalcon.com/?ref=CFJSVGTUPASB) | coinfalcon | [CoinFalcon](https://coinfalcon.com/?ref=CFJSVGTUPASB) | 1 | [API](https://docs.coinfalcon.com/) |  |
-| [![coinfloor](https://user-images.githubusercontent.com/1294454/28246081-623fc164-6a1c-11e7-913f-bac0d5576c90.jpg)](https://www.coinfloor.co.uk/) | coinfloor | [coinfloor](https://www.coinfloor.co.uk/) |  | [API](https://github.com/coinfloor/api) |  |
-| [![coingi](https://user-images.githubusercontent.com/1294454/28619707-5c9232a8-7212-11e7-86d6-98fe5d15cc6e.jpg)](https://www.coingi.com/?r=XTPPMC) | coingi | [Coingi](https://www.coingi.com/?r=XTPPMC) |  | [API](https://coingi.docs.apiary.io/) |  |
-| [![coinmarketcap](https://user-images.githubusercontent.com/1294454/28244244-9be6312a-69ed-11e7-99c1-7c1797275265.jpg)](https://coinmarketcap.com/) | coinmarketcap | [CoinMarketCap](https://coinmarketcap.com/) | 1 | [API](https://coinmarketcap.com/api) |  |
-| [![coinmate](https://user-images.githubusercontent.com/1294454/27811229-c1efb510-606c-11e7-9a36-84ba2ce412d8.jpg)](https://coinmate.io/?referral=YTFkM1RsOWFObVpmY1ZjMGREQmpTRnBsWjJJNVp3PT0) | coinmate | [CoinMate](https://coinmate.io/?referral=YTFkM1RsOWFObVpmY1ZjMGREQmpTRnBsWjJJNVp3PT0) |  | [API](https://coinmate.docs.apiary.io/) |  |
-| [![coinone](https://user-images.githubusercontent.com/1294454/38003300-adc12fba-323f-11e8-8525-725f53c4a659.jpg)](https://coinone.co.kr/) | coinone | [CoinOne](https://coinone.co.kr/) | 2 | [API](https://doc.coinone.co.kr/) |  |
-| [![coinspot](https://user-images.githubusercontent.com/1294454/28208429-3cacdf9a-6896-11e7-854e-4c79a772a30f.jpg)](https://www.coinspot.com.au/register?code=PJURCU) | coinspot | [CoinSpot](https://www.coinspot.com.au/register?code=PJURCU) |  | [API](https://www.coinspot.com.au/api) |  |
-| [![cointiger](https://user-images.githubusercontent.com/1294454/39797261-d58df196-5363-11e8-9880-2ec78ec5bd25.jpg)](https://www.cointiger.one/#/register?refCode=FfvDtt) | cointiger | [CoinTiger](https://www.cointiger.one/#/register?refCode=FfvDtt) | 1 | [API](https://github.com/cointiger/api-docs-en/wiki) |  |
-| [![coolcoin](https://user-images.githubusercontent.com/1294454/36770529-be7b1a04-1c5b-11e8-9600-d11f1996b539.jpg)](https://www.coolcoin.com/user/register?invite_code=bhaega) | coolcoin | [CoolCoin](https://www.coolcoin.com/user/register?invite_code=bhaega) |  | [API](https://www.coolcoin.com/help.api.html) |  |
-| [![coss](https://user-images.githubusercontent.com/1294454/50328158-22e53c00-0503-11e9-825c-c5cfd79bfa74.jpg)](https://www.coss.io/c/reg?r=OWCMHQVW2Q) | coss | [COSS](https://www.coss.io/c/reg?r=OWCMHQVW2Q) | 1 | [API](https://api.coss.io/v1/spec) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![crex24](https://user-images.githubusercontent.com/1294454/47813922-6f12cc00-dd5d-11e8-97c6-70f957712d47.jpg)](https://crex24.com/?refid=slxsjsjtil8xexl9hksr) | crex24 | [CREX24](https://crex24.com/?refid=slxsjsjtil8xexl9hksr) | 2 | [API](https://docs.crex24.com/trade-api/v2) |  |
-| [![crypton](https://user-images.githubusercontent.com/1294454/41334251-905b5a78-6eed-11e8-91b9-f3aa435078a1.jpg)](https://cryptonbtc.com/) | crypton | [Crypton](https://cryptonbtc.com/) | 1 | [API](https://cryptonbtc.docs.apiary.io/) |  |
-| [![deribit](https://user-images.githubusercontent.com/1294454/41933112-9e2dd65a-798b-11e8-8440-5bab2959fcb8.jpg)](https://www.deribit.com/reg-1189.4038) | deribit | [Deribit](https://www.deribit.com/reg-1189.4038) | 1 | [API](https://docs.deribit.com/) |  |
-| [![digifinex](https://user-images.githubusercontent.com/1294454/62184319-304e8880-b366-11e9-99fe-8011d6929195.jpg)](https://www.digifinex.vip/en-ww/from/DhOzBg/3798****5114) | digifinex | [DigiFinex](https://www.digifinex.vip/en-ww/from/DhOzBg/3798****5114) | 3 | [API](https://docs.digifinex.vip/) |  |
-| [![dsx](https://user-images.githubusercontent.com/1294454/27990275-1413158a-645a-11e7-931c-94717f7510e3.jpg)](https://dsx.uk/) | dsx | [DSX](https://dsx.uk/) | 3 | [API](https://dsx.uk/developers/publicApi) |  |
-| [![dx](https://user-images.githubusercontent.com/1294454/57979980-6483ff80-7a2d-11e9-9224-2aa20665703b.jpg)](https://dx.exchange/registration?dx_cid=20&dx_scname=100001100000038139) | dx | [DX.Exchange](https://dx.exchange/registration?dx_cid=20&dx_scname=100001100000038139) | 1 | [API](https://apidocs.dx.exchange/) |  |
-| [![ethfinex](https://user-images.githubusercontent.com/1294454/37555526-7018a77c-29f9-11e8-8835-8e415c038a18.jpg)](https://www.ethfinex.com/) | ethfinex | [Ethfinex](https://www.ethfinex.com/) | 1 | [API](https://bitfinex.readme.io/v1/docs) |  |
-| [![exmo](https://user-images.githubusercontent.com/1294454/27766491-1b0ea956-5eda-11e7-9225-40d67b481b8d.jpg)](https://exmo.me/?ref=131685) | exmo | [EXMO](https://exmo.me/?ref=131685) | 1 | [API](https://exmo.me/en/api_doc?ref=131685) |  |
-| [![exx](https://user-images.githubusercontent.com/1294454/37770292-fbf613d0-2de4-11e8-9f79-f2dc451b8ccb.jpg)](https://www.exx.com/r/fde4260159e53ab8a58cc9186d35501f?recommQd=1) | exx | [EXX](https://www.exx.com/r/fde4260159e53ab8a58cc9186d35501f?recommQd=1) |  | [API](https://www.exx.com/help/restApi) |  |
-| [![fcoin](https://user-images.githubusercontent.com/1294454/42244210-c8c42e1e-7f1c-11e8-8710-a5fb63b165c4.jpg)](https://www.fcoin.com/i/Z5P7V) | fcoin | [FCoin](https://www.fcoin.com/i/Z5P7V) | 2 | [API](https://developer.fcoin.com/) |  |
-| [![fcoinjp](https://user-images.githubusercontent.com/1294454/54219174-08b66b00-4500-11e9-862d-f522d0fe08c6.jpg)](https://www.fcoinjp.com/) | fcoinjp | [FCoinJP](https://www.fcoinjp.com/) | 2 | [API](https://developer.fcoin.com/) |  |
-| [![flowbtc](https://user-images.githubusercontent.com/1294454/28162465-cd815d4c-67cf-11e7-8e57-438bea0523a2.jpg)](https://www.flowbtc.com.br/) | flowbtc | [flowBTC](https://www.flowbtc.com.br/) | 1 | [API](https://www.flowbtc.com.br/api.html) |  |
-| [![foxbit](https://user-images.githubusercontent.com/1294454/27991413-11b40d42-647f-11e7-91ee-78ced874dd09.jpg)](https://foxbit.com.br/exchange) | foxbit | [FoxBit](https://foxbit.com.br/exchange) | 1 | [API](https://foxbit.com.br/api/) |  |
-| [![fybse](https://user-images.githubusercontent.com/1294454/27766512-31019772-5edb-11e7-8241-2e675e6797f1.jpg)](https://www.fybse.se/) | fybse | [FYB-SE](https://www.fybse.se/) |  | [API](https://fyb.docs.apiary.io/) |  |
-| [![gateio](https://user-images.githubusercontent.com/1294454/31784029-0313c702-b509-11e7-9ccc-bc0da6a0e435.jpg)](https://www.gate.io/signup/2436035) | gateio | [Gate.io](https://www.gate.io/signup/2436035) | 2 | [API](https://gate.io/api2) |  |
-| [![gdax](https://user-images.githubusercontent.com/1294454/27766527-b1be41c6-5edb-11e7-95f6-5b496c469e2c.jpg)](https://www.gdax.com/) | gdax | [GDAX](https://www.gdax.com/) |  | [API](https://docs.gdax.com/) |  |
-| [![gemini](https://user-images.githubusercontent.com/1294454/27816857-ce7be644-6096-11e7-82d6-3c257263229c.jpg)](https://gemini.com/) | gemini | [Gemini](https://gemini.com/) | 1 | [API](https://docs.gemini.com/rest-api) |  |
-| [![hitbtc](https://user-images.githubusercontent.com/1294454/27766555-8eaec20e-5edc-11e7-9c5b-6dc69fc42f5e.jpg)](https://hitbtc.com/?ref_id=5a5d39a65d466) | hitbtc | [HitBTC](https://hitbtc.com/?ref_id=5a5d39a65d466) | 1 | [API](https://github.com/hitbtc-com/hitbtc-api/blob/master/APIv1.md) |  |
-| [![hitbtc2](https://user-images.githubusercontent.com/1294454/27766555-8eaec20e-5edc-11e7-9c5b-6dc69fc42f5e.jpg)](https://hitbtc.com/?ref_id=5a5d39a65d466) | hitbtc2 | [HitBTC](https://hitbtc.com/?ref_id=5a5d39a65d466) | 2 | [API](https://api.hitbtc.com/) |  |
-| [![huobipro](https://user-images.githubusercontent.com/1294454/27766569-15aa7b9a-5edd-11e7-9e7f-44791f4ee49c.jpg)](https://www.huobi.co/en-us/topic/invited/?invite_code=rwrd3) | huobipro | [Huobi Pro](https://www.huobi.co/en-us/topic/invited/?invite_code=rwrd3) | 1 | [API](https://huobiapi.github.io/docs/spot/v1/cn/) |  |
-| [![huobiru](https://user-images.githubusercontent.com/1294454/52978816-e8552e00-33e3-11e9-98ed-845acfece834.jpg)](https://www.huobi.com.ru/invite?invite_code=esc74) | huobiru | [Huobi Russia](https://www.huobi.com.ru/invite?invite_code=esc74) | 1 | [API](https://github.com/cloudapidoc/API_Docs_en) |  |
-| [![ice3x](https://user-images.githubusercontent.com/1294454/38012176-11616c32-3269-11e8-9f05-e65cf885bb15.jpg)](https://ice3x.com/?ref=14341802) | ice3x | [ICE3X](https://ice3x.com/?ref=14341802) | 1 | [API](https://ice3x.co.za/ice-cubed-bitcoin-exchange-api-documentation-1-june-2017) |  |
-| [![idex](https://user-images.githubusercontent.com/1294454/63693236-3415e380-c81c-11e9-8600-ba1634f1407d.jpg)](https://idex.market/) | idex | [IDEX](https://idex.market/) |  | [API](https://github.com/AuroraDAO/idex-api-docs) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![independentreserve](https://user-images.githubusercontent.com/1294454/30521662-cf3f477c-9bcb-11e7-89bc-d1ac85012eda.jpg)](https://www.independentreserve.com/) | independentreserve | [Independent Reserve](https://www.independentreserve.com/) |  | [API](https://www.independentreserve.com/API) |  |
-| [![indodax](https://user-images.githubusercontent.com/1294454/37443283-2fddd0e4-281c-11e8-9741-b4f1419001b5.jpg)](https://indodax.com/ref/testbitcoincoid/1) | indodax | [INDODAX](https://indodax.com/ref/testbitcoincoid/1) | 1.8 | [API](https://indodax.com/downloads/BITCOINCOID-API-DOCUMENTATION.pdf) |  |
-| [![itbit](https://user-images.githubusercontent.com/1294454/27822159-66153620-60ad-11e7-89e7-005f6d7f3de0.jpg)](https://www.itbit.com/) | itbit | [itBit](https://www.itbit.com/) | 1 | [API](https://api.itbit.com/docs) |  |
-| [![kkex](https://user-images.githubusercontent.com/1294454/47401462-2e59f800-d74a-11e8-814f-e4ae17b4968a.jpg)](https://kkex.com/) | kkex | [KKEX](https://kkex.com/) | 2 | [API](https://kkex.com/api_wiki/cn/) |  |
-| [![kraken](https://user-images.githubusercontent.com/1294454/27766599-22709304-5ede-11e7-9de1-9f33732e1509.jpg)](https://www.kraken.com/) | kraken | [Kraken](https://www.kraken.com/) | 0 | [API](https://www.kraken.com/features/api) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![kucoin](https://user-images.githubusercontent.com/1294454/57369448-3cc3aa80-7196-11e9-883e-5ebeb35e4f57.jpg)](https://www.kucoin.com/?rcode=E5wkqe) | kucoin | [KuCoin](https://www.kucoin.com/?rcode=E5wkqe) | 2 | [API](https://docs.kucoin.com/) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![kuna](https://user-images.githubusercontent.com/1294454/31697638-912824fa-b3c1-11e7-8c36-cf9606eb94ac.jpg)](https://kuna.io/?r=kunaid-gvfihe8az7o4) | kuna | [Kuna](https://kuna.io/?r=kunaid-gvfihe8az7o4) | 2 | [API](https://kuna.io/documents/api) |  |
-| [![lakebtc](https://user-images.githubusercontent.com/1294454/28074120-72b7c38a-6660-11e7-92d9-d9027502281d.jpg)](https://www.lakebtc.com/) | lakebtc | [LakeBTC](https://www.lakebtc.com/) | 2 | [API](https://www.lakebtc.com/s/api_v2) |  |
-| [![latoken](https://user-images.githubusercontent.com/1294454/61511972-24c39f00-aa01-11e9-9f7c-471f1d6e5214.jpg)](https://latoken.com/) | latoken | [Latoken](https://latoken.com/) | 1 | [API](https://api.latoken.com/) |  |
-| [![lbank](https://user-images.githubusercontent.com/1294454/38063602-9605e28a-3302-11e8-81be-64b1e53c4cfb.jpg)](https://www.lbex.io/invite?icode=7QCY) | lbank | [LBank](https://www.lbex.io/invite?icode=7QCY) | 1 | [API](https://github.com/LBank-exchange/lbank-official-api-docs) |  |
-| [![liquid](https://user-images.githubusercontent.com/1294454/45798859-1a872600-bcb4-11e8-8746-69291ce87b04.jpg)](https://www.liquid.com/?affiliate=SbzC62lt30976) | liquid | [Liquid](https://www.liquid.com/?affiliate=SbzC62lt30976) | 2 | [API](https://developers.liquid.com/) |  |
-| [![livecoin](https://user-images.githubusercontent.com/1294454/27980768-f22fc424-638a-11e7-89c9-6010a54ff9be.jpg)](https://livecoin.net/?from=Livecoin-CQ1hfx44) | livecoin | [LiveCoin](https://livecoin.net/?from=Livecoin-CQ1hfx44) |  | [API](https://www.livecoin.net/api?lang=en) |  |
-| [![luno](https://user-images.githubusercontent.com/1294454/27766607-8c1a69d8-5ede-11e7-930c-540b5eb9be24.jpg)](https://www.luno.com/invite/44893A) | luno | [luno](https://www.luno.com/invite/44893A) | 1 | [API](https://www.luno.com/en/api) |  |
-| [![lykke](https://user-images.githubusercontent.com/1294454/34487620-3139a7b0-efe6-11e7-90f5-e520cef74451.jpg)](https://www.lykke.com/) | lykke | [Lykke](https://www.lykke.com/) | 1 | [API](https://hft-api.lykke.com/swagger/ui/) |  |
-| [![mandala](https://user-images.githubusercontent.com/1294454/54686665-df629400-4b2a-11e9-84d3-d88856367dd7.jpg)](https://trade.mandalaex.com/?ref=564377) | mandala | [Mandala](https://trade.mandalaex.com/?ref=564377) | 2 | [API](https://apidocs.mandalaex.com/) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![mercado](https://user-images.githubusercontent.com/1294454/27837060-e7c58714-60ea-11e7-9192-f05e86adb83f.jpg)](https://www.mercadobitcoin.com.br/) | mercado | [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) | 3 | [API](https://www.mercadobitcoin.com.br/api-doc) |  |
-| [![mixcoins](https://user-images.githubusercontent.com/1294454/30237212-ed29303c-9535-11e7-8af8-fcd381cfa20c.jpg)](https://mixcoins.com/) | mixcoins | [MixCoins](https://mixcoins.com/) | 1 | [API](https://mixcoins.com/help/api/) |  |
-| [![negociecoins](https://user-images.githubusercontent.com/1294454/38008571-25a6246e-3258-11e8-969b-aeb691049245.jpg)](https://www.negociecoins.com.br/) | negociecoins | [NegocieCoins](https://www.negociecoins.com.br/) | 3 | [API](https://www.negociecoins.com.br/documentacao-tradeapi) |  |
-| [![nova](https://user-images.githubusercontent.com/1294454/30518571-78ca0bca-9b8a-11e7-8840-64b83a4a94b2.jpg)](https://novaexchange.com/signup/?re=is8vz2hsl3qxewv1uawd) | nova | [Novaexchange](https://novaexchange.com/signup/?re=is8vz2hsl3qxewv1uawd) | 2 | [API](https://novaexchange.com/remote/faq) |  |
-| [![oceanex](https://user-images.githubusercontent.com/1294454/58385970-794e2d80-8001-11e9-889c-0567cd79b78e.jpg)](https://oceanex.pro/signup?referral=VE24QX) | oceanex | [OceanEx](https://oceanex.pro/signup?referral=VE24QX) | 1 | [API](https://api.oceanex.pro/doc/v1) |  |
-| [![okcoincny](https://user-images.githubusercontent.com/1294454/27766792-8be9157a-5ee5-11e7-926c-6d69b8d3378d.jpg)](https://www.okcoin.cn/) | okcoincny | [OKCoin CNY](https://www.okcoin.cn/) | 1 | [API](https://www.okcoin.cn/rest_getStarted.html) |  |
-| [![okcoinusd](https://user-images.githubusercontent.com/1294454/27766791-89ffb502-5ee5-11e7-8a5b-c5950b68ac65.jpg)](https://www.okcoin.com/account/register?flag=activity&channelId=600001513) | okcoinusd | [OKCoin USD](https://www.okcoin.com/account/register?flag=activity&channelId=600001513) | 1 | [API](https://www.okcoin.com/docs/en/) |  |
-| [![okex](https://user-images.githubusercontent.com/1294454/32552768-0d6dd3c6-c4a6-11e7-90f8-c043b64756a7.jpg)](https://www.okex.com/) | okex | [OKEX](https://www.okex.com/) | 1 | [API](https://github.com/okcoin-okex/API-docs-OKEx.com) |  |
-| [![okex3](https://user-images.githubusercontent.com/1294454/32552768-0d6dd3c6-c4a6-11e7-90f8-c043b64756a7.jpg)](https://www.okex.com/) | okex3 | [OKEX](https://www.okex.com/) | 3 | [API](https://www.okex.com/docs/en/) |  |
-| [![paymium](https://user-images.githubusercontent.com/1294454/27790564-a945a9d4-5ff9-11e7-9d2d-b635763f2f24.jpg)](https://www.paymium.com/) | paymium | [Paymium](https://www.paymium.com/) | 1 | [API](https://github.com/Paymium/api-documentation) |  |
-| [![poloniex](https://user-images.githubusercontent.com/1294454/27766817-e9456312-5ee6-11e7-9b3c-b628ca5626a5.jpg)](https://www.poloniex.com/?utm_source=ccxt&utm_medium=web) | poloniex | [Poloniex](https://www.poloniex.com/?utm_source=ccxt&utm_medium=web) |  | [API](https://docs.poloniex.com/) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![rightbtc](https://user-images.githubusercontent.com/1294454/42633917-7d20757e-85ea-11e8-9f53-fffe9fbb7695.jpg)](https://www.rightbtc.com/) | rightbtc | [RightBTC](https://www.rightbtc.com/) |  | [API](https://52.53.159.206/api/trader/) |  |
-| [![southxchange](https://user-images.githubusercontent.com/1294454/27838912-4f94ec8a-60f6-11e7-9e5d-bbf9bd50a559.jpg)](https://www.southxchange.com/) | southxchange | [SouthXchange](https://www.southxchange.com/) |  | [API](https://www.southxchange.com/Home/Api) |  |
-| [![stronghold](https://user-images.githubusercontent.com/1294454/52160042-98c1f300-26be-11e9-90dd-da8473944c83.jpg)](https://stronghold.co/) | stronghold | [Stronghold](https://stronghold.co/) | 1 | [API](https://docs.stronghold.co/) |  |
-| [![surbitcoin](https://user-images.githubusercontent.com/1294454/27991511-f0a50194-6481-11e7-99b5-8f02932424cc.jpg)](https://surbitcoin.com/) | surbitcoin | [SurBitcoin](https://surbitcoin.com/) | 1 | [API](https://blinktrade.com/docs) |  |
-| [![theocean](https://user-images.githubusercontent.com/1294454/43103756-d56613ce-8ed7-11e8-924e-68f9d4bcacab.jpg)](https://theocean.trade/) | theocean | [The Ocean](https://theocean.trade/) | 1 | [API](https://docs.theocean.trade/) |  |
-| [![therock](https://user-images.githubusercontent.com/1294454/27766869-75057fa2-5ee9-11e7-9a6f-13e641fa4707.jpg)](https://therocktrading.com/) | therock | [TheRockTrading](https://therocktrading.com/) | 1 | [API](https://api.therocktrading.com/doc/v1/index.html) |  |
-| [![tidebit](https://user-images.githubusercontent.com/1294454/39034921-e3acf016-4480-11e8-9945-a6086a1082fe.jpg)](http://bit.ly/2IX0LrM) | tidebit | [TideBit](http://bit.ly/2IX0LrM) | 2 | [API](https://www.tidebit.com/documents/api/guide) |  |
-| [![tidex](https://user-images.githubusercontent.com/1294454/30781780-03149dc4-a12e-11e7-82bb-313b269d24d4.jpg)](https://tidex.com/) | tidex | [Tidex](https://tidex.com/) | 3 | [API](https://tidex.com/exchange/public-api) |  |
-| [![upbit](https://user-images.githubusercontent.com/1294454/49245610-eeaabe00-f423-11e8-9cba-4b0aed794799.jpg)](https://upbit.com/) | upbit | [Upbit](https://upbit.com/) | 1 | [API](https://docs.upbit.com/docs/%EC%9A%94%EC%B2%AD-%EC%88%98-%EC%A0%9C%ED%95%9C) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
-| [![vaultoro](https://user-images.githubusercontent.com/1294454/27766880-f205e870-5ee9-11e7-8fe2-0d5b15880752.jpg)](https://www.vaultoro.com/) | vaultoro | [Vaultoro](https://www.vaultoro.com/) | 1 | [API](https://api.vaultoro.com/) |  |
-| [![vbtc](https://user-images.githubusercontent.com/1294454/27991481-1f53d1d8-6481-11e7-884e-21d17e7939db.jpg)](https://vbtc.exchange/) | vbtc | [VBTC](https://vbtc.exchange/) | 1 | [API](https://blinktrade.com/docs) |  |
-| [![virwox](https://user-images.githubusercontent.com/1294454/27766894-6da9d360-5eea-11e7-90aa-41f2711b7405.jpg)](https://www.virwox.com/) | virwox | [VirWoX](https://www.virwox.com/) | \* | [API](https://www.virwox.com/developers.php) |  |
-| [![xbtce](https://user-images.githubusercontent.com/1294454/28059414-e235970c-662c-11e7-8c3a-08e31f78684b.jpg)](https://xbtce.com/?agent=XX97BTCXXXG687021000B) | xbtce | [xBTCe](https://xbtce.com/?agent=XX97BTCXXXG687021000B) | 1 | [API](https://www.xbtce.com/tradeapi) |  |
-| [![yobit](https://user-images.githubusercontent.com/1294454/27766910-cdcbfdae-5eea-11e7-9859-03fea873272d.jpg)](https://www.yobit.net/) | yobit | [YoBit](https://www.yobit.net/) | 3 | [API](https://www.yobit.net/en/api/) |  |
-| [![zaif](https://user-images.githubusercontent.com/1294454/27766927-39ca2ada-5eeb-11e7-972f-1b4199518ca6.jpg)](https://zaif.jp/) | zaif | [Zaif](https://zaif.jp/) | 1 | [API](https://techbureau-api-document.readthedocs.io/ja/latest/index.html) |  |
-| [![zb](https://user-images.githubusercontent.com/1294454/32859187-cd5214f0-ca5e-11e7-967d-96568e2e2bd1.jpg)](https://www.zb.com/) | zb | [ZB](https://www.zb.com/) | 1 | [API](https://www.zb.com/i/developer) |  |
+|        logo                                                                                                                                                                                     | id                 | 名称                                                                                       | 版本  | 文档                                                                                           | 认证标志                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------- | --- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![\_1btcxe](https://user-images.githubusercontent.com/1294454/27766049-2b294408-5ecc-11e7-85cc-adaff013dc1a.jpg)](https://1btcxe.com)                                                          | \_1btcxe           | [1BTCXE](https://1btcxe.com)                                                             |     | [API](https://1btcxe.com/api-docs.php)                                                       |                                                                                                                                                                                                                                                                                          |
+| [![acx](https://user-images.githubusercontent.com/1294454/30247614-1fe61c74-9621-11e7-9e8c-f1a627afa279.jpg)](https://acx.io)                                                                   | acx                | [ACX](https://acx.io)                                                                    | 2   | [API](https://acx.io/documents/api_v2)                                                       |                                                                                                                                                                                                                                                                                          |
+| [![adara](https://user-images.githubusercontent.com/1294454/49189583-0466a780-f380-11e8-9248-57a631aad2d6.jpg)](https://adara.io)                                                               | adara              | [Adara](https://adara.io)                                                                | 1   | [API](https://api.adara.io/v1)                                                               |                                                                                                                                                                                                                                                                                          |
+| [![allcoin](https://user-images.githubusercontent.com/1294454/31561809-c316b37c-b061-11e7-8d5a-b547b4d730eb.jpg)](https://www.allcoin.com)                                                      | allcoin            | [Allcoin](https://www.allcoin.com)                                                       | 1   | [API](https://www.allcoin.com/api_market/market)                                             |                                                                                                                                                                                                                                                                                          |
+| [![anxpro](https://user-images.githubusercontent.com/1294454/27765983-fd8595da-5ec9-11e7-82e3-adb3ab8c2612.jpg)](https://anxpro.com)                                                            | anxpro             | [ANXPro](https://anxpro.com)                                                             |     | [API](https://anxv2.docs.apiary.io)                                                          |                                                                                                                                                                                                                                                                                          |
+| [![bcex](https://user-images.githubusercontent.com/1294454/43362240-21c26622-92ee-11e8-9464-5801ec526d77.jpg)](https://www.bcex.top/register?invite_code=758978\&lang=en)                       | bcex               | [BCEX](https://www.bcex.top/register?invite_code=758978\&lang=en)                        | 1   | [API](https://github.com/BCEX-TECHNOLOGY-LIMITED/API_Docs/wiki/Interface)                    |                                                                                                                                                                                                                                                                                          |
+| [![bequant](https://user-images.githubusercontent.com/1294454/55248342-a75dfe00-525a-11e9-8aa2-05e9dca943c6.jpg)](https://bequant.io)                                                           | bequant            | [Bequant](https://bequant.io)                                                            | 2   | [API](https://api.bequant.io)                                                                |                                                                                                                                                                                                                                                                                          |
+| [![bibox](https://user-images.githubusercontent.com/1294454/34902611-2be8bf1a-f830-11e7-91a2-11b2f292e750.jpg)](https://www.bibox.com/signPage?id=11114745\&lang=en)                            | bibox              | [Bibox](https://www.bibox.com/signPage?id=11114745\&lang=en)                             | 1   | [API](https://github.com/Biboxcom/api_reference/wiki/home_en)                                |                                                                                                                                                                                                                                                                                          |
+| [![bigone](https://user-images.githubusercontent.com/1294454/42803606-27c2b5ec-89af-11e8-8d15-9c8c245e8b2c.jpg)](https://b1.run/users/new?code=D3LLBVFT)                                        | bigone             | [BigONE](https://b1.run/users/new?code=D3LLBVFT)                                         | 2   | [API](https://open.big.one/docs/api.html)                                                    |                                                                                                                                                                                                                                                                                          |
+| [![binance](https://user-images.githubusercontent.com/1294454/29604020-d5483cdc-87ee-11e7-94c7-d1a8d9169293.jpg)](https://www.binance.com/?ref=10205187)                                        | binance            | [Binance](https://www.binance.com/?ref=10205187)                                         |     | [API](https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md) | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![binanceje](https://user-images.githubusercontent.com/1294454/54874009-d526eb00-4df3-11e9-928c-ce6a2b914cd1.jpg)](https://www.binance.je/?ref=35047921)                                       | binanceje          | [Binance Jersey](https://www.binance.je/?ref=35047921)                                   |     | [API](https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md) |                                                                                                                                                                                                                                                                                          |
+| [![binanceus](https://user-images.githubusercontent.com/1294454/65177307-217b7c80-da5f-11e9-876e-0b748ba0a358.jpg)](https://www.binance.us/?ref=35005074)                                       | binanceus          | [Binance US](https://www.binance.us/?ref=35005074)                                       |     | [API](https://github.com/binance-us/binance-official-api-docs)                               |                                                                                                                                                                                                                                                                                          |
+| [![bit2c](https://user-images.githubusercontent.com/1294454/27766119-3593220e-5ece-11e7-8b3a-5a041f6bcc3f.jpg)](https://bit2c.co.il/Aff/63bfed10-e359-420c-ab5a-ad368dab0baf)                   | bit2c              | [Bit2C](https://bit2c.co.il/Aff/63bfed10-e359-420c-ab5a-ad368dab0baf)                    |     | [API](https://www.bit2c.co.il/home/api)                                                      |                                                                                                                                                                                                                                                                                          |
+| [![bitbank](https://user-images.githubusercontent.com/1294454/37808081-b87f2d9c-2e59-11e8-894d-c1900b7584fe.jpg)](https://bitbank.cc)                                                           | bitbank            | [bitbank](https://bitbank.cc)                                                            | 1   | [API](https://docs.bitbank.cc)                                                               |                                                                                                                                                                                                                                                                                          |
+| [![bitbay](https://user-images.githubusercontent.com/1294454/27766132-978a7bd8-5ece-11e7-9540-bc96d1e9bbb8.jpg)](https://auth.bitbay.net/ref/jHlbB4mIkdS1)                                      | bitbay             | [BitBay](https://auth.bitbay.net/ref/jHlbB4mIkdS1)                                       |     | [API](https://bitbay.net/public-api)                                                         |                                                                                                                                                                                                                                                                                          |
+| [![bitfinex](https://user-images.githubusercontent.com/1294454/27766244-e328a50c-5ed2-11e7-947b-041416579bb3.jpg)](https://www.bitfinex.com)                                                    | bitfinex           | [Bitfinex](https://www.bitfinex.com)                                                     | 1   | [API](https://docs.bitfinex.com/v1/docs)                                                     | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![bitfinex2](https://user-images.githubusercontent.com/1294454/27766244-e328a50c-5ed2-11e7-947b-041416579bb3.jpg)](https://www.bitfinex.com)                                                   | bitfinex2          | [Bitfinex](https://www.bitfinex.com)                                                     | 2   | [API](https://docs.bitfinex.com/v2/docs/)                                                    |                                                                                                                                                                                                                                                                                          |
+| [![bitflyer](https://user-images.githubusercontent.com/1294454/28051642-56154182-660e-11e7-9b0d-6042d1e6edd8.jpg)](https://bitflyer.jp)                                                         | bitflyer           | [bitFlyer](https://bitflyer.jp)                                                          | 1   | [API](https://lightning.bitflyer.com/docs?lang=en)                                           |                                                                                                                                                                                                                                                                                          |
+| [![bitforex](https://user-images.githubusercontent.com/1294454/44310033-69e9e600-a3d8-11e8-873d-54d74d1bc4e4.jpg)](https://www.bitforex.com/en/invitationRegister?inviterId=1867438)            | bitforex           | [Bitforex](https://www.bitforex.com/en/invitationRegister?inviterId=1867438)             | 1   | [API](https://github.com/bitforexapi/API_Docs/wiki)                                          |                                                                                                                                                                                                                                                                                          |
+| [![bithumb](https://user-images.githubusercontent.com/1294454/30597177-ea800172-9d5e-11e7-804c-b9d4fa9b56b0.jpg)](https://www.bithumb.com)                                                      | bithumb            | [Bithumb](https://www.bithumb.com)                                                       |     | [API](https://apidocs.bithumb.com)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![bitkk](https://user-images.githubusercontent.com/1294454/32859187-cd5214f0-ca5e-11e7-967d-96568e2e2bd1.jpg)](https://www.bitkk.com)                                                          | bitkk              | [bitkk](https://www.bitkk.com)                                                           | 1   | [API](https://www.bitkk.com/i/developer)                                                     |                                                                                                                                                                                                                                                                                          |
+| [![bitlish](https://user-images.githubusercontent.com/1294454/27766275-dcfc6c30-5ed3-11e7-839d-00a846385d0b.jpg)](https://bitlish.com)                                                          | bitlish            | [Bitlish](https://bitlish.com)                                                           | 1   | [API](https://bitlish.com/api)                                                               |                                                                                                                                                                                                                                                                                          |
+| [![bitmart](https://user-images.githubusercontent.com/1294454/61835713-a2662f80-ae85-11e9-9d00-6442919701fd.jpg)](http://www.bitmart.com/?r=rQCFLh)                                             | bitmart            | [BitMart](http://www.bitmart.com/?r=rQCFLh)                                              | 2   | [API](https://github.com/bitmartexchange/bitmart-official-api-docs)                          |                                                                                                                                                                                                                                                                                          |
+| [![bitmex](https://user-images.githubusercontent.com/1294454/27766319-f653c6e6-5ed4-11e7-933d-f0bc3699ae8f.jpg)](https://www.bitmex.com/register/rm3C16)                                        | bitmex             | [BitMEX](https://www.bitmex.com/register/rm3C16)                                         | 1   | [API](https://www.bitmex.com/app/apiOverview)                                                |                                                                                                                                                                                                                                                                                          |
+| [![bitso](https://user-images.githubusercontent.com/1294454/27766335-715ce7aa-5ed5-11e7-88a8-173a27bb30fe.jpg)](https://bitso.com/?ref=itej)                                                    | bitso              | [Bitso](https://bitso.com/?ref=itej)                                                     | 3   | [API](https://bitso.com/api_info)                                                            |                                                                                                                                                                                                                                                                                          |
+| [![bitstamp](https://user-images.githubusercontent.com/1294454/27786377-8c8ab57e-5fe9-11e7-8ea4-2b05b6bcceec.jpg)](https://www.bitstamp.net)                                                    | bitstamp           | [Bitstamp](https://www.bitstamp.net)                                                     | 2   | [API](https://www.bitstamp.net/api)                                                          |                                                                                                                                                                                                                                                                                          |
+| [![bitstamp1](https://user-images.githubusercontent.com/1294454/27786377-8c8ab57e-5fe9-11e7-8ea4-2b05b6bcceec.jpg)](https://www.bitstamp.net)                                                   | bitstamp1          | [Bitstamp](https://www.bitstamp.net)                                                     | 1   | [API](https://www.bitstamp.net/api)                                                          |                                                                                                                                                                                                                                                                                          |
+| [![bittrex](https://user-images.githubusercontent.com/1294454/27766352-cf0b3c26-5ed5-11e7-82b7-f3826b7a97d8.jpg)](https://bittrex.com)                                                          | bittrex            | [Bittrex](https://bittrex.com)                                                           | 1.1 | [API](https://bittrex.github.io/api/)                                                        | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![bitz](https://user-images.githubusercontent.com/1294454/35862606-4f554f14-0b5d-11e8-957d-35058c504b6f.jpg)](https://u.bit-z.com/register?invite_code=1429193)                                | bitz               | [Bit-Z](https://u.bit-z.com/register?invite_code=1429193)                                | 2   | [API](https://apidoc.bit-z.com/en/)                                                          |                                                                                                                                                                                                                                                                                          |
+| [![bl3p](https://user-images.githubusercontent.com/1294454/28501752-60c21b82-6feb-11e7-818b-055ee6d0e754.jpg)](https://bl3p.eu)                                                                 | bl3p               | [BL3P](https://bl3p.eu)                                                                  | 1   | [API](https://github.com/BitonicNL/bl3p-api/tree/master/docs)                                |                                                                                                                                                                                                                                                                                          |
+| [![bleutrade](https://user-images.githubusercontent.com/1294454/30303000-b602dbe6-976d-11e7-956d-36c5049c01e7.jpg)](https://bleutrade.com)                                                      | bleutrade          | [Bleutrade](https://bleutrade.com)                                                       | 2   | [API](https://app.swaggerhub.com/apis-docs/bleu/white-label/3.0.0)                           |                                                                                                                                                                                                                                                                                          |
+| [![braziliex](https://user-images.githubusercontent.com/1294454/34703593-c4498674-f504-11e7-8d14-ff8e44fb78c1.jpg)](https://braziliex.com/?ref=5FE61AB6F6D67DA885BC98BA27223465)                | braziliex          | [Braziliex](https://braziliex.com/?ref=5FE61AB6F6D67DA885BC98BA27223465)                 |     | [API](https://braziliex.com/exchange/api.php)                                                |                                                                                                                                                                                                                                                                                          |
+| [![btcalpha](https://user-images.githubusercontent.com/1294454/42625213-dabaa5da-85cf-11e8-8f99-aa8f8f7699f0.jpg)](https://btc-alpha.com/?r=123788)                                             | btcalpha           | [BTC-Alpha](https://btc-alpha.com/?r=123788)                                             | 1   | [API](https://btc-alpha.github.io/api-docs)                                                  |                                                                                                                                                                                                                                                                                          |
+| [![btcbox](https://user-images.githubusercontent.com/1294454/31275803-4df755a8-aaa1-11e7-9abb-11ec2fad9f2d.jpg)](https://www.btcbox.co.jp)                                                      | btcbox             | [BtcBox](https://www.btcbox.co.jp)                                                       | 1   | [API](https://www.btcbox.co.jp/help/asm)                                                     |                                                                                                                                                                                                                                                                                          |
+| [![btcchina](https://user-images.githubusercontent.com/1294454/27766368-465b3286-5ed6-11e7-9a11-0f6467e1d82b.jpg)](https://www.btcchina.com)                                                    | btcchina           | [BTCChina](https://www.btcchina.com)                                                     | 1   | [API](https://www.btcchina.com/apidocs)                                                      |                                                                                                                                                                                                                                                                                          |
+| [![btcmarkets](https://user-images.githubusercontent.com/1294454/29142911-0e1acfc2-7d5c-11e7-98c4-07d9532b29d7.jpg)](https://btcmarkets.net)                                                    | btcmarkets         | [BTC Markets](https://btcmarkets.net)                                                    |     | [API](https://github.com/BTCMarkets/API)                                                     |                                                                                                                                                                                                                                                                                          |
+| [![btctradeim](https://user-images.githubusercontent.com/1294454/36770531-c2142444-1c5b-11e8-91e2-a4d90dc85fe8.jpg)](https://m.baobi.com/invite?inv=1765b2)                                     | btctradeim         | [BtcTrade.im](https://m.baobi.com/invite?inv=1765b2)                                     |     | [API](https://www.btctrade.im/help.api.html)                                                 |                                                                                                                                                                                                                                                                                          |
+| [![btctradeua](https://user-images.githubusercontent.com/1294454/27941483-79fc7350-62d9-11e7-9f61-ac47f28fcd96.jpg)](https://btc-trade.com.ua/registration/22689)                               | btctradeua         | [BTC Trade UA](https://btc-trade.com.ua/registration/22689)                              |     | [API](https://docs.google.com/document/d/1ocYA0yMy_RXd561sfG3qEPZ80kyll36HUxvCRe5GbhE/edit)  |                                                                                                                                                                                                                                                                                          |
+| [![btcturk](https://user-images.githubusercontent.com/1294454/27992709-18e15646-64a3-11e7-9fa2-b0950ec7712f.jpg)](https://www.btcturk.com)                                                      | btcturk            | [BTCTurk](https://www.btcturk.com)                                                       |     | [API](https://github.com/BTCTrader/broker-api-docs)                                          |                                                                                                                                                                                                                                                                                          |
+| [![buda](https://user-images.githubusercontent.com/1294454/47380619-8a029200-d706-11e8-91e0-8a391fe48de3.jpg)](https://www.buda.com)                                                            | buda               | [Buda](https://www.buda.com)                                                             | 2   | [API](https://api.buda.com)                                                                  |                                                                                                                                                                                                                                                                                          |
+| [![bxinth](https://user-images.githubusercontent.com/1294454/27766412-567b1eb4-5ed7-11e7-94a8-ff6a3884f6c5.jpg)](https://bx.in.th/ref/cYHknT/)                                                  | bxinth             | [BX.in.th](https://bx.in.th/ref/cYHknT/)                                                 |     | [API](https://bx.in.th/info/api)                                                             |                                                                                                                                                                                                                                                                                          |
+| [![cex](https://user-images.githubusercontent.com/1294454/27766442-8ddc33b0-5ed8-11e7-8b98-f786aef0f3c9.jpg)](https://cex.io/r/0/up105393824/0/)                                                | cex                | [CEX.IO](https://cex.io/r/0/up105393824/0/)                                              |     | [API](https://cex.io/cex-api)                                                                |                                                                                                                                                                                                                                                                                          |
+| [![chilebit](https://user-images.githubusercontent.com/1294454/27991414-1298f0d8-647f-11e7-9c40-d56409266336.jpg)](https://chilebit.net)                                                        | chilebit           | [ChileBit](https://chilebit.net)                                                         | 1   | [API](https://blinktrade.com/docs)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![cobinhood](https://user-images.githubusercontent.com/1294454/35755576-dee02e5c-0878-11e8-989f-1595d80ba47f.jpg)](https://cobinhood.com/?referrerId=a9d57842-99bb-4d7c-b668-0479a15a458b)     | cobinhood          | [COBINHOOD](https://cobinhood.com/?referrerId=a9d57842-99bb-4d7c-b668-0479a15a458b)      | 1   | [API](https://cobinhood.github.io/api-public)                                                |                                                                                                                                                                                                                                                                                          |
+| [![coinbase](https://user-images.githubusercontent.com/1294454/40811661-b6eceae2-653a-11e8-829e-10bfadb078cf.jpg)](https://www.coinbase.com/join/58cbe25a355148797479dbd2)                      | coinbase           | [Coinbase](https://www.coinbase.com/join/58cbe25a355148797479dbd2)                       | 2   | [API](https://developers.coinbase.com/api/v2)                                                |                                                                                                                                                                                                                                                                                          |
+| [![coinbaseprime](https://user-images.githubusercontent.com/1294454/44539184-29f26e00-a70c-11e8-868f-e907fc236a7c.jpg)](https://prime.coinbase.com)                                             | coinbaseprime      | [Coinbase Prime](https://prime.coinbase.com)                                             |     | [API](https://docs.prime.coinbase.com)                                                       |                                                                                                                                                                                                                                                                                          |
+| [![coinbasepro](https://user-images.githubusercontent.com/1294454/41764625-63b7ffde-760a-11e8-996d-a6328fa9347a.jpg)](https://pro.coinbase.com)                                                 | coinbasepro        | [Coinbase Pro](https://pro.coinbase.com)                                                 |     | [API](https://docs.pro.coinbase.com)                                                         |                                                                                                                                                                                                                                                                                          |
+| [![coincheck](https://user-images.githubusercontent.com/1294454/27766464-3b5c3c74-5ed9-11e7-840e-31b32968e1da.jpg)](https://coincheck.com)                                                      | coincheck          | [coincheck](https://coincheck.com)                                                       |     | [API](https://coincheck.com/documents/exchange/api)                                          |                                                                                                                                                                                                                                                                                          |
+| [![coinegg](https://user-images.githubusercontent.com/1294454/36770310-adfa764e-1c5a-11e8-8e09-449daac3d2fb.jpg)](https://www.coinegg.com/user/register?invite=523218)                          | coinegg            | [CoinEgg](https://www.coinegg.com/user/register?invite=523218)                           |     | [API](https://www.coinegg.com/explain.api.html)                                              |                                                                                                                                                                                                                                                                                          |
+| [![coinex](https://user-images.githubusercontent.com/1294454/38046312-0b450aac-32c8-11e8-99ab-bc6b136b6cc7.jpg)](https://www.coinex.com/register?refer_code=yw5fz)                              | coinex             | [CoinEx](https://www.coinex.com/register?refer_code=yw5fz)                               | 1   | [API](https://github.com/coinexcom/coinex_exchange_api/wiki)                                 |                                                                                                                                                                                                                                                                                          |
+| [![coinexchange](https://user-images.githubusercontent.com/1294454/34842303-29c99fca-f71c-11e7-83c1-09d900cb2334.jpg)](https://www.coinexchange.io/?r=a1669e56)                                 | coinexchange       | [CoinExchange](https://www.coinexchange.io/?r=a1669e56)                                  |     | [API](https://coinexchangeio.github.io/slate/)                                               |                                                                                                                                                                                                                                                                                          |
+| [![coinfalcon](https://user-images.githubusercontent.com/1294454/41822275-ed982188-77f5-11e8-92bb-496bcd14ca52.jpg)](https://coinfalcon.com/?ref=CFJSVGTUPASB)                                  | coinfalcon         | [CoinFalcon](https://coinfalcon.com/?ref=CFJSVGTUPASB)                                   | 1   | [API](https://docs.coinfalcon.com)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![coinfloor](https://user-images.githubusercontent.com/1294454/28246081-623fc164-6a1c-11e7-913f-bac0d5576c90.jpg)](https://www.coinfloor.co.uk)                                                | coinfloor          | [coinfloor](https://www.coinfloor.co.uk)                                                 |     | [API](https://github.com/coinfloor/api)                                                      |                                                                                                                                                                                                                                                                                          |
+| [![coingi](https://user-images.githubusercontent.com/1294454/28619707-5c9232a8-7212-11e7-86d6-98fe5d15cc6e.jpg)](https://www.coingi.com/?r=XTPPMC)                                              | coingi             | [Coingi](https://www.coingi.com/?r=XTPPMC)                                               |     | [API](https://coingi.docs.apiary.io)                                                         |                                                                                                                                                                                                                                                                                          |
+| [![coinmarketcap](https://user-images.githubusercontent.com/1294454/28244244-9be6312a-69ed-11e7-99c1-7c1797275265.jpg)](https://coinmarketcap.com)                                              | coinmarketcap      | [CoinMarketCap](https://coinmarketcap.com)                                               | 1   | [API](https://coinmarketcap.com/api)                                                         |                                                                                                                                                                                                                                                                                          |
+| [![coinmate](https://user-images.githubusercontent.com/1294454/27811229-c1efb510-606c-11e7-9a36-84ba2ce412d8.jpg)](https://coinmate.io/?referral=YTFkM1RsOWFObVpmY1ZjMGREQmpTRnBsWjJJNVp3PT0)   | coinmate           | [CoinMate](https://coinmate.io/?referral=YTFkM1RsOWFObVpmY1ZjMGREQmpTRnBsWjJJNVp3PT0)    |     | [API](https://coinmate.docs.apiary.io)                                                       |                                                                                                                                                                                                                                                                                          |
+| [![coinone](https://user-images.githubusercontent.com/1294454/38003300-adc12fba-323f-11e8-8525-725f53c4a659.jpg)](https://coinone.co.kr)                                                        | coinone            | [CoinOne](https://coinone.co.kr)                                                         | 2   | [API](https://doc.coinone.co.kr)                                                             |                                                                                                                                                                                                                                                                                          |
+| [![coinspot](https://user-images.githubusercontent.com/1294454/28208429-3cacdf9a-6896-11e7-854e-4c79a772a30f.jpg)](https://www.coinspot.com.au/register?code=PJURCU)                            | coinspot           | [CoinSpot](https://www.coinspot.com.au/register?code=PJURCU)                             |     | [API](https://www.coinspot.com.au/api)                                                       |                                                                                                                                                                                                                                                                                          |
+| [![cointiger](https://user-images.githubusercontent.com/1294454/39797261-d58df196-5363-11e8-9880-2ec78ec5bd25.jpg)](https://www.cointiger.one/#/register?refCode=FfvDtt)                        | cointiger          | [CoinTiger](https://www.cointiger.one/#/register?refCode=FfvDtt)                         | 1   | [API](https://github.com/cointiger/api-docs-en/wiki)                                         |                                                                                                                                                                                                                                                                                          |
+| [![coolcoin](https://user-images.githubusercontent.com/1294454/36770529-be7b1a04-1c5b-11e8-9600-d11f1996b539.jpg)](https://www.coolcoin.com/user/register?invite_code=bhaega)                   | coolcoin           | [CoolCoin](https://www.coolcoin.com/user/register?invite_code=bhaega)                    |     | [API](https://www.coolcoin.com/help.api.html)                                                |                                                                                                                                                                                                                                                                                          |
+| [![coss](https://user-images.githubusercontent.com/1294454/50328158-22e53c00-0503-11e9-825c-c5cfd79bfa74.jpg)](https://www.coss.io/c/reg?r=OWCMHQVW2Q)                                          | coss               | [COSS](https://www.coss.io/c/reg?r=OWCMHQVW2Q)                                           | 1   | [API](https://api.coss.io/v1/spec)                                                           | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![crex24](https://user-images.githubusercontent.com/1294454/47813922-6f12cc00-dd5d-11e8-97c6-70f957712d47.jpg)](https://crex24.com/?refid=slxsjsjtil8xexl9hksr)                                | crex24             | [CREX24](https://crex24.com/?refid=slxsjsjtil8xexl9hksr)                                 | 2   | [API](https://docs.crex24.com/trade-api/v2)                                                  |                                                                                                                                                                                                                                                                                          |
+| [![crypton](https://user-images.githubusercontent.com/1294454/41334251-905b5a78-6eed-11e8-91b9-f3aa435078a1.jpg)](https://cryptonbtc.com)                                                       | crypton            | [Crypton](https://cryptonbtc.com)                                                        | 1   | [API](https://cryptonbtc.docs.apiary.io)                                                     |                                                                                                                                                                                                                                                                                          |
+| [![deribit](https://user-images.githubusercontent.com/1294454/41933112-9e2dd65a-798b-11e8-8440-5bab2959fcb8.jpg)](https://www.deribit.com/reg-1189.4038)                                        | deribit            | [Deribit](https://www.deribit.com/reg-1189.4038)                                         | 1   | [API](https://docs.deribit.com)                                                              |                                                                                                                                                                                                                                                                                          |
+| [![digifinex](https://user-images.githubusercontent.com/1294454/62184319-304e8880-b366-11e9-99fe-8011d6929195.jpg)](https://www.digifinex.vip/en-ww/from/DhOzBg/3798\*\*\*\*5114)               | digifinex          | [DigiFinex](https://www.digifinex.vip/en-ww/from/DhOzBg/3798\*\*\*\*5114)                | 3   | [API](https://docs.digifinex.vip)                                                            |                                                                                                                                                                                                                                                                                          |
+| [![dsx](https://user-images.githubusercontent.com/1294454/27990275-1413158a-645a-11e7-931c-94717f7510e3.jpg)](https://dsx.uk)                                                                   | dsx                | [DSX](https://dsx.uk)                                                                    | 3   | [API](https://dsx.uk/developers/publicApi)                                                   |                                                                                                                                                                                                                                                                                          |
+| [![dx](https://user-images.githubusercontent.com/1294454/57979980-6483ff80-7a2d-11e9-9224-2aa20665703b.jpg)](https://dx.exchange/registration?dx_cid=20\&dx_scname=100001100000038139)          | dx                 | [DX.Exchange](https://dx.exchange/registration?dx_cid=20\&dx_scname=100001100000038139)  | 1   | [API](https://apidocs.dx.exchange)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![ethfinex](https://user-images.githubusercontent.com/1294454/37555526-7018a77c-29f9-11e8-8835-8e415c038a18.jpg)](https://www.ethfinex.com)                                                    | ethfinex           | [Ethfinex](https://www.ethfinex.com)                                                     | 1   | [API](https://bitfinex.readme.io/v1/docs)                                                    |                                                                                                                                                                                                                                                                                          |
+| [![exmo](https://user-images.githubusercontent.com/1294454/27766491-1b0ea956-5eda-11e7-9225-40d67b481b8d.jpg)](https://exmo.me/?ref=131685)                                                     | exmo               | [EXMO](https://exmo.me/?ref=131685)                                                      | 1   | [API](https://exmo.me/en/api_doc?ref=131685)                                                 |                                                                                                                                                                                                                                                                                          |
+| [![exx](https://user-images.githubusercontent.com/1294454/37770292-fbf613d0-2de4-11e8-9f79-f2dc451b8ccb.jpg)](https://www.exx.com/r/fde4260159e53ab8a58cc9186d35501f?recommQd=1)                | exx                | [EXX](https://www.exx.com/r/fde4260159e53ab8a58cc9186d35501f?recommQd=1)                 |     | [API](https://www.exx.com/help/restApi)                                                      |                                                                                                                                                                                                                                                                                          |
+| [![fcoin](https://user-images.githubusercontent.com/1294454/42244210-c8c42e1e-7f1c-11e8-8710-a5fb63b165c4.jpg)](https://www.fcoin.com/i/Z5P7V)                                                  | fcoin              | [FCoin](https://www.fcoin.com/i/Z5P7V)                                                   | 2   | [API](https://developer.fcoin.com)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![fcoinjp](https://user-images.githubusercontent.com/1294454/54219174-08b66b00-4500-11e9-862d-f522d0fe08c6.jpg)](https://www.fcoinjp.com)                                                      | fcoinjp            | [FCoinJP](https://www.fcoinjp.com)                                                       | 2   | [API](https://developer.fcoin.com)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![flowbtc](https://user-images.githubusercontent.com/1294454/28162465-cd815d4c-67cf-11e7-8e57-438bea0523a2.jpg)](https://www.flowbtc.com.br)                                                   | flowbtc            | [flowBTC](https://www.flowbtc.com.br)                                                    | 1   | [API](https://www.flowbtc.com.br/api.html)                                                   |                                                                                                                                                                                                                                                                                          |
+| [![foxbit](https://user-images.githubusercontent.com/1294454/27991413-11b40d42-647f-11e7-91ee-78ced874dd09.jpg)](https://foxbit.com.br/exchange)                                                | foxbit             | [FoxBit](https://foxbit.com.br/exchange)                                                 | 1   | [API](https://foxbit.com.br/api/)                                                            |                                                                                                                                                                                                                                                                                          |
+| [![fybse](https://user-images.githubusercontent.com/1294454/27766512-31019772-5edb-11e7-8241-2e675e6797f1.jpg)](https://www.fybse.se)                                                           | fybse              | [FYB-SE](https://www.fybse.se)                                                           |     | [API](https://fyb.docs.apiary.io)                                                            |                                                                                                                                                                                                                                                                                          |
+| [![gateio](https://user-images.githubusercontent.com/1294454/31784029-0313c702-b509-11e7-9ccc-bc0da6a0e435.jpg)](https://www.gate.io/signup/2436035)                                            | gateio             | [Gate.io](https://www.gate.io/signup/2436035)                                            | 2   | [API](https://gate.io/api2)                                                                  |                                                                                                                                                                                                                                                                                          |
+| [![gdax](https://user-images.githubusercontent.com/1294454/27766527-b1be41c6-5edb-11e7-95f6-5b496c469e2c.jpg)](https://www.gdax.com)                                                            | gdax               | [GDAX](https://www.gdax.com)                                                             |     | [API](https://docs.gdax.com)                                                                 |                                                                                                                                                                                                                                                                                          |
+| [![gemini](https://user-images.githubusercontent.com/1294454/27816857-ce7be644-6096-11e7-82d6-3c257263229c.jpg)](https://gemini.com)                                                            | gemini             | [Gemini](https://gemini.com)                                                             | 1   | [API](https://docs.gemini.com/rest-api)                                                      |                                                                                                                                                                                                                                                                                          |
+| [![hitbtc](https://user-images.githubusercontent.com/1294454/27766555-8eaec20e-5edc-11e7-9c5b-6dc69fc42f5e.jpg)](https://hitbtc.com/?ref_id=5a5d39a65d466)                                      | hitbtc             | [HitBTC](https://hitbtc.com/?ref_id=5a5d39a65d466)                                       | 1   | [API](https://github.com/hitbtc-com/hitbtc-api/blob/master/APIv1.md)                         |                                                                                                                                                                                                                                                                                          |
+| [![hitbtc2](https://user-images.githubusercontent.com/1294454/27766555-8eaec20e-5edc-11e7-9c5b-6dc69fc42f5e.jpg)](https://hitbtc.com/?ref_id=5a5d39a65d466)                                     | hitbtc2            | [HitBTC](https://hitbtc.com/?ref_id=5a5d39a65d466)                                       | 2   | [API](https://api.hitbtc.com)                                                                |                                                                                                                                                                                                                                                                                          |
+| [![huobipro](https://user-images.githubusercontent.com/1294454/27766569-15aa7b9a-5edd-11e7-9e7f-44791f4ee49c.jpg)](https://www.huobi.co/en-us/topic/invited/?invite_code=rwrd3)                 | huobipro           | [Huobi Pro](https://www.huobi.co/en-us/topic/invited/?invite_code=rwrd3)                 | 1   | [API](https://huobiapi.github.io/docs/spot/v1/cn/)                                           |                                                                                                                                                                                                                                                                                          |
+| [![huobiru](https://user-images.githubusercontent.com/1294454/52978816-e8552e00-33e3-11e9-98ed-845acfece834.jpg)](https://www.huobi.com.ru/invite?invite_code=esc74)                            | huobiru            | [Huobi Russia](https://www.huobi.com.ru/invite?invite_code=esc74)                        | 1   | [API](https://github.com/cloudapidoc/API_Docs_en)                                            |                                                                                                                                                                                                                                                                                          |
+| [![ice3x](https://user-images.githubusercontent.com/1294454/38012176-11616c32-3269-11e8-9f05-e65cf885bb15.jpg)](https://ice3x.com/?ref=14341802)                                                | ice3x              | [ICE3X](https://ice3x.com/?ref=14341802)                                                 | 1   | [API](https://ice3x.co.za/ice-cubed-bitcoin-exchange-api-documentation-1-june-2017)          |                                                                                                                                                                                                                                                                                          |
+| [![idex](https://user-images.githubusercontent.com/1294454/63693236-3415e380-c81c-11e9-8600-ba1634f1407d.jpg)](https://idex.market)                                                             | idex               | [IDEX](https://idex.market)                                                              |     | [API](https://github.com/AuroraDAO/idex-api-docs)                                            | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![independentreserve](https://user-images.githubusercontent.com/1294454/30521662-cf3f477c-9bcb-11e7-89bc-d1ac85012eda.jpg)](https://www.independentreserve.com)                                | independentreserve | [Independent Reserve](https://www.independentreserve.com)                                |     | [API](https://www.independentreserve.com/API)                                                |                                                                                                                                                                                                                                                                                          |
+| [![indodax](https://user-images.githubusercontent.com/1294454/37443283-2fddd0e4-281c-11e8-9741-b4f1419001b5.jpg)](https://indodax.com/ref/testbitcoincoid/1)                                    | indodax            | [INDODAX](https://indodax.com/ref/testbitcoincoid/1)                                     | 1.8 | [API](https://indodax.com/downloads/BITCOINCOID-API-DOCUMENTATION.pdf)                       |                                                                                                                                                                                                                                                                                          |
+| [![itbit](https://user-images.githubusercontent.com/1294454/27822159-66153620-60ad-11e7-89e7-005f6d7f3de0.jpg)](https://www.itbit.com)                                                          | itbit              | [itBit](https://www.itbit.com)                                                           | 1   | [API](https://api.itbit.com/docs)                                                            |                                                                                                                                                                                                                                                                                          |
+| [![kkex](https://user-images.githubusercontent.com/1294454/47401462-2e59f800-d74a-11e8-814f-e4ae17b4968a.jpg)](https://kkex.com)                                                                | kkex               | [KKEX](https://kkex.com)                                                                 | 2   | [API](https://kkex.com/api_wiki/cn/)                                                         |                                                                                                                                                                                                                                                                                          |
+| [![kraken](https://user-images.githubusercontent.com/1294454/27766599-22709304-5ede-11e7-9de1-9f33732e1509.jpg)](https://www.kraken.com)                                                        | kraken             | [Kraken](https://www.kraken.com)                                                         | 0   | [API](https://www.kraken.com/features/api)                                                   | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![kucoin](https://user-images.githubusercontent.com/1294454/57369448-3cc3aa80-7196-11e9-883e-5ebeb35e4f57.jpg)](https://www.kucoin.com/?rcode=E5wkqe)                                          | kucoin             | [KuCoin](https://www.kucoin.com/?rcode=E5wkqe)                                           | 2   | [API](https://docs.kucoin.com)                                                               | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![kuna](https://user-images.githubusercontent.com/1294454/31697638-912824fa-b3c1-11e7-8c36-cf9606eb94ac.jpg)](https://kuna.io/?r=kunaid-gvfihe8az7o4)                                          | kuna               | [Kuna](https://kuna.io/?r=kunaid-gvfihe8az7o4)                                           | 2   | [API](https://kuna.io/documents/api)                                                         |                                                                                                                                                                                                                                                                                          |
+| [![lakebtc](https://user-images.githubusercontent.com/1294454/28074120-72b7c38a-6660-11e7-92d9-d9027502281d.jpg)](https://www.lakebtc.com)                                                      | lakebtc            | [LakeBTC](https://www.lakebtc.com)                                                       | 2   | [API](https://www.lakebtc.com/s/api_v2)                                                      |                                                                                                                                                                                                                                                                                          |
+| [![latoken](https://user-images.githubusercontent.com/1294454/61511972-24c39f00-aa01-11e9-9f7c-471f1d6e5214.jpg)](https://latoken.com)                                                          | latoken            | [Latoken](https://latoken.com)                                                           | 1   | [API](https://api.latoken.com)                                                               |                                                                                                                                                                                                                                                                                          |
+| [![lbank](https://user-images.githubusercontent.com/1294454/38063602-9605e28a-3302-11e8-81be-64b1e53c4cfb.jpg)](https://www.lbex.io/invite?icode=7QCY)                                          | lbank              | [LBank](https://www.lbex.io/invite?icode=7QCY)                                           | 1   | [API](https://github.com/LBank-exchange/lbank-official-api-docs)                             |                                                                                                                                                                                                                                                                                          |
+| [![liquid](https://user-images.githubusercontent.com/1294454/45798859-1a872600-bcb4-11e8-8746-69291ce87b04.jpg)](https://www.liquid.com/?affiliate=SbzC62lt30976)                               | liquid             | [Liquid](https://www.liquid.com/?affiliate=SbzC62lt30976)                                | 2   | [API](https://developers.liquid.com)                                                         |                                                                                                                                                                                                                                                                                          |
+| [![livecoin](https://user-images.githubusercontent.com/1294454/27980768-f22fc424-638a-11e7-89c9-6010a54ff9be.jpg)](https://livecoin.net/?from=Livecoin-CQ1hfx44)                                | livecoin           | [LiveCoin](https://livecoin.net/?from=Livecoin-CQ1hfx44)                                 |     | [API](https://www.livecoin.net/api?lang=en)                                                  |                                                                                                                                                                                                                                                                                          |
+| [![luno](https://user-images.githubusercontent.com/1294454/27766607-8c1a69d8-5ede-11e7-930c-540b5eb9be24.jpg)](https://www.luno.com/invite/44893A)                                              | luno               | [luno](https://www.luno.com/invite/44893A)                                               | 1   | [API](https://www.luno.com/en/api)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![lykke](https://user-images.githubusercontent.com/1294454/34487620-3139a7b0-efe6-11e7-90f5-e520cef74451.jpg)](https://www.lykke.com)                                                          | lykke              | [Lykke](https://www.lykke.com)                                                           | 1   | [API](https://hft-api.lykke.com/swagger/ui/)                                                 |                                                                                                                                                                                                                                                                                          |
+| [![mandala](https://user-images.githubusercontent.com/1294454/54686665-df629400-4b2a-11e9-84d3-d88856367dd7.jpg)](https://trade.mandalaex.com/?ref=564377)                                      | mandala            | [Mandala](https://trade.mandalaex.com/?ref=564377)                                       | 2   | [API](https://apidocs.mandalaex.com)                                                         | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![mercado](https://user-images.githubusercontent.com/1294454/27837060-e7c58714-60ea-11e7-9192-f05e86adb83f.jpg)](https://www.mercadobitcoin.com.br)                                            | mercado            | [Mercado Bitcoin](https://www.mercadobitcoin.com.br)                                     | 3   | [API](https://www.mercadobitcoin.com.br/api-doc)                                             |                                                                                                                                                                                                                                                                                          |
+| [![mixcoins](https://user-images.githubusercontent.com/1294454/30237212-ed29303c-9535-11e7-8af8-fcd381cfa20c.jpg)](https://mixcoins.com)                                                        | mixcoins           | [MixCoins](https://mixcoins.com)                                                         | 1   | [API](https://mixcoins.com/help/api/)                                                        |                                                                                                                                                                                                                                                                                          |
+| [![negociecoins](https://user-images.githubusercontent.com/1294454/38008571-25a6246e-3258-11e8-969b-aeb691049245.jpg)](https://www.negociecoins.com.br)                                         | negociecoins       | [NegocieCoins](https://www.negociecoins.com.br)                                          | 3   | [API](https://www.negociecoins.com.br/documentacao-tradeapi)                                 |                                                                                                                                                                                                                                                                                          |
+| [![nova](https://user-images.githubusercontent.com/1294454/30518571-78ca0bca-9b8a-11e7-8840-64b83a4a94b2.jpg)](https://novaexchange.com/signup/?re=is8vz2hsl3qxewv1uawd)                        | nova               | [Novaexchange](https://novaexchange.com/signup/?re=is8vz2hsl3qxewv1uawd)                 | 2   | [API](https://novaexchange.com/remote/faq)                                                   |                                                                                                                                                                                                                                                                                          |
+| [![oceanex](https://user-images.githubusercontent.com/1294454/58385970-794e2d80-8001-11e9-889c-0567cd79b78e.jpg)](https://oceanex.pro/signup?referral=VE24QX)                                   | oceanex            | [OceanEx](https://oceanex.pro/signup?referral=VE24QX)                                    | 1   | [API](https://api.oceanex.pro/doc/v1)                                                        |                                                                                                                                                                                                                                                                                          |
+| [![okcoincny](https://user-images.githubusercontent.com/1294454/27766792-8be9157a-5ee5-11e7-926c-6d69b8d3378d.jpg)](https://www.okcoin.cn)                                                      | okcoincny          | [OKCoin CNY](https://www.okcoin.cn)                                                      | 1   | [API](https://www.okcoin.cn/rest_getStarted.html)                                            |                                                                                                                                                                                                                                                                                          |
+| [![okcoinusd](https://user-images.githubusercontent.com/1294454/27766791-89ffb502-5ee5-11e7-8a5b-c5950b68ac65.jpg)](https://www.okcoin.com/account/register?flag=activity\&channelId=600001513) | okcoinusd          | [OKCoin USD](https://www.okcoin.com/account/register?flag=activity\&channelId=600001513) | 1   | [API](https://www.okcoin.com/docs/en/)                                                       |                                                                                                                                                                                                                                                                                          |
+| [![okex](https://user-images.githubusercontent.com/1294454/32552768-0d6dd3c6-c4a6-11e7-90f8-c043b64756a7.jpg)](https://www.okex.com)                                                            | okex               | [OKEX](https://www.okex.com)                                                             | 1   | [API](https://github.com/okcoin-okex/API-docs-OKEx.com)                                      |                                                                                                                                                                                                                                                                                          |
+| [![okex3](https://user-images.githubusercontent.com/1294454/32552768-0d6dd3c6-c4a6-11e7-90f8-c043b64756a7.jpg)](https://www.okex.com)                                                           | okex3              | [OKEX](https://www.okex.com)                                                             | 3   | [API](https://www.okex.com/docs/en/)                                                         |                                                                                                                                                                                                                                                                                          |
+| [![paymium](https://user-images.githubusercontent.com/1294454/27790564-a945a9d4-5ff9-11e7-9d2d-b635763f2f24.jpg)](https://www.paymium.com)                                                      | paymium            | [Paymium](https://www.paymium.com)                                                       | 1   | [API](https://github.com/Paymium/api-documentation)                                          |                                                                                                                                                                                                                                                                                          |
+| [![poloniex](https://user-images.githubusercontent.com/1294454/27766817-e9456312-5ee6-11e7-9b3c-b628ca5626a5.jpg)](https://www.poloniex.com)                                                    | poloniex           | [Poloniex](https://www.poloniex.com)                                                     |     | [API](https://docs.poloniex.com)                                                             | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![rightbtc](https://user-images.githubusercontent.com/1294454/42633917-7d20757e-85ea-11e8-9f53-fffe9fbb7695.jpg)](https://www.rightbtc.com)                                                    | rightbtc           | [RightBTC](https://www.rightbtc.com)                                                     |     | [API](https://52.53.159.206/api/trader/)                                                     |                                                                                                                                                                                                                                                                                          |
+| [![southxchange](https://user-images.githubusercontent.com/1294454/27838912-4f94ec8a-60f6-11e7-9e5d-bbf9bd50a559.jpg)](https://www.southxchange.com)                                            | southxchange       | [SouthXchange](https://www.southxchange.com)                                             |     | [API](https://www.southxchange.com/Home/Api)                                                 |                                                                                                                                                                                                                                                                                          |
+| [![stronghold](https://user-images.githubusercontent.com/1294454/52160042-98c1f300-26be-11e9-90dd-da8473944c83.jpg)](https://stronghold.co)                                                     | stronghold         | [Stronghold](https://stronghold.co)                                                      | 1   | [API](https://docs.stronghold.co)                                                            |                                                                                                                                                                                                                                                                                          |
+| [![surbitcoin](https://user-images.githubusercontent.com/1294454/27991511-f0a50194-6481-11e7-99b5-8f02932424cc.jpg)](https://surbitcoin.com)                                                    | surbitcoin         | [SurBitcoin](https://surbitcoin.com)                                                     | 1   | [API](https://blinktrade.com/docs)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![theocean](https://user-images.githubusercontent.com/1294454/43103756-d56613ce-8ed7-11e8-924e-68f9d4bcacab.jpg)](https://theocean.trade)                                                      | theocean           | [The Ocean](https://theocean.trade)                                                      | 1   | [API](https://docs.theocean.trade)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![therock](https://user-images.githubusercontent.com/1294454/27766869-75057fa2-5ee9-11e7-9a6f-13e641fa4707.jpg)](https://therocktrading.com)                                                   | therock            | [TheRockTrading](https://therocktrading.com)                                             | 1   | [API](https://api.therocktrading.com/doc/v1/index.html)                                      |                                                                                                                                                                                                                                                                                          |
+| [![tidebit](https://user-images.githubusercontent.com/1294454/39034921-e3acf016-4480-11e8-9945-a6086a1082fe.jpg)](http://bit.ly/2IX0LrM)                                                        | tidebit            | [TideBit](http://bit.ly/2IX0LrM)                                                         | 2   | [API](https://www.tidebit.com/documents/api/guide)                                           |                                                                                                                                                                                                                                                                                          |
+| [![tidex](https://user-images.githubusercontent.com/1294454/30781780-03149dc4-a12e-11e7-82bb-313b269d24d4.jpg)](https://tidex.com)                                                              | tidex              | [Tidex](https://tidex.com)                                                               | 3   | [API](https://tidex.com/exchange/public-api)                                                 |                                                                                                                                                                                                                                                                                          |
+| [![upbit](https://user-images.githubusercontent.com/1294454/49245610-eeaabe00-f423-11e8-9cba-4b0aed794799.jpg)](https://upbit.com)                                                              | upbit              | [Upbit](https://upbit.com)                                                               | 1   | [API](https://docs.upbit.com/docs/%EC%9A%94%EC%B2%AD-%EC%88%98-%EC%A0%9C%ED%95%9C)           | [![CCXT Certified](https://camo.githubusercontent.com/509b94aa541a5c3b461d1a84469f4b3d4112af57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434358542d6365727469666965642d677265656e2e7376673f73616e6974697a653d74727565)](https://github.com/ccxt/ccxt/wiki/Certification) |
+| [![vaultoro](https://user-images.githubusercontent.com/1294454/27766880-f205e870-5ee9-11e7-8fe2-0d5b15880752.jpg)](https://www.vaultoro.com)                                                    | vaultoro           | [Vaultoro](https://www.vaultoro.com)                                                     | 1   | [API](https://api.vaultoro.com)                                                              |                                                                                                                                                                                                                                                                                          |
+| [![vbtc](https://user-images.githubusercontent.com/1294454/27991481-1f53d1d8-6481-11e7-884e-21d17e7939db.jpg)](https://vbtc.exchange)                                                           | vbtc               | [VBTC](https://vbtc.exchange)                                                            | 1   | [API](https://blinktrade.com/docs)                                                           |                                                                                                                                                                                                                                                                                          |
+| [![virwox](https://user-images.githubusercontent.com/1294454/27766894-6da9d360-5eea-11e7-90aa-41f2711b7405.jpg)](https://www.virwox.com)                                                        | virwox             | [VirWoX](https://www.virwox.com)                                                         | \*  | [API](https://www.virwox.com/developers.php)                                                 |                                                                                                                                                                                                                                                                                          |
+| [![xbtce](https://user-images.githubusercontent.com/1294454/28059414-e235970c-662c-11e7-8c3a-08e31f78684b.jpg)](https://xbtce.com/?agent=XX97BTCXXXG687021000B)                                 | xbtce              | [xBTCe](https://xbtce.com/?agent=XX97BTCXXXG687021000B)                                  | 1   | [API](https://www.xbtce.com/tradeapi)                                                        |                                                                                                                                                                                                                                                                                          |
+| [![yobit](https://user-images.githubusercontent.com/1294454/27766910-cdcbfdae-5eea-11e7-9859-03fea873272d.jpg)](https://www.yobit.net)                                                          | yobit              | [YoBit](https://www.yobit.net)                                                           | 3   | [API](https://www.yobit.net/en/api/)                                                         |                                                                                                                                                                                                                                                                                          |
+| [![zaif](https://user-images.githubusercontent.com/1294454/27766927-39ca2ada-5eeb-11e7-972f-1b4199518ca6.jpg)](https://zaif.jp)                                                                 | zaif               | [Zaif](https://zaif.jp)                                                                  | 1   | [API](https://techbureau-api-document.readthedocs.io/ja/latest/index.html)                   |                                                                                                                                                                                                                                                                                          |
+| [![zb](https://user-images.githubusercontent.com/1294454/32859187-cd5214f0-ca5e-11e7-967d-96568e2e2bd1.jpg)](https://www.zb.com)                                                                | zb                 | [ZB](https://www.zb.com)                                                                 | 1   | [API](https://www.zb.com/i/developer)                                                        |                                                                                                                                                                                                                                                                                          |
 
 除了基本的市价委托单和限价委托单，有些交易所还支持杠杆交易和衍生品交易（例如期货合同和期权）， 以及暗池、场外交易（OTC）、商户API等更多服务。
 
@@ -200,21 +200,21 @@ CCXT目前支持127个数字货币交易所和交易API：
 
 JavaScript：
 
-```text
+```
 const ccxt = require ('ccxt')
 console.log (ccxt.exchanges)
 ```
 
 Python：
 
-```text
+```
 import ccxt
 print (ccxt.exchanges)
 ```
 
 PHP：
 
-```text
+```
 include 'ccxt.php';
 var_dump (\ccxt\Exchange::$exchanges);
 ```
@@ -225,7 +225,7 @@ var_dump (\ccxt\Exchange::$exchanges);
 
 JavaScript：
 
-```text
+```
 const ccxt = require ('ccxt')
 let exchange = new ccxt.kraken () // default id
 let kraken1 = new ccxt.kraken ({ id: 'kraken1' })
@@ -246,7 +246,7 @@ const exchangeId = 'binance'
 
 Python：
 
-```text
+```
 import ccxt
 exchange = ccxt.okcoinusd () # default id
 okcoin1 = ccxt.okcoinusd ({ 'id': 'okcoin1' })
@@ -270,7 +270,7 @@ PHP版本的CCXT库使用内置的UTC/GMT时间函数，因此你需要在 `php.
 
 PHP：
 
-```text
+```
 date_default_timezone_set ('UTC');
 include 'ccxt.php';
 $bitfinex = new \ccxt\bitfinex (); // default id
@@ -297,7 +297,7 @@ CCXT中交易所对象的大多数属性都可以在实例化时设置（也可�
 
 JavaScript：
 
-```text
+```
 const exchange = new ccxt.binance ({
     'rateLimit': 10000, // 统一的交易所属性
     'options': {
@@ -309,7 +309,7 @@ exchange.options['adjustForTimeDifference'] = false
 
 Python：
 
-```text
+```
 exchange = ccxt.binance ({
     'rateLimit': 10000,  # 统一的交易所属性
     'options': {
@@ -321,7 +321,7 @@ exchange.options['adjustForTimeDifference'] = False
 
 PHP：
 
-```text
+```
 $exchange_id = 'binance';
 $exchange_class = "\\ccxt\\$exchange_id";
 $exchange = new $exchange_class (array (
@@ -335,7 +335,7 @@ $exchange->options['adjustForTimeDifference'] = false;
 
 ## **CCXT交易所模型**
 
-\*\*\*\*
+****
 
 ### 交易所数据结构
 
@@ -343,7 +343,7 @@ $exchange->options['adjustForTimeDifference'] = false;
 
 下面是交易所基类的属性概览，其中的值用于演示：
 
-```text
+```
 {
     'id':   'exchange'                  // lowercase string exchange id
     'name': 'Exchange'                  // human-readable string
@@ -409,29 +409,28 @@ $exchange->options['adjustForTimeDifference'] = false;
 * id: 每个交易所都有一个默认id，它是一个字符串常量，用于在ccxt中唯一的标识一个特定的交易所实例。 你可以有多个接入同一个交易所的ccxt交易所实例，可以使用id进行区分。默认的交易所id是全小写字符， 对应交易所的名称。
 * name：方便人类查看的交易所名称，字符串常量。
 * countries: 国别代码字符串数组，每个成员都是2个字符长的ISO国别代码，表示交易所的运营所在地。
-* urls\['api'\]: 用于ccxt调用的交易所API url字符串，或者是包含了公开和私有API url的关联数组。
-* urls\['www'\]: 交易所的官网URL
-* urls\['doc'\]: 交易所API文档的官方URL，可以是单个url或url数组。
+* urls\['api']: 用于ccxt调用的交易所API url字符串，或者是包含了公开和私有API url的关联数组。
+* urls\['www']: 交易所的官网URL
+* urls\['doc']: 交易所API文档的官方URL，可以是单个url或url数组。
 * version: 当前使用的交易所API的版本号，CCXT在调用交易所API时将在每个请求的URL中添加这个版本号。 除非你要实现一个新的交易所API，否则你不需要修改这个字段。
 * api: 一个包含了交易所的所有API访问端结点的关联数组。ccxt使用这个API定义为每个可用访问端结点 自动构造交易所实例方法。
 * has: 描述交易所特性支持能力的关联数组，例如 fetchTickers、fetchOHLCV 或CORS。
-* timeframes: 交易所的fetchOHLCV方法支持的时间尺度，关联数组，键为时间尺度缩写。只有当 \['fetchOHLCV'\]属性为真时，ccxt才会填充这个字段的内容。
+* timeframes: 交易所的fetchOHLCV方法支持的时间尺度，关联数组，键为时间尺度缩写。只有当 \['fetchOHLCV']属性为真时，ccxt才会填充这个字段的内容。
 * timeout: ccxt访问交易所API时，请求-响应的超时设置，单位：毫秒，默认值：10000，即10秒。你 应当根据自己的网络情况进行适当的设置。
 * rateLimit: 交易所API的请求限流，单位：毫秒，表示向同一交易所发出的两次请求之间需要的最小延迟间隔。 默认情况下ccxt禁用内置的限流功能，可以通过设置`enableRateLimit`来启用API访问限流。
 * enableRateLimit: 是否启用内置的限流机制，布尔值，默认值：false。调用者需要开启内置的限流机制 或者自己实现限流，以避免被交易所禁止访问。
 * userAgent: 用于设置HTTP请求头中的User-Agent。ccxt默认会设置自己的User-Aget，有些交易所可能 不允许ccxt访问，你可以将这个值设置为false、undefined或空字符串。
-* verbose: 是否记录HTTP请求信息到标准输出设备，布尔值，默认：false。Python开发者可以使用提单的 日志调试方法，方法时在代码开头添加以下代码：
+*   verbose: 是否记录HTTP请求信息到标准输出设备，布尔值，默认：false。Python开发者可以使用提单的 日志调试方法，方法时在代码开头添加以下代码：
 
-  ```text
-  import logging
-  logging.basicConfig(level=logging.DEBUG)
-  ```
-
+    ```
+    import logging
+    logging.basicConfig(level=logging.DEBUG)
+    ```
 * markets: 市场描述关联数组，键为交易对或交易符号。在访问这个属性之前需要先调用`loadMarkets()`或 `load_markets()`载入市场数据。
 * symbols: 交易所的有效符号的数组，以字母表顺序排列。这些符号是市场对象的键，可以用来方便地 访问指定的市场。
-* currencies: 交易所的有效数字货币的关联数组，键为数字货币的代码（3~4字母）。数字货币从市场 载入。
-* markets\_by\_id: 按交易所列举的市场关联数值。在访问此属性之前需要先载入市场。
-* proxy: 用来访问交易所的http\(s\)代理的URL字符串，例如'[http://crossorigin.me/'，默认值：''。](http://crossorigin.me/'%EF%BC%8C%E9%BB%98%E8%AE%A4%E5%80%BC%EF%BC%9A''%E3%80%82)
+* currencies: 交易所的有效数字货币的关联数组，键为数字货币的代码（3\~4字母）。数字货币从市场 载入。
+* markets_by_id: 按交易所列举的市场关联数值。在访问此属性之前需要先载入市场。
+* proxy: 用来访问交易所的http(s)代理的URL字符串，例如'[http://crossorigin.me/'，默认值：''。](http://crossorigin.me/'%EF%BC%8C%E9%BB%98%E8%AE%A4%E5%80%BC%EF%BC%9A''%E3%80%82)
 * apiKey: 用来访问交易所的API Key。大部分交易所需要API Key才能访问其API。
 * secret: 用来访问交易所的密文。大部分交易所需要同时提供api key和密文。
 * password: 交易所要求的交易密码。有些交易所在交易时要求提供这个密码，但是大多数交易所不需要。
@@ -439,42 +438,42 @@ $exchange->options['adjustForTimeDifference'] = false;
 * requiredCredentials: 统一的身份信息关联数组，定义需要哪些身份信息才能访问交易所的私有API。
 * options: 一个针对特定交易所的关联数组，定义该交易所支持的特定的选项。
 * precisionMode: 交易所的小数精度模式。
-* has: 描述交易所支持特性的关联数组，例如：
+*   has: 描述交易所支持特性的关联数组，例如：
 
-  ```text
-  'has': {
+    ```
+    'has': {
 
-      'CORS': false,  // has Cross-Origin Resource Sharing enabled (works from browser) or not
+        'CORS': false,  // has Cross-Origin Resource Sharing enabled (works from browser) or not
 
-      'publicAPI': true,  // has public API available and implemented, true/false
-      'privateAPI': true, // has private API available and implemented, true/false
+        'publicAPI': true,  // has public API available and implemented, true/false
+        'privateAPI': true, // has private API available and implemented, true/false
 
-      // unified methods availability flags (can be true, false, or 'emulated'):
+        // unified methods availability flags (can be true, false, or 'emulated'):
 
-      'cancelOrder': true,
-      'createDepositAddress': false,
-      'createOrder': true,
-      'deposit': false,
-      'fetchBalance': true,
-      'fetchClosedOrders': false,
-      'fetchCurrencies': false,
-      'fetchDepositAddress': false,
-      'fetchMarkets': true,
-      'fetchMyTrades': false,
-      'fetchOHLCV': false,
-      'fetchOpenOrders': false,
-      'fetchOrder': false,
-      'fetchOrderBook': true,
-      'fetchOrders': false,
-      'fetchStatus': 'emulated',
-      'fetchTicker': true,
-      'fetchTickers': false,
-      'fetchBidsAsks': false,
-      'fetchTrades': true,
-      'withdraw': false,
-      ...
-  }
-  ```
+        'cancelOrder': true,
+        'createDepositAddress': false,
+        'createOrder': true,
+        'deposit': false,
+        'fetchBalance': true,
+        'fetchClosedOrders': false,
+        'fetchCurrencies': false,
+        'fetchDepositAddress': false,
+        'fetchMarkets': true,
+        'fetchMyTrades': false,
+        'fetchOHLCV': false,
+        'fetchOpenOrders': false,
+        'fetchOrder': false,
+        'fetchOrderBook': true,
+        'fetchOrders': false,
+        'fetchStatus': 'emulated',
+        'fetchTicker': true,
+        'fetchTickers': false,
+        'fetchBidsAsks': false,
+        'fetchTrades': true,
+        'withdraw': false,
+        ...
+    }
+    ```
 
 特性的值为`true`、'false'或`emulated`，其含义如下：
 
@@ -496,7 +495,7 @@ CCXT库有内置的实验性质的限流器，可以在后台实现访问节流�
 
 使用`.enableRateLimit`属性启用内置的限流器，例如： 下面的JavaScript代码在创建交易所实例时启用内置的限流器：
 
-```text
+```
 const exchange = new ccxt.bitfinex ({
     'enableRateLimit': true,
 })
@@ -504,14 +503,14 @@ const exchange = new ccxt.bitfinex ({
 
 或者在创建交易所实例之后，开启或关闭内置的限流器：
 
-```text
+```
 exchange.enableRateLimit = true // enable
 exchange.enableRateLimit = false // disable
 ```
 
 下面是使用 Python实现同样功能的代码：
 
-```text
+```
 # enable built-in rate limiting upon instantiation of the exchange
 exchange = ccxt.bitfinex({
     'enableRateLimit': True,
@@ -524,7 +523,7 @@ exchange.enableRateLimit = False  # disable
 
 下面是使用PHP实现同样功能的代码：
 
-```text
+```
 // enable built-in rate limiting upon instantiation of the exchange
 $exchange = new \ccxt\bitfinex (array (
     'enableRateLimit' => true,
@@ -579,7 +578,7 @@ $exchange->enableRateLimit = false; // disable
 
 在CCXT中，市场模型的数据结构如下：
 
-```text
+```
 {
     'id':     ' btcusd',  // string literal for referencing within an exchange
     'symbol':  'BTC/USD', // uppercase string literal of a pair of currencies
@@ -624,82 +623,80 @@ $exchange->enableRateLimit = false; // disable
 
 #### 示例1
 
-```text
+```
 (market['limits']['amount']['min'] == 0.05) && (market['precision']['amount'] == 4)
 ```
 
 上面的代码要求任何委托单的数量必须同时满足以下条件：
 
-* 数量值应当 &gt;= 0.05，例如：
+* 数量值应当 >= 0.05，例如：
 
-```text
+```
   + good: 0.05, 0.051, 0.0501, 0.0502, ..., 0.0599, 0.06, 0.0601, ...
   - bad: 0.04, 0.049, 0.0499
 ```
 
-* 精度最高4位小数，例如：
+*   精度最高4位小数，例如：
 
-  ```text
-  + good: 0.05, 0.051, 0.052, ..., 0.0531, ..., 0.06, ... 0.0719, ...
-  - bad: 0.05001, 0.05000, 0.06001
-  ```
+    ```
+    + good: 0.05, 0.051, 0.052, ..., 0.0531, ..., 0.06, ... 0.0719, ...
+    - bad: 0.05001, 0.05000, 0.06001
+    ```
 
 #### 示例2
 
-```text
+```
 (market['limits']['price']['min'] == 0.0019) && (market['precision']['price'] == 5)
 ```
 
 这个例子中要求任何委托单的价格必须同时满足以下条件：
 
-* 价格应当 &gt;= 0.019，例如：
+*   价格应当 >= 0.019，例如：
 
-  ```text
-  + good: 0.019, ... 0.0191, ... 0.01911, 0.01912, ...
-  - bad: 0.016, ..., 0.01699
-  ```
+    ```
+    + good: 0.019, ... 0.0191, ... 0.01911, 0.01912, ...
+    - bad: 0.016, ..., 0.01699
+    ```
+*   价格精度最高5位小数，例如：
 
-* 价格精度最高5位小数，例如：
-
-  ```text
-  + good: 0.02, 0.021, 0.0212, 0.02123, 0.02124, 0.02125, ...
-  - bad: 0.017000, 0.017001, ...
-  ```
+    ```
+    + good: 0.02, 0.021, 0.0212, 0.02123, 0.02124, 0.02125, ...
+    - bad: 0.017000, 0.017001, ...
+    ```
 
 #### 示例3
 
-```text
+```
 (market['limits']['amount']['min'] == 50) && (market['precision']['amount'] == -1)
 ```
 
 这个示例要求任何委托单的数量同时满足以下条件：
 
-* 数量应当 &gt;= 50，例如：
+*   数量应当 >= 50，例如：
 
-  ```text
-  + good: 50, 60, 70, 80, 90, 100, ... 2000, ...
-  - bad: 1, 2, 3, ..., 9
-  ```
+    ```
+    + good: 50, 60, 70, 80, 90, 100, ... 2000, ...
+    - bad: 1, 2, 3, ..., 9
+    ```
+*   精度为负数表示应当为10的倍数，例如：
 
-* 精度为负数表示应当为10的倍数，例如：
-
-  ```text
-  + good: 50, ..., 110, ... 1230, ..., 1000000, ..., 1234560, ...
-  - bad: 9.5, ... 10.1, ..., 11, ... 200.71, ...
-  ```
+    ```
+    + good: 50, ..., 110, ... 1230, ..., 1000000, ..., 1234560, ...
+    - bad: 9.5, ... 10.1, ..., 11, ... 200.71, ...
+    ```
 
 ### 委托单中的数值要求与格式化方法
 
 ccxt的用户应当始终遵守精度和限值要求！委托单中的值应当满足以下条件：
 
-* 委托单amount &gt; limits\['min'\]\['amount'\]
-* 委托单amount &lt; limits\['max'\]\['amount'\]
-* 委托单price &gt; limits\['min'\]\['price'\]
-* 委托单price &lt; limits\['max'\]\['price'\]
-* 委托单cost \(amount \* price\) &gt; limits\['min'\]\['cost'\]
-* 委托单cost \(amount \* price\) &lt; limits\['max'\]\['cost'\]
-* amount的精度 &lt;= precision\['amount'\]
-* price 的精度 &lt;= precision\['price'\]
+* 委托单amount > limits\['min']\['amount']
+* 委托单amount < limits\['max']\['amount']
+* 委托单price > limits\['min']\['price']
+* 委托单price < limits\['max']\['price']
+* 委托单cost (amount \* price) > limits\['min']\['cost']
+* 委托单cost (amount \* price) < limits\['max']\['cost']
+* amount的精度 <= precision\['amount']
+* price 的精度 <= precision\['price']
 
 有些交易所的委托单可能不会包含上面提到的所有的值。
 
@@ -716,40 +713,40 @@ CCXT支持的取整模式有：
 
 CCXT支持的计数模式包括：
 
-* DECIMAL\_PLACES – 统计所有的数字，99%的交易所使用这种计数模式
-* SIGNIFICANT\_DIGITS – 仅统计非零数字，有些交易所（bitfinex等）采用这种模式的计数
-* TICK\_SIZE – 有些交易所只允许某个特定值的整数倍（bitmex使用这种模式）
+* DECIMAL_PLACES – 统计所有的数字，99%的交易所使用这种计数模式
+* SIGNIFICANT_DIGITS – 仅统计非零数字，有些交易所（bitfinex等）采用这种模式的计数
+* TICK_SIZE – 有些交易所只允许某个特定值的整数倍（bitmex使用这种模式）
 
 CCXT支持的填充模式包括：
 
-* NO\_PADDING – 无填充，大多数情况下的默认模式
-* PAD\_WITH\_ZERO – 使用0字符填充至精度要求
+* NO_PADDING – 无填充，大多数情况下的默认模式
+* PAD_WITH_ZERO – 使用0字符填充至精度要求
 
 交易所基类包含了`decimalToPrecision`来帮助格式化数值为要求的精度， 它支持不同的取整、计数和填充模式。
 
 JavaScript方法原型：
 
-```text
+```
 function decimalToPrecision (x, roundingMode, numPrecisionDigits, countingMode = DECIMAL_PLACES, paddingMode = NO_PADDING)
 ```
 
 Python方法原型：
 
-```text
+```
 def decimal_to_precision(n, rounding_mode=ROUND, precision=None, counting_mode=DECIMAL_PLACES, padding_mode=NO_PADDING):
 ```
 
 Php方法原型：
 
-```text
+```
 function decimalToPrecision ($x, $roundingMode = ROUND, $numPrecisionDigits = null, $countingMode = DECIMAL_PLACES, $paddingMode = NO_PADDING)
 ```
 
 可以访问以下示例代码查看如何使用`decimalToPrecision`方法来格式化字符串和浮点数：
 
 * JavaScript: [https://github.com/ccxt/ccxt/blob/master/js/test/base/functions/test.number.js](https://github.com/ccxt/ccxt/blob/master/js/test/base/functions/test.number.js)
-* Python: [https://github.com/ccxt/ccxt/blob/master/python/test/test\_decimal\_to\_precision.py](https://github.com/ccxt/ccxt/blob/master/python/test/test_decimal_to_precision.py)
-* PHP: [https://github.com/ccxt/ccxt/blob/master/php/test/decimal\_to\_precision.php](https://github.com/ccxt/ccxt/blob/master/php/test/decimal_to_precision.php)
+* Python: [https://github.com/ccxt/ccxt/blob/master/python/test/test_decimal_to_precision.py](https://github.com/ccxt/ccxt/blob/master/python/test/test_decimal_to_precision.py)
+* PHP: [https://github.com/ccxt/ccxt/blob/master/php/test/decimal_to_precision.php](https://github.com/ccxt/ccxt/blob/master/php/test/decimal_to_precision.php)
 
 ### 载入市场清单
 
@@ -759,7 +756,7 @@ function decimalToPrecision ($x, $roundingMode = ROUND, $numPrecisionDigits = nu
 
 JavaScript示例代码：
 
-```text
+```
 (async () => {
     let kraken = new ccxt.kraken ()
     let markets = await kraken.load_markets ()
@@ -769,7 +766,7 @@ JavaScript示例代码：
 
 Python示例代码：
 
-```text
+```
 okcoin = ccxt.okcoinusd ()
 markets = okcoin.load_markets ()
 print (okcoin.id, markets)
@@ -777,7 +774,7 @@ print (okcoin.id, markets)
 
 PHP示例代码：
 
-```text
+```
 $id = 'huobipro';
 $exchange = '\\ccxt\\' . $id;
 $huobipro = new $exchange ();
@@ -787,11 +784,11 @@ var_dump ($huobipro->id, $markets);
 
 ### 交易符号和市场ID
 
-市场ID用于在REST请求-响应过程中引用交易所内的交易对。每个交易所 都有不同的市场ID集，因此不可以跨交易所使用市场ID。例如，BTC/USD 交易对在不同的交易所中可能有不同的ID：btcusd、 BTCUSD、XBTUSD、btc/usd、 42 \(数字ID\)、 BTC/USD、 Btc/Usd、 tBTCUSD、 XXBTZUSD等。你不需要 记住或使用市场ID，他们的作用是在交易所模型实现的内部用于HTTP的请求 -响应目的。
+市场ID用于在REST请求-响应过程中引用交易所内的交易对。每个交易所 都有不同的市场ID集，因此不可以跨交易所使用市场ID。例如，BTC/USD 交易对在不同的交易所中可能有不同的ID：btcusd、 BTCUSD、XBTUSD、btc/usd、 42 (数字ID)、 BTC/USD、 Btc/Usd、 tBTCUSD、 XXBTZUSD等。你不需要 记住或使用市场ID，他们的作用是在交易所模型实现的内部用于HTTP的请求 -响应目的。
 
 CCXT库将不通用的市场ID抽象为标准化的交易符号。交易符号不同于市场ID。 每个市场都采用一个对应的符号来引用，交易符号可以跨交易所使用，这使得 交易符号更适用于跨交易所套利等其他很多应用。
 
-交易符号通常是描述一对交易货币的大写字符串常量，以斜杠间隔两个货币代码。 货币代码是3~4位大写字母，例如 BTC, ETH, USD, GBP, CNY, LTC, JPY, DOGE, RUB, ZEC, XRP, XMR, 等等。有些交易所也有长一些的富有异国风情的货币名称。 在斜杠之前的货币被称为基础货币，之后的被称为报价货币。下面是一些符号的 示例： BTC/USD, DOGE/LTC, ETH/EUR, DASH/XRP, BTC/CNY, ZEC/XMR, ETH/JPY。
+交易符号通常是描述一对交易货币的大写字符串常量，以斜杠间隔两个货币代码。 货币代码是3\~4位大写字母，例如 BTC, ETH, USD, GBP, CNY, LTC, JPY, DOGE, RUB, ZEC, XRP, XMR, 等等。有些交易所也有长一些的富有异国风情的货币名称。 在斜杠之前的货币被称为基础货币，之后的被称为报价货币。下面是一些符号的 示例： BTC/USD, DOGE/LTC, ETH/EUR, DASH/XRP, BTC/CNY, ZEC/XMR, ETH/JPY。
 
 有时用户可能会注意到像'XBTM18' 或'.XRPUSDM20180101' 或r "exotic/rare symbols" 之类的交易符号。交易符号并不是一定要有斜杠或者包含货币对的代码。符号字符串 完全取决于市场类型（它是一个现货市场、期货市场、暗池市场或过期市场等等）。 CCXT不鼓励你解析交易符号字符串，你不应该依赖于交易符号的格式，CCXT推荐你 使用市场属性来达成你的应用需求。
 
@@ -801,7 +798,7 @@ CCXT库将不通用的市场ID抽象为标准化的交易符号。交易符号�
 
 JavaScript示例代码：
 
-```text
+```
 (async () => {
 
     console.log (await exchange.loadMarkets ())
@@ -832,7 +829,7 @@ JavaScript示例代码：
 
 Python示例代码：
 
-```text
+```
 print (exchange.load_markets ())
 
 etheur1 = exchange.markets['ETH/EUR']      # get market structure by symbol
@@ -859,7 +856,7 @@ kraken.markets_by_id['XXRPZUSD']['symbol'] # id → symbol (get symbol by id)
 
 PHP示例代码：
 
-```text
+```
 $var_dump ($exchange->load_markets ());
 
 $dashcny1 = $exchange->markets['DASH/CNY'];     // get market structure by symbol
@@ -890,7 +887,7 @@ $okcoinusd->markets_by_id['btc_usd']['symbol']; // id → symbol (get symbol by 
 
 不同的交易所在术语定义方面有一些模糊之处，对于新手交易者而言 可能会产生歧义。有些交易所将市场成为交易对，而另一些交易所则 将交易符号称为产品。对于CCXT开发库而言，每个交易所都包含一个 或多个交易市场，每个交易市场有一个ID和一个符号，大多数符号都是 由基础货币和报价货币对组成。
 
-```text
+```
 Exchanges → Markets → Symbols → Currencies
 ```
 
@@ -899,9 +896,9 @@ Exchanges → Markets → Symbols → Currencies
 * XBT → BTC：XBT比较新，但是BTC在交易所中更常见，而且听起来更像比特币
 * BCC → BCH：比特币现金分叉通常使用两个不同的名称：BCC和BCH。BCC有点 不明确，容易和BitConnect搞混。ccxt库会正确地将BCC换成BCH（有些交易所 和聚合器会混淆这两个名字）。
 * DRK → DASH：DASH原来叫Darkcoin，然后改名为Dash
-* BCHABC → BCH：在2018年11月15日，比特币现金再次分叉，因此，现在有BCH \(BCH ABC\) 和BSV \(BCH SV\)。
+* BCHABC → BCH：在2018年11月15日，比特币现金再次分叉，因此，现在有BCH (BCH ABC) 和BSV (BCH SV)。
 * BCHSV → BSV：这对应比台币现金的SV分叉，有些交易所称之为BSV，另一些交易所称之为BCHSV，ccxt使用前者。
-* DSH → DASH：The DSH \(Dashcoin\) 和DASH \(Dash\)不是一个东西。有些交易所不恰当地将DASH 标记为DSH，ccxt库对此进行了修正\(DSH → DASH\)，但是只有一个交易所混淆了这两种货币， 绝大多数交易所都正确地区分了这两种货币。记住DASH/BTC和DSH/BTC不一样。
+* DSH → DASH：The DSH (Dashcoin) 和DASH (Dash)不是一个东西。有些交易所不恰当地将DASH 标记为DSH，ccxt库对此进行了修正(DSH → DASH)，但是只有一个交易所混淆了这两种货币， 绝大多数交易所都正确地区分了这两种货币。记住DASH/BTC和DSH/BTC不一样。
 * XRB → NANO：NANO是RaiBlocks的较新的代码，因此，CCXT统一API将在必要时 使用NANO替代较早的XRB。
 * USD → USDT：有些交易所，例如Bitfinex、HitBTC等在其列表中将其命名为USD，但是 那些市场实际上交易的是USDT。混淆来自于3个字母的限制或者是其他原因。在实际交易 的货币是USDT而非USD时，CCXT库会将USD替换为USDT。注意，有些交易所同时有 USD和USDT。例如，Kraken有一个USDT/USD交易对。
 
@@ -913,7 +910,7 @@ Exchanges → Markets → Symbols → Currencies
 
 当我们识别出每个货币代码所表示的数字货币后，我们查看其在CoinMarketCap上的主页。
 
-具有最大市值的货币可以保留自己的货币代码。例如，HOT通常表示Holo或Hydro Protocol。 这种情况下Holo得以继续持有其代码HOT，Hydro Protocol将以其名称作为代码，也就是Hydro Protocol。 因此，可能会有这样的交易对：HOT/USD \(表示Holo\) 和 Hydro Protocol/USD，这表示不同的市场。
+具有最大市值的货币可以保留自己的货币代码。例如，HOT通常表示Holo或Hydro Protocol。 这种情况下Holo得以继续持有其代码HOT，Hydro Protocol将以其名称作为代码，也就是Hydro Protocol。 因此，可能会有这样的交易对：HOT/USD (表示Holo) 和 Hydro Protocol/USD，这表示不同的市场。
 
 如果一个货币的市值未知，或者不足以决定胜出者，我们也考虑交易量以及其他因素。
 
@@ -939,7 +936,7 @@ A：这依赖于你使用的是哪个交易所，但是有些交易所的交易�
 
 对于这些搞错交易对先后顺序的交易所，ccxt在解析交易所响应时会进行修正。 如果你希望少一些困扰，记住以下规则：基础货币总是在斜杠前，报价货币 总是在斜杠后：
 
-```text
+```
 base currency ↓
              BTC / USDT
              ETH / BTC
@@ -955,7 +952,7 @@ base currency ↓
 
 JavaScript示例代码：
 
-```text
+```
 (async () => {
     let kraken = new ccxt.kraken ({ verbose: true }) // log HTTP requests
     await kraken.load_markets () // request markets
@@ -970,7 +967,7 @@ JavaScript示例代码：
 
 Python示例代码：
 
-```text
+```
 poloniex = ccxt.poloniex({'verbose': True}) # log HTTP requests
 poloniex.load_markets() # request markets
 print(poloniex.id, poloniex.markets)   # output a full list of all loaded markets
@@ -983,7 +980,7 @@ print(reloadedMarkets['ETH/ZEC'])
 
 PHP示例代码：
 
-```text
+```
 $bitfinex = new \ccxt\bitfinex (array ('verbose' => true)); // log HTTP requests
 $bitfinex.load_markets (); // request markets
 var_dump ($bitfinex->id, $bitfinex->markets); // output a full list of all loaded markets
@@ -1027,19 +1024,19 @@ ccxt推荐的与交易所交互的方式，并不是使用交易所特定的隐�
 
 JavaScript代码示例：
 
-```text
+```
 console.log (new ccxt.kraken ())
 ```
 
 Python代码示例：
 
-```text
+```
 print(dir(ccxt.hitbtc()))
 ```
 
 PHP代码示例：
 
-```text
+```
 var_dump (new \ccxt\okcoinusd ());
 ```
 
@@ -1086,7 +1083,7 @@ API的URL通常分为两类：市场数据方面的公开API，以及交易和�
 
 要获取指定交易所实例的所有可用方法，你可以使用如下的简单代码：
 
-```text
+```
 console.log (new ccxt.kraken ())   // JavaScript
 print (dir (ccxt.hitbtc ()))        # Python
 var_dump (new \ccxt\okcoinusd ()); // PHP
@@ -1098,7 +1095,7 @@ JavaScript版本的CCXT库中，所有的方法都是异步的，这些方法返
 
 JavaScript示例代码：
 
-```text
+```
 (async () => {
     let pairs = await kraken.publicGetSymbolsDetails ()
     let marketIds = Object.keys (pairs['result'])
@@ -1108,9 +1105,9 @@ JavaScript示例代码：
 }) ()
 ```
 
-Python版本的ccxt库使用async/await语法支持Python 3.5+的异步并发模式。 异步的Python版本使用aiohttp实现纯异步io。在异步模式下所有的属性和 方法名还是一样的，只是大多数方法都有async关键字装饰。如果你希望使用 异步模式，应当链接ccxt.async\_support子包，如下例所示：
+Python版本的ccxt库使用async/await语法支持Python 3.5+的异步并发模式。 异步的Python版本使用aiohttp实现纯异步io。在异步模式下所有的属性和 方法名还是一样的，只是大多数方法都有async关键字装饰。如果你希望使用 异步模式，应当链接ccxt.async_support子包，如下例所示：
 
-```text
+```
 import asyncio
 import ccxt.async_support as ccxt
 
@@ -1131,7 +1128,7 @@ asyncio.get_event_loop().run_until_complete(print_poloniex_ethbtc_ticker())
 
 所有可能的API访问端结点集合对于每个交易所都不一样。大多数方法接收 单一的关联数组（或Python字典）表示的键-值参数。传参方法如下所示：
 
-```text
+```
 bitso.publicGetTicker ({ book: 'eth_mxn' })                 // JavaScript
 ccxt.zaif().public_get_ticker_pair ({ 'pair': 'btc_jpy' })  # Python
 $luno->public_get_ticker (array ('pair' => 'XBTIDR'));      // PHP
@@ -1149,26 +1146,26 @@ $luno->public_get_ticker (array ('pair' => 'XBTIDR'));      // PHP
 
 示例如下：
 
-| 方法名 | API URL基地址 | 端结点URL |
-| :--- | :--- | :--- |
-| publicGetIdOrderbook | [https://bitbay.net/API/Public](https://bitbay.net/API/Public) | {id}/orderbook |
-| publicGetPairs | [https://bitlish.com/api](https://bitlish.com/api) | pairs |
-| publicGetJsonMarketTicker | [https://www.bitmarket.net](https://www.bitmarket.net/) | json/{market}/ticker |
-| privateGetUserMargin | [https://bitmex.com](https://bitmex.com/) | user/margin |
-| privatePostTrade | [https://btc-x.is/api](https://btc-x.is/api) | trade |
-| tapiCancelOrder | [https://yobit.net](https://yobit.net/) | tapi/CancelOrder |
-| ... | ... | ... |
+| 方法名                       | API URL基地址                                                     | 端结点URL               |
+| ------------------------- | -------------------------------------------------------------- | -------------------- |
+| publicGetIdOrderbook      | [https://bitbay.net/API/Public](https://bitbay.net/API/Public) | {id}/orderbook       |
+| publicGetPairs            | [https://bitlish.com/api](https://bitlish.com/api)             | pairs                |
+| publicGetJsonMarketTicker | [https://www.bitmarket.net](https://www.bitmarket.net)         | json/{market}/ticker |
+| privateGetUserMargin      | [https://bitmex.com](https://bitmex.com)                       | user/margin          |
+| privatePostTrade          | [https://btc-x.is/api](https://btc-x.is/api)                   | trade                |
+| tapiCancelOrder           | [https://yobit.net](https://yobit.net)                         | tapi/CancelOrder     |
+| ...                       | ...                                                            | ...                  |
 
 ccxt库同时支持驼峰命名法（JavaScript常用）和下划线命名法（Python和PHP常用）， 因此所有的方法在任何开发语言中都可以上述两种风格之一调用：
 
-```text
+```
 exchange.methodName ()  // 驼峰式伪代码
 exchange.method_name () // 下划线式伪代码
 ```
 
 要获取指定交易所实例的所有可用方法的完整列表，可以简单地调用如下代码：
 
-```text
+```
 console.log (new ccxt.kraken ())   // JavaScript
 print (dir (ccxt.hitbtc ()))        # Python
 var_dump (new \ccxt\okcoinusd ()); // PHP
@@ -1178,25 +1175,25 @@ var_dump (new \ccxt\okcoinusd ()); // PHP
 
 ccxt统一API是所有交易所中的公共方法的集合。目前统一API包含以下方法：
 
-* fetchMarkets\(\)： 从交易所提取所有有效市场的清单，返回市场对象数组。有些 交易所没有办法通过其在线API获取市场清单，CCXT采用硬编码的方式返回这些交易所的市场清单。
-* loadMarkets\(\[reload\]\)：返回对象形式的市场清单并在交易所实例上缓存，键为交易符号。如果 之前已经载入过，则从缓存中返回结果，除非是强制使用了`reload`标志并设置为`true`。
-* fetchOrderBook\(symbol\[, limit = undefined\[, params = {}\]\]\)：获取指定市场交易符号的L2/L3委托账本
-* fetchStatus\(\[, params = {}\]\)：返回交易所状态信息，可能使用API或者硬编码实现
-* fetchL2OrderBook\(symbol\[, limit = undefined\[, params\]\]\)：获取交易符号的2层（价格聚合）委托账本
-* fetchTrades\(symbol\[, since\[, \[limit, \[params\]\]\]\]\)：获取指定交易符号的最近交易
-* fetchTicker\(symbol\)：获取指定交易符号的最新行情数据
-* fetchBalance\(\)：获取余额数据
-* createOrder\(symbol, type, side, amount\[, price\[, params\]\]\)
-* createLimitBuyOrder\(symbol, amount, price\[, params\]\)
-* createLimitSellOrder\(symbol, amount, price\[, params\]\)
-* createMarketBuyOrder\(symbol, amount\[, params\]\)
-* createMarketSellOrder\(symbol, amount\[, params\]\)
-* cancelOrder\(id\[, symbol\[, params\]\]\)
-* fetchOrder\(id\[, symbol\[, params\]\]\)
-* fetchOrders\(\[symbol\[, since\[, limit\[, params\]\]\]\]\)
-* fetchOpenOrders\(\[symbol\[, since, limit, params\]\]\]\]\)
-* fetchClosedOrders\(\[symbol\[, since\[, limit\[, params\]\]\]\]\)
-* fetchMyTrades\(\[symbol\[, since\[, limit\[, params\]\]\]\]\)
+* fetchMarkets()： 从交易所提取所有有效市场的清单，返回市场对象数组。有些 交易所没有办法通过其在线API获取市场清单，CCXT采用硬编码的方式返回这些交易所的市场清单。
+* loadMarkets(\[reload])：返回对象形式的市场清单并在交易所实例上缓存，键为交易符号。如果 之前已经载入过，则从缓存中返回结果，除非是强制使用了`reload`标志并设置为`true`。
+* fetchOrderBook(symbol\[, limit = undefined\[, params = {}]])：获取指定市场交易符号的L2/L3委托账本
+* fetchStatus(\[, params = {}])：返回交易所状态信息，可能使用API或者硬编码实现
+* fetchL2OrderBook(symbol\[, limit = undefined\[, params]])：获取交易符号的2层（价格聚合）委托账本
+* fetchTrades(symbol\[, since\[, \[limit, \[params]]]])：获取指定交易符号的最近交易
+* fetchTicker(symbol)：获取指定交易符号的最新行情数据
+* fetchBalance()：获取余额数据
+* createOrder(symbol, type, side, amount\[, price\[, params]])
+* createLimitBuyOrder(symbol, amount, price\[, params])
+* createLimitSellOrder(symbol, amount, price\[, params])
+* createMarketBuyOrder(symbol, amount\[, params])
+* createMarketSellOrder(symbol, amount\[, params])
+* cancelOrder(id\[, symbol\[, params]])
+* fetchOrder(id\[, symbol\[, params]])
+* fetchOrders(\[symbol\[, since\[, limit\[, params]]]])
+* fetchOpenOrders(\[symbol\[, since, limit, params]]]])
+* fetchClosedOrders(\[symbol\[, since\[, limit\[, params]]]])
+* fetchMyTrades(\[symbol\[, since\[, limit\[, params]]]])
 * ...
 
 ### 改写统一API的参数
@@ -1205,7 +1202,7 @@ ccxt统一API是所有交易所中的公共方法的集合。目前统一API包�
 
 JavaScript示例代码：
 
-```text
+```
 (async () => {
 
     const params = {
@@ -1220,7 +1217,7 @@ JavaScript示例代码：
 
 Python示例代码：
 
-```text
+```
 params = {
     'foo': 'bar',       # exchange-specific overrides in unified queries
     'Hello': 'World!',  # see their docs for more details on parameter names
@@ -1232,7 +1229,7 @@ result = exchange.fetch_order_book(symbol, length, params)
 
 PHP示例代码：
 
-```text
+```
 $params = array (
     'foo' => 'bar',       // exchange-specific overrides in unified queries
     'Hello' => 'World!',  // see their docs for more details on parameter names
@@ -1264,7 +1261,7 @@ $result = $exchange->fetch_order_book ($symbol, $length, $params);
 
 用于UTC日期和时间戳的方法集：
 
-```text
+```
 exchange.parse8601 ('2018-01-01T00:00:00Z') == 1514764800000 // integer, Z = UTC
 exchange.iso8601 (1514764800000) == '2018-01-01T00:00:00Z'   // iso8601 string
 exchange.seconds ()      // integer UTC timestamp in seconds
@@ -1277,7 +1274,7 @@ exchange.milliseconds () // integer UTC timestamp in milliseconds
 
 JavaScript：
 
-```text
+```
 if (exchange.has['fetchTrades']) {
     let since = exchange.milliseconds () - 86400000 // -1 day from now
     // alternatively, fetch from a certain starting datetime
@@ -1299,7 +1296,7 @@ if (exchange.has['fetchTrades']) {
 
 Python：
 
-```text
+```
 if exchange.has['fetchOrders']:
     since = exchange.milliseconds () - 86400000  # -1 day from now
     # alternatively, fetch from a certain starting datetime
@@ -1318,7 +1315,7 @@ if exchange.has['fetchOrders']:
 
 PHP：
 
-```text
+```
 if ($exchange->has['fetchMyTrades']) {
     $since = exchange->milliseconds () - 86400000; // -1 day from now
     // alternatively, fetch from a certain starting datetime
@@ -1344,7 +1341,7 @@ if ($exchange->has['fetchMyTrades']) {
 
 JavaScript：
 
-```text
+```
 if (exchange.has['fetchTrades']) {
     let from_id = 'abc123' // all ids are strings
     let allTrades = []
@@ -1368,7 +1365,7 @@ if (exchange.has['fetchTrades']) {
 
 Python：
 
-```text
+```
 if exchange.has['fetchOrders']:
     from_id = 'abc123'  # all ids are strings
     all_orders = []
@@ -1389,7 +1386,7 @@ if exchange.has['fetchOrders']:
 
 PHP：
 
-```text
+```
 if ($exchange->has['fetchMyTrades']) {
     $from_id = 'abc123' // all ids are strings
     $all_trades = array ();
@@ -1421,7 +1418,7 @@ if ($exchange->has['fetchMyTrades']) {
 
 JavaScript：
 
-```text
+```
 if (exchange.has['fetchTrades']) {
     let page = 0  // exchange-specific type and value
     let allTrades = []
@@ -1446,7 +1443,7 @@ if (exchange.has['fetchTrades']) {
 
 Python：
 
-```text
+```
 if exchange.has['fetchOrders']:
     cursor = 0  # exchange-specific type and value
     all_orders = []
@@ -1468,7 +1465,7 @@ if exchange.has['fetchOrders']:
 
 PHP：
 
-```text
+```
 if ($exchange->has['fetchMyTrades']) {
     $start = '0' // exchange-specific type and value
     $all_trades = array ();
@@ -1501,7 +1498,7 @@ if ($exchange->has['fetchMyTrades']) {
 
 JavaScript示例代码：
 
-```text
+```
 delay = 2000 // milliseconds = seconds * 1000
 (async () => {
     for (symbol in exchange.markets) {
@@ -1513,7 +1510,7 @@ delay = 2000 // milliseconds = seconds * 1000
 
 Python示例代码：
 
-```text
+```
 import time
 delay = 2 # seconds
 for symbol in exchange.markets:
@@ -1523,7 +1520,7 @@ for symbol in exchange.markets:
 
 PHP示例代码：
 
-```text
+```
 $delay = 2000000; // microseconds = seconds * 1000000
 foreach ($exchange->markets as $symbol => $market) {
     var_dump ($exchange->fetch_order_book ($symbol));
@@ -1535,7 +1532,7 @@ foreach ($exchange->markets as $symbol => $market) {
 
 ccxt返回的委托账本结构如下：
 
-```text
+```
 {
     'bids': [
         [ price, amount ], // [ float, float ]
@@ -1566,7 +1563,7 @@ Price和amount都是浮点数。`bids`数组按价格降序排列，最高的买
 
 JavaScript示例代码：
 
-```text
+```
 (async function test () {
     const ccxt = require ('ccxt')
     const exchange = new ccxt.bitfinex ()
@@ -1580,7 +1577,7 @@ JavaScript示例代码：
 
 Python示例代码：
 
-```text
+```
 import ccxt
 # return up to ten bidasks on each side of the order book stack
 limit = 10
@@ -1589,7 +1586,7 @@ ccxt.cex().fetch_order_book('BTC/USD', limit)
 
 PHP示例代码：
 
-```text
+```
 // instantiate the exchange by id
 $exchange = '\\ccxt\\kraken';
 $exchange = new $exchange ();
@@ -1612,7 +1609,7 @@ var_dump ($exchange->fetch_order_book ('BTC/USD', $limit));
 
 JavaScript示例代码：
 
-```text
+```
 let orderbook = exchange.fetchOrderBook (exchange.symbols[0])
 let bid = orderbook.bids.length ? orderbook.bids[0][0] : undefined
 let ask = orderbook.asks.length ? orderbook.asks[0][0] : undefined
@@ -1622,7 +1619,7 @@ console.log (exchange.id, 'market price', { bid, ask, spread })
 
 Python示例代码：
 
-```text
+```
 orderbook = exchange.fetch_order_book (exchange.symbols[0])
 bid = orderbook['bids'][0][0] if len (orderbook['bids']) > 0 else None
 ask = orderbook['asks'][0][0] if len (orderbook['asks']) > 0 else None
@@ -1632,7 +1629,7 @@ print (exchange.id, 'market price', { 'bid': bid, 'ask': ask, 'spread': spread }
 
 PHP示例代码：
 
-```text
+```
 $orderbook = $exchange->fetch_order_book ($exchange->symbols[0]);
 $bid = count ($orderbook['bids']) ? $orderbook['bids'][0][0] : null;
 $ask = count ($orderbook['asks']) ? $orderbook['asks'][0][0] : null;
@@ -1645,7 +1642,7 @@ var_dump ($exchange->id, 'market price', $result);
 
 价格行情包含了最近一段时间内特定交易市场的统计信息，通常使用24小时进行统计。 查询价格行情的方法如下：
 
-```text
+```
 fetchTicker (symbol, params = {})   // for one ticker
 fetchTickers (symbol, params = {})  // for all tickers at once
 ```
@@ -1656,7 +1653,7 @@ fetchTickers (symbol, params = {})  // for all tickers at once
 
 行情的数据结构如下：
 
-```text
+```
 {
     'symbol':        string symbol of the market ('BTC/USD', 'ETH/BTC', ...)
     'info':        { the original non-modified unparsed reply from exchange API },
@@ -1695,18 +1692,18 @@ base currency ↓ BTC / USDT ETH / BTC DASH / ETH ↑ quote currency \`\`\`
 
 时间戳和日期都是以毫秒为单位的UTC时间值：
 
-* ticker\['timestamp'\] 是交易所生成响应的时间，有的交易所可能没有这个值，因此在结果中会缺失
-* exchange.last\_response\_headers\['Date'\] 是收到的最后一个HTTP响应的日期-时间字符串。
+* ticker\['timestamp'] 是交易所生成响应的时间，有的交易所可能没有这个值，因此在结果中会缺失
+*   exchange.last_response_headers\['Date'] 是收到的最后一个HTTP响应的日期-时间字符串。
 
-  ```text
-  Date
-  ```
+    ```
+    Date
+    ```
 
-  解析器 应当考虑时区问题。日期-时间的精度是1秒、1000毫秒。这个日期应当由交易所服务器参考以下标准设置：
+    解析器 应当考虑时区问题。日期-时间的精度是1秒、1000毫秒。这个日期应当由交易所服务器参考以下标准设置：
 
-  * [https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html\#sec14.18](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.18)
-  * [https://tools.ietf.org/html/rfc1123\#section-5.2.14](https://tools.ietf.org/html/rfc1123#section-5.2.14)
-  * [https://tools.ietf.org/html/rfc822\#section-5](https://tools.ietf.org/html/rfc822#section-5)
+    * [https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.18](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.18)
+    * [https://tools.ietf.org/html/rfc1123#section-5.2.14](https://tools.ietf.org/html/rfc1123#section-5.2.14)
+    * [https://tools.ietf.org/html/rfc822#section-5](https://tools.ietf.org/html/rfc822#section-5)
 
 虽然有些交易所在其行情数据中混入了委托账本的最高买入/最低卖出价格，你不应当将 行情数据视为`fetchOrderBook`的替代方法。行情数据的主要目的是提供统计数据，可以 将其视为活跃的24小时OHLCV数据。已知的是，交易所不鼓励频繁地调用`fetchTicker`。 如果你需要一个统一的方法去访问bids和asks，你应当使用`fetchL[123]OrderBook`系列的方法。
 
@@ -1714,8 +1711,8 @@ base currency ↓ BTC / USDT ETH / BTC DASH / ETH ↑ quote currency \`\`\`
 
 获取行情数据的方法如下：
 
-* fetchTicker \(symbol\[, params = {}\]\), symbol必须，params可选
-* fetchTickers \(\[symbols = undefined\[, params = {}\]\]\), 两个参数都是可选的
+* fetchTicker (symbol\[, params = {}]), symbol必须，params可选
+* fetchTickers (\[symbols = undefined\[, params = {}]]), 两个参数都是可选的
 
 ### 按交易对查询实时行情
 
@@ -1723,7 +1720,7 @@ base currency ↓ BTC / USDT ETH / BTC DASH / ETH ↑ quote currency \`\`\`
 
 JavaScript示例代码：
 
-```text
+```
 if (exchange.has['fetchTicker']) {
     console.log (await (exchange.fetchTicker ('BTC/USD'))) // ticker for BTC/USD
     let symbols = Object.keys (exchange.markets)
@@ -1734,7 +1731,7 @@ if (exchange.has['fetchTicker']) {
 
 Python示例代码：
 
-```text
+```
 import random
 if (exchange.has['fetchTicker']):
     print(exchange.fetch_ticker('LTC/ZEC')) # ticker for LTC/ZEC
@@ -1744,7 +1741,7 @@ if (exchange.has['fetchTicker']):
 
 PHP别忘了正确设置时区：
 
-```text
+```
 if ($exchange->has['fetchTicker']) {
     var_dump ($exchange->fetch_ticker ('ETH/CNY')); // ticker for ETH/CNY
     $symbols = array_keys ($exchange->markets);
@@ -1759,7 +1756,7 @@ if ($exchange->has['fetchTicker']) {
 
 JavaScript示例代码：
 
-```text
+```
 if (exchange.has['fetchTickers']) {
     console.log (await (exchange.fetchTickers ())) // all tickers indexed by their symbols
 }
@@ -1767,14 +1764,14 @@ if (exchange.has['fetchTickers']) {
 
 Python示例代码：
 
-```text
+```
 if (exchange.has['fetchTickers']):
     print(exchange.fetch_tickers()) # all tickers indexed by their symbols
 ```
 
 PHP示例代码：
 
-```text
+```
 if ($exchange->has['fetchTickers']) {
     var_dump ($exchange->fetch_tickers ()); // all tickers indexed by their symbols
 }
@@ -1784,7 +1781,7 @@ if ($exchange->has['fetchTickers']) {
 
 JavaScript示例代码：
 
-```text
+```
 if (exchange.has['fetchTickers']) {
     console.log (await (exchange.fetchTickers ([ 'ETH/BTC', 'LTC/BTC' ]))) // listed tickers indexed by their symbols
 }
@@ -1792,14 +1789,14 @@ if (exchange.has['fetchTickers']) {
 
 Python示例代码：
 
-```text
+```
 if (exchange.has['fetchTickers']):
     print(exchange.fetch_tickers(['ETH/BTC', 'LTC/BTC'])) # listed tickers indexed by their symbols
 ```
 
 PHP示例代码：
 
-```text
+```
 if ($exchange->has['fetchTickers']) {
     var_dump ($exchange->fetch_tickers (array ('ETH/BTC', 'LTC/BTC'))); // listed tickers indexed by their symbols
 }
@@ -1811,7 +1808,7 @@ if ($exchange->has['fetchTickers']) {
 
 返回结果的结构如下：
 
-```text
+```
 {
     'info':    { ... }, // the original JSON response from the exchange as is
     'BTC/USD': { ... }, // a single ticker for BTC/USD
@@ -1828,7 +1825,7 @@ if ($exchange->has['fetchTickers']) {
 
 `fetchOHLCV`方法声明如下：
 
-```text
+```
 fetchOHLCV (symbol, timeframe = '1m', since = undefined, limit = undefined, params = {})
 ```
 
@@ -1836,7 +1833,7 @@ fetchOHLCV (symbol, timeframe = '1m', since = undefined, limit = undefined, para
 
 JavaScript示例代码：
 
-```text
+```
 let sleep = (ms) => new Promise (resolve => setTimeout (resolve, ms));
 if (exchange.has.fetchOHLCV) {
     for (symbol in exchange.markets) {
@@ -1848,7 +1845,7 @@ if (exchange.has.fetchOHLCV) {
 
 Python示例代码：
 
-```text
+```
 import time
 if exchange.has['fetchOHLCV']:
     for symbol in exchange.markets:
@@ -1858,7 +1855,7 @@ if exchange.has['fetchOHLCV']:
 
 PHP示例代码：
 
-```text
+```
 if ($exchange->has['fetchOHLCV']) {
     foreach ($exchange->markets as $symbol => $market) {
         usleep ($exchange->rateLimit * 1000); // usleep wants microseconds
@@ -1881,7 +1878,7 @@ if ($exchange->has['fetchOHLCV']) {
 
 `fetchOHLCV`方法返回OHLCV烛线数组，其结构如下：
 
-```text
+```
 [
     [
         1504541580000, // UTC 时间戳，单位：毫秒
@@ -1909,7 +1906,7 @@ if ($exchange->has['fetchOHLCV']) {
 
 你可以调用ccxt的统一API方法`fetchTrades` / `fetch_trades`来获取指定交易对的最近交易记录。 `fetchTrade`方法声明如下：
 
-```text
+```
 async fetchTrades (symbol, since = undefined, limit = undefined, params = {})
 ```
 
@@ -1917,7 +1914,7 @@ async fetchTrades (symbol, since = undefined, limit = undefined, params = {})
 
 JavaScript示例代码：
 
-```text
+```
 if (exchange.has['fetchTrades']) {
     let sleep = (ms) => new Promise (resolve => setTimeout (resolve, ms));
     for (symbol in exchange.markets) {
@@ -1929,7 +1926,7 @@ if (exchange.has['fetchTrades']) {
 
 Python示例代码：
 
-```text
+```
 import time
 if exchange.has['fetchTrades']:
     for symbol in exchange.markets:  # ensure you have called loadMarkets() or load_markets() method.
@@ -1939,7 +1936,7 @@ if exchange.has['fetchTrades']:
 
 PHP示例代码：
 
-```text
+```
 if ($exchange->has['fetchTrades']) {
     foreach ($exchange->markets as $symbol => $market) {
         usleep ($exchange->rateLimit * 1000); // usleep wants microseconds
@@ -1950,7 +1947,7 @@ if ($exchange->has['fetchTrades']) {
 
 上面展示的`fetchTrades`方法返回一个按时间戳升序排列的交易数组，最早的交易在 第一个，最新的交易在最后一个。交易数组结构如下：
 
-```text
+```
 [
     {
         'info':       { ... },                  // the original decoded JSON as is
@@ -2018,7 +2015,7 @@ API身份通常包含以下内容：
 
 JavaScript示例代码：
 
-```text
+```
 const ccxt = require ('ccxt')
 
 // any time
@@ -2045,7 +2042,7 @@ const exchangeId = 'binance'
 
 Python示例代码：
 
-```text
+```
 import ccxt
 
 # any time
@@ -2072,7 +2069,7 @@ exchange = exchange_class({
 
 PHP示例代码：
 
-```text
+```
 include 'ccxt.php'
 
 // any time
@@ -2097,19 +2094,19 @@ $exchange = new $exchange_class (array (
 ));
 ```
 
-注意，如果在交易之前你没有设置API身份信息，那么你的私有API请求可能会失败而抛出异常或错误。 为了避免字符的转移问题，请使用单引号描述你的身份信息，例如'VERY\_GOOD'而不是 "VERY\_BAD"。
+注意，如果在交易之前你没有设置API身份信息，那么你的私有API请求可能会失败而抛出异常或错误。 为了避免字符的转移问题，请使用单引号描述你的身份信息，例如'VERY_GOOD'而不是 "VERY_BAD"。
 
 ### 查询账户余额 - fetchBalance
 
 要查询账户余额，获取可用于交易的资金数量，或者锁定在委托单中的资金数量， 可以使用`fetchBalance`方法。
 
-```text
+```
 fetchBalance (params = {})
 ```
 
 方法返回的余额结构如下：
 
-```text
+```
 {
     'info':  { ... },    // the original untouched non-parsed reply with details
 
@@ -2149,7 +2146,7 @@ fetchBalance (params = {})
 
 JavaScript示例代码：
 
-```text
+```
 (async () => {
     console.log (await exchange.fetchBalance ())
 }) ()
@@ -2157,13 +2154,13 @@ JavaScript示例代码：
 
 Python示例代码：
 
-```text
+```
 print (exchange.fetch_balance ())
 ```
 
 PHP示例代码：
 
-```text
+```
 var_dump ($exchange->fetch_balance ());
 ```
 
@@ -2177,10 +2174,10 @@ var_dump ($exchange->fetch_balance ());
 
 查询委托单的方法如下：
 
-* fetchOrder \(id, symbol = undefined, params = {}\)
-* fetchOrders \(symbol = undefined, since = undefined, limit = undefined, params = {}\)
-* fetchOpenOrders \(symbol = undefined, since = undefined, limit = undefined, params = {}\)
-* fetchClosedOrders \(symbol = undefined, since = undefined, limit = undefined, params = {}\)
+* fetchOrder (id, symbol = undefined, params = {})
+* fetchOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
+* fetchOpenOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
+* fetchClosedOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
 
 注意这些方法的名字可以看出该方法是返回一个委托单还是多个委托单。
 
@@ -2190,7 +2187,7 @@ var_dump ($exchange->fetch_balance ());
 
 JavaScript示例代码：
 
-```text
+```
 'use strict';
 
 const ccxt = require ('ccxt')
@@ -2201,7 +2198,7 @@ console.log (exchange.has)
 
 Python示例代码：
 
-```text
+```
 import ccxt
 id = 'binance'
 exchange = getattr(ccxt, id) ()
@@ -2210,14 +2207,14 @@ print(exchange.has)
 
 PHP示例代码：
 
-```text
+```
 $exchange = new \ccxt\liqui ();
 print_r ($exchange->has); // or var_dump
 ```
 
 一个典型的`.hash`属性通常包含如下对应上述用于查询委托单的API方法的标志：
 
-```text
+```
 exchange.has = {
 
     // ... other flags ...
@@ -2238,8 +2235,8 @@ ture和false的含义很明确。`emulated`表示这个方法是ccxt模拟出来
 
 下面的这些方法可以返回一组交易和委托单，支持`since`参数和`limit`参数：
 
-* fetchTrades \(public\)
-* fetchMyTrades \(private\)
+* fetchTrades (public)
+* fetchMyTrades (private)
 * fetchOrders
 * fetchOpenOrders
 * fetchClosedOrders
@@ -2273,7 +2270,7 @@ ture和false的含义很明确。`emulated`表示这个方法是ccxt模拟出来
 
 对于长时间运行的交易所实例，及时清理不再需要的资源是非常重要的。 因为在活跃的交易当中，`.orders`缓存会增长到非常大，ccxt库提供了 `purgeCachedOrders`/`purge_cached_orders`方法来清理缓存中较早的 非敞口委托单以释放占用的内存或其他目的，清理选择条件如下：
 
-```text
+```
 where (order['timestamp'] < before) && (order['status'] != 'open')
 ```
 
@@ -2281,7 +2278,7 @@ where (order['timestamp'] < before) && (order['status'] != 'open')
 
 JavaScript：
 
-```text
+```
 // keep last 24 hours of history in cache
 before = exchange.milliseconds () - 24 * 60 * 60 * 1000
 
@@ -2291,7 +2288,7 @@ exchange.purgeCachedOrders (before)
 
 Python：
 
-```text
+```
 # keep last hour of history in cache
 before = exchange.milliseconds () - 1 * 60 * 60 * 1000
 
@@ -2301,7 +2298,7 @@ exchange.purge_cached_orders (before)
 
 PHP：
 
-```text
+```
 // keep last 24 hours of history in cache
 $before = $exchange->milliseconds () - 24 * 60 * 60 * 1000;
 
@@ -2315,7 +2312,7 @@ $exchange->purge_cached_orders ($before);
 
 `fetchOrder`/`fetch_order`方法的原型如下：
 
-```text
+```
 if (exchange.has['fetchOrder']) {
     //  you can use the params argument for custom overrides
     let order = await exchange.fetchOrder (id, symbol = undefined, params = {})
@@ -2330,7 +2327,7 @@ if (exchange.has['fetchOrder']) {
 
 JavaScript：
 
-```text
+```
 (async function () {
     const order = await exchange.fetchOrder (id)
     console.log (order)
@@ -2339,7 +2336,7 @@ JavaScript：
 
 Python 2/3 同步方式的示例代码：
 
-```text
+```
 if exchange.has['fetchOrder']:
     order = exchange.fetch_order(id)
     print(order)
@@ -2354,7 +2351,7 @@ if exchange.has['fetchOrder']:
 
 PHP：
 
-```text
+```
 if ($exchange->has['fetchOrder']) {
     $order = $exchange->fetch_order ($id);
     var_dump ($order);
@@ -2365,7 +2362,7 @@ if ($exchange->has['fetchOrder']) {
 
 使用`fetchOrders`方法查询交易所的全部委托单，方法原型如下；
 
-```text
+```
 if (exchange.has['fetchOrders'])
     exchange.fetchOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
 ```
@@ -2376,7 +2373,7 @@ if (exchange.has['fetchOrders'])
 
 使用`fetchOpenOrders`方法查询交易所的所有敞口委托单，方法原型如下：
 
-```text
+```
 if (exchange.has['fetchOpenOrders'])
     exchange.fetchOpenOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
 ```
@@ -2385,7 +2382,7 @@ if (exchange.has['fetchOpenOrders'])
 
 使用交易所实例的`fetchClosedOrders`方法来查询所有已完结的委托单， 其方法原型如下：
 
-```text
+```
 if (exchange.has['fetchClosedOrders'])
     exchange.fetchClosedOrders (symbol = undefined, since = undefined, limit = undefined, params = {})
 ```
@@ -2398,7 +2395,7 @@ if (exchange.has['fetchClosedOrders'])
 
 ccxt统一API中绝大多数返回委托单的方法，通常会输出如下的委托单数据结构：
 
-```text
+```
 {
     'id':                '12345-67890:09876/54321', // string
     'datetime':          '2017-08-17 12:42:48.000', // ISO8601 datetime of 'timestamp' with milliseconds
@@ -2443,7 +2440,7 @@ ccxt统一API中绝大多数返回委托单的方法，通常会输出如下的�
 
 使用ccxt统一API下市价单或限价单的成功调用将返回如下的数据结构：
 
-```text
+```
 {
     'id': 'string',  // order id
     'info': { ... }, // decoded original JSON response from the exchange as is
@@ -2460,7 +2457,7 @@ ccxt统一API中绝大多数返回委托单的方法，通常会输出如下的�
 
 使用ccxt统一APi中的`createMarketSellOrder`方法下市价卖单，或者使用 `createMarketBuyOrder`方法下市价买单。示例代码如下：
 
-```text
+```
 // camelCaseNotation
 exchange.createMarketSellOrder (symbol, amount[, params])
 exchange.createMarketBuyOrder (symbol, amount[, params])
@@ -2472,7 +2469,7 @@ exchange.create_market_buy_order (symbol, amount[, params])
 
 也可以使用更通用的`createOrder`下买单或买单，例如：
 
-```text
+```
 // using general createOrder, type = 'market' and side = 'buy' or 'sell'
 exchange.createOrder (symbol, 'market', 'sell', amount, ...)
 exchange.create_order (symbol, 'market', 'buy', amount, ...)
@@ -2482,7 +2479,7 @@ exchange.create_order (symbol, 'market', 'buy', amount, ...)
 
 JavaScript：
 
-```text
+```
 if (exchange.has['createMarketOrder']) {
     ...
 }
@@ -2490,14 +2487,14 @@ if (exchange.has['createMarketOrder']) {
 
 Python：
 
-```text
+```
 if exchange.has['createMarketOrder']:
     ...
 ```
 
 PHP：
 
-```text
+```
 if ($exchange->has['createMarketOrder']) {
     ...
 }
@@ -2515,7 +2512,7 @@ if ($exchange->has['createMarketOrder']) {
 
 第一种是默认的，如果你同时设置了委托数量和价格，那么在ccxt内部将会 简单地按照这个公式`(cost = amount * price)`计算出委托单总价格，得到 的总花费就会设置为该市价委托单的报价货币总花费，也就是USD总额。示例 代码如下：
 
-```text
+```
 // this example is oversimplified and doesn't show all the code that is
 // required to handle the errors and exchange metadata properly
 // it shows just the concept of placing a market buy order
@@ -2551,7 +2548,7 @@ const exchange = new ccxt.cex ({
 
 如果希望自己指定委托单的总花费，那么可以使用第二种方式。这需要先 关闭`createMarketBuyOrderRequiresPrice`选项，然后进行设置。示例代码 如下：
 
-```text
+```
 const exchange = new ccxt.cex ({
     'apiKey': YOUR_API_KEY,
     'secret': 'YOUR_SECRET',
@@ -2581,10 +2578,10 @@ exchange.options['createMarketBuyOrderRequiresPrice'] = false
 
 进一步阅读请参考：
 
-* [https://github.com/ccxt/ccxt/issues/564\#issuecomment-347458566](https://github.com/ccxt/ccxt/issues/564#issuecomment-347458566)
-* [https://github.com/ccxt/ccxt/issues/4914\#issuecomment-478199357](https://github.com/ccxt/ccxt/issues/4914#issuecomment-478199357)
-* [https://github.com/ccxt/ccxt/issues/4799\#issuecomment-470966769](https://github.com/ccxt/ccxt/issues/4799#issuecomment-470966769)
-* [https://github.com/ccxt/ccxt/issues/5197\#issuecomment-496270785](https://github.com/ccxt/ccxt/issues/5197#issuecomment-496270785)
+* [https://github.com/ccxt/ccxt/issues/564#issuecomment-347458566](https://github.com/ccxt/ccxt/issues/564#issuecomment-347458566)
+* [https://github.com/ccxt/ccxt/issues/4914#issuecomment-478199357](https://github.com/ccxt/ccxt/issues/4914#issuecomment-478199357)
+* [https://github.com/ccxt/ccxt/issues/4799#issuecomment-470966769](https://github.com/ccxt/ccxt/issues/4799#issuecomment-470966769)
+* [https://github.com/ccxt/ccxt/issues/5197#issuecomment-496270785](https://github.com/ccxt/ccxt/issues/5197#issuecomment-496270785)
 
 ### 用限价单模拟市价单
 
@@ -2604,7 +2601,7 @@ exchange.options['createMarketBuyOrderRequiresPrice'] = false
 
 使用`createLimitBuyOrder`委托限价买入，或者使用`createLimitSellOrder` 委托限价卖出。示例代码如下：
 
-```text
+```
 // camelCaseStyle
 exchange.createLimitBuyOrder (symbol, amount, price[, params])
 exchange.createLimitSellOrder (symbol, amount, price[, params])
@@ -2622,21 +2619,21 @@ exchange.create_limit_sell_order (symbol, amount, price[, params])
 
 JavaScript：
 
-```text
+```
 // use a custom order type
 bitfinex.createLimitSellOrder ('BTC/USD', 1, 10, { 'type': 'trailing-stop' })
 ```
 
 Python：
 
-```text
+```
 # add a custom order flag
 kraken.create_market_buy_order('BTC/USD', 1, {'trading_agreement': 'agree'})
 ```
 
 PHP：
 
-```text
+```
 // add custom user id to your order
 $hitbtc->create_order ('BTC/USD', 'limit', 'buy', 1, 3000, array ('clientOrderId' => '123'))
 ```
@@ -2645,11 +2642,11 @@ $hitbtc->create_order ('BTC/USD', 'limit', 'buy', 1, 3000, array ('clientOrderId
 
 ### 其他类型的委托单
 
-委托单的类型可以是限价或市价，如果你要限价止损委托类型，可以使用 改写默认参数值，具体参考： [https://github.com/ccxt/ccxt/wiki/Manual\#overriding-unified-api-params](https://github.com/ccxt/ccxt/wiki/Manual#overriding-unified-api-params).
+委托单的类型可以是限价或市价，如果你要限价止损委托类型，可以使用 改写默认参数值，具体参考： [https://github.com/ccxt/ccxt/wiki/Manual#overriding-unified-api-params](https://github.com/ccxt/ccxt/wiki/Manual#overriding-unified-api-params).
 
 下面的代码展示了如何改写委托单类型，然而，你必须阅读交易所的 文档以了解应该使用什么参数以及如何正确设定参数值。限价委托或 市价委托之外的其他类型目前在ccxt中还没有统一的API，只能参考如下 代码改写默认的参数。
 
-```text
+```
 const symbol = 'ETH/BTC'
 const type = 'limit' // or 'market', other types aren't unified yet
 const side = 'sell'
@@ -2695,19 +2692,19 @@ $order = $exchange->create_order ($symbol, $type, $side, $amount, $price, $param
 
 JavaScript：
 
-```text
+```
 exchange.cancelOrder ('1234567890') // replace with your order id here (a string)
 ```
 
 Python：
 
-```text
+```
 exchange.cancel_order ('1234567890') # replace with your order id here (a string)
 ```
 
 PHP：
 
-```text
+```
 $exchange->cancel_order ('1234567890'); // replace with your order id here (a string)
 ```
 
@@ -2730,7 +2727,7 @@ $exchange->cancel_order ('1234567890'); // replace with your order id here (a st
 
 例如，委托账本中可以包含如下的委托单（可以是任何交易符号或交易对）：
 
-```text
+```
     | price  | amount
 ----|----------------
   a |  1.200 | 200
@@ -2746,7 +2743,7 @@ $exchange->cancel_order ('1234567890'); // replace with your order id here (a st
 
 一个卖家决定在卖出侧下一个限价卖出单，价格为0.700，数量为150：
 
-```text
+```
     | price  | amount
 ----|----------------  ↓
   a |  1.200 | 200     ↓
@@ -2770,7 +2767,7 @@ $exchange->cancel_order ('1234567890'); // replace with your order id here (a st
 
 委托账本的中间状态现在如下所示（委托单b已经完成，因此已经不再 出现在委托账本中）：
 
-```text
+```
     | price  | amount
 ----|----------------  ↓
   a |  1.200 | 200     ↓
@@ -2787,7 +2784,7 @@ $exchange->cancel_order ('1234567890'); // replace with your order id here (a st
 
 经过上述步骤，更新后的委托账本看起来是这样：
 
-```text
+```
     | price  | amount
 ----|----------------
   a |  1.200 | 200
@@ -2810,7 +2807,7 @@ ccxt库的统一API中的大部分方法会返回单个交易对象或交易对�
 
 JavaScript：
 
-```text
+```
 // fetchMyTrades (symbol = undefined, since = undefined, limit = undefined, params = {})
 
 if (exchange.has['fetchMyTrades']) {
@@ -2820,7 +2817,7 @@ if (exchange.has['fetchMyTrades']) {
 
 Python：
 
-```text
+```
 # fetch_my_trades (symbol = None, since = None, limit = None, params = {})
 
 if exchange.has['fetchMyTrades']:
@@ -2829,7 +2826,7 @@ if exchange.has['fetchMyTrades']:
 
 PHP：
 
-```text
+```
 // fetch_my_trades ($symbol = null, $since = null, $limit = null, $params = array ())
 
 if ($exchange->has['fetchMyTrades']) {
@@ -2843,7 +2840,7 @@ if ($exchange->has['fetchMyTrades']) {
 
 在ccxt中，交易的数据结构如下：
 
-```text
+```
 {
     'info':         { ... },                    // the original decoded JSON as is
     'id':           '12345-67890:09876/54321',  // string trade id
@@ -2881,7 +2878,7 @@ if ($exchange->has['fetchMyTrades']) {
 
 用于充值的地址可以使用`fetchDepositAddress`方法获取在交易所中已有的地址， 也可以使用`createDepositAddress`创建新的地址。要查看交易所支持哪个方法， 可以使用`exchange.has['fetchDepositAddress']`和`exchange.has['createDepositAddress']` 属性，这两个方法都返回一个地址结构：
 
-```text
+```
 fetchDepositAddress (code, params = {})
 createDepositAddress (code, params = {})
 ```
@@ -2891,7 +2888,7 @@ createDepositAddress (code, params = {})
 
 有些交易所也提供API方法来一次获取多个或全部充值地址：
 
-```text
+```
 fetchDepositAddresses (codes = undefined, params = {})
 ```
 
@@ -2901,7 +2898,7 @@ fetchDepositAddresses (codes = undefined, params = {})
 
 `fetchDepositAddress`、`fetchDepositAddresses`和`createDepositAddress`方法返回的 地址，结构如下：
 
-```text
+```
 {
     'currency': currency, // currency code
     'address': address,   // address in terms of requested currency
@@ -2920,19 +2917,19 @@ fetchDepositAddresses (codes = undefined, params = {})
 
 JavaScript：
 
-```text
+```
 exchange.withdraw (code, amount, address, tag = undefined, params = {})
 ```
 
 Python：
 
-```text
+```
 exchange.withdraw(code, amount, address, tag=None, params={})
 ```
 
 PHP：
 
-```text
+```
 $exchange->withdraw ($code, $amount, $address, $tag = null, $params = array ())
 ```
 
@@ -2940,7 +2937,7 @@ $exchange->withdraw ($code, $amount, $address, $tag = null, $params = array ())
 
 `withdraw`方法返回一个字典，其中的提现ID字段值通常是链上交易的ID，或者 是交易所内部的提现请求ID。`withdraw`的返回值看起来像这样：
 
-```text
+```
 {
     'info' { ... },      // unparsed reply from the exchange, as is
     'id': '12345567890', // string withdrawal id, if any
@@ -2955,7 +2952,7 @@ $exchange->withdraw ($code, $amount, $address, $tag = null, $params = array ())
 
 ccxt库中，链上交易（Transaction）的数据结构如下：
 
-```text
+```
 {
     'info':      { ... },    // the JSON response from the exchange as is
     'id':       '123456',    // exchange-specific transaction id, string
@@ -2997,7 +2994,7 @@ ccxt库中，链上交易（Transaction）的数据结构如下：
 
 JavaScript：
 
-```text
+```
 // fetchDeposits (code = undefined, since = undefined, limit = undefined, params = {})
 
 if (exchange.has['fetchDeposits']) {
@@ -3009,7 +3006,7 @@ if (exchange.has['fetchDeposits']) {
 
 Python：
 
-```text
+```
 # fetch_deposits(code = None, since = None, limit = None, params = {})
 
 if exchange.has['fetchDeposits']:
@@ -3020,7 +3017,7 @@ else:
 
 PHP：
 
-```text
+```
 // fetch_deposits ($code = null, $since = null, $limit = null, $params = {})
 
 if ($exchange->has['fetchDeposits']) {
@@ -3036,7 +3033,7 @@ if ($exchange->has['fetchDeposits']) {
 
 JavaScript：
 
-```text
+```
 // fetchWithdrawals (code = undefined, since = undefined, limit = undefined, params = {})
 
 if (exchange.has['fetchWithdrawals']) {
@@ -3048,7 +3045,7 @@ if (exchange.has['fetchWithdrawals']) {
 
 Python：
 
-```text
+```
 # fetch_withdrawals(code = None, since = None, limit = None, params = {})
 
 if exchange.has['fetchWithdrawals']:
@@ -3059,7 +3056,7 @@ else:
 
 PHP：
 
-```text
+```
 // fetch_withdrawals ($code = null, $since = null, $limit = null, $params = {})
 
 if ($exchange->has['fetchWithdrawals']) {
@@ -3075,7 +3072,7 @@ if ($exchange->has['fetchWithdrawals']) {
 
 JavaScript：
 
-```text
+```
 // fetchTransactions (code = undefined, since = undefined, limit = undefined, params = {})
 
 if (exchange.has['fetchTransactions']) {
@@ -3087,7 +3084,7 @@ if (exchange.has['fetchTransactions']) {
 
 Python：
 
-```text
+```
 # fetch_transactions(code = None, since = None, limit = None, params = {})
 
 if exchange.has['fetchTransactions']:
@@ -3098,7 +3095,7 @@ else:
 
 PHP：
 
-```text
+```
 // fetch_transactions ($code = null, $since = null, $limit = null, $params = {})
 
 if ($exchange->has['fetchTransactions']) {
@@ -3117,13 +3114,13 @@ if ($exchange->has['fetchTransactions']) {
 
 因为手续费结构会依赖于用户交易的货币的实际交易量，手续费是与账户相关的。 ccxt的统一API中，提供了以下方法用于账户相关的手续费处理：
 
-* fetchFees \(params = {}\)
-* fetchTradingFees \(params = {}\)
-* fetchFundingFees \(params = {}\)
+* fetchFees (params = {})
+* fetchTradingFees (params = {})
+* fetchFundingFees (params = {})
 
 手续费方法将返回一个统一的手续费结构，该结构在整个ccxt库中保持统一， 通常采用交易市场或货币为索引键。手续费结构如下：
 
-```text
+```
 {
     'type': takerOrMaker,
     'currency': 'BTC', // the unified fee currency code
@@ -3148,13 +3145,13 @@ if ($exchange->has['fetchTransactions']) {
 
 `fetchStatus`方法原型如下：
 
-```text
+```
 fetchStatus(params = {})
 ```
 
 方法返回的状态数据结构如下：
 
-```text
+```
 {
     'status': 'ok', // 'ok', 'shutdown', 'error', 'maintenance'
     'updated': undefined, // integer, last updated timestamp in milliseconds if updated via the API
@@ -3176,7 +3173,7 @@ fetchStatus(params = {})
 
 ccxt的统一API中的`calculateFee`方法可以预算交易费。警告！这个方法 是实验性的，不稳定而且可能在有些情况下的结果不正确。请谨慎使用。 实际的手续费可能和`calculateFee`返回的结果不一致，因此不要依赖于 预算值，因为市场条件变化很快，很难预料你的委托单是会成为maker还是taker。 方法原型如下：
 
-```text
+```
 calculateFee (symbol, type, side, amount, price, takerOrMaker = 'taker', params = {})
 ```
 
@@ -3184,7 +3181,7 @@ calculateFee (symbol, type, side, amount, price, takerOrMaker = 'taker', params 
 
 应当使用交易所的`.markets`属性方位交易费率，例如：
 
-```text
+```
 exchange.markets['ETH/BTC']['taker'] // taker fee rate for ETH/BTC
 exchange.markets['BTC/USD']['maker'] // maker fee rate for BTC/USD
 ```
@@ -3197,7 +3194,7 @@ exchange.markets['BTC/USD']['maker'] // maker fee rate for BTC/USD
 
 可以使用交易所的`.currencies`属性访问资金操作费率。这方面目前在ccxt 中还没有统一，未来可能会有变化。
 
-```text
+```
 exchange.currencies['ETH']['fee'] // tx/withdrawal fee rate for ETH
 exchange.currencies['BTC']['fee'] // tx/withdrawal fee rate for BTC
 ```
@@ -3208,7 +3205,7 @@ exchange.currencies['BTC']['fee'] // tx/withdrawal fee rate for BTC
 
 使用ccxt统一API中的`fetchLedger`方法查询账本，原型如下：
 
-```text
+```
 async fetchLedger (code = undefined, since = undefined, limit = undefined, params = {})
 ```
 
@@ -3218,7 +3215,7 @@ async fetchLedger (code = undefined, since = undefined, limit = undefined, param
 
 账本记录结构如下：
 
-```text
+```
 {
     'id': 'hqfl-f125f9l2c9',                // string id of the ledger entry, e.g. an order id
     'direction': 'out',                     // or 'in'
@@ -3269,15 +3266,15 @@ async fetchLedger (code = undefined, since = undefined, limit = undefined, param
 
 有些情况下你没办法创建新的密钥，比如没有权限或者其他原因。 这时也有办法改写nonce值，可以使用ccxt统一api中市场基类的以下方法：
 
-* seconds \(\): 返回秒计的unix时间戳
-* milliseconds \(\): 返回毫秒计的unix时间戳
-* microseconds \(\): 返回微秒计的unix时间戳
+* seconds (): 返回秒计的unix时间戳
+* milliseconds (): 返回毫秒计的unix时间戳
+* microseconds (): 返回微秒计的unix时间戳
 
 有的交易所在API文档中搞混了毫秒和微秒，原谅他们吧。你可以使用 上面的这些方法重设nocne值。示例代码如下。
 
 JavaScript：
 
-```text
+```
 // A: custom nonce redefined in constructor parameters
 let nonce = 1
 let kraken1 = new ccxt.kraken ({ nonce: () => nonce++ })
@@ -3299,7 +3296,7 @@ let kraken4 = new ccxt.kraken ({
 
 Python：
 
-```text
+```
 # A: the shortest
 gdax = ccxt.gdax({'nonce': ccxt.Exchange.milliseconds})
 
@@ -3325,7 +3322,7 @@ acx = ccxt.acx({'nonce': lambda: ccxt.Exchange.milliseconds()})
 
 PHP：
 
-```text
+```
 // A: custom nonce value
 class MyOKCoinUSD extends \ccxt\okcoinusd {
     public function __construct ($options = array ()) {
@@ -3357,7 +3354,7 @@ ccxt采用各种语言中原生的异常机制进行错误处理。
 
 JavaScript：
 
-```text
+```
 // try to call a unified method
 try {
     const response = await exchange.fetchTicker ('ETH/BTC')
@@ -3384,7 +3381,7 @@ try {
 
 Python：
 
-```text
+```
 try:
     response = await exchange.fetch_order_book('ETH/BTC')
     print(response)
@@ -3404,7 +3401,7 @@ except Exception as e:
 
 PHP：
 
-```text
+```
 // try to call a unified method
 try {
     $response = $exchange->fetch_trades('ETH/BTC');
@@ -3430,7 +3427,7 @@ ccxt中所有的机场都派生自BaseError基类，其定义如下：
 
 JavaScript：
 
-```text
+```
 class BaseError extends Error {
     constructor () {
         super ()
@@ -3443,20 +3440,20 @@ class BaseError extends Error {
 
 Python：
 
-```text
+```
 class BaseError (Exception):
     pass
 ```
 
 PHP：
 
-```text
+```
 class BaseError extends \Exception {}
 ```
 
 下面是ccxt异常类的继承体系：
 
-```text
+```
 + BaseError
 |
 +---+ ExchangeError
@@ -3566,45 +3563,44 @@ class BaseError extends \Exception {}
 因此建议采用以下方式处理这一类的异常：
 
 * 对于查询请求，只需要重新尝试调用即可
-* 对于
+*   对于
 
-  ```text
-  cancelOrder
-  ```
+    ```
+    cancelOrder
+    ```
 
-  请求，要求用户进行二次尝试。如果没有进行二次尝试 而是立即调用了fetchOrder, fetchOrders, fetchOpenOrders 或 fetchClosedOrders， 那么可能导致
+    请求，要求用户进行二次尝试。如果没有进行二次尝试 而是立即调用了fetchOrder, fetchOrders, fetchOpenOrders 或 fetchClosedOrders， 那么可能导致
 
-  ```text
-  .orders
-  ```
+    ```
+    .orders
+    ```
 
-  缓存不同步。二次尝试调用
+    缓存不同步。二次尝试调用
 
-  ```text
-  cancelOrder
-  ```
+    ```
+    cancelOrder
+    ```
 
-  可能返回 以下结果之一：
+    可能返回 以下结果之一：
 
-  * 成功完成，表示委托单已经正确地取消了
-  * 抛出OrderNotFound异常，表示委托单要么已经在上次请求时取消， 要么已经在两次请求的间隔执行（完成或成交）。这是需要调用`fetchOrder`来 正确地更新缓存
+    * 成功完成，表示委托单已经正确地取消了
+    * 抛出OrderNotFound异常，表示委托单要么已经在上次请求时取消， 要么已经在两次请求的间隔执行（完成或成交）。这是需要调用`fetchOrder`来 正确地更新缓存
+*   如果
 
-* 如果
+    ```
+    createOrder
+    ```
 
-  ```text
-  createOrder
-  ```
+    请求抛出
 
-  请求抛出
+    ```
+    RequestTimeout
+    ```
 
-  ```text
-  RequestTimeout
-  ```
+    异常，开发者应当：
 
-  异常，开发者应当：
-
-  * 使用fetchOrders, fetchOpenOrders, fetchClosedOrders检查上个请求是否成功下单 并更新orders缓存。
-  * 如果委托单不是敞口状态，那么开发者需要调用`fetchBalance`检查账户余额 是否变化。注意fetchBlanace依靠orders缓存进行余额推理，因此只能在更新 缓存后进行调用！
+    * 使用fetchOrders, fetchOpenOrders, fetchClosedOrders检查上个请求是否成功下单 并更新orders缓存。
+    * 如果委托单不是敞口状态，那么开发者需要调用`fetchBalance`检查账户余额 是否变化。注意fetchBlanace依靠orders缓存进行余额推理，因此只能在更新 缓存后进行调用！
 
 #### 交易所不可用异常 - ExchangeNotAvailable
 
@@ -3627,4 +3623,3 @@ class BaseError extends \Exception {}
 * 你的API key没有刷新，可能在其他软件或脚本中使用了同样的api key
 * 在多个交易所实例中使用相同的api密钥对
 * 系统时钟没有同步。
-

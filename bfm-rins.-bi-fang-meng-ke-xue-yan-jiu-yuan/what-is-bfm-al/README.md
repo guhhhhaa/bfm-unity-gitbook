@@ -1,17 +1,17 @@
 # 【算法】算法描述
 
 {% hint style="danger" %}
-本章包含 **核心算法** ，需要 **开发者** 细读，  
-  
-如不想看算法，想直接看 **程序，**可跳到 [**这一页**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python)\*\*\*\*
+本章包含 **核心算法** ，需要 **开发者** 细读，\
+\
+如不想看算法，想直接看 **程序，**可跳到 [**这一页**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python)****
 
-\*\*\*\*
+****
 
 儿时仰星光，举手若能摘。 
 
 于今七尺身，天高不可即。
 
-                          ****——杜随《杂诗》                   
+**                          **——杜随《杂诗》                   
 {% endhint %}
 
 ![](../../.gitbook/assets/350714d50313c52b79c51d4dbe932e80.jpeg)
@@ -28,7 +28,7 @@
 
 ## BFM Unity 的组织性质是什么？
 
-> BFM Unity 是以算法为核心驱动的去中心化自治组织（DAO）。
+> BFM Unity 是以算法为核心驱动的去中心化自治组织（DAO）。 
 
 ## BFM 算法的原理是什么？
 
@@ -40,11 +40,11 @@ BFM 算法于 1955 年由 Alfonso Shimbel 创立。
 
 {% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.451.4085&rep=rep1&type=pdf" %}
 
-{% embed url="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford\_algorithm" %}
+{% embed url="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm" %}
 
 我们利用 BFM 算法进行交叉套利路径的优化搜索。
 
-{% embed url="https://en.wikipedia.org/wiki/Triangular\_arbitrage" %}
+{% embed url="https://en.wikipedia.org/wiki/Triangular_arbitrage" %}
 
 ```c
 无定价缺陷的货币汇率关系：2 * 3 = 6
@@ -94,7 +94,7 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 ## BFM 算法的时间复杂度分析
 
-![&#x672C;&#x56FE;&#x7247;&#x5F15;&#x7528;&#x81EA;&#x300A;&#x554A;&#x54C8;&#xFF01;&#x7B97;&#x6CD5;&#x300B;](../../.gitbook/assets/ping-mu-kuai-zhao-20200318-shang-wu-9.55.10.png)
+![本图片引用自《啊哈！算法》](../../.gitbook/assets/ping-mu-kuai-zhao-20200318-shang-wu-9.55.10.png)
 
 ## BFM-Detect 算法 和 BFM-Find 算法 的比较
 
@@ -111,19 +111,20 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 ![](../../.gitbook/assets/ping-mu-kuai-zhao-20210127-xia-wu-10.54.01.png)
 
 {% hint style="info" %}
-检验你是否理解了 BFM 算法，需回答以下几个问题。  
-  
-1，BFM-find 和 BFM-detect 步骤有什么不同？   
-2，BFM-find 和 BFM-detect 的时间复杂度有什么不同？  
-3，BFM-find 里面的步骤涉及前驱链，什么是前驱链? 涉及前驱链的步骤到底做了什么？   
-4，为什么算法运行前要对汇率取-ln？   
-5，为什么汇率在取 -ln 之前要移动小数点再乘以几百？   
-6，BFM 算法基于图的邻接矩阵表示。什么是图的邻接矩阵表示？BFM 算法的步骤中如何使用图的邻接矩阵表示？   
-  
+检验你是否理解了 BFM 算法，需回答以下几个问题。\
+\
+1，BFM-find 和 BFM-detect 步骤有什么不同？ \
+2，BFM-find 和 BFM-detect 的时间复杂度有什么不同？\
+3，BFM-find 里面的步骤涉及前驱链，什么是前驱链? 涉及前驱链的步骤到底做了什么？ \
+4，为什么算法运行前要对汇率取-ln？ \
+5，为什么汇率在取 -ln 之前要移动小数点再乘以几百？ \
+6，BFM 算法基于图的邻接矩阵表示。什么是图的邻接矩阵表示？BFM 算法的步骤中如何使用图的邻接矩阵表示？ \
+\
 这 6 个细节问题，如果你不能回答其中的任何一个，那么 BFM 算法就和你无缘了，所以，坑还是很深的。
 {% endhint %}
 
 ## 有些问题回答不出来？可以看看这个：
 
-{% page-ref page="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/" %}
-
+{% content-ref url="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/" %}
+[ruan-jian-bfm-on-python](../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/)
+{% endcontent-ref %}

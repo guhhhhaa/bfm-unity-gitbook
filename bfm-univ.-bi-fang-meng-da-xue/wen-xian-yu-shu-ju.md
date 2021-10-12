@@ -8,13 +8,13 @@ web of science
 
 下载文献下面这些网站可以试试 
 
-1.[http://www.4243.net/](http://www.4243.net/)大木虫学术 
+1.[http://www.4243.net/](http://www.4243.net)大木虫学术 
 
 2.[https://gfsoso.99lb.net/sci-hub.html](https://gfsoso.99lb.net/sci-hub.html)谷粉学术 
 
-3.[https://2.52qu.xyz/](https://2.52qu.xyz/)可用的谷歌镜像 
+3.[https://2.52qu.xyz/](https://2.52qu.xyz)可用的谷歌镜像 
 
-4.[http://mirror.mixueshu.com/](http://mirror.mixueshu.com/)小米学术 
+4.[http://mirror.mixueshu.com/](http://mirror.mixueshu.com)小米学术 
 
 5.[https://www.ablesci.com](https://www.ablesci.com)/科研通 
 
@@ -26,9 +26,9 @@ web of science
 
 下文献步骤： 
 
-1.[http://so.hiqq.com.cn/?tdsourcetag=s\_pctim\_aiomsg](http://so.hiqq.com.cn/?tdsourcetag=s_pctim_aiomsg)在谷歌学术搜索中输入文章题目或关键词，找到文章链接，找到DOI号； 
+1.[http://so.hiqq.com.cn/?tdsourcetag=s_pctim_aiomsg](http://so.hiqq.com.cn/?tdsourcetag=s_pctim_aiomsg)在谷歌学术搜索中输入文章题目或关键词，找到文章链接，找到DOI号； 
 
-2.https://sci-hub.shop/或[https://sci-hub.tw/](https://sci-hub.tw/)把文章的DOI号输入sci-hub下载（如果有文章的DOI号，可以直接用此链接尝试下载，跳过步骤1）。​ 
+2.https://sci-hub.shop/或[https://sci-hub.tw/](https://sci-hub.tw)把文章的DOI号输入sci-hub下载（如果有文章的DOI号，可以直接用此链接尝试下载，跳过步骤1）。​ 
 
 
 
@@ -86,25 +86,24 @@ web of science
 
 4.world bank：宏观，增长率 ​
 
-1. 视频片头动画模板 [https://panzoid.com/](https://panzoid.com/)
+1.  视频片头动画模板 [https://panzoid.com/](https://panzoid.com)
 
-   2.在线抠图 [https://www.remove.bg/](https://www.remove.bg/)
+    2.在线抠图 [https://www.remove.bg/](https://www.remove.bg)
 
-   3.字体下载 [https://www.zitijia.com/](https://www.zitijia.com/)
+    3.字体下载 [https://www.zitijia.com/](https://www.zitijia.com)
+2.  p站 （二次元插画网站） [https://www.pixiv.net/](https://www.pixiv.net)
 
-2. p站 （二次元插画网站） [https://www.pixiv.net/](https://www.pixiv.net/)
+    5.论文下载 [https://www.cn-ki.net/](https://www.cn-ki.net)
 
-   5.论文下载 [https://www.cn-ki.net/](https://www.cn-ki.net/)
+    6.文档格式在线转换 [https://smallpdf.com/](https://smallpdf.com)
 
-   6.文档格式在线转换 [https://smallpdf.com/](https://smallpdf.com/)
+    7.录屏投屏  [http://web.airdroid.com/](http://web.airdroid.com)
 
-   7.录屏投屏  [http://web.airdroid.com/](http://web.airdroid.com/)
+    8.各大网站热榜 [https://tophub.today/](https://tophub.today)
 
-   8.各大网站热榜 [https://tophub.today/](https://tophub.today/)
+    9.超清图片壁纸 [https://www.pexels.com/](https://www.pexels.com)
 
-   9.超清图片壁纸 [https://www.pexels.com/](https://www.pexels.com/)
-
-   10.找网站的网站  [http://www.addog.vip/​](http://www.addog.vip/​)
+    10.找网站的网站  [http://www.addog.vip/​](http://www.addog.vip/%E2%80%8B)
 
 术语在线
 
@@ -152,21 +151,19 @@ Quicker​
 
 6、论文狗
 
-网址：[http://www.lunwengo.net/](http://www.lunwengo.net/)
+网址：[http://www.lunwengo.net/](http://www.lunwengo.net)
 
 7、知网
 
-网址：[https://www.cnki.net/](https://www.cnki.net/)
+网址：[https://www.cnki.net/](https://www.cnki.net)
 
 
 
 论文查重网站：
 
-1. Passmore（论文查重、智能降重、人工降重）
+1.  Passmore（论文查重、智能降重、人工降重）
 
-   网址：[https://www.passmore.cn/](https://www.passmore.cn/)
+    网址：[https://www.passmore.cn/](https://www.passmore.cn)
+2.  知网
 
-2. 知网
-
-   网址：[https://www.cnki.net/](https://www.cnki.net/)
-
+    网址：[https://www.cnki.net/](https://www.cnki.net)

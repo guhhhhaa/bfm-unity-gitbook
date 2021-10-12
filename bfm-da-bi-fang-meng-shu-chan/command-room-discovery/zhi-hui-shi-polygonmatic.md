@@ -7,10 +7,10 @@
 
 users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge). 
 
-* [**QuickSwap**](https://quickswap.exchange/#/swap)  **\|**  [**QuickSwap Info**](https://info.quickswap.exchange/) **\|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
-* [**DeBank - Polygon**](https://debank.com/projects?chain=matic) **项目排名**
-* \*\*\*\*[**polygon.Balancer**](https://polygon.balancer.fi/)\*\*\*\*
-* \*\*\*\*[**polygon.Curve**](https://polygon.curve.fi/)\*\*\*\*
+* [**QuickSwap**](https://quickswap.exchange/#/swap)**  |  **[**QuickSwap Info**](https://info.quickswap.exchange)** | **[**Bitkeep - Quickswap**](https://bitkeep.org/defi.html)** 交易对排名**
+* [**DeBank - Polygon**](https://debank.com/projects?chain=matic)** 项目排名**
+* ****[**polygon.Balancer**](https://polygon.balancer.fi)****
+* ****[**polygon.Curve**](https://polygon.curve.fi)****
 
 [Layer 2使用教程系列一：教你使用几大Layer 2应用](https://www.theblockbeats.com/news/21604)
 
@@ -22,4 +22,3 @@ users must first migrate their digital assets to the Polygon network through the
 ![](../../.gitbook/assets/5acf84f4608fc236fe1e5504ab1ccc52.jpg)
 
 ![](../../.gitbook/assets/a8a2348c1acfbf6f9b4c2d782a206dba.jpg)
-

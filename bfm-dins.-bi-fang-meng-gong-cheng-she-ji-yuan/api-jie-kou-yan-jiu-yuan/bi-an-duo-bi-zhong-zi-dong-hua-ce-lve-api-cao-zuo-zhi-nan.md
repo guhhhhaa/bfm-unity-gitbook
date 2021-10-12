@@ -2,10 +2,10 @@
 
 币安API文档
 
-[https://www.binance.com](https://www.binance.com/)
+[https://www.binance.com](https://www.binance.com)
 
-[https://binance-docs.github.io/apidocs/spot/cn/](https://binance-docs.github.io/apidocs/spot/cn/)  
-[![](https://github.com/fluidicon.png)sammchardy/python-binance-chain](https://github.com/sammchardy/python-binance-chain/)  
+[https://binance-docs.github.io/apidocs/spot/cn/](https://binance-docs.github.io/apidocs/spot/cn/)\
+[![](https://github.com/fluidicon.png)sammchardy/python-binance-chain](https://github.com/sammchardy/python-binance-chain/)\
 [![](https://github.com/fluidicon.png)binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs)
 
 ## [币安多币种自动化策略API操作指南](https://zhuanlan.zhihu.com/p/55109087)
@@ -391,7 +391,7 @@ function main() {
 
 ## **8.总结**
 
-本文主要展示了一个基础的币安多币种交易框架，主要包含了如何储存交易信息、如何根据ticker合成K线、如何下单、如何展示策略图表以及基于ticker推送事件触发交易等。可以更改和定制的地方很多，整体由我个人策略摘录而来，可能隐含Bug，仅供有一定基础的用户参考。  
+本文主要展示了一个基础的币安多币种交易框架，主要包含了如何储存交易信息、如何根据ticker合成K线、如何下单、如何展示策略图表以及基于ticker推送事件触发交易等。可以更改和定制的地方很多，整体由我个人策略摘录而来，可能隐含Bug，仅供有一定基础的用户参考。\
 
 
 ## 若尘的意见
@@ -413,4 +413,3 @@ function main() {
 > github上应该直接有套利机
 >
 > python的肯定也有
-

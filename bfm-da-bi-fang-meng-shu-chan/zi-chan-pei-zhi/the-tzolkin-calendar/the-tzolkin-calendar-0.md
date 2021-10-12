@@ -4,7 +4,7 @@ description: The Tzolkin Calendar
 
 # 卓尔金历法旧版页面
 
-![](../../../.gitbook/assets/v2-57e4789f96a64829e512ff545e8cc34d_1440w.jpeg)
+![](../../../.gitbook/assets/v2-57e4789f96a64829e512ff545e8cc34d\_1440w.jpeg)
 
 > My clock is paper financial time    我的**时钟**显示账面的**金融时间**
 >
@@ -14,9 +14,13 @@ description: The Tzolkin Calendar
 >
 > —— 《三体》- 刘慈欣
 
-{% page-ref page="../" %}
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
 
-{% page-ref page="../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+{% content-ref url="../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+[yu-zhou-mo-fang-hui-gui-fen-xi.md](../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 Disclaimer: **Any information found on this page is not to be considered as financial advice. You should do your own research before making any decisions.**
@@ -33,39 +37,55 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% endhint %}
 
 {% hint style="success" %}
-### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
+### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  |  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  |  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  |  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
 {% endhint %}
 
-{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+{% content-ref url="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+[zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md](zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
+{% content-ref url="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
+[zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md](zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md" %}
+[zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md](zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md" %}
+[zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md](zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+[zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md](zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md)
+{% endcontent-ref %}
 
-{% page-ref page="../the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md" %}
+{% content-ref url="../the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md" %}
+[zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md](../the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md" %}
+[zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md](zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md" %}
+[zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md](zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 ## 版本记录
 
 ### 经典版 1.0
 
-[卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
+[卓尔金历法](https://share.weiyun.com/dhfGbd7l)  |  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
 
 ### 升级版 2.0 —— 范围更大，考虑情况更多
 
-[卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
+[卓尔金历法](https://share.weiyun.com/dhfGbd7l)  |  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
 
 ### 智能版 3.0 —— 智能函数拟合，更精确，更易调节
 
-[卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr)  \|  [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
+[卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr)  |  [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 
 ### 尊享版 4.0 —— 优化了UI，增加了误差分析功能
 
@@ -77,7 +97,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 哈布历 5.0 —— 微调更新，优化了部分公式，修复了链接型的BUG，优化了UI，添加了LOGO
 
-[卓尔金+哈布飞船\(1\)](https://share.weiyun.com/kqakKw4y)
+[卓尔金+哈布飞船(1)](https://share.weiyun.com/kqakKw4y)
 
 ### 哈布历 5.01 —— 增加了与目录间的链接
 
@@ -85,8 +105,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 哈布历 5.02 —— 
 
-重组了卓尔金历法实验室，以适应更复杂的自动化分析，未来只需要输入参数，不需要像以前那样做实验了；  
-增加了卓尔金历法实验室与记录仪和卓尔金历法中参数的的连接，使卓尔金历法更智能；  
+重组了卓尔金历法实验室，以适应更复杂的自动化分析，未来只需要输入参数，不需要像以前那样做实验了；\
+增加了卓尔金历法实验室与记录仪和卓尔金历法中参数的的连接，使卓尔金历法更智能；\
 增加了卓尔金历法实验室对神经网络中心点的控制，对延展参数的控制正在研究中。
 
 [卓尔金+哈布飞船5.02](https://share.weiyun.com/7rzN1OXD)
@@ -103,8 +123,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 引力透镜 5.05 —— 
 
-增加了引力透镜，精度提高一倍从0.1至0.05，  
-优化了驾驶舱内部的结构，支持了历史极值跟踪和更精确的误差分析。  
+增加了引力透镜，精度提高一倍从0.1至0.05，\
+优化了驾驶舱内部的结构，支持了历史极值跟踪和更精确的误差分析。\
 （有一点小BUG，因为卓尔金历法中的标尺不准。）
 
 [引力透镜 5.05](https://share.weiyun.com/7fDhamQ4)
@@ -129,14 +149,14 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 泰坦6.02——
 
-增加了总指挥室替代原币安驾驶舱的功能，  
+增加了总指挥室替代原币安驾驶舱的功能，\
 更新派网驾驶舱为币圈驾驶舱，增加了杠杆控制表格。
 
 [泰坦6.02](https://share.weiyun.com/m5YzCYl9)
 
 ### 泰坦6.03——
 
-增加了止损熔断器  
+增加了止损熔断器\
 更新派网驾驶舱为币圈驾驶舱，增加了杠杆控制表格。
 
 [泰坦6.03](https://share.weiyun.com/MAjvUh6t)
@@ -190,19 +210,25 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 #### 牛市：减半后，上涨32倍-64倍
 
-熊市做空时。可以买杠杆代币BTCDOWN，并计算好杠杆率。  
-震荡行情，网格是用币优做的，BTC/USDT   
+熊市做空时。可以买杠杆代币BTCDOWN，并计算好杠杆率。\
+震荡行情，网格是用币优做的，BTC/USDT \
 牛市做多时。可以用币安的流动性挖矿，做BTC/ETH。 
 
 具体软件如下：
 
-{% page-ref page="../../management-cockpit-operation/" %}
+{% content-ref url="../../management-cockpit-operation/" %}
+[management-cockpit-operation](../../management-cockpit-operation/)
+{% endcontent-ref %}
 
 ## 归一化操作
 
-{% page-ref page="zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md" %}
+[zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md](zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../management-cockpit-operation/shu-xue-li-qi.md" %}
+{% content-ref url="../../management-cockpit-operation/shu-xue-li-qi.md" %}
+[shu-xue-li-qi.md](../../management-cockpit-operation/shu-xue-li-qi.md)
+{% endcontent-ref %}
 
 数据归一到（-1，1）
 
@@ -226,9 +252,9 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 ## 回测研究
 
-**横X轴——MVRV——**[**数据来源**](https://www.blockchain.com/charts/mvrv)\*\*\*\*
+**横X轴——MVRV——**[**数据来源**](https://www.blockchain.com/charts/mvrv)****
 
-**纵Y轴——S2F月预测价格/价格——**[**数据来源**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
+**纵Y轴——S2F月预测价格/价格——**[**数据来源**](https://www.qkl123.com/data/s2f/btc)****
 
 ![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46.png)
 
@@ -238,19 +264,19 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 ## 归纳推理
 
-![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../../../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
+![卓尔金历法](../../../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
 
-![&#x56FE;&#x4E2D;&#x6570;&#x5B57;&#x6307;&#x7684;&#x662F;&#x63A8;&#x8350;&#x4ED3;&#x4F4D;](../../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
+![图中数字指的是推荐仓位](../../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
 
 ## **历法**说明
 
 **顺着三角形顺时针运行，**
 
-**红色是牛市，绿色是熊市，蓝色是震荡市。** 
+**红色是牛市，绿色是熊市，蓝色是震荡市。 **
 
 **从蓝色到红色，减半开始，此时需要加杠杆，满仓多。**
 
-**顺时针运行 ，落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。** 
+**顺时针运行 ，落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。 **
 
 **顺时针运行 ，落到第二个黑色框，就是熊市底部，可以入场开网格。**
 
@@ -288,28 +314,30 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
     )
 ```
 
-* [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538_825825)
+* [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538\_825825)
 * [EXCEL取小数点后一位](https://zhidao.baidu.com/question/27632380.html)
 
 ## 模拟神经网络查找表
 
-{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+{% content-ref url="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+[zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md](zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
+{% endcontent-ref %}
 
 ## 逻辑解释
 
 不要让自己的人性干扰判断，比如说我那个卓尔金历法，
 
-如果你是普通人，按照感性思考，是无法理解价格的指数增长的，所以我用数学的LN\(\)来放弃感性思考。我放弃让自己来思考指数增长，而把指数增长的部分都取LN\(\)来滤除。一个指数增长的数列取LN\(\)之后就变成了线性增长，这样我只需要思考简单的线性增长就行。我通过一系列数学映射，简化了判断。 
+如果你是普通人，按照感性思考，是无法理解价格的指数增长的，所以我用数学的LN()来放弃感性思考。我放弃让自己来思考指数增长，而把指数增长的部分都取LN()来滤除。一个指数增长的数列取LN()之后就变成了线性增长，这样我只需要思考简单的线性增长就行。我通过一系列数学映射，简化了判断。 
 
 而且我放弃了思考价格和时间之间的关系，把绝对价格换成相对价格，把衡量绝对时间换成衡量状态，这样一切就都是相对的状态，而不是绝对的价格和时间。
 
 用相对的思维来思考相对的牛熊，这样就容易多了。但是用绝对的思维思考相对的牛熊，就会很难。
 
-相对的思维就是把一切都变成状态机，思考状态之间的切换，比如说我就把问题简化成了一个只有\(-1，0，1\)这三种状态的状态机。把所有的变量都归一到这三种状态中，然后再思考它们的关系，这样就很容易发现周期规律。 
+相对的思维就是把一切都变成状态机，思考状态之间的切换，比如说我就把问题简化成了一个只有(-1，0，1)这三种状态的状态机。把所有的变量都归一到这三种状态中，然后再思考它们的关系，这样就很容易发现周期规律。 
 
-但是一个连续的状态，如何转化成离散的判断呢？如何防止噪声干扰？如何防止频繁买卖？答案很简单，我们电子专业有一个叫\(施密特触发器\)的元器件，我们利用它的逻辑就可以了。简单地说，它的逻辑，就是达到阈值就切换，没达到阈值就维持原状态。这样就可以避免噪声干扰，实现AD转换了。 
+但是一个连续的状态，如何转化成离散的判断呢？如何防止噪声干扰？如何防止频繁买卖？答案很简单，我们电子专业有一个叫(施密特触发器)的元器件，我们利用它的逻辑就可以了。简单地说，它的逻辑，就是达到阈值就切换，没达到阈值就维持原状态。这样就可以避免噪声干扰，实现AD转换了。 
 
-在某些人\(比如我\)的眼里，比特币就是宏观电子，就是宏观的状态机，就是由三种状态，两个随机变量构成的。 就像藏传佛教，宇宙就是由唵啊吽三种状态构成的。 我相信比特币就是宏观的电子，宏观的状态机。
+在某些人(比如我)的眼里，比特币就是宏观电子，就是宏观的状态机，就是由三种状态，两个随机变量构成的。 就像藏传佛教，宇宙就是由唵啊吽三种状态构成的。 我相信比特币就是宏观的电子，宏观的状态机。
 
 ## 局限性
 
@@ -435,7 +463,7 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 **不知道秘密，顶多没有超额收益。 但是不知道共识，可是连平均收益都没有。** 
 
-**我认为市场共识占了收益的80%，而秘密和内幕消息只占了收益的20%** 
+**我认为市场共识占了收益的80%，而秘密和内幕消息只占了收益的20% **
 
 观点，构成了命题的假设和框架。一切命题都是建立在假设上的。然后才是数据分析。 假设很重要，比数据分析更重要 
 
@@ -479,7 +507,7 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 ## 占卜与赌博
 
-### 玩游戏 &gt; 赌博 &gt; 投资 &gt; 学习 &gt; 做实验
+### 玩游戏 > 赌博 > 投资 > 学习 > 做实验
 
 占卜与赌博，是整个世界最核心的东西
 
@@ -489,25 +517,25 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 当你用数据分析指导决策的时候，实际上你就是在先占卜和后赌博。
 
-| 占卜 | 赌博 |
-| :--- | :--- |
-| 预测 | 博弈 |
-| 分析 | 决策 |
-| 唯心主义 | 唯物主义 |
-| 结合理论 | 联系实际 |
-| 思想 | 执行 |
-| 党 | 枪 |
-| 政治 | 金融 |
-| 科技 | 工程 |
-| 教育 | 就业 |
-| 文化 | 革命 |
-| 艺术 | 宗教 |
-| 学习 | 考试 |
-| 体检 | 治疗 |
-| 超我 | 自我，本我 |
-| 顶层设计 | 底层逻辑 |
-| 发展战略 | 宏观调控 |
-| 上层建筑 | 基础设施 |
+| 占卜   | 赌博    |
+| ---- | ----- |
+| 预测   | 博弈    |
+| 分析   | 决策    |
+| 唯心主义 | 唯物主义  |
+| 结合理论 | 联系实际  |
+| 思想   | 执行    |
+| 党    | 枪     |
+| 政治   | 金融    |
+| 科技   | 工程    |
+| 教育   | 就业    |
+| 文化   | 革命    |
+| 艺术   | 宗教    |
+| 学习   | 考试    |
+| 体检   | 治疗    |
+| 超我   | 自我，本我 |
+| 顶层设计 | 底层逻辑  |
+| 发展战略 | 宏观调控  |
+| 上层建筑 | 基础设施  |
 
 综上所述，整个世界都是由占卜和赌博构成的 
 
@@ -747,7 +775,6 @@ Guhhhhaa  23:54:16
 
  不要太瞧得起比特币了，它也不过如此。
 
-#### [座头鲸沿直线洄游奥秘：或观星望日定方位](https://www.chinadaily.com.cn/hqgj/2011-04/22/content_12373180.htm)
+#### [座头鲸沿直线洄游奥秘：或观星望日定方位](https://www.chinadaily.com.cn/hqgj/2011-04/22/content\_12373180.htm)
 
-#### 背景图片：[https://photo.16pic.com/00/07/97/16pic\_797125\_b.jpg](https://photo.16pic.com/00/07/97/16pic_797125_b.jpg)
-
+#### 背景图片：[https://photo.16pic.com/00/07/97/16pic\_797125\_b.jpg](https://photo.16pic.com/00/07/97/16pic\_797125\_b.jpg)

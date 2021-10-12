@@ -2,11 +2,11 @@
 
 ![](../.gitbook/assets/qq20210625-0.jpg)
 
-MIS \| OA \| ERP \| DRP \| BIP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \| AI \| BI \| CI
+MIS | OA | ERP | DRP | BIP | HR | CRM | BPM | EAM | SCM | PLM | PDM | AI | BI | CI
 
 
 
-{% embed url="https://www.e-builder.cn/\#/home/" %}
+{% embed url="https://www.e-builder.cn/#/home/" %}
 
 {% embed url="https://www.weaver.com.cn/" %}
 
@@ -56,7 +56,6 @@ MIS \| OA \| ERP \| DRP \| BIP \| HR \| CRM \| BPM \| EAM \| SCM \| PLM \| PDM \
 
 什么是CI，Customer Intelligence，客户智能
 
-  
-  
-TaskBuilder，[Genexus](https://www.genexus.com/en/) （[2](http://www.genexuschina.com/)）
-
+\
+\
+TaskBuilder，[Genexus](https://www.genexus.com/en/) （[2](http://www.genexuschina.com)）

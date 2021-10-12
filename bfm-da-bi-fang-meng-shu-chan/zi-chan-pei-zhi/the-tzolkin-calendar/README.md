@@ -14,22 +14,22 @@ description: The Tzolkin Calendar
 
 > [什么是卓尔金历？](https://www.jianshu.com/p/5b3a31f95a1d)
 
-![](../../../.gitbook/assets/image%20%2856%29.png)
+![](<../../../.gitbook/assets/image (56).png>)
 
 {% hint style="success" %}
 ## **现在部署你的飞行船：**[**飞行船6.09**](https://share.weiyun.com/9XySlLxq)（表格在此下载）
 {% endhint %}
 
 {% hint style="success" %}
-### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
+### [教程视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  |  [教程视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  |  [宣传视频1](https://www.bilibili.com/video/BV13x411R7Lf)  |  [宣传视频2](https://www.bilibili.com/video/BV1zW411D7gJ)
 
 ### [卓尔金历法纪念NFT（共100枚）](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/3481443462298934920924795063914650435277564372996772120928129705210787397732/)
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**cryptosheets**](https://cryptosheets.com/) **\|** [templates](https://cryptosheets.com/templates) \| [templates2](https://app.cryptosheets.com/#/browse/templates) Excel 插件/模版
+****[**cryptosheets**](https://cryptosheets.com)** | **[templates](https://cryptosheets.com/templates) | [templates2](https://app.cryptosheets.com/#/browse/templates) Excel 插件/模版
 
-### [微软Excel在线版](https://www.office.com/launch/excel?ui=zh-CN&auth=1) \| [谷歌Sheet在线版](https://docs.google.com/spreadsheets/u/0/)
+### [微软Excel在线版](https://www.office.com/launch/excel?ui=zh-CN\&auth=1) | [谷歌Sheet在线版](https://docs.google.com/spreadsheets/u/0/)
 {% endhint %}
 
 ## **周期发现**
@@ -38,19 +38,19 @@ description: The Tzolkin Calendar
 
 ## 归纳推理
 
-![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../../../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
+![卓尔金历法](../../../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
 
-![&#x56FE;&#x4E2D;&#x6570;&#x5B57;&#x6307;&#x7684;&#x662F;&#x63A8;&#x8350;&#x4ED3;&#x4F4D;](../../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
+![图中数字指的是推荐仓位](../../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
 
 ## **历法**说明
 
 **顺着三角形顺时针运行，**
 
-**红色是牛市，绿色是熊市，蓝色是震荡市。** 
+**红色是牛市，绿色是熊市，蓝色是震荡市。 **
 
 **从蓝色到红色，减半开始，此时需要加杠杆，满仓多。**
 
-**顺时针运行 ，落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。** 
+**顺时针运行 ，落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。 **
 
 **顺时针运行 ，落到第二个黑色框，就是熊市底部，可以入场开网格。**
 
@@ -64,7 +64,7 @@ description: The Tzolkin Calendar
 
 ## 参数设置
 
--1，2，4 或 -1.5，3，4
+\-1，2，4 或 -1.5，3，4
 
 1，0，0.5
 
@@ -72,32 +72,52 @@ description: The Tzolkin Calendar
 
 ![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210920-shang-wu-11.47.15.png)
 
-{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+{% content-ref url="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+[zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md](zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
+{% content-ref url="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
+[zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md](zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md" %}
+[zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md](zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md" %}
+[zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md](zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md" %}
+[zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md](zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+[zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md](zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md)
+{% endcontent-ref %}
 
-{% page-ref page="../the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md" %}
+{% content-ref url="../the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md" %}
+[zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md](../the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md" %}
+[zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md](zhuo-er-jin-sheng-ji-7-yin-li-tou-jing.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md" %}
+[zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md](zhuo-er-jin-sheng-ji-8-huo-bi-zheng-ce.md)
+{% endcontent-ref %}
 
 
 
-{% page-ref page="the-tzolkin-calendar-0.md" %}
+{% content-ref url="the-tzolkin-calendar-0.md" %}
+[the-tzolkin-calendar-0.md](the-tzolkin-calendar-0.md)
+{% endcontent-ref %}
 
 ## 友情链接
 
 {% hint style="success" %}
-## 如果实在不会破解 **MicroSoft** Office **365**
+## 如果实在不会破解 **MicroSoft **Office **365**
 
 ### 建议直接使用[拼多多](https://yangkeduo.com/search_result.html?search_key=office%20365%20mac)，
 
@@ -106,11 +126,13 @@ description: The Tzolkin Calendar
 **推荐下载最新版的 MicroSoft 365 for Windows/Mac，这样才能支持CryptoSheets 插件扩展。**
 {% endhint %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-a2-can-shu-du-qu.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-a2-can-shu-du-qu.md" %}
+[zhuo-er-jin-sheng-ji-a2-can-shu-du-qu.md](zhuo-er-jin-sheng-ji-a2-can-shu-du-qu.md)
+{% endcontent-ref %}
 
 {% embed url="https://www.coolhub.top/" %}
 
-{% embed url="http://www.52pjb.net/xiazai/26220.html\#xzdz" %}
+{% embed url="http://www.52pjb.net/xiazai/26220.html#xzdz" %}
 
 {% embed url="http://www.52pjb.net/xiazai/office/551.html" %}
 
@@ -128,4 +150,3 @@ description: The Tzolkin Calendar
 4. Please wait a few seconds, and It is a lifetime cracked.  
 
 {% embed url="https://sufan.maytide.net/read.php/1871.htm" %}
-

@@ -4,7 +4,7 @@
 
 {% embed url="https://www.ranker.com/list/anime-about-outer-space/anna-lindwasser" %}
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 ## [上面这个标志的由来](http://www.dilidili3.com/play/3998/135852.html)（请直接跳到01:27:52）
 
@@ -12,7 +12,7 @@
 
 {% embed url="https://www.bilibili.com/bangumi/play/ep114882" %}
 
-#### [《C 金钱掌控》](http://www.baidu.com/link?url=sGrC17Q10tsoJXFi_hhRnrxH_lVMWUBXf4druUy-MWE_qBkCj9m7baj2peAYsfkl7ZI0fQeT35SK_E2Jj8U3e5fuzibJm2aJ7jesHXFB9_O)《BLAME!》《尸者的帝国》《来自深渊》《来自新世界》
+#### [《C 金钱掌控》](http://www.baidu.com/link?url=sGrC17Q10tsoJXFi_hhRnrxH_lVMWUBXf4druUy-MWE_qBkCj9m7baj2peAYsfkl7ZI0fQeT35SK_E2Jj8U3e5fuzibJm2aJ7jesHXFB9\_O)《BLAME!》《尸者的帝国》《来自深渊》《来自新世界》
 
 [BLAME! Log.1](http://www.youtube.com/watch?v=KHoXnfpz-rk)
 
@@ -26,7 +26,7 @@
 
 [BLAME! Log.6](http://www.youtube.com/watch?v=JwtK-ENz4yU)
 
-[BLAME! Log.7 \(设定\)](http://www.youtube.com/watch?v=AZBcOx7g1J0)
+[BLAME! Log.7 (设定)](http://www.youtube.com/watch?v=AZBcOx7g1J0)
 
 **猫汤**
 
@@ -60,7 +60,7 @@
 
 **蓝宝石之谜**
 
-**战斗妖精雪风** 
+**战斗妖精雪风 **
 
 **命运石之门**
 
@@ -72,19 +72,19 @@
 
 **MW**
 
-**星际牛仔** 
+**星际牛仔 **
 
-**银河英雄传说** 
+**银河英雄传说 **
 
-**十二国记** 
+**十二国记 **
 
-**亡念之扎姆德** 
+**亡念之扎姆德 **
 
-**四畳半神话大系** 
+**四畳半神话大系 **
 
-**东之伊甸** 
+**东之伊甸 **
 
-**钓球** 
+**钓球 **
 
 **《一拳超人》（漫画）《超能力者齐木楠雄的灾难》。**
 
@@ -96,17 +96,17 @@
 
 **强殖装甲加尔巴**
 
-**sunrise龙之子gainaxgonzosatelight的萝卜片** 
+**sunrise龙之子gainaxgonzosatelight的萝卜片 **
 
-**机器人嘉年华 \(豆瓣\)** 
+**机器人嘉年华 (豆瓣) **
 
-**自由 \(豆瓣\)** 
+**自由 (豆瓣) **
 
-**未麻的部屋 \(豆瓣\)** 
+**未麻的部屋 (豆瓣) **
 
-**飞越巅峰 \(豆瓣\)** 
+**飞越巅峰 (豆瓣) **
 
-**Noein - 到另一个你的身边去 \(豆瓣\)** 
+**Noein - 到另一个你的身边去 (豆瓣) **
 
 **星际终结者**
 
@@ -124,11 +124,11 @@
 
 **钢之炼金术师**
 
- **夏日大作战** 
+** 夏日大作战 **
 
-**monster** 
+**monster **
 
-**虫师** 
+**虫师 **
 
 **星野之宣的2001夜**
 
@@ -144,7 +144,7 @@
 
 **steins gate**
 
-**全金属狂潮** 
+**全金属狂潮 **
 
 **《Mega Zone 23》，3部曲OVA。**
 
@@ -230,10 +230,10 @@
 
 **《魔女猎人罗宾》**
 
-**《死亡代理人》。顺便祭三癞子已失去的节操。**  
+**《死亡代理人》。顺便祭三癞子已失去的节操。**\
+****
 
-
-**第2章** 
+**第2章 **
 
 **等等**
 
@@ -337,10 +337,10 @@
 
 **49苹果核战记**
 
-**50壳中少女**  
+**50壳中少女**\
+****
 
-
-**第3章** 
+**第3章 **
 
 **超神学院还有若森的那些作品做的很好**
 
@@ -360,16 +360,14 @@
 
 **超兽武装1和2，武战道，宇宙星神，钢铁飞龙**
 
-**快乐星猫**  
+**快乐星猫**\
+****
 
+**第4章 **
 
-**第4章** 
+**动漫名有，星游记，黑白无双，撸时代，纳米核心，岁城璃心，雏蜂，凹凸世界，我的师父是姜子牙，战斗装甲刚羽，黎明神意，西游后传，魁拔，龙之谷大电影，罗小黑战记**\
+****
 
-**动漫名有，星游记，黑白无双，撸时代，纳米核心，岁城璃心，雏蜂，凹凸世界，我的师父是姜子牙，战斗装甲刚羽，黎明神意，西游后传，魁拔，龙之谷大电影，罗小黑战记**  
+**第5章 **
 
-
-**第5章** 
-
-**战斗装甲钢羽**  
-
-
+**战斗装甲钢羽**\

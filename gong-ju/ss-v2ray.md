@@ -6,26 +6,26 @@
 
 {% tabs %}
 {% tab title="Software download links" %}
-\*\*\*\*[**https://justmysocks.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html**](https://justmysocks.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)\*\*\*\*
+****[**https://justmysocks.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html**](https://justmysocks.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)****
 {% endtab %}
 
 {% tab title="MAC" %}
 MacOS:
 
-v2ray:  
+v2ray:\
 V2rayX: [V2RayX.app](https://justmysocks.net/members/dist/V2RayX.app.zip)
 
-Shadowsocks:  
-OS X v10.12+: [**shadowsocksx-ng.app.1.9.4.zip**](https://justmysocks.net/members/dist/osx-shadowsocksx-ng.app.1.9.4.zip)  
+Shadowsocks:\
+OS X v10.12+: [**shadowsocksx-ng.app.1.9.4.zip**](https://justmysocks.net/members/dist/osx-shadowsocksx-ng.app.1.9.4.zip)\
 OS X older versions: [**https://github.com/shadowsocks/ShadowsocksX-NG/releases**](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
 {% endtab %}
 
 {% tab title="Windows" %}
 Windows:
 
-Option 1: v2rayN-Core \(it supports both v2ray and shadowsocks protocols\) [**v2rayN-Core-3.18**](https://justmysocks.net/members/dist/v2rayn-core-3.18.zip)
+Option 1: v2rayN-Core (it supports both v2ray and shadowsocks protocols) [**v2rayN-Core-3.18**](https://justmysocks.net/members/dist/v2rayn-core-3.18.zip)
 
-Option 2: Vanilla Shadowsocks-4 \(supports only shadowsocks protocol\): [**shadowsocks-4.1.6.zip**](https://justmysocks.net/members/dist/windows-shadowsocks-4.1.6.zip) ; OBFS plugin for Shadowsocks-4.1.6 for Windows: [**obfs-local.zip**](https://justmysocks.net/members/dist/obfs-local.zip) \(extract two files from archive and place them into the same folder as Shadowsocks\)
+Option 2: Vanilla Shadowsocks-4 (supports only shadowsocks protocol): [**shadowsocks-4.1.6.zip**](https://justmysocks.net/members/dist/windows-shadowsocks-4.1.6.zip) ; OBFS plugin for Shadowsocks-4.1.6 for Windows: [**obfs-local.zip**](https://justmysocks.net/members/dist/obfs-local.zip) (extract two files from archive and place them into the same folder as Shadowsocks)
 {% endtab %}
 
 {% tab title="Android" %}
@@ -45,7 +45,7 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 
 {% tabs %}
 {% tab title="Software download links" %}
-[https://v2free.org/doc/\#/](https://v2free.org/doc/#/)
+[https://v2free.org/doc/#/](https://v2free.org/doc/#/)
 {% endtab %}
 
 {% tab title="MAC" %}
@@ -93,9 +93,8 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 
 ### V2free.org（付费）
 
-{% embed url="https://v2free.org/doc/\#/macOS/V2rayX.html" %}
+{% embed url="https://v2free.org/doc/#/macOS/V2rayX.html" %}
 
 {% embed url="https://v2rss.tk/auth/register" %}
 
 {% embed url="https://v2free.org/user" %}
-

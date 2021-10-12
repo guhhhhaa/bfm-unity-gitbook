@@ -1,18 +1,22 @@
 # CCXT 领域级重点实验室🚩
 
-[**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li) **\|** [**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li) **\|** [**课程地址**](https://study.163.com/course/courseMain.htm?courseId=1006162003) **\|** [**源码**](https://github.com/guhhhhaa/Bitcoin-Quant/tree/main)\*\*\*\*
+[**数字货币量化系统 CCXT 框架实战三角套利**](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)** | **[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li)** | **[**课程地址**](https://study.163.com/course/courseMain.htm?courseId=1006162003)** | **[**源码**](https://github.com/guhhhhaa/Bitcoin-Quant/tree/main)****
 
-\*\*\*\*[**CCXT中文文档**](http://cw.hubwiz.com/card/c/ccxt-dev-manual/1/1/1/)  **\|**  [**CCXT英文文档**](https://github.com/ccxt/ccxt/wiki)\*\*\*\*
+****[**CCXT中文文档**](http://cw.hubwiz.com/card/c/ccxt-dev-manual/1/1/1/)**  |  **[**CCXT英文文档**](https://github.com/ccxt/ccxt/wiki)****
 
-[**CCXT公有API课程**](https://www.bilibili.com/video/av57636895/) **🚩**
+[**CCXT公有API课程**](https://www.bilibili.com/video/av57636895/)** 🚩**
 
-[**CCXT私有API课程**](https://www.bilibili.com/video/BV1L4411w7iv/) **🚩**
+[**CCXT私有API课程**](https://www.bilibili.com/video/BV1L4411w7iv/)** 🚩**
 
-\*\*\*\*[**CCXT Example - Github**](https://github.com/ccxt/ccxt/tree/master/examples) **🚩**
+****[**CCXT Example - Github**](https://github.com/ccxt/ccxt/tree/master/examples)** 🚩**
 
-{% page-ref page="ccxt-ke-ti-zu-1.md" %}
+{% content-ref url="ccxt-ke-ti-zu-1.md" %}
+[ccxt-ke-ti-zu-1.md](ccxt-ke-ti-zu-1.md)
+{% endcontent-ref %}
 
-{% page-ref page="ccxt-zhong-wen-kai-fa-shou-ce.md" %}
+{% content-ref url="ccxt-zhong-wen-kai-fa-shou-ce.md" %}
+[ccxt-zhong-wen-kai-fa-shou-ce.md](ccxt-zhong-wen-kai-fa-shou-ce.md)
+{% endcontent-ref %}
 
 {% embed url="https://github.com/bilibilihuangyifan/cryptohedging/blob/master/blockhedging.py" %}
 
@@ -20,7 +24,7 @@
 
 > 本篇博文将使用CCXT来进行三角套利实战。
 
-### 原理 <a id="&#x539F;&#x7406;"></a>
+### 原理 <a href="yuan-li" id="yuan-li"></a>
 
 针对`同一个币种`，由于`计价币种（市场）`不同而带来的`价差`进行套利。
 
@@ -35,48 +39,48 @@
 
 **BCH/USDT**
 
-* 卖出所有BCH，得到 10010.6671 个USDT\(4.0824 x 2452.10\)
+* 卖出所有BCH，得到 10010.6671 个USDT(4.0824 x 2452.10)
 
 **获利**
 
-* \(10010.6671 - 10000\) / 10000 = 1.06671 ‰
+* (10010.6671 - 10000) / 10000 = 1.06671 ‰
 
 ![](../../../.gitbook/assets/37fyootled.png)
 
-实际套利转化流程：  
-USDT -&gt; BTC -&gt; BCH -&gt; USDT
+实际套利转化流程：\
+USDT -> BTC -> BCH -> USDT
 
 上边的可以通过简单的套利公式计算出套利收益：
 
-```text
+```
 Profit = P3/(P1xP2) - 1 # 公式的推到可以看下边的套利步骤
 ```
 
-说明： P1 为 BTC/USDT = 14179.95, P2 为 BCH/BTC = 0.172743, P3 为 BCH/USDT = 2452.10, 通过上边的公式即可算的收益率为：2452.10 / \(14179.95 x 0.172743\) - 1 = 0.00106671，可以看到和我们上边通过每笔交易算出来的结果一样。
+说明： P1 为 BTC/USDT = 14179.95, P2 为 BCH/BTC = 0.172743, P3 为 BCH/USDT = 2452.10, 通过上边的公式即可算的收益率为：2452.10 / (14179.95 x 0.172743) - 1 = 0.00106671，可以看到和我们上边通过每笔交易算出来的结果一样。
 
-#### 三角套利步骤[\#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E4%B8%89%E8%A7%92%E5%A5%97%E5%88%A9%E6%AD%A5%E9%AA%A4) <a id="&#x4E09;&#x89D2;&#x5957;&#x5229;&#x6B65;&#x9AA4;"></a>
+#### 三角套利步骤[#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E4%B8%89%E8%A7%92%E5%A5%97%E5%88%A9%E6%AD%A5%E9%AA%A4) <a href="san-jiao-tao-li-bu-zhou" id="san-jiao-tao-li-bu-zhou"></a>
 
 ![](../../../.gitbook/assets/u6olvagcrv.png)
 
 P1 表示 A 的价格，P2 表示 ？的价格，P3 表示 ?/A 的价格
 
-#### 注意事项[\#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9) <a id="&#x6CE8;&#x610F;&#x4E8B;&#x9879;"></a>
+#### 注意事项[#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9) <a href="zhu-yi-shi-xiang" id="zhu-yi-shi-xiang"></a>
 
 * 行情获取的时刻：尽量确保获取的行情数据是`同一时刻`的
 * 交易成本：三个币的手续费，如果扣除手续费后依旧有利润，那木就可以进行套利
 
-#### 优势[\#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E4%BC%98%E5%8A%BF) <a id="&#x4F18;&#x52BF;"></a>
+#### 优势[#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E4%BC%98%E5%8A%BF) <a href="you-shi" id="you-shi"></a>
 
 * 目前市场上大部分套利集中关注双边套利或搬砖，竞争相对比较少
 * 相对来说，套利空间更大，利润也更多
 
-#### 劣势[\#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E5%8A%A3%E5%8A%BF) <a id="&#x52A3;&#x52BF;"></a>
+#### 劣势[#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E5%8A%A3%E5%8A%BF) <a href="lie-shi" id="lie-shi"></a>
 
 * 同时监控所有三角套利机会比较难
 * 同时成交的难度更高
 * 对交易系统的并发能力要求很高
 
-### 代码实战 <a id="&#x4EE3;&#x7801;&#x5B9E;&#x6218;"></a>
+### 代码实战 <a href="dai-ma-shi-zhan" id="dai-ma-shi-zhan"></a>
 
 `tri_arbitrage.py`
 
@@ -204,22 +208,21 @@ if __name__ == '__main__':
 
 ![](../../../.gitbook/assets/kvc6cwouee.png)
 
-BTC -&gt; ETH -&gt; AION -&gt; BTC
+BTC -> ETH -> AION -> BTC
 
 通过运行的结果我们可以看到，前几个交易对表现非常好，利润率达到了 59.14 ‰，即将近 6%，除去手续费，还是有利可图的。
 
-#### 相关名词说明[\#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E7%9B%B8%E5%85%B3%E5%90%8D%E8%AF%8D%E8%AF%B4%E6%98%8E) <a id="&#x76F8;&#x5173;&#x540D;&#x8BCD;&#x8BF4;&#x660E;"></a>
+#### 相关名词说明[#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E7%9B%B8%E5%85%B3%E5%90%8D%E8%AF%8D%E8%AF%B4%E6%98%8E) <a href="xiang-guan-ming-ci-shuo-ming" id="xiang-guan-ming-ci-shuo-ming"></a>
 
-交易对：用一种资产（quote currency）去定价另一种资产（base currency）,比如用比特币（BTC）去定价莱特币（LTC），  
-就形成了一个LTC/BTC的交易对，  
-交易对的价格代表的是买入1单位的base currency（比如LTC）  
-需要支付多少单位的quote currency（比如BTC），  
-或者卖出一个单位的base currency（比如LTC）  
-可以获得多少单位的quote currency（比如BTC）。  
+交易对：用一种资产（quote currency）去定价另一种资产（base currency）,比如用比特币（BTC）去定价莱特币（LTC），\
+就形成了一个LTC/BTC的交易对，\
+交易对的价格代表的是买入1单位的base currency（比如LTC）\
+需要支付多少单位的quote currency（比如BTC），\
+或者卖出一个单位的base currency（比如LTC）\
+可以获得多少单位的quote currency（比如BTC）。\
 当LTC对BTC的价格上涨时，同等单位的LTC能够兑换的BTC是增加的，而同等单位的BTC能够兑换的LTC是减少的。
 
-base currency：基准资产  
+base currency：基准资产\
 quote currency：定价资产
 
 在外汇交易中，每一次交易买卖是同时在进行着的，在买进基本货币（Base currency）的同时也卖出了报价货币（Quote currency）。
-

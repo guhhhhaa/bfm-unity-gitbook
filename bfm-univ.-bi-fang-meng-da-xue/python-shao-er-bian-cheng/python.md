@@ -172,7 +172,7 @@ print(c_dot)
 
 ### 安装
 
-{% embed url="https://pandas.pydata.org/pandas-docs/stable/getting\_started/install.html" %}
+{% embed url="https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html" %}
 
 ### 使用 - 读取数据
 
@@ -242,4 +242,3 @@ print DataName_data # 打印DataName_data
 ```
 
 ## [Openpyxl](https://pypi.org/project/openpyxl/) - 处理EXCEL
-

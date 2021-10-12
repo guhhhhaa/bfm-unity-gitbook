@@ -8,7 +8,6 @@
 
 ## [行业与市场分析六步法](https://zhuanlan.zhihu.com/p/268913031)
 
-## \*\*\*\*[**波士顿矩阵**](https://wiki.mbalib.com/wiki/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E7%9F%A9%E9%98%B5)\*\*\*\*
+## ****[**波士顿矩阵**](https://wiki.mbalib.com/wiki/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E7%9F%A9%E9%98%B5)****
 
-\*\*\*\*
-
+****

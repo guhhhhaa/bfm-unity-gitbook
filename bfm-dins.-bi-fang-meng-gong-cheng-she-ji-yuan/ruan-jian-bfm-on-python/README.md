@@ -3,10 +3,10 @@
 {% hint style="success" %}
 恭喜有品位的你翻到了这一页！请**仔细阅读**！
 
-你现在是在 BFM Unity Doc **最重要的一页** 上！
+你现在是在 BFM Unity Doc **最重要的一页 **上！
 {% endhint %}
 
-![&#x6211;&#x4EEC;&#x7EC8;&#x4E8E;&#x8FCE;&#x6765;&#x4E86;&#x9ECE;&#x660E;&#x7684;&#x66D9;&#x5149;](../../.gitbook/assets/u-3153260481-2815876954-and-fm-26-and-gp-0.jpg)
+![我们终于迎来了黎明的曙光](../../.gitbook/assets/u-3153260481-2815876954-and-fm-26-and-gp-0.jpg)
 
 {% embed url="https://medium.com/@anilpai/currency-arbitrage-using-bellman-ford-algorithm-8938dcea56ea" %}
 
@@ -16,43 +16,43 @@
 
 > How do we solve this?
 
-### Graph data structure <a id="297a"></a>
+### Graph data structure <a href="297a" id="297a"></a>
 
-Weighted directed graphs can be represented as an **adjacency matrix**. For a graph with _\|V\| X \|V\|_ vertices, an **adjacency matrix** is a \|V\| times \|V\| matrix of values, where the entry in row _i_ & column _j_ is a non-zero integer if and only if the edge _\(i, j\)_ is in the graph. If you want to indicate an edge weight, put it in the row _i_, column _j_ entry, and reserve a special value \(perhaps `None`\) to indicate an absent edge.
+Weighted directed graphs can be represented as an **adjacency matrix**. For a graph with _|V| X |V|_ vertices, an **adjacency matrix** is a |V| times |V| matrix of values, where the entry in row _i_ & column _j_ is a non-zero integer if and only if the edge _(i, j)_ is in the graph. If you want to indicate an edge weight, put it in the row _i_, column _j_ entry, and reserve a special value (perhaps `None`) to indicate an absent edge.
 
-### Finding arbitrage <a id="b951"></a>
+### Finding arbitrage <a href="b951" id="b951"></a>
 
 Arbitrage opportunities arise when a cycle is determined such that the edge weights satisfy the following expression
 
-> _**w1 \* w2 \* w3 \* … \* wn &gt; 1**_
+> _**w1 \* w2 \* w3 \* … \* wn > 1**_
 
 The above constraint of finding the cycles is harder in graphs. Instead we must transform the edge weights of the graph such that the standard graph algorithms can be applied.
 
 Let’s take the logarithm on both sides, such that
 
-> _**log\(w1\) + log\(w2\) + log\(w3\) + … + log\(wn\) &gt; 0**_
+> _**log(w1) + log(w2) + log(w3) + … + log(wn) > 0**_
 
 Taking the negative log, this becomes
 
-> _**\(-log\(w1\)\) + \(-log\(w2\)\) + \(-log\(w3\)\) + … + \(-log\(wn\)\) &lt; 0**_
+> _**(-log(w1)) + (-log(w2)) + (-log(w3)) + … + (-log(wn)) < 0**_
 
-Therefore we can conclude that if we can find a cycle of vertices such that the sum of their weights if negative, then we can conclude there exists an opportunity for currency arbitrage. Luckily, Bellman-Ford algorithm is a standard graph algorithm that can be used to easily detect negative weight cycles in O\(\|V\*E\|\) time.
+Therefore we can conclude that if we can find a cycle of vertices such that the sum of their weights if negative, then we can conclude there exists an opportunity for currency arbitrage. Luckily, Bellman-Ford algorithm is a standard graph algorithm that can be used to easily detect negative weight cycles in O(|V\*E|) time.
 
-### Bellman Ford Algorithm <a id="fe14"></a>
+### Bellman Ford Algorithm <a href="fe14" id="fe14"></a>
 
-Let _G\(V, E\)_ be a graph with vertices, _V_, and edges, _E_.
+Let _G(V, E)_ be a graph with vertices, _V_, and edges, _E_.
 
-Let _w\(x\)_ denote the weight of vertex _x_.
+Let _w(x)_ denote the weight of vertex _x_.
 
-Let _w\(i, j\)_ denote the weight of the edge from source vertex _i_ to destination vertex _j_.
+Let _w(i, j)_ denote the weight of the edge from source vertex _i _to destination vertex _j_.
 
-Let _p\(j\)_ denote the predecessor of vertex _j_.
+Let _p(j)_ denote the predecessor of vertex _j_.
 
-The Bellman-Ford algorithm seeks to solve the single-source shortest path problem. It is used in situations where a source vertex is selected and the shortest paths to every other vertex in the graph need to be determined. After applying Bellman-Ford algorithm on a graph, each vertex maintains the weight of the shortest path from the source vertex to itself and the vertex which precedes it in the shortest path. In each iteration, all edges are relaxed if _**\[w\(i\) + w\(i, j\) &lt; w\(j\)\]**_ and the weight of each vertex is updated accordingly. After the i-th iteration, the algorithm finds all shortest paths consisting of at most _i_ edges.
+The Bellman-Ford algorithm seeks to solve the single-source shortest path problem. It is used in situations where a source vertex is selected and the shortest paths to every other vertex in the graph need to be determined. After applying Bellman-Ford algorithm on a graph, each vertex maintains the weight of the shortest path from the source vertex to itself and the vertex which precedes it in the shortest path. In each iteration, all edges are relaxed if _**\[w(i) + w(i, j) < w(j)]**_ and the weight of each vertex is updated accordingly. After the i-th iteration, the algorithm finds all shortest paths consisting of at most _i_ edges.
 
-Once all shortest paths have been identified, the algorithm loops through all of the edges and looks for edges that can further decrease the value of the shortest path. If we can still relax the edges, then _**a negative weight cycle has been found**_ since a path can have at most \|V-1\| edges.
+Once all shortest paths have been identified, the algorithm loops through all of the edges and looks for edges that can further decrease the value of the shortest path. If we can still relax the edges, then _**a negative weight cycle has been found**_ since a path can have at most |V-1| edges.
 
-Printing a negative weight cycle is done to show the arbitrage opportunity. `We use the predecessor chain to print the cycle.` Now that we have an edge which can be further relaxed, we have found the source & destination vertex of such an edge. `Let’s` _**`start from the source vertex and go backwards until you see the source vertex again or any other vertex that predecessor chain has already shown us while printing the negative weighted cycle.`**_
+Printing a negative weight cycle is done to show the arbitrage opportunity. `We use the predecessor chain to print the cycle. `Now that we have an edge which can be further relaxed, we have found the source & destination vertex of such an edge. `Let’s `_**`start from the source vertex and go backwards until you see the source vertex again or any other vertex that predecessor chain has already shown us while printing the negative weighted cycle.`**_
 
 ```python
 打印"负权环"以显示套利机会。
@@ -140,23 +140,24 @@ if __name__ == "__main__":
 {% embed url="https://nbviewer.jupyter.org/github/guhhhhaa/TensorAct-of-Stars/blob/main/BFM.ipynb" %}
 
 {% hint style="info" %}
-看完之后如果有帮助，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng) ****我。
+看完之后如果有帮助，请 [**打赏**](https://guhhhhaa.gitbook.io/bfm/juan-zeng)** **我。
 {% endhint %}
 
-{% embed url="https://gist.githubusercontent.com/anilpai/dd00a9671c062390c848952eaddbbe1e/raw/0a65b53371470d7565988e3ec12c0d46f594895e/currency\_arbitrage.py" %}
+{% embed url="https://gist.githubusercontent.com/anilpai/dd00a9671c062390c848952eaddbbe1e/raw/0a65b53371470d7565988e3ec12c0d46f594895e/currency_arbitrage.py" %}
 
 {% hint style="info" %}
-现在你能回答以下这几个问题了吗？  
-  
-1，BFM-find 和 BFM-detect 步骤有什么不同？   
-2，BFM-find 和 BFM-detect 的时间复杂度有什么不同？  
-3，BFM-find 里面的步骤涉及前驱链，什么是前驱链? 涉及前驱链的步骤到底做了什么？   
-4，为什么算法运行前要对汇率取-ln？   
-5，为什么汇率在取-ln之前要移动小数点再乘以几百？   
+现在你能回答以下这几个问题了吗？\
+\
+1，BFM-find 和 BFM-detect 步骤有什么不同？ \
+2，BFM-find 和 BFM-detect 的时间复杂度有什么不同？\
+3，BFM-find 里面的步骤涉及前驱链，什么是前驱链? 涉及前驱链的步骤到底做了什么？ \
+4，为什么算法运行前要对汇率取-ln？ \
+5，为什么汇率在取-ln之前要移动小数点再乘以几百？ \
 6，BFM 算法基于图的邻接矩阵表示。什么是图的邻接矩阵表示？BFM 算法的步骤中如何使用图的邻接矩阵表示？ 
 {% endhint %}
 
 依然不能？回去，重看：
 
-{% page-ref page="../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/" %}
-
+{% content-ref url="../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/" %}
+[what-is-bfm-al](../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/)
+{% endcontent-ref %}

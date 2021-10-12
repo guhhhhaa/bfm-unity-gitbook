@@ -39,7 +39,7 @@ b_1 =  (算术平均数(极大值(LN(f_1()/a_1),N)
 
 在导数为0的点的两侧若函数单调性一致，则此点不是极值点
 
-极值点因子 = 此处的二阶导数/ABS\(此处的一阶导数\)
+极值点因子 = 此处的二阶导数/ABS(此处的一阶导数)
 
 ```c
 极值点因子 = 此处的二阶导数/ABS(此处的一阶导数)
@@ -74,7 +74,7 @@ b_1 = 算数平均数(极大值(LN(f_1()/a_1),N)
 
 ## 2，判断牛熊，用于决策的，施密特触发器伪代码：
 
-IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数  
+IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数\
 [**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
 
 ```python
@@ -119,10 +119,10 @@ else return y_0 # 否则，维持原状态
 
 {% embed url="https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve" %}
 
-**注：ABS\(\)** 函数 是 **绝对值\(\)** 函数，  
-**MAX\(\)** 函数 是 **比较大小并取其中的大者\(\)** 函数，
+**注：ABS() **函数 是** 绝对值() **函数，\
+**MAX() **函数 是** 比较大小并取其中的大者() **函数，
 
-IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数  
+IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数\
 [**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
 
 ```python
@@ -149,15 +149,16 @@ return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 }
 ```
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](<../../.gitbook/assets/image (10).png>)
 
 ## 4，总结应用（已失效，用卓尔金历法代替）
 
-{% page-ref page="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+{% content-ref url="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% endcontent-ref %}
 
 ```python
 MVRV            ➡️ 归一化操作 ➡️ 施密特触发器 ↘️
                                         同架策略 ➡️ 仓位结果
 S2F预测价格/价格0 ➡️ 归一化操作 ➡️ 施密特触发器 ↗️
 ```
-

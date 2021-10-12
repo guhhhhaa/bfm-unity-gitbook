@@ -18,13 +18,15 @@ description: BFM Foundation
 
 {% embed url="https://www.tokensets.com/v2/set/polygon/0x9be797c292EEB6D3DDB977aCb0256BEBE38fA631" %}
 
-[**ETH2x-FLI**](https://www.tokensets.com/portfolio/ethfli)\*\*\*\*
+[**ETH2x-FLI**](https://www.tokensets.com/portfolio/ethfli)****
 
-\*\*\*\*[**BTC2x-FLI**](https://www.tokensets.com/portfolio/btcfli)\*\*\*\*
+****[**BTC2x-FLI**](https://www.tokensets.com/portfolio/btcfli)****
 
 ## **比坊梦全球互联网 基金**
 
-{% page-ref page="bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md" %}
+{% content-ref url="bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md" %}
+[bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md](bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
+{% endcontent-ref %}
 
 {% embed url="https://www.youtube.com/watch?v=AMQH6FG8gf8" %}
 
@@ -52,15 +54,15 @@ description: BFM Foundation
 
 收费包括：
 
-**管理费**：总金额的年2%\(盈利不盈利都收取，每四周计提，按当月\(每月以每四周计\)是否盈利判断，计入基金净值\)（每年按365天计算，每四周提取按2%/365\*7\*4计算）  
-+业绩分成**：**正收益的20%\(盈利收取，不盈利不收取，每四周计提，按当月\(每月以每四周计\)基金净值是否增加判断，计入基金净值\)
+**管理费**：总金额的年2%(盈利不盈利都收取，每四周计提，按当月(每月以每四周计)是否盈利判断，计入基金净值)（每年按365天计算，每四周提取按2%/365\*7\*4计算）\
+\+业绩分成**：**正收益的20%(盈利收取，不盈利不收取，每四周计提，按当月(每月以每四周计)基金净值是否增加判断，计入基金净值)
 
-  
-+**申购赎回费**  
-      申购费和赎回费在结构上和[广发纳斯达克指数100A](http://fundf10.eastmoney.com/jjfl_270042.html)相同，在金额上是同期[广发纳斯达克指数100A](http://fundf10.eastmoney.com/jjfl_270042.html)的2倍（无优惠）。  
-      申购费和赎回费计入基金剩余财产，归基金持有人所有。  
-+**BNB收益**，流动性挖矿挖出的BNB都归基金管理人作为交易手续费抵补。  
-  
+\
+\+**申购赎回费**\
+      申购费和赎回费在结构上和[广发纳斯达克指数100A](http://fundf10.eastmoney.com/jjfl\_270042.html)相同，在金额上是同期[广发纳斯达克指数100A](http://fundf10.eastmoney.com/jjfl\_270042.html)的2倍（无优惠）。\
+      申购费和赎回费计入基金剩余财产，归基金持有人所有。\
+\+**BNB收益**，流动性挖矿挖出的BNB都归基金管理人作为交易手续费抵补。\
+****\
 **重点：所有费用的50%会用于回购BFM代币，每季度一次，所以可能会造成BFM代币的拉盘。**
 
 群主会将大部分收入重新投入基金，和你们是平等的，只会在份额数量上加入群主的份额数量而已，唯一不同的是，群主不对自己的份额收费。
@@ -85,11 +87,13 @@ description: BFM Foundation
 
 策略是公开的，就是客观的卓尔金历法，加上一点主观判断，不过主观判断很少。
 
-{% page-ref page="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+[the-tzolkin-calendar-0.md](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
+{% endcontent-ref %}
 
 ## 8，申购和赎回费怎么收取:
 
-参考[广发纳斯达克指数A](http://fundf10.eastmoney.com/jjfl_270042.html)，是[广发纳斯达克100指数A](http://fundf10.eastmoney.com/jjfl_270042.html)的两倍。期限和费率都参考[广发纳斯达克指数A](http://fundf10.eastmoney.com/jjfl_270042.html)，不过不能保证，因为我可能睡懒觉。
+参考[广发纳斯达克指数A](http://fundf10.eastmoney.com/jjfl\_270042.html)，是[广发纳斯达克100指数A](http://fundf10.eastmoney.com/jjfl\_270042.html)的两倍。期限和费率都参考[广发纳斯达克指数A](http://fundf10.eastmoney.com/jjfl\_270042.html)，不过不能保证，因为我可能睡懒觉。
 
 基金认购期有费率优惠，管理费可以降到1%，不过收益分成还是10%。如果是申购期，管理费就是5%了，按照份额计算。
 
@@ -97,7 +101,7 @@ description: BFM Foundation
 
 ### 8.1，如何计算份额：
 
-最开始，募集期\(认购期\)2000USDT一份，募集期不参与BTC/ETH，收到钱全部投入USDT/DAI
+最开始，募集期(认购期)2000USDT一份，募集期不参与BTC/ETH，收到钱全部投入USDT/DAI
 
 募集期结束之后，每周周日用总金额/份数计算基金净值，用申购金额除以基金净值得到基金份数。
 
@@ -169,11 +173,9 @@ description: BFM Foundation
 
 
 
-| BTC/ETH | DeFi | BTC/ETH/DeFi | NFT | Metaverse/NFT |
-| :--- | :--- | :--- | :--- | :--- |
-| 币安流动性挖矿 | [DeFi++](https://app.zerion.io/invest/asset/DEFI%2B%2B-0x8d1ce361eb68e9e05573443c407d4a3bed23b033) | [BCP](https://app.zerion.io/invest/asset/BCP-0xe4f726adc8e89c6a6017f01eada77865db22da14) | [NFTX](https://app.zerion.io/invest/asset/NFTX-0x87d73e916d7057945c9bcd8cdd94e42a6f47f776) | [MVI](https://app.zerion.io/invest/asset/MVI-0x72e364f2abdc788b7e918bc238b21f109cd634d7) |
-| [Uniswap WBTC/ETH Pool](https://app.zerion.io/invest/asset/UNI-V2-0xbb2b8038a1640196fbe3e38816f3e67cba72d940) | [DPI](https://app.zerion.io/invest/asset/DPI-0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b) |  | [$PLAY](https://app.zerion.io/invest/asset/PLAY-0x33e18a092a93ff21ad04746c7da12e35d34dc7c4) |  |
-|  | [YPIE](https://app.zerion.io/invest/asset/YPIE-0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31) |  |  |  |
-
-
+| BTC/ETH                                                                                                       | DeFi                                                                                               | BTC/ETH/DeFi                                                                             | NFT                                                                                         | Metaverse/NFT                                                                            |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 币安流动性挖矿                                                                                                       | [DeFi++](https://app.zerion.io/invest/asset/DEFI%2B%2B-0x8d1ce361eb68e9e05573443c407d4a3bed23b033) | [BCP](https://app.zerion.io/invest/asset/BCP-0xe4f726adc8e89c6a6017f01eada77865db22da14) | [NFTX](https://app.zerion.io/invest/asset/NFTX-0x87d73e916d7057945c9bcd8cdd94e42a6f47f776)  | [MVI](https://app.zerion.io/invest/asset/MVI-0x72e364f2abdc788b7e918bc238b21f109cd634d7) |
+| [Uniswap WBTC/ETH Pool](https://app.zerion.io/invest/asset/UNI-V2-0xbb2b8038a1640196fbe3e38816f3e67cba72d940) | [DPI](https://app.zerion.io/invest/asset/DPI-0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b)           |                                                                                          | [$PLAY](https://app.zerion.io/invest/asset/PLAY-0x33e18a092a93ff21ad04746c7da12e35d34dc7c4) |                                                                                          |
+|                                                                                                               | [YPIE](https://app.zerion.io/invest/asset/YPIE-0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31)         |                                                                                          |                                                                                             |                                                                                          |
 
