@@ -3,7 +3,9 @@
 {% hint style="info" %}
 ## 游戏已经开始，请选择你的英雄。
 
-### 注：开场后，请不要换英雄，否则[后果自负](https://www.bilibili.com/video/BV1hJ411G7jN)。
+### 注：不同的英雄分属不同的派系，你只能选择一种。
+
+### 开场后，请不要换英雄，否则[后果自负](https://www.bilibili.com/video/BV1hJ411G7jN)。
 {% endhint %}
 
 ## 战士：价值投资策略（俗称：街头捡烟蒂，低估成长，集中投资）
