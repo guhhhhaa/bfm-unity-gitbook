@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ## [游戏已经开始，选择你的英雄](ce-lve-ji-jin.md#zhan-shi-jia-zhi-tou-zi-ce-lve-su-cheng-jie-tou-jian-yan-di)
 
-### 注：开场后，请不要换英雄，否则后果自负。
+### 注：开场后，请不要换英雄，否则[后果自负](https://www.bilibili.com/video/BV1hJ411G7jN)。
 {% endhint %}
 
 ## 战士：价值投资策略（俗称：街头捡烟蒂）
