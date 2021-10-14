@@ -1,7 +1,7 @@
 # 五百年不变的投资策略集锦
 
 {% hint style="info" %}
-## [游戏已经开始，选择你的英雄](ce-lve-ji-jin.md#zhan-shi-jia-zhi-tou-zi-ce-lve-su-cheng-jie-tou-jian-yan-di)
+## [游戏已经开始，选择你的英雄](https://www.bilibili.com/video/BV1AT4y1V75n)
 
 ### 注：开场后，请不要换英雄，否则[后果自负](https://www.bilibili.com/video/BV1hJ411G7jN)。
 {% endhint %}
