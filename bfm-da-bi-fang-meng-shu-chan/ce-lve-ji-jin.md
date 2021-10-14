@@ -11,7 +11,10 @@
 * 巴菲特的，PE和ROE（[链接](https://xueqiu.com/8287840120/102600210)）
 * 彼得·林奇的，PEG（[链接1](https://xueqiu.com/8287840120/83909262)，[链接2](https://xueqiu.com/8287840120/74917276)）
 * [林园怎么投资](../bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/xuan-gu.md)
-* [我怎么投资](../bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/xuan-gu.md)（✨🌟✨🌟回测结果在这里🌟✨🌟✨）
+
+{% hint style="info" %}
+[我怎么投资](../bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/xuan-gu.md)（✨🌟✨🌟回测结果在这里🌟✨🌟✨）
+{% endhint %}
 
 ## 辅助：结构性收益策略（俗称：搭积木盖房）
 
