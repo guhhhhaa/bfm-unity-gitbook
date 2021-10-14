@@ -69,4 +69,9 @@
 
 （这个不给链接，你自己去搜，出来一堆）
 
-[https://m.hexun.com/futures/2014-08-27/167930226.html](https://m.hexun.com/futures/2014-08-27/167930226.html)
+{% embed url="https://m.hexun.com/futures/2014-08-27/167930226.html" %}
+
+## 不想玩游戏了？可以去抢游戏之神特图的星杯
+
+* [卓尔金历法](zi-chan-pei-zhi/the-tzolkin-calendar/)（比特币MVRV和S2F）
+* [BFM算法](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/)
