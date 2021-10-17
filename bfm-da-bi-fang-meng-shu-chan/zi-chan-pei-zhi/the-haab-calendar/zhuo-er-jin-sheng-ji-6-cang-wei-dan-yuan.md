@@ -24,7 +24,7 @@
 
 精确的量子调仓由4部分组成：
 
-1，[银行家舍入 ](https://www.ituring.com.cn/article/35304)
+1，根据[市值占比修正幂率](../the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)后的仓位比例进行[银行家舍入](https://www.ituring.com.cn/article/35304)
 
 2，根据数量扩充单元格 
 
@@ -51,6 +51,4 @@
                            )
     )
 ```
-
-
 
