@@ -28,7 +28,7 @@
 * [驾驶舱 (运行) （🔥）](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
   * [私钥云保管 🔑 ☁️](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [数学利器](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/shu-xue-li-qi.md)
-* [指挥室 (探索) 🛰️](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/README.md)
+* [比坊梦生态风投(一级市场) 🛰️](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/README.md)
   * [指挥室 - 跨链桥](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-kua-lian-qiao.md)
   * [指挥室 - ETH - MainNet](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-eth.md)
   * [指挥室 - ADA - Cardano](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-ada-cardano.md)
