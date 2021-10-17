@@ -2,7 +2,7 @@
 description: Cardano
 ---
 
-# ADA - Cardano
+# 指挥室 - ADA - Cardano
 
 {% hint style="danger" %}
 NOTE: **💀 This project is in beta. Use at your own risk.** 
