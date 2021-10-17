@@ -31,7 +31,7 @@
 * [比坊梦生态风投(一级市场) 🛰️](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/README.md)
   * [跨链桥](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-kua-lian-qiao.md)
   * [ETH - MainNet](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-eth.md)
-  * [ADA - Cardano](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/ada-cardano.md)
+  * [ADA - Cardano](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-ada-cardano.md)
   * [BNB - BSC](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/command-room-bsc.md)
   * [SOL - Solana](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-sol-solana.md)
   * [LUNA - Terra](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/zhi-hui-shi-terra.md)

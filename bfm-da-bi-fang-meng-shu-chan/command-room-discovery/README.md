@@ -1,8 +1,6 @@
----
-description: Command Room (Discovery)
----
+# 比坊梦生态风投(一级市场) 🛰️
 
-# 指挥室 (探索) 🛰️
+原名：指挥室(探索) | Command Room (Discovery)🛰️
 
 {% content-ref url="../management-cockpit-operation/" %}
 [management-cockpit-operation](../management-cockpit-operation/)
