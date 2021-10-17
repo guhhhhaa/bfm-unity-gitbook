@@ -62,7 +62,7 @@ NOTE: **💀 This project is in beta. Use at your own risk.**
 [juan-zeng-da-shang.md](bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md)
 {% endcontent-ref %}
 
-![](<.gitbook/assets/屏幕快照 2021-10-17 下午2.15.18.png>)
+![](<.gitbook/assets/屏幕快照 2021-10-17 下午2.30.44.png>)
 
 ## 本项目使用 GNU General Public License v3.0
 

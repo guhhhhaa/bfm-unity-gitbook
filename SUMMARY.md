@@ -67,7 +67,7 @@
     * [哈布历法2层次](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/ha-bu-li-fa-gou-xiang-1.md)
     * [哈布历法3——仓位单元，量子调仓](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
     * [已废弃](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/yi-fei-qi.md)
-* [五百年不变的投资策略集锦](bfm-da-bi-fang-meng-shu-chan/ce-lve-ji-jin.md)
+* [比坊梦投资策略(二级市场)](bfm-da-bi-fang-meng-shu-chan/bi-fang-meng-tou-zi-ce-lve-er-ji-shi-chang.md)
 * [影银行 (枢纽)](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/README.md)
   * [自营业务](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/zi-ying-tou-zi.md)
   * [个人业务](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/ge-ren-ye-wu.md)
