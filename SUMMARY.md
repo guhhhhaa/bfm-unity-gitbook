@@ -45,7 +45,6 @@
 * [驾驶舱 (运行) （🔥）](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
   * [私钥云保管 🔑 ☁️](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [数学利器](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/shu-xue-li-qi.md)
-* [比坊梦交易策略(二级市场)](bfm-da-bi-fang-meng-shu-chan/bi-fang-meng-tou-zi-ce-lve-er-ji-shi-chang.md)
 * [资产配置 🕙 ⌚️（🔥）](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/README.md)
   * [战略资产配置——卓尔金历 🕙](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/README.md)
     * [卓尔金升级1——拟合函数](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
@@ -209,3 +208,7 @@
 ## 回收站
 
 * [三角套利程序众筹（中止）](hui-shou-zhan/san-jiao-tao-li-cheng-xu-zhong-chou.md)
+
+## BFM Str. | 比坊梦交易策略
+
+* [比坊梦交易策略(二级市场)](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bi-fang-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
