@@ -1,5 +1,13 @@
 # 新人必看（🔥）
 
+## 0，科学上网（BUFF++,DEBUFF--）
+
+* 首先你需要科学上网，才能正常访问本网站（本网站已经屏蔽兔国IP，不对兔国人民提供服务）
+
+{% content-ref url="gong-ju/ss-v2ray.md" %}
+[ss-v2ray.md](gong-ju/ss-v2ray.md)
+{% endcontent-ref %}
+
 ## 1，入金（年化收益：50%）
 
 * **通过欧易OKEx使用法币购买USDT**
