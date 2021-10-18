@@ -38,8 +38,8 @@ NOTE: **💀 This project is in beta. Use at your own risk.**
 [management-cockpit-operation](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-da-bi-fang-meng-shu-chan/command-room-discovery/" %}
-[command-room-discovery](bfm-da-bi-fang-meng-shu-chan/command-room-discovery/)
+{% content-ref url="bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/" %}
+[command-room-discovery](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/)
 {% endcontent-ref %}
 
 {% content-ref url="bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/" %}

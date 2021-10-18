@@ -52,8 +52,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 探险家必进
 
-{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/command-room-discovery/" %}
-[command-room-discovery](../bfm-da-bi-fang-meng-shu-chan/command-room-discovery/)
+{% content-ref url="../bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/" %}
+[command-room-discovery](../bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/)
 {% endcontent-ref %}
 
 ## 开发者必进

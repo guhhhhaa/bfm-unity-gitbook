@@ -2,12 +2,16 @@
 
 原名：指挥室(探索) | Command Room (Discovery)🛰️
 
-{% content-ref url="../management-cockpit-operation/" %}
-[management-cockpit-operation](../management-cockpit-operation/)
+{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
+[management-cockpit-operation](../../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
 
 {% content-ref url="../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md" %}
 [research-institute-development.md](../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/bfm-unity-zhi-hui-shi-.png)
@@ -36,8 +40,8 @@
 
 
 
-{% content-ref url="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](../zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 ## 网络安全
@@ -332,8 +336,8 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ### MVRV和S2F投资策略
 
-{% content-ref url="../zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
-[the-tzolkin-calendar-0.md](../zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
+{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+[the-tzolkin-calendar-0.md](../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
 {% endcontent-ref %}
 
 ## 纳指指标
