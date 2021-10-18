@@ -2,8 +2,8 @@
 
 ## 1，入金（年化收益：50%）
 
-* **通过欧易OKEx使用人民币购买USDT**
-* ****[**欧易 - OKEx**](https://www.ouyi.fit/join/3626787447)**（支持中国大陆新用户注册，法币入金）**
+* **通过欧易OKEx使用法币购买USDT**
+* ****[**欧易 - OKEx**](https://www.ouyi.fit/join/3626787447)**（支持新兔子🐰注册，法币入金）**
 
 ## 2，机器人（年化收益：100%）
 
@@ -15,6 +15,9 @@
 * 或者绑定交易所API直接用[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)**交易**
 
 ## 3，智能投顾表格（年化收益：500%）
+
+* 智能投顾表格，帮您轻松抄底+逃顶
+* （比特币MVRV+S2F牛熊指标+激活函数神经元+帕累托分布+香农的恶魔+山寨币指数+修幂市值占比——共同构筑的基于Excel表格的策略）
 
 {% content-ref url="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
 [the-tzolkin-calendar](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
@@ -28,6 +31,8 @@
 {% content-ref url="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
 [management-cockpit-operation](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
+
+*
 
 {% content-ref url="bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery.md" %}
 [command-room-discovery.md](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery.md)
