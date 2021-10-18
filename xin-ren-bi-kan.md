@@ -26,7 +26,7 @@
 ## 3，智能投顾表格（年化收益：500%）
 
 * 智能投顾表格，帮您轻松抄底+逃顶
-* （比特币MVRV+S2F牛熊指标+激活函数神经元+帕累托分布+香农的恶魔+山寨币指数+修幂市值占比——共同构筑的基于Excel表格的策略）
+* MVRV+S2F+币圈美林时钟+激活函数神经元确定仓位+帕累托分布+香农的恶魔+山寨币指数+修幂市值占比——共同构筑的基于Excel表格的策略）
 
 {% content-ref url="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
 [the-tzolkin-calendar](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
