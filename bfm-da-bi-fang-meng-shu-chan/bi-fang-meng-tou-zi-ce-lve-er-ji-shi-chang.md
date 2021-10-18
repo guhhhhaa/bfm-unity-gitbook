@@ -1,4 +1,4 @@
-# 比坊梦交易策略(二级市场)
+# 比坊梦交易策略(二级市场)♟
 
 {% hint style="info" %}
 ## 游戏已经开始，请选择你的英雄。
@@ -81,5 +81,7 @@
 
 ## 不想玩游戏了？可以去抢游戏之神特图的星杯
 
-* [卓尔金历法](zi-chan-pei-zhi/the-tzolkin-calendar/)（比特币MVRV和S2F）
+*   [卓尔金历法](zi-chan-pei-zhi/the-tzolkin-calendar/)
+
+    （比特币MVRV+S2F牛熊指标+激活函数神经元+帕累托分布+香农的恶魔+山寨币指数+修幂市值占比——共同构筑的基于Excel表格的策略）
 * [BFM算法](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/)
