@@ -84,6 +84,6 @@
 *   [卓尔金历法](zi-chan-pei-zhi/the-tzolkin-calendar/)
 
     （比特币MVRV+S2F牛熊指标+激活函数神经元+帕累托分布+香农的恶魔+山寨币指数+修幂市值占比——共同构筑的基于Excel表格的策略）
-*   [BFM算法](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/)
+*   [BFM算法](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/suan-fa-yan-jiu-yuan.md)
 
     三角套利的升级与扩展+O(N^3)算法优化的极致+FPGA硬件级别优化+量子退火未来发展
