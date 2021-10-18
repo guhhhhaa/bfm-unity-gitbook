@@ -23,6 +23,23 @@
 * [比坊梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
 * [若尘的基金](bfmurs/ruo-chen-de-qie-man-ji-jin.md)
 
+## BFM VC | 比坊梦生态风投
+
+* [比坊梦生态风投(一级市场) 🛰️](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery.md)
+* [跨链桥](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-kua-lian-qiao.md)
+* [ETH - MainNet](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-eth/README.md)
+  * [Arbitrum](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-eth/zhi-hui-shi-arbitrum.md)
+  * [Matic - Polygon](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-eth/zhi-hui-shi-polygonmatic.md)
+* [ADA - Cardano](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/ada-cardano.md)
+* [BNB - BSC](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-bsc.md)
+* [SOL - Solana](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-sol-solana.md)
+* [ATOM - Cosmos](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-atom/README.md)
+  * [LUNA - Terra](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-atom/zhi-hui-shi-terra.md)
+* [AVAX - Avalanche](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-avax-avalanche.md)
+* [FTM - Fantom](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-ftm-fantom.md)
+* [Near](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-near.md)
+* [IPFS/FIL](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-ipfsfil.md)
+
 ## BFM DA | 比坊梦数产
 
 * [驾驶舱 (运行) （🔥）](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
@@ -192,20 +209,3 @@
 ## 回收站
 
 * [三角套利程序众筹（中止）](hui-shou-zhan/san-jiao-tao-li-cheng-xu-zhong-chou.md)
-
-## BFM VC | 比坊梦生态风投
-
-* [比坊梦生态风投(一级市场) 🛰️](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/README.md)
-  * [跨链桥](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-kua-lian-qiao.md)
-  * [ETH - MainNet](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/command-room-eth.md)
-  * [ADA - Cardano](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/ada-cardano.md)
-  * [BNB - BSC](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/command-room-bsc.md)
-  * [SOL - Solana](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-sol-solana.md)
-  * [LUNA - Terra](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-terra.md)
-  * [AVAX - Avalanche](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-avax-avalanche.md)
-  * [FTM - Fantom](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-ftm-fantom.md)
-  * [Near](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-near.md)
-  * [ATOM - Cosmos](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-atom.md)
-  * [Arbitrum](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-arbitrum.md)
-  * [Matic - Polygon](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-polygonmatic.md)
-  * [IPFS/FIL](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/zhi-hui-shi-ipfsfil.md)

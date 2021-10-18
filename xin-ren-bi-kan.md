@@ -29,8 +29,8 @@
 [management-cockpit-operation](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/" %}
-[command-room-discovery](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery/)
+{% content-ref url="bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery.md" %}
+[command-room-discovery.md](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery.md)
 {% endcontent-ref %}
 
 ## 5，加群讨论

@@ -1,10 +1,10 @@
-# 指挥室 - BNB - BSC
+# BNB - BSC
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="command-room-discovery.md" %}
+[command-room-discovery.md](command-room-discovery.md)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/bfm-unity-bsc.png)
+![](../.gitbook/assets/bfm-unity-bsc.png)
 
 {% hint style="danger" %}
 此页面不是最终版本，正在建设中……
@@ -98,7 +98,7 @@ dex.guru，dex聚合器（买小币用）
 
 银行借贷赛道 venus
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19).png>)
 
 * 交易、建流动性、基础性挖矿：Cake
 * 银行赛道：XVS、For、Cream

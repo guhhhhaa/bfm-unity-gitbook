@@ -2,34 +2,34 @@
 
 原名：指挥室(探索) | Command Room (Discovery)🛰️
 
-{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
-[management-cockpit-operation](../../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
+{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
+[management-cockpit-operation](../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
 
-{% content-ref url="../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md" %}
-[research-institute-development.md](../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md)
+{% content-ref url="../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md" %}
+[research-institute-development.md](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/bfm-unity-zhi-hui-shi-.png)
+![](../.gitbook/assets/bfm-unity-zhi-hui-shi-.png)
 
-{% content-ref url="command-room-eth.md" %}
-[command-room-eth.md](command-room-eth.md)
+{% content-ref url="command-room-eth/" %}
+[command-room-eth](command-room-eth/)
 {% endcontent-ref %}
 
 {% content-ref url="command-room-bsc.md" %}
 [command-room-bsc.md](command-room-bsc.md)
 {% endcontent-ref %}
 
-{% content-ref url="zhi-hui-shi-polygonmatic.md" %}
-[zhi-hui-shi-polygonmatic.md](zhi-hui-shi-polygonmatic.md)
+{% content-ref url="command-room-eth/zhi-hui-shi-polygonmatic.md" %}
+[zhi-hui-shi-polygonmatic.md](command-room-eth/zhi-hui-shi-polygonmatic.md)
 {% endcontent-ref %}
 
-{% content-ref url="zhi-hui-shi-arbitrum.md" %}
-[zhi-hui-shi-arbitrum.md](zhi-hui-shi-arbitrum.md)
+{% content-ref url="command-room-eth/zhi-hui-shi-arbitrum.md" %}
+[zhi-hui-shi-arbitrum.md](command-room-eth/zhi-hui-shi-arbitrum.md)
 {% endcontent-ref %}
 
 
@@ -40,8 +40,8 @@
 
 
 
-{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 ## 网络安全
@@ -90,15 +90,15 @@
 * ****[**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI)** （返现比例：我**10%，你10%**）**
 * ****[**FTX 交易所**](https://ftx.com/#a=45676115)** **600种加密货币、美股凭证任你买卖
 
-![](../../.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
+![](../.gitbook/assets/xian-jia-dan-zhi-sun-dan-oco-dan-.png)
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 ## [流动性挖矿](https://www.binance.com/zh-CN/swap/liquidity)
 
-![](../../.gitbook/assets/binance-lp.png)
+![](../.gitbook/assets/binance-lp.png)
 
-![](../../.gitbook/assets/binance-lp2.png)
+![](../.gitbook/assets/binance-lp2.png)
 
 ## 量化
 
@@ -107,27 +107,27 @@
 * ****[**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)** （Woobull）或 **[**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
 * ****[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
 
-![](../../.gitbook/assets/mvrv.png)
+![](../.gitbook/assets/mvrv.png)
 
-![](../../.gitbook/assets/mvrv-jian-ban-.png)
+![](../.gitbook/assets/mvrv-jian-ban-.png)
 {% endtab %}
 
 {% tab title="法币交易👔" %}
 ## 法币交易又名：OTC(场外交易)或 C2C(客户对客户交易)
 
-![](../../.gitbook/assets/cefi.png)
+![](../.gitbook/assets/cefi.png)
 
 * [**比特派钱包**](https://bitpie.com)（**推荐**）
 
-![](../../.gitbook/assets/fei-shuai-bi-jiao-.png)
+![](../.gitbook/assets/fei-shuai-bi-jiao-.png)
 
 * ****[**币安**](https://www.binance.com/cn)** （需要交提币手续费）**
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4).png>)
 {% endtab %}
 
 {% tab title="钱包💰" %}
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.26.51.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.26.51.png)
 
 * [**TrustWallet**](https://trustwallet.com)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
 * [**比特派钱包**](https://bitpie.com)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
@@ -135,7 +135,7 @@
 * [**TokenPocket**](https://www.tokenpocket.pro)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
 * ****[**更多-钱包筛选器**](https://www.qkl123.com/ranking/wallet?filter=true)****
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.25.29.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20210114-xia-wu-7.25.29.png)
 {% endtab %}
 
 {% tab title="技术社区🏠" %}
@@ -283,7 +283,7 @@ USDT市值增长的导数，决定了比特币的涨跌
   **如果价格小幅下跌后，NVT依然>90，说明是泡沫，应该立即离场。**\
   ****[**NVTS**](https://woobull.com/nvt-signal-a-new-trading-indicator-to-pick-tops-and-bottoms/)**：150**（表示高估）和 **45**（表示低估）
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8).png>)
 {% endtab %}
 
 {% tab title="梅特卡夫定律 Metcalfe's law" %}
@@ -303,7 +303,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% tab title="RVT" %}
 * [**RVT介绍**](https://medium.com/@\_Checkmatey\_/the-bitcoin-rvt-ratio-a-high-conviction-macro-indicator-615b68715b77)****
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 * RVT (90D) 在顶部的翻转往往意味着市场的熊转牛，在市场在成本未提升的情况下开始活跃；\
   随着价格的升高，在人们的交易作用下，市场成本开始与交易量同步放大，
@@ -311,7 +311,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 * 牛转熊后，交易量的萎缩往往要比市场成本更多，所以 RVT 会升高，交易量持续萎缩的情况下，投资者可以考虑更激进一些。
 * 极端行情使得市场成本下降的同时放大了交易量，RVT 有所下降，不能作为进入牛市的讯号，需稳定后再做观察。
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5).png>)
 {% endtab %}
 
 {% tab title="UTXO" %}
@@ -326,18 +326,18 @@ USDT市值增长的导数，决定了比特币的涨跌
 * ****[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/)****\
   **下跌至第二条布林线离场**
 
-![](../../.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
+![](../.gitbook/assets/2324d53c92773efa8daf7e8f3f2213bd.jpg)
 {% endtab %}
 
 {% tab title="每日活动地址 DAA" %}
-![](<../../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50).png>)
 {% endtab %}
 {% endtabs %}
 
 ### MVRV和S2F投资策略
 
-{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
-[the-tzolkin-calendar-0.md](../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
+{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+[the-tzolkin-calendar-0.md](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
 {% endcontent-ref %}
 
 ## 纳指指标

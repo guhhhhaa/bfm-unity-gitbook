@@ -1,7 +1,7 @@
-# 指挥室 - ETH - MainNet
+# ETH - MainNet
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="../command-room-discovery.md" %}
+[command-room-discovery.md](../command-room-discovery.md)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/bfm-unity-eth.png)
