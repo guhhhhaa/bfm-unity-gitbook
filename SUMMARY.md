@@ -23,6 +23,10 @@
 * [比坊梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
 * [若尘的基金](bfmurs/ruo-chen-de-qie-man-ji-jin.md)
 
+## BFM Str. | 比坊梦交易策略
+
+* [比坊梦交易策略(二级市场)](bfm-da-bi-fang-meng-shu-chan/bi-fang-meng-tou-zi-ce-lve-er-ji-shi-chang.md)
+
 ## BFM VC | 比坊梦生态风投
 
 * [比坊梦生态风投(一级市场) 🛰️](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery.md)
@@ -208,7 +212,3 @@
 ## 回收站
 
 * [三角套利程序众筹（中止）](hui-shou-zhan/san-jiao-tao-li-cheng-xu-zhong-chou.md)
-
-## BFM Str. | 比坊梦交易策略
-
-* [比坊梦交易策略(二级市场)](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bi-fang-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)

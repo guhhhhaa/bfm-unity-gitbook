@@ -32,8 +32,8 @@
 >
 > 由于算数平均收益总是高于几何平均收益，因此，一只几何平均收益为0（假设）的不稳定股票的算数平均收益一定为正值。
 
-* [固定比例动态平衡多标的优化（4332221111准则，或322111准则）](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
-* [帕累托分布与市值修正幂率投资法](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)（按照市值的N次幂（N取0～3）分配投资组合，再定期再平衡）（虽然这个链接是比特币，但是道理相同，也可以用于股票）
+* [固定比例动态平衡多标的优化（4332221111准则，或322111准则）](zi-chan-pei-zhi/the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
+* [帕累托分布与市值修正幂率投资法](zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)（按照市值的N次幂（N取0～3）分配投资组合，再定期再平衡）（虽然这个链接是比特币，但是道理相同，也可以用于股票）
 * [凯利公式](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi)
 * [**马科维兹均值方差模型**  与 **凯利准则（几何平均数准则）**结合](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi)
 * [同根策略 与 同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)
@@ -81,5 +81,5 @@
 
 ## 不想玩游戏了？可以去抢游戏之神特图的星杯
 
-* [卓尔金历法](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)（比特币MVRV和S2F）
+* [卓尔金历法](zi-chan-pei-zhi/the-tzolkin-calendar/)（比特币MVRV和S2F）
 * [BFM算法](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/)
