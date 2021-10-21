@@ -17,7 +17,7 @@ description: The Tzolkin Calendar
 ![](<../../../.gitbook/assets/image (56).png>)
 
 {% hint style="success" %}
-## **现在部署你的飞行船：**[**飞行船6.09**](https://share.weiyun.com/9XySlLxq)（表格在此下载）
+## **现在部署你的飞行船：**[**飞行船6.10**](https://share.weiyun.com/xInq3ftH)（表格在此下载）
 {% endhint %}
 
 {% hint style="success" %}
@@ -119,7 +119,7 @@ description: The Tzolkin Calendar
 {% hint style="success" %}
 ## 如果实在不会破解 **MicroSoft **Office **365**
 
-### 建议直接使用[拼多多](https://yangkeduo.com/search_result.html?search_key=office%20365%20mac)，
+### 建议直接使用[拼多多](https://yangkeduo.com/search\_result.html?search\_key=office%20365%20mac)，
 
 ### 拼多多上，只需要¥十几块，就可以一对一指导破解安装。
 
@@ -147,6 +147,6 @@ description: The Tzolkin Calendar
 1. First of all, [Download](https://www.microsoft.com/en-us/download/details.aspx?id=55942) the full version here
 2. Install it.
 3. Copy the product key and paste it into your software.
-4. Please wait a few seconds, and It is a lifetime cracked.  
+4. Please wait a few seconds, and It is a lifetime cracked. &#x20;
 
 {% embed url="https://sufan.maytide.net/read.php/1871.htm" %}
