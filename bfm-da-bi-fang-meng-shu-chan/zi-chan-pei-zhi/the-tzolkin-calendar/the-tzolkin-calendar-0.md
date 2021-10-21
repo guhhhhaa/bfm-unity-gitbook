@@ -29,7 +29,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc\_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   飞行船6
+## 最新版下载链接🔗   [飞行船6.10](https://share.weiyun.com/xInq3ftH)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
@@ -199,7 +199,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 飞行船6.10——
 
-更新了用户界面的显示，同时增加了通过[市占比控制市值增长的模块](zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)（利用山寨季节指标控制市值占比修正幂率因子，进而控制市值占比修正幂率，进而控制山寨币的仓位占比。），修改了记录仪中资产和负债的显示。
+更新了用户界面的显示，同时增加了[通过山寨季节指标控制山寨币的仓位占比的模块](zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md#si)（利用山寨季节指标控制市值占比修正幂率因子，进而控制市值占比修正幂率，进而控制山寨币的仓位占比。），修改了记录仪中资产和负债的显示。
 
 [飞行船6.10](https://share.weiyun.com/xInq3ftH)
 {% endhint %}
