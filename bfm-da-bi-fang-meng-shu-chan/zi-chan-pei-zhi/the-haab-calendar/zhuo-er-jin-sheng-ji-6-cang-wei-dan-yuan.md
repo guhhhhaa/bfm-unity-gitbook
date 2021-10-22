@@ -26,11 +26,11 @@
 
 1，根据[市值占比修正幂率](../the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)后的仓位比例进行[银行家舍入](https://www.ituring.com.cn/article/35304)
 
-2，根据数量扩充单元格 
+2，根据数量扩充单元格&#x20;
 
 [EXCEL中如何根据指定数量扩充单元格](https://jingyan.baidu.com/article/922554461774d1851648f4da.html)
 
-3，换行，分组到多行 
+3，换行，分组到多行&#x20;
 
 [不仅仅是做图表，用EXCEL排会议座位图你试过么？](https://baijiahao.baidu.com/s?id=1664682492776373374)
 
@@ -39,6 +39,8 @@
 4，相同的单元格显示相同的颜色。
 
 [如何让EXCEL相同的单元格显示一样的颜色](https://zhidao.baidu.com/question/1644347434384497340.htm)
+
+[excel怎么把相同的字符，标记为一个颜色](https://zhidao.baidu.com/question/2138014715383739028.html)
 
 ### [银行家舍入算法](https://www.ituring.com.cn/article/35304)（四舍六入五取偶）
 
