@@ -43,12 +43,12 @@ description: Management Cockpit (Operation)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-* [**MVRV**](https://www.blockchain.com/charts/mvrv)[（](https://www.jianshu.com/p/f6992e6c6ea6)[Python获取MVRV](https://coinmetrics.io/newdata/split/btc_CapMVRVCur.txt)，[参考链接](https://www.jianshu.com/p/f6992e6c6ea6)）  |  [**S2F**](https://www.qkl123.com/data/s2f/btc)**  **|  [**山寨季指标**](https://www.blockchaincenter.net/altcoin-season-index/)**  **|  [**HODL Waves**](https://unchained-capital.com/hodlwaves/)  **|  **[减半时间](https://www.qkl123.com/data/halve/btc)  |  [CFTC持仓报告](https://www.tradingster.com/cot/futures/fin/133741)  |  [彩虹图🌈](https://www.blockchaincenter.net/bitcoin-rainbow-chart/)
-* [**CAPE**](https://www.gurufocus.cn/indicator/shiller_pe)**   |  **[**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation)****\
+* [**MVRV**](https://www.blockchain.com/charts/mvrv)[（](https://www.jianshu.com/p/f6992e6c6ea6)[Python获取MVRV](https://coinmetrics.io/newdata/split/btc\_CapMVRVCur.txt)，[参考链接](https://www.jianshu.com/p/f6992e6c6ea6)）  |  [**S2F**](https://www.qkl123.com/data/s2f/btc)**  **|  [**山寨季指标**](https://www.blockchaincenter.net/altcoin-season-index/)**  **|  [**HODL Waves**](https://unchained-capital.com/hodlwaves/)  **|  **[减半时间](https://www.qkl123.com/data/halve/btc)  |  [CFTC持仓报告](https://www.tradingster.com/cot/futures/fin/133741)  |  [彩虹图🌈](https://www.blockchaincenter.net/bitcoin-rainbow-chart/)
+* [**CAPE**](https://www.gurufocus.cn/indicator/shiller\_pe)**   |  **[**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation)****\
   ****
 * [Sharpe Ratio](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  |  [市值比较](https://assetdash.com/?all=true)\
 
-* [跟踪美联储操作](https://robo.datayes.com/v2/landing/monitor_detail?slotId=243342)\
+* [跟踪美联储操作](https://robo.datayes.com/v2/landing/monitor\_detail?slotId=243342)\
 
 * CPI>3%通胀，>5%严重通胀
 {% endhint %}
@@ -61,6 +61,12 @@ description: Management Cockpit (Operation)
 * ****[**Zerion**](https://app.zerion.io/exchange)
 * [defillama.com](https://defillama.com)
 * [Ape Board](https://apeboard.finance)
+
+
+
+看K线工具
+
+* [**dex.guru**](https://dex.guru)** | **[**dextools.io**](https://www.dextools.io)****
 
 
 
@@ -89,9 +95,9 @@ description: Management Cockpit (Operation)
 ## Layer-2 Polygon(Matic)操作面板
 
 {% hint style="danger" %}
-NOTE: **💀 This project is in beta. Use at your own risk.** 
+NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
-Users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge). 
+Users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge).&#x20;
 
 * [**QuickSwap**](https://quickswap.exchange/#/swap)**  |  **[**QuickSwap Info**](https://info.quickswap.exchange)** | **[**Bitkeep - Quickswap**](https://bitkeep.org/defi.html)** 交易对排名**
 * [**DeBank - Polygon**](https://debank.com/projects?chain=matic)** 项目排名**
@@ -106,14 +112,14 @@ Users must first migrate their digital assets to the Polygon network through the
 ## Layer-2 Arbitrum 操作面板
 
 {% hint style="danger" %}
-NOTE: **💀 This project is in beta. Use at your own risk.** 
+NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
-Users must first migrate their digital assets to the **Arbitrum **network through the [Arbitrum Token Bridge](https://bridge.arbitrum.io). 
+Users must first migrate their digital assets to the **Arbitrum **network through the [Arbitrum Token Bridge](https://bridge.arbitrum.io).&#x20;
 
 * ****[**arbitrum.Uniswap**](https://app.uniswap.org/#/swap)**  |  **[**arbitrum.Info**](https://info.uniswap.org/#/arbitrum/)****
 * [**DeBank - Arbitrum**](https://debank.com/projects?chain=arb)** 项目排名**
 * ****[**arbitrum.balancer**](https://arbitrum.balancer.fi)****
-* ****[**arbitrum.SushiSwap**](https://app.sushi.com/zh_CN)****
+* ****[**arbitrum.SushiSwap**](https://app.sushi.com/zh\_CN)****
 * ****[**arbitrum.curve**](https://arbitrum.curve.fi)****
 
 ****[热门L2网络Arbitrum启航，有哪些收益耕作机会](https://www.chainnews.com/articles/294841654081.htm)
