@@ -66,7 +66,7 @@ description: Management Cockpit (Operation)
 
 看K线工具
 
-* [**dex.guru**](https://dex.guru)** | **[**dextools.io**](https://www.dextools.io)****
+* ****[**dex.guru**](https://dex.guru)** | **[**dextools.io**](https://www.dextools.io/app/)****
 
 
 
