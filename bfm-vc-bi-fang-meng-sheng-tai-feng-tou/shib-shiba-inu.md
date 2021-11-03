@@ -8,7 +8,7 @@ description: SHIBShiba
 
 V神右手牵着狗绳（[Leash](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)），狗绳套着一只小狗（[SHIBA INU](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f)），左手拿着骨头（[Bone](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)），到底是不是骨头不得而知，就当是骨头吧。
 
-狗（[Shib](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f)）+ 狗绳（[leash](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)）+ 骨头 （[bone](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)）构成了屎币[Shib生态](https://shibatoken.com)的三件套，且都握在了V神手上，当然屎币生态不仅仅止于此，还有，ART+NFT+RESCUE。
+狗（[Shib](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f)）+ 狗绳（[leash](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)）+ 骨头 （[bone](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)）构成了屎币[Shib生态](https://shibatoken.com)的三件套，且都握在了V神手上，当然屎币生态不仅仅止于此，还有，ART+NFT+RESCUE。[https://shiboshis.shibaswap.com/#/](https://shiboshis.shibaswap.com/#/)
 
 ![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0516%2F3a4ae433j00qt7diq0014c000hs009hc.jpg\&thumbnail=650x2147483647\&quality=80\&type=jpg)\
 \
