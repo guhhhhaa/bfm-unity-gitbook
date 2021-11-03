@@ -6,9 +6,9 @@ description: SHIBShiba
 
 {% embed url="https://shibatoken.com" %}
 
-V神右手牵着狗绳（Leash），狗绳套着一只小狗（SHIBA INU），左手拿着骨头（Bone），到底是不是骨头不得而知，就当是骨头吧。
+V神右手牵着狗绳（[Leash](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)），狗绳套着一只小狗（[SHIBA INU](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f)），左手拿着骨头（[Bone](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)），到底是不是骨头不得而知，就当是骨头吧。
 
-狗（Shib）+ 狗绳（leash）+ 骨头 （bone）构成了屎币Shib生态的三件套，且都握在了V神手上，当然屎币生态不仅仅止于此，还有，ART+NFT+RESCUE。
+狗（[Shib](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f)）+ 狗绳（[leash](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)）+ 骨头 （[bone](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)）构成了屎币[Shib生态](https://shibatoken.com)的三件套，且都握在了V神手上，当然屎币生态不仅仅止于此，还有，ART+NFT+RESCUE。
 
 ![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0516%2F3a4ae433j00qt7diq0014c000hs009hc.jpg\&thumbnail=650x2147483647\&quality=80\&type=jpg)\
 \
@@ -16,13 +16,13 @@ V神右手牵着狗绳（Leash），狗绳套着一只小狗（SHIBA INU），�
 
 今天我们着重讨论，狗（[Shib](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f)）+ 狗绳（[leash](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)）+ 骨头 （[bone](https://dex.guru/token/0x9813037ee2218799597d83d4a5b6f3b6778218d9-eth)）这三件套在屎币生态里面的作用和分工，且，为什么要这样设计，这样设计的好处是什么？整个屎币Shib生态到底是一个怎么样的画面。
 
-屎币Shib从诞生至今很多玩法，设计，创意，价格的涨幅，等等这些都在不断的颠覆圈内人士的认知。
+屎币[Shib](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f)从诞生至今很多玩法，设计，创意，价格的涨幅，等等这些都在不断的颠覆圈内人士的认知。
 
-屎币Shib可能是区块链世界里面第一个
+屎币[Shib](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f)可能是区块链世界里面第一个
 
 先做社区，先圈用户，先建立共识；后做产品的项目。
 
-Shib 自去年8月份诞生以来，目前连一个正常的白皮书都没有，产品更是毛都没有看见，但是，这并没有影响屎壳郎的狂热和发展速度。Shib玩的这一套，让我想起了，IBM早期进入中国市场的玩法“未见其人，先闻其声”，。也让我想起了，小米在创业初期，先做米粉，再做米品的打法。
+[Shib](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f) 自去年8月份诞生以来，目前连一个正常的白皮书都没有，产品更是毛都没有看见，但是，这并没有影响屎壳郎的狂热和发展速度。[Shib](https://www.dextools.io/app/ether/pair-explorer/0x811beed0119b4afce20d2583eb608c6f7af1954f)玩的这一套，让我想起了，IBM早期进入中国市场的玩法“未见其人，先闻其声”，。也让我想起了，小米在创业初期，先做米粉，再做米品的打法。
 
 据官方消息，[Shibaswap](https://shibaswap.com) 会在月底上线。根据团队的niao性，个人预测[Shibaswap](https://shibaswap.com)的上线日期会是4月30日。
 
