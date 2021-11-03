@@ -37,6 +37,7 @@
 * [ADA - Cardano](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/ada-cardano.md)
 * [BNB - BSC](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-bsc.md)
 * [SOL - Solana](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-sol-solana.md)
+* [SHIB - Shiba Inu](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/shib-shiba-inu.md)
 * [ATOM - Cosmos](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-atom/README.md)
   * [LUNA - Terra](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-atom/zhi-hui-shi-terra.md)
 * [AVAX - Avalanche](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-avax-avalanche.md)
