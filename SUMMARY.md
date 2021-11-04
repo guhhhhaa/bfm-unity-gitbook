@@ -70,6 +70,7 @@
     * [卓尔金升级A6——安全带](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a6-an-quan-dai.md)
     * [卓尔金升级A7——在线图表](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/untitled.md)
     * [卓尔金升级A8——商业化](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a8-shang-ye-hua.md)
+    * [卓尔金升级A9——下拉菜单](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a9-xia-la-cai-dan.md)
     * [卓尔金历法旧版页面](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
   * [战术资产配置——哈布历⌚️](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/README.md)
     * [哈布历法1层次](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/ha-bu-li-fa-yan-jiu.md)
