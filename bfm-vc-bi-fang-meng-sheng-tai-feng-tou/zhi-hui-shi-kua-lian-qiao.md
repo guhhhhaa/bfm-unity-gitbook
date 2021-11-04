@@ -1,4 +1,4 @@
-# 指挥室 - 跨链桥
+# Cross-Chain Bridge
 
 {% hint style="info" %}
 二层协议：

@@ -2,10 +2,10 @@
 description: Cardano
 ---
 
-# 指挥室 - ADA - Cardano
+# ADA - Cardano
 
 {% hint style="danger" %}
-NOTE: **💀 This project is in beta. Use at your own risk.** 
+NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
 ErgoDEX：[https://ergodex.io/](https://ergodex.io) [https://beta.ergodex.io/](https://beta.ergodex.io)
 

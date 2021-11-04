@@ -29,7 +29,7 @@ BSC的格局之大，在于构建CeFi与DeFi之间的超级桥梁，媲美甚至
 {% endtab %}
 
 {% tab title="动态数据" %}
-**动态数据：**[defistation](https://www.defistation.io) 
+**动态数据：**[defistation](https://www.defistation.io)&#x20;
 {% endtab %}
 
 {% tab title="项目" %}
@@ -73,13 +73,13 @@ BSC的格局之大，在于构建CeFi与DeFi之间的超级桥梁，媲美甚至
 
 我们最好避开火币的Heco MDEX生态，我一直对火币的信用感到怀疑，因为毕竟火币分裂出的FCoin跑路了
 
-belt.fi，目前综合来看最好的稳定币项目 
+belt.fi，目前综合来看最好的稳定币项目&#x20;
 
-autofarm.network，bsc/heco/polygon链自动复投 
+autofarm.network，bsc/heco/polygon链自动复投&#x20;
 
-pancakebunny.finance，锁仓量最大的耕作聚合器 
+pancakebunny.finance，锁仓量最大的耕作聚合器&#x20;
 
-dex.guru，dex聚合器（买小币用） 
+dex.guru，dex聚合器（买小币用）&#x20;
 
 然后最近polygon链很火，所以matic回调迅猛
 {% endhint %}

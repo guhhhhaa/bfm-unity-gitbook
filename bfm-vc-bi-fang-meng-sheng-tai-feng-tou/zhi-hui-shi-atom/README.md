@@ -1,7 +1,7 @@
-# 指挥室 - ATOM - Cosmos
+# ATOM - Cosmos
 
 {% hint style="danger" %}
-NOTE: **💀 This project is in beta. Use at your own risk.** 
+NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
 Gravity DEX：[https://cosmos.network/gravity-dex/](https://cosmos.network/gravity-dex/)
 
