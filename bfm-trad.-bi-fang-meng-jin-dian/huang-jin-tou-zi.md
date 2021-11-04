@@ -1,8 +1,4 @@
-# Gold investment
-
-## 三种加密黄金代币：PAXG，XAUT，DG
-
-
+# 黄金投资
 
 ![](../.gitbook/assets/87242006592424.png)
 

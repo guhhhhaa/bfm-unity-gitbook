@@ -100,9 +100,9 @@
 * [国债逆回购](bfm-trad.-bi-fang-meng-jin-dian/guo-zhai-ni-hui-gou.md)
 * [可转债打新](bfm-trad.-bi-fang-meng-jin-dian/ke-zhuan-zhai-da-xin.md)
 * [Offshore Finance 🌍](bfm-trad.-bi-fang-meng-jin-dian/gang-mei-gu-kai-hu.md)
+* [Offshore Entity](bfm-trad.-bi-fang-meng-jin-dian/offshore-entity.md)
 * [International Phone Number](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-shou-ji-hao-ban-li.md)
 * [International Bank Card](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-yin-hang-ka-ban-li.md)
-* [Offshore Entity](bfm-trad.-bi-fang-meng-jin-dian/offshore-entity.md)
 * [草稿](bfm-trad.-bi-fang-meng-jin-dian/cao-gao.md)
 
 ## BFM Meta | 比坊梦元宇宙 <a href="bfm-meta" id="bfm-meta"></a>
