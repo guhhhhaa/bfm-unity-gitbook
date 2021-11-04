@@ -1,6 +1,12 @@
-# 比坊梦生态风投(一级市场) 🛰️
+---
+description: BFM Eco.
+---
 
-原名：指挥室(探索) | Command Room (Discovery)🛰️
+# BFM Eco. 🛰️
+
+曾用名1：指挥室(探索) | Command Room (Discovery)🛰️
+
+曾用名2：比坊梦生态风投(一级市场)🛰️
 
 {% content-ref url="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
 [management-cockpit-operation](../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
@@ -182,7 +188,7 @@
 {% tab title="Crypto分析⼯具" %}
 | Crypto分析⼯具         |                                                                                                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dune Analytics     | [https://dune.xyz/home](https://www.google.com/url?q=https://dune.xyz/home\&sa=D\&source=editors\&ust=1631628890252000\&usg=AOvVaw0UQ_DrSz2jvY7Dt_xvmij7)                                                             |
+| Dune Analytics     | [https://dune.xyz/home](https://www.google.com/url?q=https://dune.xyz/home\&sa=D\&source=editors\&ust=1631628890252000\&usg=AOvVaw0UQ\_DrSz2jvY7Dt\_xvmij7)                                                           |
 | Nansen             | [https://www.nansen.ai/](https://www.google.com/url?q=https://www.nansen.ai/\&sa=D\&source=editors\&ust=1631628890252000\&usg=AOvVaw2wNDwvYiAQtF4xJ2wxPQB8)                                                           |
 | Messari            | [https://messari.io/](https://www.google.com/url?q=https://messari.io/\&sa=D\&source=editors\&ust=1631628890252000\&usg=AOvVaw23BFRmzPBNBADYC-dwtDm2)                                                                 |
 | Token Terminal     | [https://www.tokenterminal.com/](https://www.google.com/url?q=https://www.tokenterminal.com/\&sa=D\&source=editors\&ust=1631628890253000\&usg=AOvVaw1JzQ8dMTCCDc08VrVnA8-1)                                           |
@@ -200,7 +206,7 @@
 | Crypto投资⽅信息        |                                                                                                                                                                                                                       |
 | Cypherhunter       | [https://www.cypherhunter.com/zh-hans/](https://www.google.com/url?q=https://www.cypherhunter.com/zh-hans/\&sa=D\&source=editors\&ust=1631628890257000\&usg=AOvVaw3hQCSffOdSNgKP6NQZnK8K)                             |
 | Crunchbase         | [https://www.crunchbase.com/](https://www.google.com/url?q=https://www.crunchbase.com/\&sa=D\&source=editors\&ust=1631628890258000\&usg=AOvVaw2LhEglU8j0-98ynY0iNDj8)                                                 |
-| Block123           | [https://www.block123.com/](https://www.google.com/url?q=https://www.block123.com/\&sa=D\&source=editors\&ust=1631628890258000\&usg=AOvVaw2nLy2gscOW2YGAPv_V6To3)                                                     |
+| Block123           | [https://www.block123.com/](https://www.google.com/url?q=https://www.block123.com/\&sa=D\&source=editors\&ust=1631628890258000\&usg=AOvVaw2nLy2gscOW2YGAPv\_V6To3)                                                    |
 | 项⽬信息平台             |                                                                                                                                                                                                                       |
 | ICOdrops           | [https://icodrops.com/](https://www.google.com/url?q=https://icodrops.com/\&sa=D\&source=editors\&ust=1631628890258000\&usg=AOvVaw33f3TnVxx8YFbGAj8XIIVc)                                                             |
 | CoinMarketCap      | [https://coinmarketcap.com/zh/](https://www.google.com/url?q=https://coinmarketcap.com/zh/\&sa=D\&source=editors\&ust=1631628890259000\&usg=AOvVaw2zfF2b7KuK5hsPT0amtuBL)                                             |
@@ -297,7 +303,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="活跃地址数" %}
-[**比特币活跃地址数**](https://www.qkl123.com/data/active_address/btc)的平方和其价值之间存在一定对应关系，符合梅特卡夫定律。
+[**比特币活跃地址数**](https://www.qkl123.com/data/active\_address/btc)的平方和其价值之间存在一定对应关系，符合梅特卡夫定律。
 {% endtab %}
 
 {% tab title="RVT" %}
@@ -346,7 +352,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 {% tabs %}
 {% tab title="CAPE" %}
-* [周期性调节市盈率（CAPE）](https://ycharts.com/indicators/cyclically_adjusted_pe_ratio)或 [席勒市盈率](https://www.gurufocus.cn/indicator/shiller_pe)。周期性调节市盈率=实际（通货膨胀调节后）股价/10年平均美股收益（[**介绍**](https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be)）>40泡沫，<10正常，仓位(40-x)/30\*100
+* [周期性调节市盈率（CAPE）](https://ycharts.com/indicators/cyclically\_adjusted\_pe\_ratio)或 [席勒市盈率](https://www.gurufocus.cn/indicator/shiller\_pe)。周期性调节市盈率=实际（通货膨胀调节后）股价/10年平均美股收益（[**介绍**](https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/?sh=5c81ea9952be)）>40泡沫，<10正常，仓位(40-x)/30\*100
 {% endtab %}
 
 {% tab title="ECY" %}
