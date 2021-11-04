@@ -33,7 +33,7 @@
 > 由于算数平均收益总是高于几何平均收益，因此，一只几何平均收益为0（假设）的不稳定股票的算数平均收益一定为正值。
 
 * [固定比例动态平衡多标的优化（4332221111准则，或322111准则）](zi-chan-pei-zhi/the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
-* [帕累托分布与市值修正幂率投资法](zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)（按照市值的N次幂（N取0～3）分配投资组合，再定期再平衡）（虽然这个链接是比特币，但是道理相同，也可以用于股票）
+* 🔥 [帕累托分布与市值修正幂率投资法](zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)（按照市值的N次幂（N取0～3）分配投资组合，再定期再平衡）（虽然这个链接是比特币，但是道理相同，也可以用于股票）
 * [凯利公式](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi)
 * [**马科维兹均值方差模型**  与 **凯利准则（几何平均数准则）**结合](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi)
 * [同根策略 与 同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)
@@ -53,7 +53,7 @@
 > 动态平衡交易假设几何平均收益为0，那么算数平均收益大于几何平均收益为正值。
 
 * [定投【调和平均数均价买入】](https://m.sohu.com/a/372948519\_120052323)
-  * [优化定投+定卖](https://mp.weixin.qq.com/s?\__biz=MzI5ODY5MTQwMA==\&mid=2247488396\&idx=1\&sn=418d4ffe5504c9d67356fa145dcadeb9\&scene=21#wechat_redirect)
+  * [优化定投+定卖](https://mp.weixin.qq.com/s?\_\_biz=MzI5ODY5MTQwMA==\&mid=2247488396\&idx=1\&sn=418d4ffe5504c9d67356fa145dcadeb9\&scene=21#wechat\_redirect)
 * [金字塔仓位管理法](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/jin-zi-ta-cang-wei-guan-li-fa) （金字塔加仓与金字塔减仓，“底仓与浮仓分配”仓位管理的极致）
 
 ## 射手：趋势性收益策略（俗称：追涨杀跌）
@@ -61,8 +61,8 @@
 * 海龟策略（[唐奇安通道](https://www.zhihu.com/zvideo/1386620312193126400)，[ATR开平仓止盈止损](https://www.zhihu.com/zvideo/1408466616892313601)）
 * 美林时钟
 * [大小市值轮动策略，二八轮动](http://www.360doc.cn/mip/554655681.html)
-  * [抱团股会一直涨？无脑执行大小盘轮动策略，轻松跑赢指数5倍](https://mp.weixin.qq.com/s?\__biz=MzI5ODY5MTQwMA==\&mid=2247488496\&idx=1\&sn=05754fa8f993b802eaf5d0592496a0c7\&scene=21#wechat_redirect)
-  * [币圈轮动](https://mp.weixin.qq.com/s?\__biz=MzI5ODY5MTQwMA==\&mid=2247488576\&idx=1\&sn=015e9165bd427048214359cb4403889c\&chksm=eca0aa67dbd72371f4915c9e1e100825c7744d81e59292e464b0e1e067dfdd2d346cd0a07d87\&scene=178\&cur_album_id=1823729338689585161#rd)
+  * [抱团股会一直涨？无脑执行大小盘轮动策略，轻松跑赢指数5倍](https://mp.weixin.qq.com/s?\_\_biz=MzI5ODY5MTQwMA==\&mid=2247488496\&idx=1\&sn=05754fa8f993b802eaf5d0592496a0c7\&scene=21#wechat\_redirect)
+  * [币圈轮动](https://mp.weixin.qq.com/s?\_\_biz=MzI5ODY5MTQwMA==\&mid=2247488576\&idx=1\&sn=015e9165bd427048214359cb4403889c\&chksm=eca0aa67dbd72371f4915c9e1e100825c7744d81e59292e464b0e1e067dfdd2d346cd0a07d87\&scene=178\&cur\_album\_id=1823729338689585161#rd)
 * 布林带通道策略（这个不给链接，你自己去搜，出来一堆）
 * 双均线策略（这个不给链接，你自己去搜，出来一堆）
 
