@@ -108,9 +108,9 @@
 
 * [BFM Meta](bfm-meta/bi-fang-meng-yuan-yu-zhou/README.md)
   * [BFM Meme 🐶 💩](bfm-meta/bi-fang-meng-yuan-yu-zhou/bfm-meme.md)
-  * [BFM NFT](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-nft.md)
+  * [BFM NFT🃏](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-nft.md)
   * [BFM GameFi 🎮](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-you-xi.md)
-  * [BFM DeFi](bfm-meta/bi-fang-meng-yuan-yu-zhou/bfm-defi.md)
+  * [BFM DeFi 🦄️](bfm-meta/bi-fang-meng-yuan-yu-zhou/bfm-defi.md)
 
 ## BFM R-Ins. | 比坊梦科学研究院
 

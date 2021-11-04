@@ -17,7 +17,7 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 {% endcontent-ref %}
 
 {% hint style="info" %}
-NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
+NOTE: **💀 This project is in beta. Use at your own risk.** 
 
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
@@ -83,8 +83,8 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | ****[**Github 文档地址**](https://github.com/guhhhhaa/bfm-gitbook)**** | ****[**Github 代码地址**](https://github.com/guhhhhaa/bfm-group-file)****    |
 | [B站视频主页](https://space.bilibili.com/11708778)                      | [ YouTube视频主页](https://www.youtube.com/channel/UCfiSjf-6Sxnf0t9J2xGVzuA) |
-| [Telegram群组](https://t.me/BFMUnity)                                | [Telegram频道](https://t.me/BFM\_Unity)                                    |
-| [Discord群组](https://discord.gg/CyEcS2wmzk)                         | [Reddit论坛](https://www.reddit.com/r/BFM\_Unity/)                         |
+| [Telegram群组](https://t.me/BFMUnity)                                | [Telegram频道](https://t.me/BFM_Unity)                                     |
+| [Discord群组](https://discord.gg/CyEcS2wmzk)                         | [Reddit论坛](https://www.reddit.com/r/BFM_Unity/)                          |
 | QQ群：708912525                                                      |                                                                          |
 
 **© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com) [**BFM Unity**](https://www.bfm-unity.com)**.** [**比坊梦联合体**](https://www.bfm-unity.com)**. All Rights Reserved.**
