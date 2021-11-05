@@ -202,6 +202,12 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 更新了用户界面的显示，同时增加了[通过山寨季节指标控制山寨币的仓位占比的模块](zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md#si)（利用山寨季节指标控制市值占比修正幂率因子，进而控制市值占比修正幂率，进而控制山寨币的仓位占比。），修改了记录仪中资产和负债的显示。
 
 [飞行船6.10](https://share.weiyun.com/xInq3ftH)
+
+### 飞行船6.11——
+
+增加了预测SHIB价格的模块，优化了居家服务中利息的计算(按日计息)，优化了控制信用卡账单日和还款日的模块，优化了记录仪2中的读取算法，优化了记录仪1和记录仪2中的资产负债堆积面积图显示。
+
+[飞行船6.11](https://share.weiyun.com/IyoCsgzu)
 {% endhint %}
 
 ## **周期发现**
