@@ -205,7 +205,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ### 飞行船6.11——
 
-增加了预测SHIB价格的模块，优化了居家服务中利息的计算(按日计息)，优化了控制信用卡账单日和还款日的模块，优化了记录仪2中的读取算法，优化了记录仪1和记录仪2中的资产负债堆积面积图显示。
+增加了预测SHIB价格的模块，优化了居家服务中利息的计算(按日计息)，优化了控制信用卡账单日和还款日的模块，优化了记录仪2对记录仪1中的读取算法，优化了记录仪1和记录仪2中的资产负债堆积面积图显示。
 
 [飞行船6.11](https://share.weiyun.com/IyoCsgzu)
 {% endhint %}
