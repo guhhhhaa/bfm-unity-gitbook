@@ -29,7 +29,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 {% hint style="success" %}
 ## [在线版](https://1drv.ms/x/s!Asrc\_kRox8f-bpKc8fj8SGlNLJc?e=Pb7H2G)
 
-## 最新版下载链接🔗   [飞行船6.11](https://share.weiyun.com/IyoCsgzu)
+## 最新版下载链接🔗   [飞行船6.12](https://share.weiyun.com/LhAj6uYm)
 
 ### [表格怎么使用？  ](https://www.bilibili.com/video/BV1HU4y1a7Ve)      ⬅️ 用户指南
 
