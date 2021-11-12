@@ -6,6 +6,10 @@ description: KDE
 
 ## 最近目标转移一下，抽调一小部分人进入星魔方的研发，
 
+{% content-ref url="../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/" %}
+[lv6-xing-mo-fang-fen-lei](../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/)
+{% endcontent-ref %}
+
 ## 星魔方主要是做一个基于MVRV S2F NVT的三维分类器，暂时把数据简单归一化之后，再考虑输入历史数据中的“30天后收益”来归一化到决策仓位，用核估计法获得决策仓位在MVRV-S2F-NVT三维空间中的分布。&#x20;
 
 ## 之前的卓尔金历法已经遇到瓶颈了，我们准备用核密度估计法突破这个瓶颈，并且将现有的参数估计转化为基于核密度估计的非参数估计。&#x20;
