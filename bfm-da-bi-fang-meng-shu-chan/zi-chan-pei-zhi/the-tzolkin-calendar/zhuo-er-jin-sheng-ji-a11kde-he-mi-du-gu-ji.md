@@ -26,9 +26,8 @@ description: KDE
 
 [https://www.pythonf.cn/read/134921](https://www.pythonf.cn/read/134921) 机器学习笔记11核密度估计,Python,KernelDensityEstimation
 
-[https://cloud.tencent.com/developer/article/1785671](https://cloud.tencent.com/developer/article/1785671) 超全整理｜Python 操作 Excel 库 xlwings 常用操作详解！
-
 [https://blog.csdn.net/lrs1353281004/article/details/106535592](https://blog.csdn.net/lrs1353281004/article/details/106535592) 从零开始实现核密度估计（kernel density estimation，KDE）-python实现
 
 采用 有偏交叉验证方法 确定核函数的最佳窗宽，通过循环交叉验证和全局变步长的方法,对最优参数进行搜索。
 
+信用业务风险度量 研究报告 [http://mathfinance.sdu.edu.cn/\_\_local/4/35/1A/FE611B7965EF95F3BC301CF8E93\_7707220E\_1E8C93.pdf?e=.pdf](http://mathfinance.sdu.edu.cn/\_\_local/4/35/1A/FE611B7965EF95F3BC301CF8E93\_7707220E\_1E8C93.pdf?e=.pdf)
