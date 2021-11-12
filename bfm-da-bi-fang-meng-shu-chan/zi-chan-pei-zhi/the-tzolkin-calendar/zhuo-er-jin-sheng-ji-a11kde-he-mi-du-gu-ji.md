@@ -4,6 +4,14 @@ description: KDE
 
 # 卓尔金升级A11——KDE核密度估计
 
+## 最近目标转移一下，抽调一小部分人进入星魔方的研发，
+
+## 星魔方主要是做一个基于MVRV S2F NVT的三维分类器，暂时把数据简单归一化之后，再考虑输入历史数据中的“30天后收益”来归一化到决策仓位，用核估计法获得决策仓位在MVRV-S2F-NVT三维空间中的分布。&#x20;
+
+## 之前的卓尔金历法已经遇到瓶颈了，我们准备用核密度估计法突破这个瓶颈，并且将现有的参数估计转化为基于核密度估计的非参数估计。&#x20;
+
+## 这个属于简单的统计分析法，不属于人工智能，虽然和机器学习有交叉的概念，但是还是简单的统计分析。
+
 [https://blog.csdn.net/weixin\_42715356/article/details/82732207](https://blog.csdn.net/weixin\_42715356/article/details/82732207) 机器学习总结之——线性分类器与非线性分类器
 
 [https://blog.csdn.net/qq\_44872466/article/details/117334947](https://blog.csdn.net/qq\_44872466/article/details/117334947) 空间核密度分析
@@ -28,6 +36,14 @@ description: KDE
 
 [https://blog.csdn.net/lrs1353281004/article/details/106535592](https://blog.csdn.net/lrs1353281004/article/details/106535592) 从零开始实现核密度估计（kernel density estimation，KDE）-python实现
 
-采用 有偏交叉验证方法 确定核函数的最佳窗宽，通过循环交叉验证和全局变步长的方法,对最优参数进行搜索。
+## 核密度估计（kernel density estimation）是在概率论中用来估计未知的密度函数，属于非参数检验方法之一，由Rosenblatt (1955)和Emanuel Parzen(1962)提出，又名Parzen窗（Parzen window）。 具体原理推导可参考这篇博客。 此篇博客侧重于根据理论公式，给出python实现。
+
+## python工具包推荐 seaborn，pandas，scikit-learn中均提供了kde计算及绘图函数，可直接查阅/调用。
+
+## 采用 有偏交叉验证方法 确定核函数的最佳窗宽，
+
+## 通过循环交叉验证和全局变步长的方法,对最优参数进行搜索。
+
+## 高斯核函数（径向基函数），正态核函数
 
 信用业务风险度量 研究报告 [http://mathfinance.sdu.edu.cn/\_\_local/4/35/1A/FE611B7965EF95F3BC301CF8E93\_7707220E\_1E8C93.pdf?e=.pdf](http://mathfinance.sdu.edu.cn/\_\_local/4/35/1A/FE611B7965EF95F3BC301CF8E93\_7707220E\_1E8C93.pdf?e=.pdf)
