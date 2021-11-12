@@ -1,4 +1,4 @@
-# 卓尔金升级A11——对接星魔方，核估计
+# 卓尔金升级A11——核密度估计
 
 [https://blog.csdn.net/weixin\_42715356/article/details/82732207](https://blog.csdn.net/weixin\_42715356/article/details/82732207) 机器学习总结之——线性分类器与非线性分类器
 
