@@ -51,3 +51,5 @@ description: KDE
 ## 高斯核函数（径向基函数），正态核函数
 
 信用业务风险度量 研究报告 [http://mathfinance.sdu.edu.cn/\_\_local/4/35/1A/FE611B7965EF95F3BC301CF8E93\_7707220E\_1E8C93.pdf?e=.pdf](http://mathfinance.sdu.edu.cn/\_\_local/4/35/1A/FE611B7965EF95F3BC301CF8E93\_7707220E\_1E8C93.pdf?e=.pdf)
+
+核密度估计python,Python中的多变量内核密度估计[https://blog.csdn.net/weixin\_42523670/article/details/118901334](https://blog.csdn.net/weixin\_42523670/article/details/118901334)
