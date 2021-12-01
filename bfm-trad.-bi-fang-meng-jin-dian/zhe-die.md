@@ -46,6 +46,8 @@
 
 ## 参考：
 
+[http://www.wukazhifu168.com/](http://www.wukazhifu168.com)
+
 [https://www.poszfw.com/posbl/701.html](https://www.poszfw.com/posbl/701.html)\
 [https://www.poszfw.com/posdl/947.html](https://www.poszfw.com/posdl/947.html)
 
@@ -87,7 +89,7 @@
 
 ## **名义利率与实际利率**转化**计算（**分清[IRR](https://support.microsoft.com/zh-cn/office/irr-%E5%87%BD%E6%95%B0-64925eaa-9988-495b-b290-3ad0c163c1bc?ui=zh-cn\&rs=zh-cn\&ad=cn)，[XIRR](https://support.microsoft.com/zh-cn/office/xirr-%E5%87%BD%E6%95%B0-de1242ec-6477-445b-b11b-a303ad9adc9d?ui=zh-CN\&rs=zh-CN\&ad=CN)和[RATE](https://support.microsoft.com/zh-cn/office/rate-%E5%87%BD%E6%95%B0-9f665657-4a7e-4bb7-a030-83fc59e748ce?ui=zh-CN\&rs=zh-CN\&ad=CN)**）**
 
-**（使用 EXCEL 的 **[**IRR**](https://support.microsoft.com/zh-cn/office/irr-%E5%87%BD%E6%95%B0-64925eaa-9988-495b-b290-3ad0c163c1bc?ui=zh-cn\&rs=zh-cn\&ad=cn)** 函数）（**年化接近20%，用 [**XIRR**](https://support.microsoft.com/zh-cn/office/xirr-%E5%87%BD%E6%95%B0-de1242ec-6477-445b-b11b-a303ad9adc9d?ui=zh-CN\&rs=zh-CN\&ad=CN)**）**
+**（使用 EXCEL 的** [**IRR**](https://support.microsoft.com/zh-cn/office/irr-%E5%87%BD%E6%95%B0-64925eaa-9988-495b-b290-3ad0c163c1bc?ui=zh-cn\&rs=zh-cn\&ad=cn) **函数）（**年化接近20%，用 [**XIRR**](https://support.microsoft.com/zh-cn/office/xirr-%E5%87%BD%E6%95%B0-de1242ec-6477-445b-b11b-a303ad9adc9d?ui=zh-CN\&rs=zh-CN\&ad=CN)**）**
 
 经验公式：等额本息实际利**率=1.8\*名义利率**
 

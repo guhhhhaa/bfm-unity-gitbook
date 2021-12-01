@@ -1,6 +1,21 @@
-# 比坊梦元宇宙
+---
+description: Meta
+---
 
-{% page-ref page="bi-fang-meng-nft.md" %}
+# BFM Meta
 
-{% page-ref page="bi-fang-meng-you-xi.md" %}
+{% content-ref url="bfm-meme.md" %}
+[bfm-meme.md](bfm-meme.md)
+{% endcontent-ref %}
 
+{% content-ref url="bi-fang-meng-nft.md" %}
+[bi-fang-meng-nft.md](bi-fang-meng-nft.md)
+{% endcontent-ref %}
+
+{% content-ref url="bi-fang-meng-you-xi.md" %}
+[bi-fang-meng-you-xi.md](bi-fang-meng-you-xi.md)
+{% endcontent-ref %}
+
+{% content-ref url="bfm-defi.md" %}
+[bfm-defi.md](bfm-defi.md)
+{% endcontent-ref %}

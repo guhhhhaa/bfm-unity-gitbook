@@ -10,7 +10,7 @@ Vue.js  |  Angular.js  |  React.js
 
 ## 后端架构
 
-**LAMP == Linux + Apache + Mysql + PHP **
+**LAMP == Linux + Apache + Mysql + PHP**&#x20;
 
 **LNMP == Linux + Nginx + Mysql + PHP ( 国外简称为 LEMP )**
 

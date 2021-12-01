@@ -21,14 +21,14 @@ description: Research Institute (Development)
 ![](../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-.png)
 
 {% hint style="info" %}
-[**BellmanFord算法**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al)** + **[**参考文献**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/bfm-al-ckwx)** + **[**三角套利核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python)** + **[**陵墓**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/lo-st)** + **[**量子退火和FPGA**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan)****
+[**BellmanFord算法**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/bfm-al-ckwx) **+** [**三角套利核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan)****
 
-千千的搬砖之王策略  |  [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA)**  | ** [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)****\
+千千的搬砖之王策略  |  [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA)  **|** [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)****\
 ****BellmanFord三角套利策略，是千千搬砖之王策略的算法升级版
 
-千千的其它视频：[**上篇**](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)**  |  **[**下篇**](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)**  |  **[**部署**](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)**  |  **[**回测**](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw)**  |  **[**三角套利策略介绍**](https://mp.weixin.qq.com/s/G5t7TyIyrH40Kl55feTDIw)****
+千千的其它视频：[**上篇**](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)  **|**  [**下篇**](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)  **|**  [**部署**](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)  **|**  [**回测**](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw)  **|**  [**三角套利策略介绍**](https://mp.weixin.qq.com/s/G5t7TyIyrH40Kl55feTDIw)****
 
-[**宝塔面板**](https://www.bt.cn)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） |  **[**阿里云**](https://www.aliyun.com)**  |  **[**腾讯云**](https://cloud.tencent.com)
+[**宝塔面板**](https://www.bt.cn)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） |**  [**阿里云**](https://www.aliyun.com)  **|**  [**腾讯云**](https://cloud.tencent.com)
 
 **相关知乎问题：**
 

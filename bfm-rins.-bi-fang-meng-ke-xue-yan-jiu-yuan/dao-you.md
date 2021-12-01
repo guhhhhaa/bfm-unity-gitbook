@@ -2,9 +2,9 @@
 
 ## 〇，策略学习🚩
 
-[**三角套利策略介绍**](https://mp.weixin.qq.com/s/G5t7TyIyrH40Kl55feTDIw)** + **[**考虑交易成本的三角套利**](https://www.jianshu.com/p/e50a52312a47)****
+[**三角套利策略介绍**](https://mp.weixin.qq.com/s/G5t7TyIyrH40Kl55feTDIw) **+** [**考虑交易成本的三角套利**](https://www.jianshu.com/p/e50a52312a47)****
 
-[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al)** + **[**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx)****
+[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx)****
 
 {% content-ref url="suan-fa-yan-jiu-yuan.md" %}
 [suan-fa-yan-jiu-yuan.md](suan-fa-yan-jiu-yuan.md)
@@ -26,7 +26,7 @@
 [kai-yuan-xiang-mu-yan-jiu-yuan](../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/)
 {% endcontent-ref %}
 
-[**CCXT**](https://github.com/ccxt/ccxt)**  |  **[**Peregrine**](https://github.com/wardbradt/peregrine)**（**[**文档**](https://guhhhhaa.gitbook.io/peregrine/)**）|  **[**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）|  **[**TheNextQuant**](https://thenextquant.com/intro)**（已下架）**
+[**CCXT**](https://github.com/ccxt/ccxt)  **|**  [**Peregrine**](https://github.com/wardbradt/peregrine)**（**[**文档**](https://guhhhhaa.gitbook.io/peregrine/)**）|**  [**AIOQuant**](https://github.com/CongZhengithub/aioquant)**（**[**视频**](https://space.bilibili.com/479971824)**）|**  [**TheNextQuant**](https://thenextquant.com/intro)**（已下架）**
 
 {% content-ref url="../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/liang-hua-kuang-jia-tui-jian-ke-cheng.md" %}
 [liang-hua-kuang-jia-tui-jian-ke-cheng.md](../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/liang-hua-kuang-jia-tui-jian-ke-cheng.md)
@@ -42,7 +42,7 @@
 [bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md](../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/api-jie-kou-yan-jiu-yuan/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan.md)
 {% endcontent-ref %}
 
-[**币安多币种自动化策略API操作指南**](https://zhuanlan.zhihu.com/p/55109087)** （**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan)**）**
+[**币安多币种自动化策略API操作指南**](https://zhuanlan.zhihu.com/p/55109087) **（**[**本地链接**](https://www.bfm-unity.com/command-room-discovery/san-jiao-tao-li-shi-yan-shi/bi-an-duo-bi-zhong-zi-dong-hua-ce-lve-api-cao-zuo-zhi-nan)**）**
 
 ## 三，代码**参考**
 
@@ -64,7 +64,7 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/arbitrage-github/" %}
 
-[**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python)** + **[**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st)
+[**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st)
 
 ### **技术难点**
 

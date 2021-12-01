@@ -7,7 +7,7 @@ description: Tesseract
 {% hint style="info" %}
 ### 使用工具
 
-[**TensorFlow**](https://www.tensorflow.org)**  |  **[**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)**  |  **[**TensorBoard.dev**](https://tensorboard.dev)**  |  **[**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)****
+[**TensorFlow**](https://www.tensorflow.org)  **|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **|**  [**TensorBoard.dev**](https://tensorboard.dev)  **|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)****
 
 [**https://playground.tensorflow.org/**](https://playground.tensorflow.org)****
 
@@ -46,13 +46,13 @@ description: Tesseract
 
 模型的预计输出结果是，（-1，2）的仓位控制策略模型，
 
-这个模型被称为：卓尔金历法，或，二向箔。 
+这个模型被称为：卓尔金历法，或，二向箔。&#x20;
 
 问题已经被Excel解决，但是不具有扩展性。
 
 ## 宇宙魔方
 
-我们现在这个问题属于三维空间中的，分类问题， 
+我们现在这个问题属于三维空间中的，分类问题，&#x20;
 
 使用的方法是逻辑回归LR，使用的激活函数是sigmoid函数
 

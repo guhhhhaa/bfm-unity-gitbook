@@ -17,7 +17,7 @@ description: The Tzolkin Calendar
 ![](<../../../.gitbook/assets/image (56).png>)
 
 {% hint style="success" %}
-## **现在部署你的飞行船：**[**飞行船6.11**](https://share.weiyun.com/IyoCsgzu)（表格在此下载）
+## **现在部署你的飞行船：**[**飞行船6.12**](https://share.weiyun.com/LhAj6uYm)（表格在此下载）
 {% endhint %}
 
 {% hint style="success" %}
@@ -27,7 +27,7 @@ description: The Tzolkin Calendar
 {% endhint %}
 
 {% hint style="info" %}
-****[**cryptosheets**](https://cryptosheets.com)** | **[templates](https://cryptosheets.com/templates) | [templates2](https://app.cryptosheets.com/#/browse/templates) Excel 插件/模版
+****[**cryptosheets**](https://cryptosheets.com) **|** [templates](https://cryptosheets.com/templates) | [templates2](https://app.cryptosheets.com/#/browse/templates) Excel 插件/模版
 
 ### [微软Excel在线版](https://www.office.com/launch/excel?ui=zh-CN\&auth=1) | [谷歌Sheet在线版](https://docs.google.com/spreadsheets/u/0/)
 {% endhint %}
@@ -46,11 +46,11 @@ description: The Tzolkin Calendar
 
 **顺着三角形顺时针运行，**
 
-**红色是牛市，绿色是熊市，蓝色是震荡市。 **
+**红色是牛市，绿色是熊市，蓝色是震荡市。**&#x20;
 
 **从蓝色到红色，减半开始，此时需要加杠杆，满仓多。**
 
-**顺时针运行 ，落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。 **
+**顺时针运行 ，落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。**&#x20;
 
 **顺时针运行 ，落到第二个黑色框，就是熊市底部，可以入场开网格。**
 
@@ -117,7 +117,7 @@ description: The Tzolkin Calendar
 ## 友情链接
 
 {% hint style="success" %}
-## 如果实在不会破解 **MicroSoft **Office **365**
+## 如果实在不会破解 **MicroSoft** Office **365**
 
 ### 建议直接使用[拼多多](https://yangkeduo.com/search\_result.html?search\_key=office%20365%20mac)，
 

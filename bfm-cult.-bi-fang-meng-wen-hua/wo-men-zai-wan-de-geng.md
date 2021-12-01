@@ -1,9 +1,9 @@
 # 【传媒】引起兴趣
 
 {% hint style="info" %}
-本章可能适合 **设计师，ACGN **或** 广告 **行业相关人士。
+本章可能适合 **设计师，ACGN** 或 **广告** 行业相关人士。
 
-其他 **商务办公 **人士可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-al-ckwx)。
+其他 **商务办公** 人士可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-al-ckwx)。
 {% endhint %}
 
 ## BFM Unity 的组织性质是什么？

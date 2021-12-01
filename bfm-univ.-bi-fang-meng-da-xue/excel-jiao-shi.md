@@ -8,11 +8,11 @@
 
 * ****[**初学者，零基础必备的18个Excel工作表函数，易学易懂易用**](https://zhuanlan.zhihu.com/p/341616011)****
   * **Left、Mid、Right ——**提取指定长度的字符
-  * **Rand、Randbetween —— **随机数
+  * **Rand、Randbetween ——** 随机数
   * **Round、Roundup、Int —— 舍入取整**
-  * **If、Ifs —— **条件
-  * **Upper、Lower、Proper —— **大小写
-  * **Rank、Sumproduct —— **大小排名，乘积和
+  * **If、Ifs ——** 条件
+  * **Upper、Lower、Proper ——** 大小写
+  * **Rank、Sumproduct ——** 大小排名，乘积和
   * **Sum、Sumif、Sumifs —— 求和，条件求和**
 * ****[**excel十大常用函数排行榜，你会几个？**](https://zhuanlan.zhihu.com/p/148100320)****
   * SUM函数 —— 求和
@@ -32,8 +32,8 @@
   * [**条件求和**：SUMIF函数](https://zhuanlan.zhihu.com/p/31465442)
 * 格式函数
   * [EXCEL取小数点后一位](https://zhidao.baidu.com/question/27632380.html)
-  * **ABS() **函数 是** 绝对值() **函数，\
-    **MAX() **函数 是** 比较大小并取其中的大者() **函数，
+  * **ABS()** 函数 是 **绝对值()** 函数，\
+    **MAX()** 函数 是 **比较大小并取其中的大者()** 函数，
 * 查找函数
   * 初级 - 普通公式
     * [史上最全SUMIF函数应用教程及案例解析](https://zhuanlan.zhihu.com/p/21557901)\

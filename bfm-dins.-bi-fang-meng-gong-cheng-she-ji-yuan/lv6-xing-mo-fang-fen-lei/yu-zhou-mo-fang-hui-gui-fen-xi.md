@@ -21,7 +21,7 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 
 [Anaconda](https://www.anaconda.com) (Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras)还有matplotlib，差点忘了
 
-[**TensorFlow**](https://www.tensorflow.org)**  |  **[**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)**  |  **[**TensorBoard.dev**](https://tensorboard.dev)**  |  **[**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)****
+[**TensorFlow**](https://www.tensorflow.org)  **|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **|**  [**TensorBoard.dev**](https://tensorboard.dev)  **|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)****
 
 [**https://playground.tensorflow.org/**](https://playground.tensorflow.org)****
 
@@ -56,7 +56,7 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 
 ![](../../.gitbook/assets/qq20210625-2.jpg)
 
-**pandas**是一个数据处理的包，本身提供了许多读取文件的函数，像read_csv（读取csv文件），read_excel（读取excel文件）等，只需一行代码就能实现文件的读取。
+**pandas**是一个数据处理的包，本身提供了许多读取文件的函数，像read\_csv（读取csv文件），read\_excel（读取excel文件）等，只需一行代码就能实现文件的读取。
 
 ## 规整化算法
 
@@ -68,7 +68,7 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 
 ## 研发进度
 
-### 2021.7.9 
+### 2021.7.9&#x20;
 
 安装了Anaconda，借助Anaconda 安装了\
 Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras\
@@ -85,7 +85,7 @@ import matplotlib.pyplot as plt
 
 找到了 [TensorFlow学习笔记](https://www.zhihu.com/column/c\_1377756991213998081) ，发现逻辑回归分类问题应该用**交叉熵损失函数，**而不是**均方误差MSE损失函数**
 
-****[交叉熵](https://baike.baidu.com/item/%E4%BA%A4%E5%8F%89%E7%86%B5/8983241) | ** **[损失函数](https://baike.baidu.com/item/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/1783236)  |  [归一化指数函数](https://baike.baidu.com/item/%E5%BD%92%E4%B8%80%E5%8C%96%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0)(Softmax函数)
+****[交叉熵](https://baike.baidu.com/item/%E4%BA%A4%E5%8F%89%E7%86%B5/8983241) | **** [损失函数](https://baike.baidu.com/item/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/1783236)  |  [归一化指数函数](https://baike.baidu.com/item/%E5%BD%92%E4%B8%80%E5%8C%96%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0)(Softmax函数)
 
 [matplotlib-tutorial](https://www.runoob.com/w3cnote/matplotlib-tutorial.html) 学会复制粘贴了，这是一种进步
 
@@ -95,7 +95,7 @@ import matplotlib.pyplot as plt
 
 再想想
 
-找到了一本书：利用Python进行数据分析：[![](https://gblobscdn.gitbook.com/spaces%2F-LF_s_ql-GHXb31QEE8\_%2Favatar.png?alt=media)README](https://seancheney.gitbook.io/python-for-data-analysis-2nd/)
+找到了一本书：利用Python进行数据分析：[![](https://gblobscdn.gitbook.com/spaces%2F-LF\_s\_ql-GHXb31QEE8\_%2Favatar.png?alt=media)README](https://seancheney.gitbook.io/python-for-data-analysis-2nd/)
 
 找到了英文版
 
@@ -128,26 +128,26 @@ import matplotlib.pyplot as plt
   * [14.2 MovieLens 1M Dataset（MovieLens 1M数据集）](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-14/14.2%20MovieLens%201M%20Dataset%EF%BC%88MovieLens%201M%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%89.ipynb)
   * [14.3 US Baby Names 1880–2010（1880年至2010年美国婴儿姓名](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-14/14.3%20US%20Baby%20Names%201880%E2%80%932010%EF%BC%881880%E5%B9%B4%E8%87%B32010%E5%B9%B4%E7%BE%8E%E5%9B%BD%E5%A9%B4%E5%84%BF%E5%A7%93%E5%90%8D%EF%BC%89.ipynb)****
 
-**pandas**是一个数据处理的包，本身提供了许多读取文件的函数，像read_csv（读取csv文件），read_excel（读取excel文件）等，只需一行代码就能实现文件的读取。
+**pandas**是一个数据处理的包，本身提供了许多读取文件的函数，像read\_csv（读取csv文件），read\_excel（读取excel文件）等，只需一行代码就能实现文件的读取。
 
 ### 2021.7.10
 
-[python pandas read_html快读读取中国商情网的A股，港股以及新三板股票](https://www.bilibili.com/video/BV1aQ4y1A7fh)
+[python pandas read\_html快读读取中国商情网的A股，港股以及新三板股票](https://www.bilibili.com/video/BV1aQ4y1A7fh)
 
-[pandas.read_csv 详细介绍](https://www.gairuo.com/p/pandas-read-csv)
+[pandas.read\_csv 详细介绍](https://www.gairuo.com/p/pandas-read-csv)
 
-[pandas.read_excel 详细介绍](https://www.gairuo.com/p/pandas-read-excel)
+[pandas.read\_excel 详细介绍](https://www.gairuo.com/p/pandas-read-excel)
 
 ### 教程
 
 [30分钟带你入门数据分析工具 Pandas](https://oicebot.github.io/2018/09/05/30-mins-into-pandas-for-data-science.html)
 
-[十分钟入门 Pandas](https://www.pypandas.cn/docs/getting_started/10min.html) 🚩
+[十分钟入门 Pandas](https://www.pypandas.cn/docs/getting\_started/10min.html) 🚩
 
 ### 读取写入数据
 
 * CSV
-  * [写入 CSV 文件 (opens new window)](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-store-in-csv)。
+  * [写入 CSV 文件 (opens new window)](https://pandas.pydata.org/pandas-docs/stable/user\_guide/io.html#io-store-in-csv)。
 
 ```
 In [143]: df.to_csv('foo.csv')
@@ -161,7 +161,7 @@ In [144]: pd.read_csv('foo.csv')
 ```
 
 * Excel
-  * 详见 [Excel (opens new window)](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel)文档。
+  * 详见 [Excel (opens new window)](https://pandas.pydata.org/pandas-docs/stable/user\_guide/io.html#io-excel)文档。
   * 写入 Excel 文件：
 
 ```
@@ -177,9 +177,9 @@ In [148]: pd.read_excel('foo.xlsx', 'Sheet1', index_col=None, na_values=['NA'])
 
 
 
-### Pandas 数据结构 <a href="pandas-shu-ju-jie-gou" id="pandas-shu-ju-jie-gou"></a>
+### Pandas 数据结构 <a href="#pandas-shu-ju-jie-gou" id="pandas-shu-ju-jie-gou"></a>
 
-#### 1. Series <a href="1-series" id="1-series"></a>
+#### 1. Series <a href="#1-series" id="1-series"></a>
 
 Series 是一种一维数组，和 NumPy 里的数组很相似。事实上，Series 基本上就是基于 NumPy 的数组对象来的。和 NumPy 的数组不同，Series 能为数据自定义标签，也就是索引（index），然后通过索引来访问数组中的数据。
 
@@ -194,7 +194,7 @@ import pandas as pd
 my_series = pd.Series(data, index)
 ```
 
-#### 2. DataFrames <a href="2-dataframes" id="2-dataframes"></a>
+#### 2. DataFrames <a href="#2-dataframes" id="2-dataframes"></a>
 
 Pandas 的 DataFrame（数据表）是一种 2 维数据结构，数据以表格的形式存储，分成若干行和列。通过 DataFrame，你能很方便地处理数据。常见的操作比如选取、替换行或列的数据，还能重组数据表、修改索引、多重筛选等。
 
@@ -208,9 +208,9 @@ pd.DataFrame(data,index)
 df = pd.DataFrame(data,index) 
 ```
 
-### 可视化 <a href="ke-shi-hua" id="ke-shi-hua"></a>
+### 可视化 <a href="#ke-shi-hua" id="ke-shi-hua"></a>
 
-详见[可视化 (opens new window)](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#visualization)文档。
+详见[可视化 (opens new window)](https://pandas.pydata.org/pandas-docs/stable/user\_guide/visualization.html#visualization)文档。
 
 ```
 In [135]: ts = pd.Series(np.random.randn(1000),
@@ -223,9 +223,9 @@ In [137]: ts.plot()
 Out[137]: <matplotlib.axes._subplots.AxesSubplot at 0x7f2b5771ac88>
 ```
 
-![可视化](https://static.pypandas.cn/public/static/images/series_plot_basic.png)
+![可视化](https://static.pypandas.cn/public/static/images/series\_plot\_basic.png)
 
-DataFrame 的 [plot() (opens new window)](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#visualization)方法可以快速绘制所有带标签的列：
+DataFrame 的 [plot() (opens new window)](https://pandas.pydata.org/pandas-docs/stable/user\_guide/visualization.html#visualization)方法可以快速绘制所有带标签的列：
 
 ```
 In [138]: df = pd.DataFrame(np.random.randn(1000, 4), index=ts.index,
@@ -244,7 +244,7 @@ In [142]: plt.legend(loc='best')
 Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 ```
 
-![可视化2](https://static.pypandas.cn/public/static/images/frame_plot_basic.png)
+![可视化2](https://static.pypandas.cn/public/static/images/frame\_plot\_basic.png)
 
 ## [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY)  🚩
 
@@ -254,13 +254,15 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 ## [python实现统计学包Scipy所有语法](https://www.bilibili.com/read/cv12026943) 🚩
 
-## [python 正态分布\_python绘制正态分布及三大抽样分布的概率密度图像](https://blog.csdn.net/weixin\_39725403/article/details/111293843) <a href="articlecontentid" id="articlecontentid"></a>
+## [python 正态分布\_python绘制正态分布及三大抽样分布的概率密度图像](https://blog.csdn.net/weixin\_39725403/article/details/111293843) <a href="#articlecontentid" id="articlecontentid"></a>
 
 ## [太玄的工具库0X04 NumPy SciPy](https://www.bilibili.com/read/cv115510) 🚩
 
 ## [【2021新版】Python入门编程100例，用小例子提升实战技能！](https://www.bilibili.com/video/BV1of4y1a7pz)
 
-## [python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP) 
+[python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP)\
+
+
 
 |                      |                              |                                                                                                                |
 | -------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -275,9 +277,9 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 | Jupyter Notebook/Lab |                              |                                                                                                                |
 | PyCharm              |                              |                                                                                                                |
 
-[SciPy - Stats\_学习Scipy|WIKI教程](https://iowiki.com/scipy/scipy_stats.html)
+[SciPy - Stats\_学习Scipy|WIKI教程](https://iowiki.com/scipy/scipy\_stats.html)
 
-[Scipy统计函数- Scipy教程™ - 易百教程](https://www.yiibai.com/scipy/scipy_stats.html) 🚩
+[Scipy统计函数- Scipy教程™ - 易百教程](https://www.yiibai.com/scipy/scipy\_stats.html) 🚩
 
 [NumPy Ndarray 对象| 菜鸟教程](https://www.runoob.com/numpy/numpy-ndarray-object.html)
 
@@ -287,7 +289,7 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 * [scipy：高级科学计算| SciPy Lecture Notes 中文版 🚩](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/4.html)
 
-## 1.5 Scipy：高级科学计算 <a href="15scipy-gao-ji-ke-xue-ji-suan" id="15scipy-gao-ji-ke-xue-ji-suan"></a>
+## 1.5 Scipy：高级科学计算 <a href="#15scipy-gao-ji-ke-xue-ji-suan" id="15scipy-gao-ji-ke-xue-ji-suan"></a>
 
 作者：Adrien Chauve, Andre Espaze, Emmanuelle Gouillart, Gaël Varoquaux, Ralf Gommers
 
@@ -342,7 +344,7 @@ from scipy import stats  # 其他的子模块类似
 * [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)🚩
 * ****[**机器学习之数据的偏态分布和数据的标准化**](https://blog.csdn.net/m0\_37870649/article/details/80638179)**🚩**
 * [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002?tid=1452937471)🚩
-  *   源码下载链接：[https://pan.baidu.com/s/19XC28Hz_TwnSQeuVifg1UQ](https://pan.baidu.com/s/19XC28Hz_TwnSQeuVifg1UQ) 
+  *   源码下载链接：[https://pan.baidu.com/s/19XC28Hz\_TwnSQeuVifg1UQ](https://pan.baidu.com/s/19XC28Hz\_TwnSQeuVifg1UQ)&#x20;
 
       提取码：mocm
 {% endhint %}
@@ -356,7 +358,7 @@ from scipy import stats  # 其他的子模块类似
 pandas.concat()通常用来连接DataFrame对象。\
 [pandas中concat()的用法](https://zhuanlan.zhihu.com/p/69224745)
 
-#### .reset_index(drop=True)
+#### .reset\_index(drop=True)
 
 ### 索引 pandas (loc、iloc、ix)
 
@@ -365,9 +367,9 @@ pandas.concat()通常用来连接DataFrame对象。\
 **iloc：**通过行号索引行数据\
 **ix：**通过行标签或行号索引数据（基于loc和iloc的混合）
 
-### 删除 pandas.drop(columns=\__\__\_)
+### 删除 pandas.drop(columns=\_\_\_\_\_)
 
-### 插入 pandas.insert(1,columns=\__\__\_,value=\__\__\_)
+### 插入 pandas.insert(1,columns=\_\_\_\_\_,value=\_\_\_\_\_)
 
 ### 改名 pandas.rename(字典)
 
@@ -375,7 +377,7 @@ pandas.concat()通常用来连接DataFrame对象。\
 
 ### 追加.append
 
-#### .reset_index(drop=True)
+#### .reset\_index(drop=True)
 
 ### .at
 
@@ -383,7 +385,7 @@ pandas.concat()通常用来连接DataFrame对象。\
 
 
 
-### .concat(),.iloc(),.drop(),.insert(),.rename(),.append(),.reset_index(),.at(),.index()
+### .concat(),.iloc(),.drop(),.insert(),.rename(),.append(),.reset\_index(),.at(),.index()
 
 [原创 PANDAS 数据合并与重塑（concat篇）](https://blog.csdn.net/stevenkwong/article/details/52528616)
 
