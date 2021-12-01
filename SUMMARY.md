@@ -16,7 +16,7 @@
 * [【组织】团队构成](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/README.md)
   * [创始人信息](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi.md)
 
-## BFM URS. | 比坊梦联储 <a href="bfmurs" id="bfmurs"></a>
+## BFM URS. | 比坊梦联储 <a href="#bfmurs" id="bfmurs"></a>
 
 * [比坊梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
 * [比坊梦基金会](bfmurs/untitled-1.md)
@@ -73,6 +73,7 @@
     * [卓尔金升级A9——下拉菜单](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a9-xia-la-cai-dan.md)
     * [卓尔金升级A10——xlwings与Python连接](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a10xlwings-yu-python-lian-jie.md)
     * [卓尔金升级A11——KDE核密度估计](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a11kde-he-mi-du-gu-ji.md)
+    * [卓尔金升级A12——凯利准则](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a12-kai-li-zhun-ze.md)
     * [卓尔金历法旧版页面](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
   * [战术资产配置——哈布历⌚️](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/README.md)
     * [哈布历法1层次](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/ha-bu-li-fa-yan-jiu.md)
@@ -108,7 +109,7 @@
 * [International Bank Card](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-yin-hang-ka-ban-li.md)
 * [草稿](bfm-trad.-bi-fang-meng-jin-dian/cao-gao.md)
 
-## BFM Meta | 比坊梦元宇宙 <a href="bfm-meta" id="bfm-meta"></a>
+## BFM Meta | 比坊梦元宇宙 <a href="#bfm-meta" id="bfm-meta"></a>
 
 * [BFM Meta](bfm-meta/bi-fang-meng-yuan-yu-zhou/README.md)
   * [BFM Meme 🐶 💩](bfm-meta/bi-fang-meng-yuan-yu-zhou/bfm-meme.md)
