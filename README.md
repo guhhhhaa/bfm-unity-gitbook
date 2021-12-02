@@ -62,13 +62,13 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 [juan-zeng-da-shang.md](bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md)
 {% endcontent-ref %}
 
+![](<.gitbook/assets/截屏2021-12-02 上午8.51.48.png>)
+
 ## 本项目使用 GNU General Public License v3.0
 
 {% content-ref url="feng-kong-yu-he-gui/gpl-v3.md" %}
 [gpl-v3.md](feng-kong-yu-he-gui/gpl-v3.md)
 {% endcontent-ref %}
-
-![](<.gitbook/assets/截屏2021-12-02 上午8.10.52.png>)
 
 ## 价值矩阵
 
