@@ -25,7 +25,7 @@
 
 ## BFM Str. | 比坊梦交易策略
 
-* [布法梦交易策略(二级市场)♟](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bu-fa-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
+* [布法梦交易策略(二级市场)♟](bfm-da-bi-fang-meng-shu-chan/bi-fang-meng-tou-zi-ce-lve-er-ji-shi-chang.md)
 
 ## BFM Eco. | 比坊梦生态
 
