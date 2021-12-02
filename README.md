@@ -4,7 +4,7 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 
 # 💎 BF​M Unity : Blockchain · Finance · Metaverse
 
-> ## **比坊梦 : 区块链 · 金融 · 元宇宙**
+> ## 布法**梦 : 区块链 · 金融 · 元宇宙**
 >
 > **BF​M Unity : Blockchain · Finance · Metaverse**
 
@@ -62,7 +62,7 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 [juan-zeng-da-shang.md](bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md)
 {% endcontent-ref %}
 
-![](<.gitbook/assets/截屏2021-12-02 上午8.51.48.png>)
+![](<.gitbook/assets/截屏2021-12-02 上午10.42.01.png>)
 
 ## 本项目使用 GNU General Public License v3.0
 
