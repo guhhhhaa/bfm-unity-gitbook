@@ -1,12 +1,12 @@
-# 比坊梦全球互联网 基金
+# 布法梦全球互联网 基金
 
-## 比坊梦全球互联网 - [策略表格](https://share.weiyun.com/0l7xaENZ)
+## 布法梦全球互联网 - [策略表格](https://share.weiyun.com/0l7xaENZ)
 
-## 比坊梦全球互联网 - 被动 基金
+## 布法梦全球互联网 - 被动 基金
 
 {% embed url="https://qieman.com/portfolios/ZH116702" %}
 
-## 比坊梦全球互联网 - 主动 基金
+## 布法梦全球互联网 - 主动 基金
 
 {% embed url="https://qieman.com/portfolios/ZH116751" %}
 
@@ -37,4 +37,3 @@ return x_i*(ABS(x_i)/MAX(0.0…01,1-ABS(x_i)))/SUM((ABS(x_i)/MAX(0.0…01,1-ABS(
 return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 }
 ```
-

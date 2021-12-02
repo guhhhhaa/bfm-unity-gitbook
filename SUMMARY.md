@@ -18,14 +18,14 @@
 
 ## BFM URS. | 比坊梦联储 <a href="#bfmurs" id="bfmurs"></a>
 
-* [比坊梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
-* [比坊梦基金会](bfmurs/untitled-1.md)
-* [比坊梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
+* [布法梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
+* [布法梦基金会](bfmurs/untitled-1.md)
+* [布法梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
 * [若尘的基金](bfmurs/ruo-chen-de-qie-man-ji-jin.md)
 
 ## BFM Str. | 比坊梦交易策略
 
-* [比坊梦交易策略(二级市场)♟](bfm-da-bi-fang-meng-shu-chan/bi-fang-meng-tou-zi-ce-lve-er-ji-shi-chang.md)
+* [布法梦交易策略(二级市场)♟](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bu-fa-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
 
 ## BFM Eco. | 比坊梦生态
 
