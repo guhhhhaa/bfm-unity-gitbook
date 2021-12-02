@@ -1,6 +1,6 @@
 # 卓尔金升级A12——凯利准则
 
-![](../../../.gitbook/assets/比坊梦风险控制部.png) ![](../../../.gitbook/assets/FDB5B336C9DED9A993E8B15334BCF683.jpg)
+![](<../../../.gitbook/assets/比坊梦风险控制部 (1).png>) ![](../../../.gitbook/assets/FDB5B336C9DED9A993E8B15334BCF683.jpg)
 
 ## 〇
 
