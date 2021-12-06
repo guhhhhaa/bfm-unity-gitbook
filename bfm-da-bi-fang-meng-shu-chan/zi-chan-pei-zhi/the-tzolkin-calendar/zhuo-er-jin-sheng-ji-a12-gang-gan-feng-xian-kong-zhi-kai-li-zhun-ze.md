@@ -193,3 +193,5 @@ EXCEL运用COVARIANCE.S计算协方差
 COVAR函数用来计算协方差，即每对数据点的偏差乘积的平均数，利用协方差可以决定两个数据集之间的关系。例如，可利用它来检验受教育程度与收入档次之间的关系。COVAR函数的语法如下：
 
 COVAR(array1,array2) 其中，array1参数为第1个所含数据为整数的单元格区域，Array2参数为第2个所含数据为整数的单元格区域。
+
+[https://blog.csdn.net/duanyule\_cqu/article/details/54959897/](https://blog.csdn.net/duanyule\_cqu/article/details/54959897/)
