@@ -148,7 +148,11 @@ excel 如何使用数组公式来找到行或列中的最后一个非空单元�
 
 注意：以上公式都是数组公式，所以你必须使用CTRL+SHIFT+ENTER来输入这些公式
 
+## 七
 
+{% embed url="https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi" %}
+
+![](<../../../.gitbook/assets/image (57).png>)
 
 P\_0=1
 
