@@ -13,8 +13,7 @@
   * [【选择】学区房 or 比特币](bfm-unity-bi-fang-meng-lian-he-ti/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/xuan-ze-xue-qu-fang-or-bi-te-bi.md)
 * [【运营】加入组建](bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/README.md)
   * [群公告备份](bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md)
-* [【组织】团队构成](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/README.md)
-  * [创始人信息](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui/wo-de-ge-ren-xin-xi.md)
+* [【组织】团队构成](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui.md)
 
 ## BFM URS. | 比坊梦联储 <a href="#bfmurs" id="bfmurs"></a>
 
