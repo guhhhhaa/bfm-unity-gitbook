@@ -1,24 +1,43 @@
 # 素白 · 密斯卡托尼克大学 🏫
 
-![](../../../.gitbook/assets/r43126f5d8305fcbfac32a88fd89eefc1.jpeg)
+![](<../../../.gitbook/assets/r43126f5d8305fcbfac32a88fd89eefc1 (1).jpeg>)
 
-{% page-ref page="excel-jiao-shi.md" %}
+{% content-ref url="excel-jiao-shi.md" %}
+[excel-jiao-shi.md](excel-jiao-shi.md)
+{% endcontent-ref %}
 
-{% page-ref page="power-bi-jiao-cheng.md" %}
+{% content-ref url="power-bi-jiao-cheng.md" %}
+[power-bi-jiao-cheng.md](power-bi-jiao-cheng.md)
+{% endcontent-ref %}
 
-{% page-ref page="spss-jiao-cheng.md" %}
+{% content-ref url="spss-jiao-cheng.md" %}
+[spss-jiao-cheng.md](spss-jiao-cheng.md)
+{% endcontent-ref %}
 
-{% page-ref page="python-shao-er-bian-cheng/" %}
+{% content-ref url="python-shao-er-bian-cheng/" %}
+[python-shao-er-bian-cheng](python-shao-er-bian-cheng/)
+{% endcontent-ref %}
 
-{% page-ref page="ben-di-kai-fa-huan-jing.md" %}
+{% content-ref url="ben-di-kai-fa-huan-jing.md" %}
+[ben-di-kai-fa-huan-jing.md](ben-di-kai-fa-huan-jing.md)
+{% endcontent-ref %}
 
-{% page-ref page="wen-xian-yu-shu-ju.md" %}
+{% content-ref url="wen-xian-yu-shu-ju.md" %}
+[wen-xian-yu-shu-ju.md](wen-xian-yu-shu-ju.md)
+{% endcontent-ref %}
 
-{% page-ref page="ji-chu-cai-shang-jiao-yu.md" %}
+{% content-ref url="ji-chu-cai-shang-jiao-yu.md" %}
+[ji-chu-cai-shang-jiao-yu.md](ji-chu-cai-shang-jiao-yu.md)
+{% endcontent-ref %}
 
-{% page-ref page="wang-luo-an-quan-dao-hang.md" %}
+{% content-ref url="wang-luo-an-quan-dao-hang.md" %}
+[wang-luo-an-quan-dao-hang.md](wang-luo-an-quan-dao-hang.md)
+{% endcontent-ref %}
 
-{% page-ref page="di-dai-ma-kai-fa.md" %}
+{% content-ref url="di-dai-ma-kai-fa.md" %}
+[di-dai-ma-kai-fa.md](di-dai-ma-kai-fa.md)
+{% endcontent-ref %}
 
-{% page-ref page="qian-duan-hou-duan.md" %}
-
+{% content-ref url="qian-duan-hou-duan.md" %}
+[qian-duan-hou-duan.md](qian-duan-hou-duan.md)
+{% endcontent-ref %}

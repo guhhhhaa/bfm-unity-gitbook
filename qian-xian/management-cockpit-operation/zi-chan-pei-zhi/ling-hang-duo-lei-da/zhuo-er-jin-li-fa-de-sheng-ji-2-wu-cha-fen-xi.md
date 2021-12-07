@@ -1,11 +1,11 @@
 # 卓尔金升级2——误差分析
 
 {% hint style="success" %}
-### 尊享版 4.0 —— 优化了UI，增加了误差分析功能 🚩
+#### 尊享版 4.0 —— 优化了UI，增加了误差分析功能 🚩
 
 [卓尔金飞船](https://share.weiyun.com/5vy0sGcS)
 
-科技赋能金融，提供极致简单体验。  
+科技赋能金融，提供极致简单体验。\
 比坊梦，打造全新区块链交易操作系统。
 {% endhint %}
 
@@ -14,4 +14,3 @@
 [梯度下降](https://baike.baidu.com/item/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/4864937?fr=aladdin)
 
 [点到线段距离](https://www.cnblogs.com/flyinggod/p/9359534.html)
-

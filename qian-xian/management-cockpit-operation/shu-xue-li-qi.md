@@ -1,6 +1,6 @@
 # 数学利器
 
-## 1，无监督学习的归一化操作伪代码—— 
+## 1，无监督学习的归一化操作伪代码——
 
 适用于任何**无顺序状态数据**（**不管数据分布如何**），应用sigmod函数之前的**归一化操作**：
 
@@ -29,7 +29,7 @@ b_1 = 算数平均数(极大值(LN(f_1()/a_1),N)
 
 **二阶导数**小于0，图象为凸；
 
-**二阶导数**等于0，不凹不凸。 
+**二阶导数**等于0，不凹不凸。
 
 当一阶导数等于0，而二阶导数大于0时，为极小值点。
 
@@ -39,7 +39,7 @@ b_1 = 算数平均数(极大值(LN(f_1()/a_1),N)
 
 在导数为0的点的两侧若函数单调性一致，则此点不是极值点
 
-极值点因子 = 此处的二阶导数/ABS\(此处的一阶导数\)
+极值点因子 = 此处的二阶导数/ABS(此处的一阶导数)
 
 ```c
 极值点因子 = 此处的二阶导数/ABS(此处的一阶导数)
@@ -74,7 +74,7 @@ b_1 = 算数平均数(极大值(LN(f_1()/a_1),N)
 
 ## 2，判断牛熊，用于决策的，施密特触发器伪代码：
 
-IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数  
+IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数\
 [**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
 
 ```python
@@ -111,18 +111,18 @@ else return y_0 # 否则，维持原状态
 }
 ```
 
-![](../../.gitbook/assets/975d5638f160e54637ce82334bc30b2b.jpg)
+![](<../../.gitbook/assets/975d5638f160e54637ce82334bc30b2b (1).jpg>)
 
-![](../../.gitbook/assets/a4.png)
+![](<../../.gitbook/assets/a4 (2).png>)
 
 ## 3，无监督学习的状态综合——[同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)：
 
 {% embed url="https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve" %}
 
-**注：ABS\(\)** 函数 是 **绝对值\(\)** 函数，  
-**MAX\(\)** 函数 是 **比较大小并取其中的大者\(\)** 函数，
+**注：ABS()** 函数 是 **绝对值()** 函数，\
+**MAX()** 函数 是 **比较大小并取其中的大者()** 函数，
 
-IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数  
+IF函数 [**其他函数**](https://zhuanlan.zhihu.com/p/51366759) IFS函数 Choose函数\
 [**多条件逻辑函数**](https://zhuanlan.zhihu.com/p/38326242)：AND、OR、IF
 
 ```python
@@ -149,7 +149,7 @@ return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 }
 ```
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](<../../.gitbook/assets/image (11).png>)
 
 ## 4，总结应用（已失效，用[卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)代替）
 
@@ -158,4 +158,3 @@ MVRV            ➡️ 归一化操作 ➡️ 施密特触发器 ↘️
                                         同架策略 ➡️ 仓位结果
 S2F预测价格/价格0 ➡️ 归一化操作 ➡️ 施密特触发器 ↗️
 ```
-

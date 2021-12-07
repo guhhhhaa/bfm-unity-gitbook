@@ -1,9 +1,9 @@
 # 卓尔金升级1——拟合函数
 
 {% hint style="success" %}
-### 智能版 3.0 —— 智能函数拟合，更精确，更易调节
+#### 智能版 3.0 —— 智能函数拟合，更精确，更易调节
 
-[卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr)  \|  [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
+[卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr) | [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 
 紧跟时代步伐，引领行业变革。
 {% endhint %}
@@ -43,4 +43,3 @@ ReLU(x) = MAX(x,0)
 
 Swish(x) = x * sigmoid(x)
 ```
-

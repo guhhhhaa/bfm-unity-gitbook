@@ -4,105 +4,121 @@ description: The Tzolkin Calendar
 
 # 战略资产配置——卓尔金历 🕙
 
-![](../../../../.gitbook/assets/v2-57e4789f96a64829e512ff545e8cc34d_1440w.jpeg)
+![](../../../../.gitbook/assets/v2-57e4789f96a64829e512ff545e8cc34d\_1440w.jpeg)
 
-> My clock is paper financial time    我的**时钟**显示账面的**金融时间**
+> My clock is paper financial time 我的**时钟**显示账面的**金融时间**
 >
-> ——[《C》-  岩崎琢](https://music.163.com/#/song?id=22713696)
+> ——[《C》- 岩崎琢](https://music.163.com/#/song?id=22713696)
 
 > 歌者启动了**大眼睛**的进程。
 >
 > —— 《三体》- 刘慈欣
 
-{% page-ref page="../" %}
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
 
-{% page-ref page="../../../lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+{% content-ref url="../../../lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+[yu-zhou-mo-fang-hui-gui-fen-xi.md](../../../lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 Disclaimer: **Any information found on this page is not to be considered as financial advice. You should do your own research before making any decisions.**
 {% endhint %}
 
 {% hint style="success" %}
-## 最新版下载链接🔗    [卓尔金+哈布飞船5.02](https://share.weiyun.com/7rzN1OXD)
+### 最新版下载链接🔗 [卓尔金+哈布飞船5.02](https://share.weiyun.com/7rzN1OXD)
 
-### [表格怎么](https://www.bilibili.com/video/BV1HU4y1a7Ve)[使用？](https://www.bilibili.com/video/BV1HU4y1a7Ve)        ⬅️ 不会用的小白看这个
+#### [表格怎么](https://www.bilibili.com/video/BV1HU4y1a7Ve)[使用？](https://www.bilibili.com/video/BV1HU4y1a7Ve) ⬅️ 不会用的小白看这个
 
-### 含有重要数据分析报告下载链接🔗     [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
+#### 含有重要数据分析报告下载链接🔗 [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 {% endhint %}
 
 {% hint style="success" %}
-### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS)  \|  [宣传视频2](https://www.bilibili.com/video/BV16X4y1g7tH/)  \|  [代言视频1](https://www.bilibili.com/video/BV13x411R7Lf)  \|  [代言视频2](https://www.bilibili.com/video/BV12b411p7Hi)
+#### [宣传视频1](https://www.bilibili.com/video/BV1K64y1S7FS) | [宣传视频2](https://www.bilibili.com/video/BV16X4y1g7tH/) | [代言视频1](https://www.bilibili.com/video/BV13x411R7Lf) | [代言视频2](https://www.bilibili.com/video/BV12b411p7Hi)
 {% endhint %}
 
-{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+{% content-ref url="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
+[zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md](zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
+{% content-ref url="zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md" %}
+[zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md](zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md" %}
+[zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md](zhuo-er-jin-sheng-ji-3-tu-ling-wan-bei.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md" %}
+[zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md](zhuo-er-jin-sheng-ji-4-dong-tai-tu-biao.md)
+{% endcontent-ref %}
 
-{% page-ref page="zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+{% content-ref url="zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+[zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md](zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
-## 版本记录
+### 版本记录
 
-### 经典版 1.0
+#### 经典版 1.0
 
-[卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
+[卓尔金历法](https://share.weiyun.com/dhfGbd7l) | [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
 
-### 升级版 2.0 —— 范围更大，考虑情况更多
+#### 升级版 2.0 —— 范围更大，考虑情况更多
 
-[卓尔金历法](https://share.weiyun.com/dhfGbd7l)  \|  [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
+[卓尔金历法](https://share.weiyun.com/dhfGbd7l) | [卓尔金-探索者号飞船](https://share.weiyun.com/NAsqLyq8)
 
-### 智能版 3.0 —— 智能函数拟合，更精确，更易调节
+#### 智能版 3.0 —— 智能函数拟合，更精确，更易调节
 
-[卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr)  \|  [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
+[卓尔金-智能原子钟](https://share.weiyun.com/y9kahvvr) | [卓尔金-智能飞船](https://share.weiyun.com/NrrPpvCw)
 
-### 尊享版 4.0 —— 优化了UI，增加了误差分析功能
+#### 尊享版 4.0 —— 优化了UI，增加了误差分析功能
 
 [卓尔金飞船](https://share.weiyun.com/5vy0sGcS)
 
-### 哈布历 4.9 —— 增加了哈布历法
+#### 哈布历 4.9 —— 增加了哈布历法
 
 [卓尔金+哈布飞船](https://share.weiyun.com/O2bZwwMx)
 
-### 哈布历 5.0 —— 微调更新，优化了部分公式，修复了链接型的BUG，优化了UI，添加了LOGO
+#### 哈布历 5.0 —— 微调更新，优化了部分公式，修复了链接型的BUG，优化了UI，添加了LOGO
 
-[卓尔金+哈布飞船\(1\)](https://share.weiyun.com/kqakKw4y)
+[卓尔金+哈布飞船(1)](https://share.weiyun.com/kqakKw4y)
 
-### 哈布历 5.01 —— 增加了与目录间的链接
+#### 哈布历 5.01 —— 增加了与目录间的链接
 
 [卓尔金+哈布飞船5.01](https://share.weiyun.com/miHqj1Ri)
 
-### 哈布历 5.02 —— 
+#### 哈布历 5.02 ——
 
-重组了卓尔金历法实验室，以适应更复杂的自动化分析，未来只需要输入参数，不需要像以前那样做实验了；  
-增加了卓尔金历法实验室与记录仪和卓尔金历法中参数的的连接，使卓尔金历法更智能；  
+重组了卓尔金历法实验室，以适应更复杂的自动化分析，未来只需要输入参数，不需要像以前那样做实验了；\
+增加了卓尔金历法实验室与记录仪和卓尔金历法中参数的的连接，使卓尔金历法更智能；\
 增加了卓尔金历法实验室对神经网络中心点的控制，对延展参数的控制正在研究中。
 
 [卓尔金+哈布飞船5.02](https://share.weiyun.com/7rzN1OXD)
 {% endhint %}
 
-![](../../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
+![](<../../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi- (1).png>)
 
 #### [http://www.chidaolian.com/article-45496-1](http://www.chidaolian.com/article-45496-1)
 
 #### 熊市：下跌到顶点的1/5
 
-#### 震荡市：振荡上涨2倍 
+#### 震荡市：振荡上涨2倍
 
 #### 牛市：减半后，上涨32倍-64倍
 
-熊市做空时。可以买杠杆代币BTCDOWN，并计算好杠杆率。  
-震荡行情，网格是用币优做的，BTC/USDT   
-牛市做多时。可以用币安的流动性挖矿，做BTC/ETH。 
+熊市做空时。可以买杠杆代币BTCDOWN，并计算好杠杆率。\
+震荡行情，网格是用币优做的，BTC/USDT\
+牛市做多时。可以用币安的流动性挖矿，做BTC/ETH。
 
 具体软件如下：
 
-{% page-ref page="../../" %}
+{% content-ref url="../../" %}
+[..](../../)
+{% endcontent-ref %}
 
-## [归一化操作](https://www.bfm-unity.com/management-cockpit-operation/shu-xue-li-qi) 
+## [归一化操作](https://www.bfm-unity.com/management-cockpit-operation/shu-xue-li-qi)
 
 数据归一到（-1，1）
 
@@ -114,7 +130,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## 图表说明
 
-![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210329-xia-wu-9.13.03.png)
+![](<../../../../.gitbook/assets/ping-mu-kuai-zhao-20210329-xia-wu-9.13.03 (1).png>)
 
 **蓝色曲线——横X轴——MVRV——**[**数据来源**](https://www.blockchain.com/charts/mvrv)\*\*\*\*
 
@@ -122,27 +138,27 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## 回测研究
 
-![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46.png)
+![](<../../../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46 (1).png>)
 
-![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.59.png)
+![](<../../../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.59 (1).png>)
 
-![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-7.12.11.png)
+![](<../../../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-7.12.11 (1).png>)
 
 ## 归纳推理
 
-![&#x5353;&#x5C14;&#x91D1;&#x5386;&#x6CD5;](../../../../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
+![卓尔金历法](<../../../../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo- (1).png>)
 
-![&#x56FE;&#x4E2D;&#x6570;&#x5B57;&#x6307;&#x7684;&#x662F;&#x63A8;&#x8350;&#x4ED3;&#x4F4D;](../../../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
+![图中数字指的是推荐仓位](<../../../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da- (1).png>)
 
 ## **历法**说明
 
 **顺着三角形顺时针运行，**
 
-**红色是牛市，绿色是熊市，蓝色是震荡市。** 
+**红色是牛市，绿色是熊市，蓝色是震荡市。**
 
 **从蓝色到红色，减半开始，此时需要加杠杆，满仓多。**
 
-**顺时针运行 ，落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。** 
+**顺时针运行 ，落到第一个黑色框，就是牛市顶峰，熊市开始，可以做空。**
 
 **顺时针运行 ，落到第二个黑色框，就是熊市底部，可以入场开网格。**
 
@@ -150,11 +166,11 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## 模拟神经网络查找表
 
-![&#x8D85;&#x9AD8;&#x6E05;](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210416-xia-wu-1.16.07.png)
+![超高清](<../../../../.gitbook/assets/ping-mu-kuai-zhao-20210416-xia-wu-1.16.07 (1).png>)
 
 ## 确定仓位
 
-* [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538_825825)
+* [史上最牛查找函数组合Index+Match](https://www.sohu.com/a/334505538\_825825)
 * [EXCEL取小数点后一位](https://zhidao.baidu.com/question/27632380.html)
 
 ```python
@@ -173,17 +189,15 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 ## **与美林时钟的关系**
 
-
-
-![](../../../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-10.44.27.png)
+![](<../../../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-10.44.27 (1).png>)
 
 两个随机变量，才能校准、判断一个周期。
 
-一个随机变量，是无法校准、判断周期的，所以用MACD，BOLL都是没用的。 
+一个随机变量，是无法校准、判断周期的，所以用MACD，BOLL都是没用的。
 
 一个随机变量，单独用MVRV，或者单独用S2F，噪声扰动太大，所以不能单独用，必须二者结合判断。
 
-在比特币，这两个随机变量是MVRV，S2F。 
+在比特币，这两个随机变量是MVRV，S2F。
 
 在现实世界，这两个随机变量是GDP，CPI，或者货币，信用。
 
@@ -191,39 +205,39 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 不要让自己的人性干扰判断，比如说我那个卓尔金历法，
 
-如果你是普通人，按照感性思考，是无法理解价格的指数增长的，所以我用数学的LN\(\)来放弃感性思考。我放弃让自己来思考指数增长，而把指数增长的部分都取LN\(\)来滤除。一个指数增长的数列取LN\(\)之后就变成了线性增长，这样我只需要思考简单的线性增长就行。我通过一系列数学映射，简化了判断。 
+如果你是普通人，按照感性思考，是无法理解价格的指数增长的，所以我用数学的LN()来放弃感性思考。我放弃让自己来思考指数增长，而把指数增长的部分都取LN()来滤除。一个指数增长的数列取LN()之后就变成了线性增长，这样我只需要思考简单的线性增长就行。我通过一系列数学映射，简化了判断。
 
 而且我放弃了思考价格和时间之间的关系，把绝对价格换成相对价格，把衡量绝对时间换成衡量状态，这样一切就都是相对的状态，而不是绝对的价格和时间。
 
 用相对的思维来思考相对的牛熊，这样就容易多了。但是用绝对的思维思考相对的牛熊，就会很难。
 
-相对的思维就是把一切都变成状态机，思考状态之间的切换，比如说我就把问题简化成了一个只有\(-1，0，1\)这三种状态的状态机。把所有的变量都归一到这三种状态中，然后再思考它们的关系，这样就很容易发现周期规律。 
+相对的思维就是把一切都变成状态机，思考状态之间的切换，比如说我就把问题简化成了一个只有(-1，0，1)这三种状态的状态机。把所有的变量都归一到这三种状态中，然后再思考它们的关系，这样就很容易发现周期规律。
 
-但是一个连续的状态，如何转化成离散的判断呢？如何防止噪声干扰？如何防止频繁买卖？答案很简单，我们电子专业有一个叫\(施密特触发器\)的元器件，我们利用它的逻辑就可以了。简单地说，它的逻辑，就是达到阈值就切换，没达到阈值就维持原状态。这样就可以避免噪声干扰，实现AD转换了。 
+但是一个连续的状态，如何转化成离散的判断呢？如何防止噪声干扰？如何防止频繁买卖？答案很简单，我们电子专业有一个叫(施密特触发器)的元器件，我们利用它的逻辑就可以了。简单地说，它的逻辑，就是达到阈值就切换，没达到阈值就维持原状态。这样就可以避免噪声干扰，实现AD转换了。
 
-在某些人\(比如我\)的眼里，比特币就是宏观电子，就是宏观的状态机，就是由三种状态，两个随机变量构成的。 就像藏传佛教，宇宙就是由唵啊吽三种状态构成的。 我相信比特币就是宏观的电子，宏观的状态机。
+在某些人(比如我)的眼里，比特币就是宏观电子，就是宏观的状态机，就是由三种状态，两个随机变量构成的。 就像藏传佛教，宇宙就是由唵啊吽三种状态构成的。 我相信比特币就是宏观的电子，宏观的状态机。
 
 ## 局限性
 
-你可以研究过去的几次周期，来拟合这个三角形。 
+你可以研究过去的几次周期，来拟合这个三角形。
 
-不过既然我给出了研究结果，你再研究一遍，也差不了多少，所以只要会使用就行了。 
+不过既然我给出了研究结果，你再研究一遍，也差不了多少，所以只要会使用就行了。
 
 未来的话，每次达到新的阶段，都需要重新拟合一遍，来适应市场。
 
-而且，如果最坏的情况，就是这个模型失效了，我们也可能会重新修改模型的框架规则。 
+而且，如果最坏的情况，就是这个模型失效了，我们也可能会重新修改模型的框架规则。
 
 但是在一个周期内还是不需要修改的，在3个周期，也就是10-12年之内，这个模型会很稳定。10-12年之内，这个模型会很稳定。数据不需要太大的修改。
 
-我们很懒。不需要加班996改这个。 
+我们很懒。不需要加班996改这个。
 
 币圈人都知道，我们在一个没有尽头的电梯里，周围是无尽虚空。
 
-我能在黑暗中寻找一丝光亮，我已经尽力了。还是那句话，这里很危险。信则灵，不信则不灵。 
+我能在黑暗中寻找一丝光亮，我已经尽力了。还是那句话，这里很危险。信则灵，不信则不灵。
 
-我建议你先看一下《三体》，里面有一个假说，射手和农场主假设，这是很可怕的。 
+我建议你先看一下《三体》，里面有一个假说，射手和农场主假设，这是很可怕的。
 
-![](../../../../.gitbook/assets/98c03b7c3c216d56bb61d0199dff9239.jpg)
+![](<../../../../.gitbook/assets/98c03b7c3c216d56bb61d0199dff9239 (1).jpg>)
 
 但是，我们会因为害怕就放弃寻找规则吗？
 
@@ -233,7 +247,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 不过，减半行情是比特币自身的性质，这是不受市场上的人类行为的控制的。
 
-所以根据减半规则，推导出的比特币周期是可以站住脚的。 
+所以根据减半规则，推导出的比特币周期是可以站住脚的。
 
 还是那句话，你面对的是无尽虚空，而我是那个拿着火把的玛雅祭司。
 
@@ -241,11 +255,11 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 信不信由你，信则灵，不信则不灵。
 
-虽然玛雅文明最后灭亡了，但是历史是轮回的，玛雅文明至少创造了历史。 
+虽然玛雅文明最后灭亡了，但是历史是轮回的，玛雅文明至少创造了历史。
 
 历史是不可重复性实验，而科学是可重复性实验。
 
-所以，科学无法审判历史；所以，科学无法审判玛雅文明的卓尔金历法。 
+所以，科学无法审判历史；所以，科学无法审判玛雅文明的卓尔金历法。
 
 这是哲学问题，不是科学问题。
 
@@ -257,7 +271,7 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 特别是“活人献祭”的金融领域，所谓的科学很可能只是“射手与农场主”假说。
 
-但是我们也不能因噎废食，也要敢于发现规律，创造规律。 
+但是我们也不能因噎废食，也要敢于发现规律，创造规律。
 
 金融是什么？金融就是活人献祭。
 
@@ -305,19 +319,19 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 既然区块链已经离开了地球，为什么还要使用地球的时间和地球的坐标系？
 
-反正判断周期和时间和价格都没有关系。 
+反正判断周期和时间和价格都没有关系。
 
-比特币有自己的价值体系，有自己的时钟系统。 所以外界时间影响不到它的运行。 这就是为什么比特币可以逃过摩尔定律的原因。 
+比特币有自己的价值体系，有自己的时钟系统。 所以外界时间影响不到它的运行。 这就是为什么比特币可以逃过摩尔定律的原因。
 
-所以，我们用现实的美元和现实的时间是干扰不了比特币的……比特币自己有一套自己的经济体系（聪，交易手续费，挖矿成本，减半机制）和时间体系（区块高度，时间戳）。 
+所以，我们用现实的美元和现实的时间是干扰不了比特币的……比特币自己有一套自己的经济体系（聪，交易手续费，挖矿成本，减半机制）和时间体系（区块高度，时间戳）。
 
-所以，现实的经济动荡，和比特币是完全脱轨的。 
+所以，现实的经济动荡，和比特币是完全脱轨的。
 
 所以，基于现实世界消息面，判断多空，是完全没有用的。 两个连基本法则都脱轨的经济系统，怎么会有干扰？笑话。
 
 ## 讨论
 
-能回测出来的东西都不是秘密，不是秘密的东西就是共识，而共识才是最值钱的 
+能回测出来的东西都不是秘密，不是秘密的东西就是共识，而共识才是最值钱的
 
 回测出的东西=共识+噪声+过拟合。你要做的就是分离提纯出共识，去除噪声和过拟合
 
@@ -325,15 +339,15 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 不要小看共识，就算你认为不是秘密，不会有超额收益， 但是违背共识，也会付出沉重的代价。
 
-**不知道秘密，顶多没有超额收益。 但是不知道共识，可是连平均收益都没有。** 
+**不知道秘密，顶多没有超额收益。 但是不知道共识，可是连平均收益都没有。**
 
-**我认为市场共识占了收益的80%，而秘密和内幕消息只占了收益的20%** 
+**我认为市场共识占了收益的80%，而秘密和内幕消息只占了收益的20%**
 
-观点，构成了命题的假设和框架。一切命题都是建立在假设上的。然后才是数据分析。 假设很重要，比数据分析更重要 
+观点，构成了命题的假设和框架。一切命题都是建立在假设上的。然后才是数据分析。 假设很重要，比数据分析更重要
 
-我这个模型已经足够naive了，一般越naive越不容易过拟合 
+我这个模型已经足够naive了，一般越naive越不容易过拟合
 
-表达观点，强化共识的原因，只是为了防止陷入囚徒困境。 
+表达观点，强化共识的原因，只是为了防止陷入囚徒困境。
 
 宏观电子是没有量子态的。 一旦宏观了，量子态就很弱了
 
@@ -379,27 +393,27 @@ LN((S2F月预测价格/价格)/1.44)/1.68 # 对S2F的处理
 
 当你用数据分析指导决策的时候，实际上你就是在先占卜和后赌博。
 
-| 占卜 | 赌博 |
-| :--- | :--- |
-| 预测 | 博弈 |
-| 分析 | 决策 |
-| 唯心主义 | 唯物主义 |
-| 结合理论 | 联系实际 |
-| 思想 | 执行 |
-| 党 | 枪 |
-| 政治 | 金融 |
-| 科技 | 工程 |
-| 教育 | 就业 |
-| 文化 | 革命 |
-| 艺术 | 宗教 |
-| 学习 | 考试 |
-| 体检 | 治疗 |
-| 超我 | 自我，本我 |
-| 顶层设计 | 底层逻辑 |
-| 发展战略 | 宏观调控 |
-| 上层建筑 | 基础设施 |
+| 占卜   | 赌博    |
+| ---- | ----- |
+| 预测   | 博弈    |
+| 分析   | 决策    |
+| 唯心主义 | 唯物主义  |
+| 结合理论 | 联系实际  |
+| 思想   | 执行    |
+| 党    | 枪     |
+| 政治   | 金融    |
+| 科技   | 工程    |
+| 教育   | 就业    |
+| 文化   | 革命    |
+| 艺术   | 宗教    |
+| 学习   | 考试    |
+| 体检   | 治疗    |
+| 超我   | 自我，本我 |
+| 顶层设计 | 底层逻辑  |
+| 发展战略 | 宏观调控  |
+| 上层建筑 | 基础设施  |
 
-综上所述，整个世界都是由占卜和赌博构成的 
+综上所述，整个世界都是由占卜和赌博构成的
 
 占卜和赌博，才是世界的本质，宇宙的本源，万物的发源
 
@@ -629,15 +643,14 @@ Guhhhhaa  23:54:16
 
 ## 鲸鱼洄游
 
-我们是被潮水裹挟着前进，但是我们不能看不清方向。 
+我们是被潮水裹挟着前进，但是我们不能看不清方向。
 
- 比特币不是神，它只是一个鲸鱼，它的方向我们可以大概预测出来。
+比特币不是神，它只是一个鲸鱼，它的方向我们可以大概预测出来。
 
-毕竟它只是一个动物，有类似动物的洄游行为。 
+毕竟它只是一个动物，有类似动物的洄游行为。
 
- 不要太瞧得起比特币了，它也不过如此。
+不要太瞧得起比特币了，它也不过如此。
 
-#### [座头鲸沿直线洄游奥秘：或观星望日定方位](https://www.chinadaily.com.cn/hqgj/2011-04/22/content_12373180.htm)
+#### [座头鲸沿直线洄游奥秘：或观星望日定方位](https://www.chinadaily.com.cn/hqgj/2011-04/22/content\_12373180.htm)
 
-#### 背景图片：[https://photo.16pic.com/00/07/97/16pic\_797125\_b.jpg](https://photo.16pic.com/00/07/97/16pic_797125_b.jpg)
-
+#### 背景图片：[https://photo.16pic.com/00/07/97/16pic\_797125\_b.jpg](https://photo.16pic.com/00/07/97/16pic\_797125\_b.jpg)

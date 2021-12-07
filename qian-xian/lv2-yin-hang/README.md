@@ -1,20 +1,23 @@
-# LV2-影银行 \(枢纽\) 🏦
+# LV2-影银行 (枢纽) 🏦
 
-![](../../.gitbook/assets/yin-hang-pai-bian-.png)
+![](<../../.gitbook/assets/yin-hang-pai-bian- (1).png>)
 
-![](../../.gitbook/assets/yin-hang-deng-xiang-.png)
+![](<../../.gitbook/assets/yin-hang-deng-xiang- (1).png>)
 
-{% page-ref page="ge-ren-ye-wu/" %}
+{% content-ref url="ge-ren-ye-wu/" %}
+[ge-ren-ye-wu](ge-ren-ye-wu/)
+{% endcontent-ref %}
 
-{% page-ref page="untitled.md" %}
+{% content-ref url="untitled.md" %}
+[untitled.md](untitled.md)
+{% endcontent-ref %}
 
-{% page-ref page="chuang-shi-ye-wu.md" %}
+{% content-ref url="chuang-shi-ye-wu.md" %}
+[chuang-shi-ye-wu.md](chuang-shi-ye-wu.md)
+{% endcontent-ref %}
 
-{% page-ref page="zi-ying-tou-zi.md" %}
+{% content-ref url="zi-ying-tou-zi.md" %}
+[zi-ying-tou-zi.md](zi-ying-tou-zi.md)
+{% endcontent-ref %}
 
-
-
-![](../../.gitbook/assets/yin-hang-gao-shi-.png)
-
-
-
+![](<../../.gitbook/assets/yin-hang-gao-shi- (1).png>)

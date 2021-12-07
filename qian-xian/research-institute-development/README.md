@@ -2,11 +2,11 @@
 description: Research Institute (Development)
 ---
 
-# LV4-研究院 \(架构\) 🔬
+# LV4-研究院 (架构) 🔬
 
 ## 👩‍🔬 👨‍🔬 ➡️ 三角套利研究院 ⚠️ ☢️ ☠️ 🔥 💥 🧪 🔬 💻——黑洞计划
 
-![](../../.gitbook/assets/bfm-unity-hei-dong-tan-suo-.png)
+![](<../../.gitbook/assets/bfm-unity-hei-dong-tan-suo- (1).png>)
 
 {% hint style="info" %}
 我们在尝试部署[**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al)在[**币安**](https://www.binance.com/cn)上或者Uniswap上，进行单交易所内部多币种的多角套利。
@@ -18,17 +18,17 @@ description: Research Institute (Development)
 我们需要参考Peregrine的代码，自己编写并添加这个**执行**下单的程序。
 {% endhint %}
 
-![](../../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-.png)
+![](<../../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei- (1).png>)
 
 {% hint style="info" %}
 [**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx) **+** [**三角套利核心代码**](https://www.bfm-unity.com/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/bfm-suan-fa-de-wei-lai-fa-zhan-wei-wan-cheng)\*\*\*\*
 
-千千的搬砖之王策略  \|  [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA)  **\|**  [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)  
-****BellmanFord三角套利策略，是千千搬砖之王策略的算法升级版
+千千的搬砖之王策略 | [**视频**](https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA) **|** [**代码**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/ruan-jian-bfm-on-python/qian-qian-de-liang-hua-shi-jie-hou-ban-dai-ma)\
+\*\*\*\*BellmanFord三角套利策略，是千千搬砖之王策略的算法升级版
 
-千千的其它视频：[**上篇**](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA)  **\|**  [**下篇**](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA)  **\|**  [**部署**](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA)  **\|**  [**回测**](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw)  **\|**  [**三角套利策略介绍**](https://mp.weixin.qq.com/s/G5t7TyIyrH40Kl55feTDIw)\*\*\*\*
+千千的其它视频：[**上篇**](https://mp.weixin.qq.com/s/lVqcoBvtmyLaohz7DLtIoA) **|** [**下篇**](https://mp.weixin.qq.com/s/6qL4redQ3lFiNvZOowpBaA) **|** [**部署**](https://mp.weixin.qq.com/s/6bKVOqcYppqta3zRdMtvWA) **|** [**回测**](https://mp.weixin.qq.com/s/Ju4XFDHTq7wk2wokArmKGw) **|** [**三角套利策略介绍**](https://mp.weixin.qq.com/s/G5t7TyIyrH40Kl55feTDIw)\*\*\*\*
 
-[**宝塔面板**](https://www.bt.cn/)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） \|**  [**阿里云**](https://www.aliyun.com/)  **\|**  [**腾讯云**](https://cloud.tencent.com/)
+[**宝塔面板**](https://www.bt.cn)**（**[**安装教程**](https://www.bt.cn/bbs/thread-19376-1-1.html)**） |** [**阿里云**](https://www.aliyun.com) **|** [**腾讯云**](https://cloud.tencent.com)
 
 **相关知乎问题：**
 
@@ -42,19 +42,30 @@ description: Research Institute (Development)
 
 ## **导游**
 
-{% page-ref page="dao-you.md" %}
+{% content-ref url="dao-you.md" %}
+[dao-you.md](dao-you.md)
+{% endcontent-ref %}
 
 ## **总架构**
 
-{% page-ref page="xiao-bai-xue-cheng/" %}
+{% content-ref url="xiao-bai-xue-cheng/" %}
+[xiao-bai-xue-cheng](xiao-bai-xue-cheng/)
+{% endcontent-ref %}
 
-{% page-ref page="suan-fa-yan-jiu-yuan.md" %}
+{% content-ref url="suan-fa-yan-jiu-yuan.md" %}
+[suan-fa-yan-jiu-yuan.md](suan-fa-yan-jiu-yuan.md)
+{% endcontent-ref %}
 
-{% page-ref page="api-jie-kou-yan-jiu-yuan/" %}
+{% content-ref url="api-jie-kou-yan-jiu-yuan/" %}
+[api-jie-kou-yan-jiu-yuan](api-jie-kou-yan-jiu-yuan/)
+{% endcontent-ref %}
 
-{% page-ref page="yi-bu-bing-fa-xie-cheng-1/" %}
+{% content-ref url="yi-bu-bing-fa-xie-cheng-1/" %}
+[yi-bu-bing-fa-xie-cheng-1](yi-bu-bing-fa-xie-cheng-1/)
+{% endcontent-ref %}
 
-{% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/" %}
+{% content-ref url="kai-yuan-xiang-mu-yan-jiu-yuan/" %}
+[kai-yuan-xiang-mu-yan-jiu-yuan](kai-yuan-xiang-mu-yan-jiu-yuan/)
+{% endcontent-ref %}
 
-## 
-
+##

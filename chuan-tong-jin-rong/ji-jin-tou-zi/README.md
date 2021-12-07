@@ -10,7 +10,7 @@
 
 ## 群友推荐基金
 
-![](../../.gitbook/assets/2836d1dd67fb0fb86288f409a551e21e.png)
+![](<../../.gitbook/assets/2836d1dd67fb0fb86288f409a551e21e (1).png>)
 
 #### \*\*\*\*[**嘉实沪港深精选股票\[001878\]**](http://fund.eastmoney.com/001878.html)\*\*\*\*
 
@@ -18,5 +18,6 @@
 
 ## 若尘的且慢基金
 
-{% page-ref page="ruo-chen-de-qie-man-ji-jin.md" %}
-
+{% content-ref url="ruo-chen-de-qie-man-ji-jin.md" %}
+[ruo-chen-de-qie-man-ji-jin.md](ruo-chen-de-qie-man-ji-jin.md)
+{% endcontent-ref %}

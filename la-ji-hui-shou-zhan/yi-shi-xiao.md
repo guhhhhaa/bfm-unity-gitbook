@@ -4,9 +4,9 @@
 
 由于QQ在2021.4.14关闭了付费入群，为了防止群主被白嫖，设置付费入群10DOGE。
 
-群主币安地址 :（币安规则，站内转账会退还手续费，所以不必担心手续费问题） 
+群主币安地址 :（币安规则，站内转账会退还手续费，所以不必担心手续费问题）
 
-```text
+```
 D5pFBzY5bPciwM5is1kuLk3jk2wtVntked
 ```
 
@@ -18,7 +18,6 @@ D5pFBzY5bPciwM5is1kuLk3jk2wtVntked
 
 收费原因：我们的域名需要在腾讯云续费，每年65元。
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210415-xia-wu-12.40.19.png)
+![](<../.gitbook/assets/ping-mu-kuai-zhao-20210415-xia-wu-12.40.19 (1).png>)
 
-## 
-
+##
