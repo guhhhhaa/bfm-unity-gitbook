@@ -10,12 +10,12 @@
 
 \*\*\*\*[**CCXT Example - Github**](https://github.com/ccxt/ccxt/tree/master/examples) **🚩**
 
-{% content-ref url="ccxt-ke-ti-zu-1.md" %}
-[ccxt-ke-ti-zu-1.md](ccxt-ke-ti-zu-1.md)
+{% content-ref url="zhuo-er-jin-sheng-ji-a12-gang-gan-feng-xian-kong-zhi-kai-li-zhun-ze/ccxt-ke-ti-zu-1.md" %}
+[ccxt-ke-ti-zu-1.md](zhuo-er-jin-sheng-ji-a12-gang-gan-feng-xian-kong-zhi-kai-li-zhun-ze/ccxt-ke-ti-zu-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="ccxt-zhong-wen-kai-fa-shou-ce.md" %}
-[ccxt-zhong-wen-kai-fa-shou-ce.md](ccxt-zhong-wen-kai-fa-shou-ce.md)
+{% content-ref url="zhuo-er-jin-sheng-ji-a12-gang-gan-feng-xian-kong-zhi-kai-li-zhun-ze/ccxt-zhong-wen-kai-fa-shou-ce.md" %}
+[ccxt-zhong-wen-kai-fa-shou-ce.md](zhuo-er-jin-sheng-ji-a12-gang-gan-feng-xian-kong-zhi-kai-li-zhun-ze/ccxt-zhong-wen-kai-fa-shou-ce.md)
 {% endcontent-ref %}
 
 {% embed url="https://github.com/bilibilihuangyifan/cryptohedging/blob/master/blockhedging.py" %}
@@ -45,7 +45,7 @@
 
 * (10010.6671 - 10000) / 10000 = 1.06671 ‰
 
-![](<../../../../.gitbook/assets/37fyootled (1).png>)
+![](<../../../.gitbook/assets/37fyootled (1).png>)
 
 实际套利转化流程：\
 USDT -> BTC -> BCH -> USDT
@@ -60,7 +60,7 @@ Profit = P3/(P1xP2) - 1 # 公式的推到可以看下边的套利步骤
 
 #### 三角套利步骤[#](http://www.digtime.cn/articles/282/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li#%E4%B8%89%E8%A7%92%E5%A5%97%E5%88%A9%E6%AD%A5%E9%AA%A4) <a href="#san-jiao-tao-li-bu-zhou" id="san-jiao-tao-li-bu-zhou"></a>
 
-![](<../../../../.gitbook/assets/u6olvagcrv (1).png>)
+![](<../../../.gitbook/assets/u6olvagcrv (1).png>)
 
 P1 表示 A 的价格，P2 表示 ？的价格，P3 表示 ?/A 的价格
 
@@ -206,7 +206,7 @@ if __name__ == '__main__':
 
 结果：
 
-![](<../../../../.gitbook/assets/kvc6cwouee (1).png>)
+![](<../../../.gitbook/assets/kvc6cwouee (1).png>)
 
 BTC -> ETH -> AION -> BTC
 

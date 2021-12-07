@@ -6,21 +6,32 @@
 
 ## 专业研究
 
-{% page-ref page="../../he-xin/what-is-bfm-al/" %}
+{% content-ref url="../../he-xin/what-is-bfm-al/" %}
+[what-is-bfm-al](../../he-xin/what-is-bfm-al/)
+{% endcontent-ref %}
 
-{% page-ref page="../../he-xin/what-is-bfm-al/bfm-al-ckwx.md" %}
+{% content-ref url="../../he-xin/what-is-bfm-al/bfm-al-ckwx.md" %}
+[bfm-al-ckwx.md](../../he-xin/what-is-bfm-al/bfm-al-ckwx.md)
+{% endcontent-ref %}
 
 ## 深入研究
 
-{% page-ref page="../../he-xin/ruan-jian-bfm-on-python/" %}
+{% content-ref url="../../he-xin/ruan-jian-bfm-on-python/" %}
+[ruan-jian-bfm-on-python](../../he-xin/ruan-jian-bfm-on-python/)
+{% endcontent-ref %}
 
 ## 交叉研究
 
-{% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li/" %}
+{% content-ref url="kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li.md" %}
+[shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li.md](kai-yuan-xiang-mu-yan-jiu-yuan/shu-zi-huo-bi-liang-hua-xi-tong-ccxt-kuang-jia-shi-zhan-san-jiao-tao-li.md)
+{% endcontent-ref %}
 
-{% page-ref page="kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md" %}
+{% content-ref url="kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md" %}
+[peregrine-shi-yan-shi.md](kai-yuan-xiang-mu-yan-jiu-yuan/peregrine-shi-yan-shi.md)
+{% endcontent-ref %}
 
 ## 高层研究
 
-{% page-ref page="../../he-xin/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md" %}
-
+{% content-ref url="../../he-xin/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md" %}
+[chuang-xin-wei-lai-fa-zhan.md](../../he-xin/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md)
+{% endcontent-ref %}
