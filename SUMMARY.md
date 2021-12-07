@@ -1,11 +1,11 @@
 # Table of contents
 
-* [比坊梦 —— 区块链 · 金融 · 元宇宙](README.md)
+* [💎 比坊梦 —— 区块链 · 金融 · 元宇宙](README.md)
 
 ## 前线
 
-* [LV0-主舰桥 \(引导\) 🇺🇳](qian-xian/lv0-zhu-jian-qiao-yin-dao.md)
-* [LV1-驾驶舱 \(运行\) 🚜](qian-xian/management-cockpit-operation/README.md)
+* [LV0-主舰桥 (引导) 🇺🇳](qian-xian/lv0-zhu-jian-qiao-yin-dao.md)
+* [LV1-驾驶舱 (运行) 🚜](qian-xian/management-cockpit-operation/README.md)
   * [什么样的人适合投资比特币？](qian-xian/management-cockpit-operation/shen-me-yang-de-ren-kuo-he-tou-zi-bi-te-bi.md)
   * [私钥云保管 🔑 ☁️](qian-xian/management-cockpit-operation/si-yao-yun-bao-guan.md)
   * [资产配置 🕙 ⌚️](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/README.md)
@@ -20,18 +20,18 @@
       * [哈布历法2层次](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/ha-bu-li-fa-gou-xiang-1.md)
       * [已废弃](qian-xian/management-cockpit-operation/zi-chan-pei-zhi/zhan-shu-zi-chan-pei-zhi/yi-fei-qi.md)
   * [数学利器](qian-xian/management-cockpit-operation/shu-xue-li-qi.md)
-* [LV2-影银行 \(枢纽\) 🏦](qian-xian/lv2-yin-hang/README.md)
+* [LV2-影银行 (枢纽) 🏦](qian-xian/lv2-yin-hang/README.md)
   * [自营业务](qian-xian/lv2-yin-hang/zi-ying-tou-zi.md)
   * [个人业务](qian-xian/lv2-yin-hang/ge-ren-ye-wu/README.md)
     * [比坊梦基金会——资产管理](qian-xian/lv2-yin-hang/ge-ren-ye-wu/untitled-1.md)
   * [企业业务](qian-xian/lv2-yin-hang/untitled.md)
   * [创世业务](qian-xian/lv2-yin-hang/chuang-shi-ye-wu.md)
-* [LV3-指挥室 \(探索\) 👔](qian-xian/command-room-discovery/README.md)
+* [LV3-指挥室 (探索) 👔](qian-xian/command-room-discovery/README.md)
   * [指挥室 - 以太坊](qian-xian/command-room-discovery/command-room-eth.md)
   * [指挥室 - 币安智能链](qian-xian/command-room-discovery/command-room-bsc.md)
-  * [指挥室 - Polygon\(Matic\)](qian-xian/command-room-discovery/zhi-hui-shi-polygonmatic.md)
+  * [指挥室 - Polygon(Matic)](qian-xian/command-room-discovery/zhi-hui-shi-polygonmatic.md)
   * [指挥室 - IPFS/FIL](qian-xian/command-room-discovery/zhi-hui-shi-ipfsfil.md)
-* [LV4-研究院 \(架构\) 🔬](qian-xian/research-institute-development/README.md)
+* [LV4-研究院 (架构) 🔬](qian-xian/research-institute-development/README.md)
   * [导游](qian-xian/research-institute-development/dao-you.md)
   * [素白 · 密斯卡托尼克大学 🏫](qian-xian/research-institute-development/xiao-bai-xue-cheng/README.md)
     * [Excel 教室](qian-xian/research-institute-development/xiao-bai-xue-cheng/excel-jiao-shi.md)
@@ -69,18 +69,18 @@
     * [实验室2](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/shi-yan-shi-2.md)
     * [py重点实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md)
     * [以太坊部署实验室](qian-xian/research-institute-development/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
-* [LV5-研究院 \(量子\) ☢️](qian-xian/lv5-yuan-lao-yuan-liang-zi/README.md)
+* [LV5-研究院 (量子) ☢️](qian-xian/lv5-yuan-lao-yuan-liang-zi/README.md)
   * [曜黑 · 量子退火研究院](qian-xian/lv5-yuan-lao-yuan-liang-zi/yao-hei-liang-zi-tui-huo-fen-yuan.md)
-* [LV6-星魔方 \(分类\) 🎲](qian-xian/lv6-xing-mo-fang-fen-lei/README.md)
+* [LV6-星魔方 (分类) 🎲](qian-xian/lv6-xing-mo-fang-fen-lei/README.md)
   * [数据分析-精炼](qian-xian/lv6-xing-mo-fang-fen-lei/shi-yan-shi-zhan-shi-gui.md)
   * [数据分析-实验](qian-xian/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
   * [人工智能-实验](qian-xian/lv6-xing-mo-fang-fen-lei/ren-gong-zhi-neng-de-pen-jing-xiang.md)
 
 ## 后方
 
-* [陈列室 \(历程\) 🏆](hou-fang/roadmap/README.md)
+* [陈列室 (历程) 🏆](hou-fang/roadmap/README.md)
   * [虚拟资产编号名录](hou-fang/roadmap/fei-wu-zhi-zi-chan-ming-lu.md)
-* [会客厅 \(赞助\) 💰 & 资产公示](hou-fang/juan-zeng-da-shang.md)
+* [会客厅 (赞助) 💰 & 资产公示](hou-fang/juan-zeng-da-shang.md)
 * [财务](hou-fang/ji-du-cai-wu-bao-biao.md)
 * [设计](hou-fang/she-ji-tu.md)
 
@@ -163,18 +163,18 @@
 * [Github托管地址](https://github.com/guhhhhaa/bfm-gitbook)
 * [旧群文件](https://github.com/guhhhhaa/bfm-group-file)
 
-## 空间站（建设中……） <a id="kong-jian-zhan"></a>
+## 空间站（建设中……） <a href="#kong-jian-zhan" id="kong-jian-zhan"></a>
 
-* [BFM \| 比坊梦（建设中……）](kong-jian-zhan/bfm-bi-fang-meng.md)
-* [0-0 BFM Unity \| 比坊梦联合体](kong-jian-zhan/bfm-unity-bi-fang-meng-lian-he-ti.md)
-* [0-1 BFM DA \| 比坊梦数产](kong-jian-zhan/bfm-da-bi-fang-meng-shu-chan.md)
-* [1-0 BFM R-Ins. \| 比坊梦科学研究院](kong-jian-zhan/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan.md)
-* [1-1 BFM D-Ins. \| 比坊梦工程设计院](kong-jian-zhan/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan.md)
-* [2-0 BFM Univ. \| 比坊梦大学](kong-jian-zhan/bfm-univ.-bi-fang-meng-da-xue.md)
-* [2-1 BFM Cult. \| 比坊梦文化](kong-jian-zhan/bfm-cult.-bi-fang-meng-wen-hua.md)
-* [2-2 BFM Trad. \| 比坊梦金典](kong-jian-zhan/bfm-trad.-bi-fang-meng-jin-dian.md)
+* [BFM | 比坊梦（建设中……）](kong-jian-zhan/bfm-bi-fang-meng.md)
+* [0-0 BFM Unity | 比坊梦联合体](kong-jian-zhan/bfm-unity-bi-fang-meng-lian-he-ti.md)
+* [0-1 BFM DA | 比坊梦数产](kong-jian-zhan/bfm-da-bi-fang-meng-shu-chan.md)
+* [1-0 BFM R-Ins. | 比坊梦科学研究院](kong-jian-zhan/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan.md)
+* [1-1 BFM D-Ins. | 比坊梦工程设计院](kong-jian-zhan/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan.md)
+* [2-0 BFM Univ. | 比坊梦大学](kong-jian-zhan/bfm-univ.-bi-fang-meng-da-xue.md)
+* [2-1 BFM Cult. | 比坊梦文化](kong-jian-zhan/bfm-cult.-bi-fang-meng-wen-hua.md)
+* [2-2 BFM Trad. | 比坊梦金典](kong-jian-zhan/bfm-trad.-bi-fang-meng-jin-dian.md)
 
----
+***
 
 * [【垃圾】回收站 ♻️](la-ji-hui-shou-zhan/README.md)
   * [入群费用](la-ji-hui-shou-zhan/yi-shi-xiao.md)
@@ -183,4 +183,3 @@
   * [挖狗狗币](la-ji-hui-shou-zhan/wa-gou-gou-bi.md)
   * [MVRV](la-ji-hui-shou-zhan/mvrv-bei-zhe-die.md)
   * [驾驶舱](la-ji-hui-shou-zhan/cong-jia-shi-cang-xie-xia-de-la-ji.md)
-
