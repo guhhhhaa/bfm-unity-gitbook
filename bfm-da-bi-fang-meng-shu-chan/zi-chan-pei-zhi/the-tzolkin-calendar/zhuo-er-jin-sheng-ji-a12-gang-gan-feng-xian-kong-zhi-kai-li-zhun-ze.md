@@ -24,10 +24,6 @@
 
 ln(X\_T) = ln(X\_T/X\_0) 就是整个 T 期的对数收益率。**对数收益率的最大好处是它的可加性，把单期的对数收益率相加就得到整体的对数收益率。**
 
-{% embed url="https://en.wikipedia.org/wiki/Rate_of_return" %}
-[https://stats.stackexchange.com/questions/27682/what-is-the-reason-why-we-use-natural-logarithm-ln-rather-than-log-to-base-10](https://stats.stackexchange.com/questions/27682/what-is-the-reason-why-we-use-natural-logarithm-ln-rather-than-log-to-base-10)
-{% endembed %}
-
 ****
 
 几何平均收益率 = 算数平均收益率(μ) - 0.5\*方差(σ^2)
@@ -164,9 +160,9 @@ M\_0=0
 
 准备好M和C
 
-M\_n=ln(P\_n/P\_(n-1))
+M\_n=lg(P\_n/P\_(n-1))
 
-C=POWER(Stdevp(M)，2）或者=Varp(M)
+C=POWER(Stdev(M)，2）或者=Stdevp(M)
 
 最后F=M/C
 
@@ -191,11 +187,3 @@ C=POWER(Stdevp(M)，2）或者=Varp(M)
 　　输入公式后，按Shift + Ctrl + Enter以获得结果。
 
 　　对于更复杂的矩阵计算，可以使用逐步计算。
-
-EXCEL运用COVARIANCE.S计算协方差
-
-COVAR函数用来计算协方差，即每对数据点的偏差乘积的平均数，利用协方差可以决定两个数据集之间的关系。例如，可利用它来检验受教育程度与收入档次之间的关系。COVAR函数的语法如下：
-
-COVAR(array1,array2) 其中，array1参数为第1个所含数据为整数的单元格区域，Array2参数为第2个所含数据为整数的单元格区域。
-
-[https://blog.csdn.net/duanyule\_cqu/article/details/54959897/](https://blog.csdn.net/duanyule\_cqu/article/details/54959897/)
