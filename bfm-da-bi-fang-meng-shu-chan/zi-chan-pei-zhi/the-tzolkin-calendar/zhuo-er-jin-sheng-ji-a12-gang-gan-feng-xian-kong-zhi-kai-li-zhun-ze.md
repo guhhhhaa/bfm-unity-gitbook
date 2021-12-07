@@ -162,7 +162,7 @@ M\_0=0
 
 M\_n=lg(P\_n/P\_(n-1))
 
-C=POWER(Stdev(M)，2）或者=Stdevp(M)
+C=POWER(Stdevp(M)，2）或者=Varp(M)
 
 最后F=M/C
 
