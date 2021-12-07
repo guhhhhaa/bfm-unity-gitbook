@@ -32,7 +32,7 @@ description: Tesseract
 
 [Q\&A: 机器学习与金融行业](http://www.fintechgl.com/articles/59)
 
-![](<../../../.gitbook/assets/a4 (1).png>)
+![](<../../../.gitbook/assets/A4 (1).png>)
 
 ## 卓尔金历法
 

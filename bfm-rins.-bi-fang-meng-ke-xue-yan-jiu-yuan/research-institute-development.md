@@ -6,7 +6,7 @@ description: Research Institute (Development)
 
 ## 👩‍🔬 👨‍🔬 ➡️ 三角套利研究院 ⚠️ ☢️ ☠️ 🔥 💥 🧪 🔬 💻——黑洞计划
 
-![](../.gitbook/assets/bfm-unity-hei-dong-tan-suo-.png)
+![](<../.gitbook/assets/BFM Unity 黑洞探索.png>)
 
 {% hint style="info" %}
 我们在尝试部署[**BellmanFord算法**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al)在[**币安**](https://www.binance.com/cn)上或者Uniswap上，进行单交易所内部多币种的多角套利。
@@ -18,7 +18,7 @@ description: Research Institute (Development)
 我们需要参考Peregrine的代码，自己编写并添加这个**执行**下单的程序。
 {% endhint %}
 
-![](../.gitbook/assets/bfm-unity-zhan-lve-mu-biao-kai-fa-xing-bei-.png)
+![](<../.gitbook/assets/BFM Unity 战略目标开发星杯.png>)
 
 {% hint style="info" %}
 [**BellmanFord算法**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/bfm-al-ckwx) **+** [**三角套利核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) **+** [**陵墓**](https://www.bfm-unity.com/bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/lo-st) **+** [**量子退火和FPGA**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan)****

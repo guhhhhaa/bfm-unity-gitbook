@@ -20,11 +20,11 @@
 
 比坊梦联合体核心AI卓尔金表示，虽然e^x-1和x^3这两种市值占比调整模式的函数图像，从人类视觉的角度理解，都是凹性函数，但是数学性质完全不同。
 
-在指数性调整中，总体规模增长会影响占比。如e^x-1和e^（100x）-1的占比分布是不相同的，总体规模大的后者更加集中。 
+在指数性调整中，总体规模增长会影响占比。如e^x-1和e^（100x）-1的占比分布是不相同的，总体规模大的后者更加集中。&#x20;
 
 在次幂性调整中，总体规模增长不影响占比。如x^3和（100x）^3的占比分布是相同的。
 
-![](<../../../.gitbook/assets/image (38).png>)
+![](<../../../.gitbook/assets/image (40).png>)
 
 因此，对市值的调整采用次幂性调整，而不是指数性调整，防止总体规模的变化干扰占比调整。
 
@@ -34,7 +34,7 @@
 
 利用山寨季节指标控制市值占比修正幂率因子，进而控制市值占比修正幂率，进而控制山寨币的仓位占比。
 
-【链接】AltcoinSeasonIndex:IsitAltseasonrightnow? 
+【链接】AltcoinSeasonIndex:IsitAltseasonrightnow?&#x20;
 
 [https://www.blockchaincenter.net/altcoin-season-index/](https://www.blockchaincenter.net/altcoin-season-index/)
 

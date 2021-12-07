@@ -4,7 +4,7 @@
 
 {% embed url="https://www.ranker.com/list/anime-about-outer-space/anna-lindwasser" %}
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ## [上面这个标志的由来](http://www.dilidili3.com/play/3998/135852.html)（请直接跳到01:27:52）
 

@@ -24,26 +24,26 @@
 
 ## BFM Str. | 比坊梦交易策略
 
-* [布法梦交易策略(二级市场)♟](bfm-da-bi-fang-meng-shu-chan/bi-fang-meng-tou-zi-ce-lve-er-ji-shi-chang.md)
+* [布法梦交易策略(二级市场)♟](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bu-fa-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
 
 ## BFM Eco. | 比坊梦生态
 
-* [BFM Eco. 🛰️](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery.md)
-* [Cross-Chain Bridge](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-kua-lian-qiao.md)
-* [ETH - MainNet](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-eth/README.md)
-  * [Arbitrum](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-eth/zhi-hui-shi-arbitrum.md)
-  * [Matic - Polygon](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-eth/zhi-hui-shi-polygonmatic.md)
-* [ADA - Cardano](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/ada-cardano.md)
-* [BNB - BSC](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-bsc.md)
-* [SOL - Solana](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-sol-solana.md)
-* [SHIB - Shiba Inu](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/shib-shiba-inu.md)
-* [ATOM - Cosmos](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-atom/README.md)
-  * [LUNA - Terra](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-atom/zhi-hui-shi-terra.md)
-* [AVAX - Avalanche](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-avax-avalanche.md)
-* [FTM - Fantom](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-ftm-fantom.md)
-* [Flow](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/flow.md)
-* [Near](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-near.md)
-* [IPFS/FIL](bfm-vc-bi-fang-meng-sheng-tai-feng-tou/zhi-hui-shi-ipfsfil.md)
+* [BFM Eco. 🛰️](bfm-eco.-bi-fang-meng-sheng-tai/command-room-discovery.md)
+* [Cross-Chain Bridge](bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-kua-lian-qiao.md)
+* [ETH - MainNet](bfm-eco.-bi-fang-meng-sheng-tai/command-room-eth/README.md)
+  * [Arbitrum](bfm-eco.-bi-fang-meng-sheng-tai/command-room-eth/zhi-hui-shi-arbitrum.md)
+  * [Matic - Polygon](bfm-eco.-bi-fang-meng-sheng-tai/command-room-eth/zhi-hui-shi-polygonmatic.md)
+* [ADA - Cardano](bfm-eco.-bi-fang-meng-sheng-tai/ada-cardano.md)
+* [BNB - BSC](bfm-eco.-bi-fang-meng-sheng-tai/command-room-bsc.md)
+* [SOL - Solana](bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-sol-solana.md)
+* [SHIB - Shiba Inu](bfm-eco.-bi-fang-meng-sheng-tai/shib-shiba-inu.md)
+* [ATOM - Cosmos](bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-atom/README.md)
+  * [LUNA - Terra](bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-atom/zhi-hui-shi-terra.md)
+* [AVAX - Avalanche](bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-avax-avalanche.md)
+* [FTM - Fantom](bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-ftm-fantom.md)
+* [Flow](bfm-eco.-bi-fang-meng-sheng-tai/flow.md)
+* [Near](bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-near.md)
+* [IPFS/FIL](bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-ipfsfil.md)
 
 ## BFM DA | 比坊梦数产
 
@@ -105,7 +105,7 @@
 * [Offshore Finance 🌍](bfm-trad.-bi-fang-meng-jin-dian/gang-mei-gu-kai-hu.md)
 * [Offshore Entity](bfm-trad.-bi-fang-meng-jin-dian/offshore-entity.md)
 * [International Phone Number](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-shou-ji-hao-ban-li.md)
-* [International Bank Card](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-yin-hang-ka-ban-li.md)
+* [International Bank Card](bfm-trad.-bi-fang-meng-jin-dian/international-bank-card.md)
 * [草稿](bfm-trad.-bi-fang-meng-jin-dian/cao-gao.md)
 
 ## BFM Meta | 比坊梦元宇宙 <a href="#bfm-meta" id="bfm-meta"></a>

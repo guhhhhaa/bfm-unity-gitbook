@@ -42,7 +42,7 @@
 
 注意先多预留出少量的手续费。
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20201222-xia-wu-7.19.25.png)
+![](<../.gitbook/assets/屏幕快照 2020-12-22 下午7.19.25.png>)
 
 ## 参考：
 
@@ -95,7 +95,7 @@
 
 [实用tips：如何计算等额本息还款方式贷款的实际年化利率 ](https://www.sohu.com/a/245052510\_154368)
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (32).png>)
 
 ## 其他
 
@@ -116,13 +116,13 @@
 24期为：24 * 0.6 * 24 / 25 = 13.82%;
 ```
 
-![](<../.gitbook/assets/image (28).png>)
-
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (29).png>)
 
 ![](<../.gitbook/assets/image (30).png>)
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (28).png>)
+
+![](<../.gitbook/assets/image (31).png>)
 
 [那种预收手续费和利息的贷款，其真实年化利率怎么算？](https://www.zhihu.com/question/264159567/answer/278840567)
 

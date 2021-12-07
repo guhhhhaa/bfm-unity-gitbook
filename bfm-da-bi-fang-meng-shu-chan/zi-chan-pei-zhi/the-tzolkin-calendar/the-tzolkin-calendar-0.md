@@ -231,7 +231,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ## **周期发现**
 
-![](../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
+![](../../../.gitbook/assets/卓尔金历法-大周期.png)
 
 #### [http://www.chidaolian.com/article-45496-1](http://www.chidaolian.com/article-45496-1)
 
@@ -287,17 +287,17 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 **纵Y轴——S2F月预测价格/价格——**[**数据来源**](https://www.qkl123.com/data/s2f/btc)****
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.46.png)
+![](<../../../.gitbook/assets/屏幕快照 2021-04-02 下午8.50.46.png>)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210402-xia-wu-8.50.59.png)
+![](<../../../.gitbook/assets/屏幕快照 2021-04-02 下午8.50.59.png>)
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-7.12.11.png)
+![](<../../../.gitbook/assets/屏幕快照 2021-04-03 上午7.12.11.png>)
 
 ## 归纳推理
 
-![卓尔金历法](../../../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
+![卓尔金历法](../../../.gitbook/assets/卓尔金历法-领航舵.png)
 
-![图中数字指的是推荐仓位](../../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
+![图中数字指的是推荐仓位](../../../.gitbook/assets/卓尔金历法-雷达.png)
 
 ## **历法**说明
 
@@ -317,7 +317,7 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-10.44.27.png)
+![](<../../../.gitbook/assets/屏幕快照 2021-04-03 上午10.44.27.png>)
 
 两个随机变量，才能校准、判断一个周期。
 
@@ -390,7 +390,7 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 我建议你先看一下《三体》，里面有一个假说，射手和农场主假设，这是很可怕的。&#x20;
 
-![](../../../.gitbook/assets/98c03b7c3c216d56bb61d0199dff9239.jpg)
+![](../../../.gitbook/assets/98C03B7C3C216D56BB61D0199DFF9239.jpg)
 
 但是，我们会因为害怕就放弃寻找规则吗？
 

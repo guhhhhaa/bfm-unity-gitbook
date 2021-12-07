@@ -1,4 +1,4 @@
-# 基金投资
+# Fund Investment
 
 ## 常用基金
 
@@ -28,7 +28,7 @@
 
 ## 群友推荐基金
 
-![](../../.gitbook/assets/2836d1dd67fb0fb86288f409a551e21e.png)
+![](../../.gitbook/assets/2836D1DD67FB0FB86288F409A551E21E.png)
 
 #### ****[**嘉实沪港深精选股票\[001878\]**](http://fund.eastmoney.com/001878.html)****
 

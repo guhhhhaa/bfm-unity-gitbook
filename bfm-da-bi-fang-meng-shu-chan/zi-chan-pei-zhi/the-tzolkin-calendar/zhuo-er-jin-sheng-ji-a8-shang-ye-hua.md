@@ -40,4 +40,4 @@
 
 {% embed url="https://www.binance.com/en/blog/421499824684901137/payment/spend-bnb-and-busd-at-shopify-merchants-via-alchemy-pay" %}
 
-![](<../../../.gitbook/assets/image (48).png>)
+![](<../../../.gitbook/assets/image (51).png>)

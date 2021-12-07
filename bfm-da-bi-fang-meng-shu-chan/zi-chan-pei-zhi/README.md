@@ -1,14 +1,19 @@
 # 资产配置 🕙 ⌚️（🔥）
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210615-xia-wu-6.43.09.png)
+![](<../../.gitbook/assets/屏幕快照 2021-06-15 下午6.43.09.png>)
 
 ## 战略资产配置
 
-{% page-ref page="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+{% content-ref url="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+[yu-zhou-mo-fang-hui-gui-fen-xi.md](../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+{% endcontent-ref %}
 
-{% page-ref page="the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+{% content-ref url="the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+[the-tzolkin-calendar-0.md](the-tzolkin-calendar/the-tzolkin-calendar-0.md)
+{% endcontent-ref %}
 
 ## 战术资产配置
 
-{% page-ref page="the-haab-calendar/" %}
-
+{% content-ref url="the-haab-calendar/" %}
+[the-haab-calendar](the-haab-calendar/)
+{% endcontent-ref %}

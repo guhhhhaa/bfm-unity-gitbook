@@ -50,7 +50,7 @@ description: BFM Foundation
 
 ## 4，怎么收费:
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210826-xia-wu-1.55.30.png)
+![](<../.gitbook/assets/屏幕快照 2021-08-26 下午1.55.30.png>)
 
 收费包括：
 

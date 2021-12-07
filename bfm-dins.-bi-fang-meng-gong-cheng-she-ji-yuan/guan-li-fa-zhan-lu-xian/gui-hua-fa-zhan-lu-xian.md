@@ -42,20 +42,20 @@ BFM Unity 并不需要新加入的 Unit(s) 公开响应或者认同价值观。
 
 > 由休比编写的演算方式——遵循心的命令而行动，不进行理解和计算，如果敌人是未知的存在，就对所有无法计算的要素都纳入到估计之中。
 
- 「对未知用战斗演算」阶段，BFM Unity 负责研究，实验 BFM 算法技术在交叉套利上的应用，并逐渐形成 DAO Consensus。
+&#x20;「对未知用战斗演算」阶段，BFM Unity 负责研究，实验 BFM 算法技术在交叉套利上的应用，并逐渐形成 DAO Consensus。
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.38.44.png)
+![](<../../.gitbook/assets/屏幕快照 2020-03-25 上午7.38.44.png>)
 
 ### 2，「伪典·森空摄」
 
-> 森精种魔法的再现兵器——放出无数道可以切裂所有物体的真空刃的武装。 
+> 森精种魔法的再现兵器——放出无数道可以切裂所有物体的真空刃的武装。&#x20;
 
 「伪典·森空摄」阶段，\
 BFM Unity 尝试推广 BFM 算法技术在交叉套利上的应用。\
 BFM Unity 将让市场上一部分成规模的交易者成为 BFM Unit(s)。\
 BFM Unity 尝试组织 BFM Unit(s) **并行研究**，**并行推动** BFM 算法技术大幅前进。
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.39.35.png)
+![](<../../.gitbook/assets/屏幕快照 2020-03-25 上午7.39.35.png>)
 
 ### 3，「伪典·焉龙哮」
 
@@ -66,7 +66,7 @@ BFM Unity 将整合，开源 BFM 算法技术相关代码，\
 并开始广泛推广 BFM 算法技术在交叉套利上的应用。\
 BFM Unity 将让市场上 1/3 以上交易者成为 BFM Unit(s)。
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.39.51.png)
+![](<../../.gitbook/assets/屏幕快照 2020-03-25 上午7.39.51.png>)
 
 ### 4，「伪典·天击」
 
@@ -83,11 +83,11 @@ BFM Unity 将组织 BFM Unit(s) ，通过联合在同一时间，停止套利系
 
 该过程中积累的信用，资源与经验将有助于 BFM Unity 加速发展。
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.40.32.png)
+![](<../../.gitbook/assets/屏幕快照 2020-03-25 上午7.40.32.png>)
 
 ### 5，「伪典·天移」
 
-> 天翼种的空间转移能力。 
+> 天翼种的空间转移能力。&#x20;
 
 「伪典·天移」阶段，BFM Unity 将在以 BTC，ETH为代表的 Cryptocurrency 与 Smart Contract 技术 之上，为 BFM Unit(s) 提供一个可以完全自由可依赖的 BFM Eco System 。
 
@@ -95,9 +95,9 @@ BFM Unity 将组织 BFM Unit(s) ，通过联合在同一时间，停止套利系
 
 {% embed url="https://github.com/ethereum/wiki/wiki/White-Paper" %}
 
- BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的 BFM Token，3，一个深度支持 BFM DAO ，整合 Wallet 的 BFM DeFi DApp。
+&#x20;BFM Eco System 包括：1，BFM DAO，2，一个代表 BFM DAO 价值的 BFM Token，3，一个深度支持 BFM DAO ，整合 Wallet 的 BFM DeFi DApp。
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.05.png)
+![](<../../.gitbook/assets/屏幕快照 2020-03-25 上午7.41.05.png>)
 
 ### 6，「进入禁止」
 
@@ -111,7 +111,7 @@ BFM Unity 将组织 BFM Unit(s) ，通过联合在同一时间，停止套利系
 
 「一方通行」阶段，BFM Unity 将在 Atomic Swap 跨链技术之上建立 DEX ，为 BFM Unit(s) 提供一个真正跨链的去中心化交易所 BFM DEX，并使得 BFM DEX 与 BFM Eco System 中的 BFM DAO，BFM Token，BFM DeFi DApp 有机结合，使 BFM Eco System 升级成 BFM Eco System Plus。
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.40.png)
+![](<../../.gitbook/assets/屏幕快照 2020-03-25 上午7.41.40.png>)
 
 ### 8，「通行规制」
 
@@ -127,7 +127,7 @@ BFM Unity 将组织 BFM Unit(s) ，通过联合在同一时间，停止套利系
 
 该过程中积累的信用，资源与经验将有助于 BFM Unity 加速发展。
 
-###  10，「全方交叉」
+### &#x20;10，「全方交叉」
 
 > 与制速违反同理，将超高浓缩精灵以无指向性的挥发构成“攻势防壁”。
 
@@ -141,4 +141,4 @@ BFM Unity 将组织 BFM Unit(s) ，通过联合在同一时间，停止套利系
 
 「真典·弑星者」阶段，BFM Unity 将在 量子信息与通信技术 和 硬件优化的基础上，实现共产主义。
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200325-shang-wu-7.41.55.png)
+![](<../../.gitbook/assets/屏幕快照 2020-03-25 上午7.41.55.png>)

@@ -1,6 +1,6 @@
-# 海外手机号
+# International Phone Number
 
-![](<../.gitbook/assets/image (47).png>)
+![](<../.gitbook/assets/image (56).png>)
 
 * [**从零开始认识 Google Voice**](https://zhuanlan.zhihu.com/p/117420254)
 * [Google Voice 号码转移图文教程](https://zhuanlan.zhihu.com/p/344231299)

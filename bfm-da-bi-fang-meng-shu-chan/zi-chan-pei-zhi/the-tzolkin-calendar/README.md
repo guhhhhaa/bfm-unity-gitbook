@@ -14,7 +14,7 @@ description: The Tzolkin Calendar
 
 > [什么是卓尔金历？](https://www.jianshu.com/p/5b3a31f95a1d)
 
-![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (58).png>)
 
 {% hint style="success" %}
 ## **现在部署你的飞行船：**[**飞行船6.12**](https://share.weiyun.com/LhAj6uYm)（表格在此下载）
@@ -34,13 +34,13 @@ description: The Tzolkin Calendar
 
 ## **周期发现**
 
-![](../../../.gitbook/assets/zhuo-er-jin-li-fa-da-zhou-qi-.png)
+![](../../../.gitbook/assets/卓尔金历法-大周期.png)
 
 ## 归纳推理
 
-![卓尔金历法](../../../.gitbook/assets/zhuo-er-jin-li-fa-ling-hang-duo-.png)
+![卓尔金历法](../../../.gitbook/assets/卓尔金历法-领航舵.png)
 
-![图中数字指的是推荐仓位](../../../.gitbook/assets/zhuo-er-jin-li-fa-lei-da-.png)
+![图中数字指的是推荐仓位](../../../.gitbook/assets/卓尔金历法-雷达.png)
 
 ## **历法**说明
 
@@ -60,7 +60,7 @@ description: The Tzolkin Calendar
 
 
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210403-shang-wu-10.44.27.png)
+![](<../../../.gitbook/assets/屏幕快照 2021-04-03 上午10.44.27.png>)
 
 ## 参数设置
 
@@ -70,7 +70,7 @@ description: The Tzolkin Calendar
 
 ## 回测结果
 
-![](../../../.gitbook/assets/ping-mu-kuai-zhao-20210920-shang-wu-11.47.15.png)
+![](<../../../.gitbook/assets/屏幕快照 2021-09-20 上午11.47.15.png>)
 
 {% content-ref url="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
 [zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md](zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)

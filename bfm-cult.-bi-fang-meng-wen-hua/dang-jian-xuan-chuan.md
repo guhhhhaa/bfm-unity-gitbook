@@ -1,14 +1,13 @@
-# 党建宣传
+# 组织文化宣传
 
-![](../.gitbook/assets/dang-jian-xuan-chuan-11.png)
+![](../.gitbook/assets/党建宣传1-1.png)
 
-![](../.gitbook/assets/dang-jian-xuan-chuan-21.png)
+![](../.gitbook/assets/党建宣传2-1.png)
 
-![](../.gitbook/assets/dang-jian-xuan-chuan-31.png)
+![](../.gitbook/assets/党建宣传3-1.png)
 
-![](../.gitbook/assets/dang-jian-xuan-chuan-1.png)
+![](../.gitbook/assets/党建宣传1.png)
 
-![](../.gitbook/assets/dang-jian-xuan-chuan-2.png)
+![](../.gitbook/assets/党建宣传2.png)
 
-![](../.gitbook/assets/dang-jian-xuan-chuan-3.png)
-
+![](../.gitbook/assets/党建宣传3.png)

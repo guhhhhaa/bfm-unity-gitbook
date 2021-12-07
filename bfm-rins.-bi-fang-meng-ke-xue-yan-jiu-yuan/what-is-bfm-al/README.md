@@ -104,11 +104,11 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 我们发现了一个术语叫 predecessor chain ，前驱链，这很重要。
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-5.59.12.png)
+![](<../../.gitbook/assets/屏幕快照 2020-03-25 下午5.59.12.png>)
 
 {% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20210127-xia-wu-10.54.01.png)
+![](<../../.gitbook/assets/屏幕快照 2021-01-27 下午10.54.01.png>)
 
 {% hint style="info" %}
 检验你是否理解了 BFM 算法，需回答以下几个问题。\

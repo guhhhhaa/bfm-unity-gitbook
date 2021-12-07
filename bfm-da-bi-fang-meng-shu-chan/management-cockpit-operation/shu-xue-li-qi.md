@@ -111,9 +111,9 @@ else return y_0 # 否则，维持原状态
 }
 ```
 
-![](../../.gitbook/assets/975d5638f160e54637ce82334bc30b2b.jpg)
+![](../../.gitbook/assets/975D5638F160E54637CE82334BC30B2B.jpg)
 
-![](../../.gitbook/assets/a4.png)
+![](../../.gitbook/assets/A4.png)
 
 ## 3，无监督学习的状态综合——[同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)：
 
@@ -149,7 +149,7 @@ return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 }
 ```
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 ## 4，总结应用（已失效，用卓尔金历法代替）
 

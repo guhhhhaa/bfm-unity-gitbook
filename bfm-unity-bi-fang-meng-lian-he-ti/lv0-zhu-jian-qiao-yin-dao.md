@@ -8,7 +8,7 @@ description: Main Bridge (Guidance)
 >
 > **BF​M Unity —— Blockchain · Finance · Metaverse**
 
-![](../.gitbook/assets/ok6w\_kokdtoqqqldbiopanx28uhva7l7rcrxv1ckxgu.jpeg)
+![](../.gitbook/assets/OK6W\_koKDTOqqqLDbIoPAnX28uhvA7L7rCRXv1CKxGU.jpeg)
 
 {% hint style="info" %}
 NOTE: **This project is in beta. Use at your own risk.**
@@ -20,7 +20,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 ### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/l21pilUf)
 {% endhint %}
 
-![](<../.gitbook/assets/bfm-unity-2.0 (1).png>)
+![](<../.gitbook/assets/BFM Unity 2.0 (1).png>)
 
 ## 交易员必进
 
@@ -52,8 +52,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 探险家必进
 
-{% content-ref url="../bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery.md" %}
-[command-room-discovery.md](../bfm-vc-bi-fang-meng-sheng-tai-feng-tou/command-room-discovery.md)
+{% content-ref url="../bfm-eco.-bi-fang-meng-sheng-tai/command-room-discovery.md" %}
+[command-room-discovery.md](../bfm-eco.-bi-fang-meng-sheng-tai/command-room-discovery.md)
 {% endcontent-ref %}
 
 ## 开发者必进
@@ -86,13 +86,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## ₿TC 投资路径 <a href="#tc-tou-zi-lu-jing" id="tc-tou-zi-lu-jing"></a>
 
-![](../.gitbook/assets/defi\_3.png)
+![](../.gitbook/assets/DeFi\_3.png)
 
 
 
 ## **ΞTH** 生态 <a href="#th-sheng-tai" id="th-sheng-tai"></a>
 
-![](../.gitbook/assets/ef558f261bce694919b0240c57cf96e8.jpg)
+![](../.gitbook/assets/EF558F261BCE694919B0240C57CF96E8.jpg)
 
 ## 世界金融体系 <a href="#shi-jie-jin-rong-ti-xi" id="shi-jie-jin-rong-ti-xi"></a>
 
@@ -100,13 +100,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 我们的经合关系 <a href="#zhan-lve-he-zuo-huo-ban" id="zhan-lve-he-zuo-huo-ban"></a>
 
-![](<../.gitbook/assets/bfm-unity-zhan-lve-he-zuo-huo-ban- (3).png>)
+![](<../.gitbook/assets/BFM Unity 战略合作伙伴 (3).png>)
 
 [全球最大的50家银行在区块链领域的布局](https://cloud.tencent.com/developer/article/1356837)
 
-![](../.gitbook/assets/bfm-unitybji-you-shang-.png)
+![](<../.gitbook/assets/BFM Unity B级友商.png>)
 
-![](../.gitbook/assets/bfm-unitycji-bie-you-shang-.png)
+![](<../.gitbook/assets/BFM Unity C级别友商.png>)
 
 ### ~~~~[~~我们的友商2~~](https://www.bilibili.com/video/BV1YW411d7ZY)~~~~
 
@@ -162,9 +162,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 设计统一色号：[**#**4A90E2](https://www.color-hex.com/color/4a90e2)  [#FCA735](https://www.color-hex.com/color/fca735)
 
-![](../.gitbook/assets/bian-zu-.png)
+![](../.gitbook/assets/编组.png)
 
-![](../.gitbook/assets/bi-fang-meng-xin-logo3.png)
+![](../.gitbook/assets/比坊梦新LOGO3.png)
 
 #### ​[BFM Unity](https://www.bfm-unity.com) | [Blockchain(₿itcoin)-Financial-Management Unity](https://www.bfm-unity.com) | [Bellman-Ford-Moore Unity](https://www.bfm-unity.com) |  <a href="#fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li" id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li"></a>
 
@@ -174,7 +174,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 域名使用 [腾讯云](https://console.cloud.tencent.com/domain) 购买及续费
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20210411-xia-wu-7.59.52.png)
+![](<../.gitbook/assets/屏幕快照 2021-04-11 下午7.59.52.png>)
 
 ## 本项目使用 GNU General Public License v3.0
 

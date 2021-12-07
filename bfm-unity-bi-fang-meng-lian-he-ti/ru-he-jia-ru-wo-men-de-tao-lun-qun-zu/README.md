@@ -4,7 +4,7 @@
 本章 **纯属广告** ，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/wo-men-zai-wan-de-geng)
 {% endhint %}
 
-![](../../.gitbook/assets/u-3484679372-3178935030-and-fm-15-and-gp-0.jpg)
+![](../../.gitbook/assets/u=3484679372,3178935030\&fm=15\&gp=0.jpg)
 
 ## BFM Unity 的组织性质是什么？
 
@@ -34,7 +34,7 @@ BFM Unity 并不需要新加入的 Unit(s) 公开响应或者认同价值观。
 
 {% embed url="https://t.me/BFMUnity" %}
 
-### BFM Unity 比坊梦联合体 官方频道 
+### BFM Unity 比坊梦联合体 官方频道&#x20;
 
 {% embed url="https://t.me/BFM_Unity" %}
 
@@ -60,9 +60,9 @@ BFM Unity 并不需要新加入的 Unit(s) 公开响应或者认同价值观。
 {% endtab %}
 
 {% tab title="社区群" %}
-##  社区群：860820181
+## &#x20;社区群：860820181
 
-![](../../.gitbook/assets/fda31d0980ba1cb7fe8980d9112fb2bc.jpg)
+![](../../.gitbook/assets/FDA31D0980BA1CB7FE8980D9112FB2BC.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -72,7 +72,7 @@ BFM Unity 并不需要新加入的 Unit(s) 公开响应或者认同价值观。
 
 ![](../../.gitbook/assets/6ba1bcf02ffd6ab8f4186253e7759948.png)
 
-## 群名称：BFM Unity 
+## 群名称：BFM Unity&#x20;
 
 ## 群文档
 

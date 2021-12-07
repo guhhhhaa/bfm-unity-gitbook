@@ -1,6 +1,6 @@
 # MIS 系统开发
 
-![](../.gitbook/assets/qq20210625-0.jpg)
+![](../.gitbook/assets/QQ20210625-0.jpg)
 
 MIS | OA | ERP | DRP | BIP | HR | CRM | BPM | EAM | SCM | PLM | PDM | AI | BI | CI
 
@@ -30,7 +30,7 @@ MIS | OA | ERP | DRP | BIP | HR | CRM | BPM | EAM | SCM | PLM | PDM | AI | BI | 
 
 
 
-什么是HR，（Human Resource Management）人力资源管理 
+什么是HR，（Human Resource Management）人力资源管理&#x20;
 
 什么是CRM，（Customer Relationship Management）客户关系管理
 
@@ -38,13 +38,13 @@ MIS | OA | ERP | DRP | BIP | HR | CRM | BPM | EAM | SCM | PLM | PDM | AI | BI | 
 
 
 
-什么是EAM，（Enterprise Asset Management）企业资产管理 
+什么是EAM，（Enterprise Asset Management）企业资产管理&#x20;
 
 什么是SCM，（Supply Chain Management）供应链管理
 
 
 
-什么是PLM，（Product Lifecycle Management）产品生命周期管理 
+什么是PLM，（Product Lifecycle Management）产品生命周期管理&#x20;
 
 什么是PDM，（Product Data Management）产品数据管理
 
@@ -52,7 +52,7 @@ MIS | OA | ERP | DRP | BIP | HR | CRM | BPM | EAM | SCM | PLM | PDM | AI | BI | 
 
 什么是AI，Artificial Intelligence，人工智能
 
-什么是BI，Business Intelligence，商业智能 
+什么是BI，Business Intelligence，商业智能&#x20;
 
 什么是CI，Customer Intelligence，客户智能
 

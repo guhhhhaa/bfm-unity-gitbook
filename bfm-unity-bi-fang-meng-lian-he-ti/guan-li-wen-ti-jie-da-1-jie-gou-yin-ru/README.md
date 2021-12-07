@@ -10,7 +10,7 @@
 文档 GitBook 地址：[https://guhhhhaa.gitbook.io/bfm/](https://guhhhhaa.gitbook.io/bfm/)\
 文档 GitHub 地址：[https://github.com/guhhhhaa/bfm-gitbook](https://github.com/guhhhhaa/bfm-gitbook)
 
-![](../../.gitbook/assets/timg-3.jpeg)
+![](<../../.gitbook/assets/timg (3).jpeg>)
 
 {% embed url="https://www.bilibili.com/bangumi/play/ep4371" %}
 

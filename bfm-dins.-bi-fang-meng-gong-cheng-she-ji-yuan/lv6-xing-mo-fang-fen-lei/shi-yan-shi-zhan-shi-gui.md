@@ -6,11 +6,11 @@ description: 实验室展示柜
 
 ## 问题描述
 
-![](<../../.gitbook/assets/a4 (1).png>)
+![](<../../.gitbook/assets/A4 (1).png>)
 
-![](../../.gitbook/assets/a4\_3.png)
+![](../../.gitbook/assets/A4\_3.png)
 
-![](../../.gitbook/assets/a3.png)
+![](../../.gitbook/assets/A3.png)
 
 ## [卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)
 

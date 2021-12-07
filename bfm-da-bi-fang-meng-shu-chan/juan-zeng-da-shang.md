@@ -1,4 +1,4 @@
-# 会客厅 \(赞助\) 💰 & 资产公示
+# 会客厅 (赞助) 💰 & 资产公示
 
 {% hint style="success" %}
 bfm-unity.com 是一个社区支持的社区，我们十分感谢任何捐助和Token/NFT投资。这些捐助和投资会用于改进网站。
@@ -6,7 +6,7 @@ bfm-unity.com 是一个社区支持的社区，我们十分感谢任何捐助和
 
 ## 赞助
 
-### 社区Token/NFT拍卖（由 [OpenSea](https://opensea.io/collections) 和 [Rarible](https://rarible.com/) 支持）
+### 社区Token/NFT拍卖（由 [OpenSea](https://opensea.io/collections) 和 [Rarible](https://rarible.com) 支持）
 
 {% tabs %}
 {% tab title="BFM Unity Token" %}
@@ -56,33 +56,33 @@ BFM Unity 的 铭牌
 
 ### 微信支付
 
-![](../.gitbook/assets/1779f6a2493c2649cf67b84b11733d3f.jpg)
+![](../.gitbook/assets/1779F6A2493C2649CF67B84B11733D3F.jpg)
 
 ### 支付宝
 
-![](../.gitbook/assets/9304dfd7a84917a2a1364f70e5e1c023.jpg)
+![](../.gitbook/assets/9304DFD7A84917A2A1364F70E5E1C023.jpg)
 
 ### **币安支付**
 
-![](../.gitbook/assets/6889c0c32015caf05113720301000744.jpg)
+![](../.gitbook/assets/6889C0C32015CAF05113720301000744.jpg)
 
 ### **Ξ**TH or **Ξ**RC20
 
-![](../.gitbook/assets/screenshot_2020-03-25-11-16-44-118_com.wallet.cry.png)
+![](../.gitbook/assets/Screenshot\_2020-03-25-11-16-44-118\_com.wallet.cry.png)
 
 ### Ðoge
 
-![](../.gitbook/assets/881fcdba81e2eb5ac727012f083991cb.jpg)
+![](../.gitbook/assets/881FCDBA81E2EB5AC727012F083991CB.jpg)
 
 ### ​₿TC
 
-![](../.gitbook/assets/screenshot_2020-03-25-11-16-30-068_com.wallet.cry.png)
+![](../.gitbook/assets/Screenshot\_2020-03-25-11-16-30-068\_com.wallet.cry.png)
 
-## 捐赠者公示 \(10元及以下不计入\) 
+## 捐赠者公示 (10元及以下不计入)&#x20;
 
-| 时间 | 昵称 | 联系方式 | 捐赠方式 | 金额 |
-| :---: | :---: | :---: | :--- | :---: |
-| 2021-3-22 | 青岭淡云 | 3186024190@qq.com | QQ红包🧧 | ¥200 |
+|     时间    |  昵称  |        联系方式       | 捐赠方式   |   金额   |
+| :-------: | :--: | :---------------: | ------ | :----: |
+| 2021-3-22 | 青岭淡云 | 3186024190@qq.com | QQ红包🧧 |  ¥200  |
 | 2021-4-19 | 青岭淡云 | 3186024190@qq.com | QQ红包🧧 | ¥88.88 |
 
 ## ₿FM Unity™透明资产公示
@@ -96,6 +96,4 @@ BFM Unity 的 铭牌
 ### 若尘地址
 
 [https://debank.com/profile/0x0540a183be580660a4c7399311b080fe13b06a11](https://debank.com/profile/0x0540a183be580660a4c7399311b080fe13b06a11)
-
-
 
