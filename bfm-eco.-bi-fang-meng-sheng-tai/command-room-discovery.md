@@ -137,7 +137,8 @@ description: BFM Eco.
 {% endtab %}
 
 {% tab title="礼品卡交易" %}
-* 可盈可乐|CoinCola官网
+* [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)****
+* [**Paxful**](https://paxful.com)****
 {% endtab %}
 
 {% tab title="钱包💰" %}
