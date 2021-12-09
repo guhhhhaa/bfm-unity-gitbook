@@ -1,12 +1,12 @@
-# 布法梦全球互联网 基金
+# 比坊梦全球互联网 基金
 
-## 布法梦全球互联网 - [策略表格](https://share.weiyun.com/0l7xaENZ)
+## 比坊梦全球互联网 - [策略表格](https://share.weiyun.com/0l7xaENZ)
 
-## 布法梦全球互联网 - 被动 基金
+## 比坊梦全球互联网 - 被动 基金
 
 {% embed url="https://qieman.com/portfolios/ZH116702" %}
 
-## 布法梦全球互联网 - 主动 基金
+## 比坊梦全球互联网 - 主动 基金
 
 {% embed url="https://qieman.com/portfolios/ZH116751" %}
 

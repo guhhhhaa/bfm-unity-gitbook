@@ -5,7 +5,7 @@
 
 ## BFM Unity | 比坊梦联合体
 
-* [布法梦导航](bfm-unity-bi-fang-meng-lian-he-ti/bu-fa-meng-dao-hang.md)
+* [比坊梦导航](bfm-unity-bi-fang-meng-lian-he-ti/bi-fang-meng-dao-hang.md)
 * [主舰桥 (引导)](bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md)
 * [陈列室 (历程)](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/README.md)
   * [虚拟资产编号名录](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/fei-wu-zhi-zi-chan-ming-lu.md)
@@ -18,14 +18,14 @@
 
 ## BFM URS. | 比坊梦联储 <a href="#bfmurs" id="bfmurs"></a>
 
-* [布法梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
-* [布法梦基金会](bfmurs/untitled-1.md)
-* [布法梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
+* [比坊梦联储](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
+* [比坊梦基金会](bfmurs/untitled-1.md)
+* [比坊梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
 * [若尘的基金](bfmurs/ruo-chen-de-qie-man-ji-jin.md)
 
 ## BFM Str. | 比坊梦交易策略
 
-* [布法梦交易策略(二级市场)♟](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bu-fa-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
+* [比坊梦交易策略(二级市场)♟](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bi-fang-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
 
 ## BFM Eco. | 比坊梦生态
 

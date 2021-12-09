@@ -2,13 +2,13 @@
 description: BFM Foundation
 ---
 
-# 布法梦基金会
+# 比坊梦基金会
 
-> 布法**梦基金会**
+> 比坊**梦基金会**
 >
 > **BFM Foundation**
 
-布法梦基金会提供资产管理服务。
+比坊梦基金会提供资产管理服务。
 
 {% hint style="info" %}
 ### [基金管理6.00](https://share.weiyun.com/djiMy3na)
