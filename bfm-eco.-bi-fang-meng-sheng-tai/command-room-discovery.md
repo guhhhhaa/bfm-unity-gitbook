@@ -122,8 +122,8 @@ description: BFM Eco.
 {% tab title="法币交易👔" %}
 ## 法币交易又名：OTC(场外交易)或 C2C(客户对客户交易)
 
-* [可盈可乐|CoinCola官网](https://www.coincola.com/?lang=zh-CN)
-* LocalBitcoins.com
+* [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)****
+* [**LocalBitcoins.com**](https://localbitcoins.com)****
 
 ![](../.gitbook/assets/CeFi.png)
 
