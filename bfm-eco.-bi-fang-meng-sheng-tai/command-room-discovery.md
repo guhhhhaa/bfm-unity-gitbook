@@ -122,6 +122,9 @@ description: BFM Eco.
 {% tab title="法币交易👔" %}
 ## 法币交易又名：OTC(场外交易)或 C2C(客户对客户交易)
 
+* [可盈可乐|CoinCola官网](https://www.coincola.com/?lang=zh-CN)
+* LocalBitcoins.com
+
 ![](../.gitbook/assets/CeFi.png)
 
 * [**比特派钱包**](https://bitpie.com)（**推荐**）
@@ -131,6 +134,10 @@ description: BFM Eco.
 * ****[**币安**](https://www.binance.com/cn) **（需要交提币手续费）**
 
 ![](<../.gitbook/assets/image (4).png>)
+{% endtab %}
+
+{% tab title="礼品卡交易" %}
+* 可盈可乐|CoinCola官网
 {% endtab %}
 
 {% tab title="钱包💰" %}
