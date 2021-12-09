@@ -74,7 +74,7 @@
     * [卓尔金升级A10——xlwings与Python连接](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a10xlwings-yu-python-lian-jie.md)
     * [卓尔金升级A11——KDE核密度估计](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a11kde-he-mi-du-gu-ji.md)
     * [卓尔金升级A12——杠杆风险控制，凯利准则](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a12-gang-gan-feng-xian-kong-zhi-kai-li-zhun-ze.md)
-    * [Page 1](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/page-1.md)
+    * [Untitled](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/untitled-1.md)
     * [如何获取数字货币数据](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/ru-he-huo-qu-shu-zi-huo-bi-shu-ju.md)
     * [卓尔金历法旧版页面](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
   * [战术资产配置——哈布历⌚️](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-haab-calendar/README.md)
