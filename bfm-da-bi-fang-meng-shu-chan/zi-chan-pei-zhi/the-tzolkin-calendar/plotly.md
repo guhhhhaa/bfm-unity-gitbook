@@ -1,8 +1,8 @@
-# Untitled
+# Plotly
+
+{% embed url="https://zhuanlan.zhihu.com/p/395793035" %}
 
 {% embed url="https://zhuanlan.zhihu.com/p/60416273" %}
-
-
 
 ### **Plotly简要概述**
 
