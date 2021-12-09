@@ -1,32 +1,3 @@
 # 布法梦导航
 
-## CeFi
-
-| 交易所 | 钱包 | 云挖矿 | 矿池 |   |   |   |
-| --- | -- | --- | -- | - | - | - |
-|     |    |     |    |   |   |   |
-|     |    |     |    |   |   |   |
-|     |    |     |    |   |   |   |
-
-## DeFi
-
-| Dex       | Bridge | 聚合器       |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| --------- | ------ | --------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| Uniswap   |        | Zerion    |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Sushiswap |        |           |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Balancer  |        |           |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| QuickSwap |        |           |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Matcha    |        |           |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 1inch     |        | Zapper.fi |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|           |        | DeBank    |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|           |        | Frontier  |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|           |        | InstaDApp |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|           |        | Argent    |   |   |   |   |   |   |   |   |   |   |   |   |   |
-
-Meta
-
-| Meme | GameFi | NFT |
-| ---- | ------ | --- |
-|      |        |     |
-|      |        |     |
-|      |        |     |
+{% embed url="https://docs.google.com/spreadsheets/d/1_7TNRxaWdi7Ew0k5MqbvA3IJBqGavaxZIVP0fvzwhlk/edit?usp=sharing" %}
