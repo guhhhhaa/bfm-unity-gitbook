@@ -2,6 +2,8 @@
 
 {% embed url="https://link.medium.com/acsgXWzBQlb" %}
 
+{% embed url="https://zhuanlan.zhihu.com/p/109021998" %}
+
 The cryptocurrency industry has experienced interest from developers, entrepreneurs, and enthusiasts from around the globe. When Ethereum ERC20 tokens became more popular, the hottest trend was to create a token to be auctioned off within an ICO and traded or used as a utility within projects. This newly discovered wealth creation mechanism helped jumpstart a multitudinous amount of projects, which ultimately led to the great bull run of 2017.
 
 Today, development on the Ethereum blockchain continues to be popular; however, development using cryptocurrency market data is becoming the new crypto gold rush.
