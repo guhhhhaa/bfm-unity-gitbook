@@ -1,4 +1,8 @@
-# 比坊梦交易策略(二级市场)♟
+---
+description: BFM Trading Strategy
+---
+
+# BFM Trading Strategy♟
 
 {% hint style="info" %}
 ## 游戏已经开始，请选择你的英雄。
