@@ -81,7 +81,8 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
 | [Gitbook 群主页](https://www.bfm-unity.com)                           | [Trello 看板](https://trello.com/b/z4aDgNAL/todolist)                      |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ****[**Github 文档地址**](https://github.com/guhhhhaa/bfm-gitbook)**** | ****[**Github 代码地址**](https://github.com/guhhhhaa/bfm-group-file)****    |
+| ****[**Github 文档地址**](https://github.com/guhhhhaa/bfm-gitbook)**** | ****[**Github 代码地址1**](https://github.com/guhhhhaa/bfm-group-file)****   |
+|                                                                    | ****[**Github 代码地址2**](https://github.com/BFM-Unity/BFM-Unity-2)****     |
 | [B站视频主页](https://space.bilibili.com/11708778)                      | [ YouTube视频主页](https://www.youtube.com/channel/UCfiSjf-6Sxnf0t9J2xGVzuA) |
 | [Telegram群组](https://t.me/BFMUnity)                                | [Telegram频道](https://t.me/BFM\_Unity)                                    |
 | [Discord群组](https://discord.gg/CyEcS2wmzk)                         | [Reddit论坛](https://www.reddit.com/r/BFM\_Unity/)                         |

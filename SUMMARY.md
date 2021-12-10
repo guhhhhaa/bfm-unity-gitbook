@@ -25,7 +25,7 @@
 
 ## BFM Str. | 比坊梦交易策略
 
-* [BFM Trading Strategy♟](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bfm-trading-strategy.md)
+* [BFM Trading Strategy♟](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bu-fa-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
 
 ## BFM Eco. | 比坊梦生态
 
