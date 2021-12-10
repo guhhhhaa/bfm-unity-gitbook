@@ -124,9 +124,6 @@ description: BFM Eco.
 
 * [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)****
 * [**LocalBitcoins.com**](https://localbitcoins.com)****
-
-![](../.gitbook/assets/CeFi.png)
-
 * [**比特派钱包**](https://bitpie.com)（**推荐**）
 
 ![](../.gitbook/assets/费率比较.png)
