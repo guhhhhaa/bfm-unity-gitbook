@@ -3,7 +3,7 @@
 {% hint style="info" %}
 二层协议：
 
-* [**Arbitrum Bridges**](zhi-hui-shi-kua-lian-qiao.md#can-kao)
+* ****[**Arbitrum Bridge**](https://bridge.arbitrum.io)****
 * [**Optimism Bridge**](https://gateway.optimism.io)
 * [**Polygon Bridge**](https://wallet.matic.network/bridge/)
 
