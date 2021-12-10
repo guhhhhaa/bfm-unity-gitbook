@@ -5,7 +5,7 @@
 
 * ****[**Arbitrum Bridge**](https://bridge.arbitrum.io)****
 * [**Optimism Bridge**](https://gateway.optimism.io)
-* ****[**Polygon Bridge**](https://wallet.polygon.technology/bridge)****
+* [**Polygon Bridge**](https://wallet.matic.network/bridge/)
 
 第三方桥：
 
