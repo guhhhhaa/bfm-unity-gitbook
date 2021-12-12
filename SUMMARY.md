@@ -19,7 +19,7 @@
 ## BFM URS. | 比坊梦联储 <a href="#bfmurs" id="bfmurs"></a>
 
 * [BFM Unity Reserve System](bfmurs/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
-* [比坊梦基金会](bfmurs/untitled-1.md)
+* [BFM Foundation](bfmurs/untitled-1.md)
 * [比坊梦全球互联网 基金](bfmurs/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
 * [若尘的基金](bfmurs/ruo-chen-de-qie-man-ji-jin.md)
 
