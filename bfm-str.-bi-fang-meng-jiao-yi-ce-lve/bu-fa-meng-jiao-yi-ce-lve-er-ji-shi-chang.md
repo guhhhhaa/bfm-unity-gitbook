@@ -4,6 +4,10 @@ description: BFM Trading Strategy
 
 # BFM Trading Strategy♟
 
+> ## 比坊梦交易策略
+>
+> ### BFM Trading Strategy
+
 {% hint style="info" %}
 ## 游戏已经开始，请选择你的英雄。
 
