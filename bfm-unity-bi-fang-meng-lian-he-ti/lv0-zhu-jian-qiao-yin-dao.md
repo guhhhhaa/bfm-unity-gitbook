@@ -1,12 +1,12 @@
 ---
-description: Main Bridge (Guidance)
+description: Main Bridge (Navigator)
 ---
 
-# 主舰桥 (引导)
+# Main Bridge (Navigator)
 
-> ## **比坊梦 —— 区块链 · 金融 · 元宇宙**
+> ## 主舰桥 (引导)
 >
-> **BF​M Unity —— Blockchain · Finance · Metaverse**
+> ### Main Bridge (Navigator)
 
 ![](../.gitbook/assets/OK6W\_koKDTOqqqLDbIoPAnX28uhvA7L7rCRXv1CKxGU.jpeg)
 

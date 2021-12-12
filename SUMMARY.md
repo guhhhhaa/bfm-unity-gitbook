@@ -6,7 +6,7 @@
 ## BFM Unity | 比坊梦联合体
 
 * [BFM Navigation](bfm-unity-bi-fang-meng-lian-he-ti/bu-fa-meng-dao-hang.md)
-* [主舰桥 (引导)](bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md)
+* [Main Bridge (Navigator)](bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md)
 * [陈列室 (历程)](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/README.md)
   * [虚拟资产编号名录](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/fei-wu-zhi-zi-chan-ming-lu.md)
 * [新人指导](bfm-unity-bi-fang-meng-lian-he-ti/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/README.md)
