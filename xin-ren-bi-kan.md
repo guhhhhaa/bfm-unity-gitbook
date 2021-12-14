@@ -14,7 +14,6 @@
 * **使用法币购买USDT**
 * ****[**CoinCola**](https://www.coincola.com/?lang=zh-CN)****
 * ****[**Binance**](https://www.binance.com/zh-CN)****
-* ****[**OKEx**](https://www.ouyi.fit/join/3626787447)****
 * ****[**Gate.io**](https://www.gate.io/zh-cn)****
 * ****[**MEXC**](https://www.mexc.com/zh-cn)****
 
