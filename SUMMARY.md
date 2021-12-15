@@ -92,6 +92,7 @@
 
 ## BFM Trad. | 比坊梦金典
 
+* [Forex](bfm-trad.-bi-fang-meng-jin-dian/forex.md)
 * [Cloud-POS，CNP 💳](bfm-trad.-bi-fang-meng-jin-dian/zhe-die.md)
 * [Stock Investment](bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/README.md)
   * [选股](bfm-trad.-bi-fang-meng-jin-dian/gu-piao-xin-xi-gong-ju/xuan-gu.md)

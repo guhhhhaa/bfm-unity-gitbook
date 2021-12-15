@@ -79,6 +79,18 @@ description: BFM Eco.
 * ****[**Block123**](https://www.block123.com/zh-hans/) **(导航网站)**
 {% endtab %}
 
+{% tab title="钱包💰" %}
+![](<../.gitbook/assets/屏幕快照 2021-01-14 下午7.26.51.png>)
+
+* [**TrustWallet**](https://trustwallet.com)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
+* [**比特派钱包**](https://bitpie.com)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
+* [**BitKeep**](https://bitkeep.org)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
+* [**TokenPocket**](https://www.tokenpocket.pro)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
+* ****[**更多-钱包筛选器**](https://www.qkl123.com/ranking/wallet?filter=true)****
+
+![](<../.gitbook/assets/屏幕快照 2021-01-14 下午7.25.29.png>)
+{% endtab %}
+
 {% tab title="挖矿🔨" %}
 * [**1234btc.com**](https://1234btc.com)****
 * ****[**BitDeer**](https://www.bitdeer.com/zh)****
@@ -136,18 +148,6 @@ description: BFM Eco.
 {% tab title="礼品卡交易" %}
 * [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)****
 * [**Paxful**](https://paxful.com)****
-{% endtab %}
-
-{% tab title="钱包💰" %}
-![](<../.gitbook/assets/屏幕快照 2021-01-14 下午7.26.51.png>)
-
-* [**TrustWallet**](https://trustwallet.com)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
-* [**比特派钱包**](https://bitpie.com)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
-* [**BitKeep**](https://bitkeep.org)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
-* [**TokenPocket**](https://www.tokenpocket.pro)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
-* ****[**更多-钱包筛选器**](https://www.qkl123.com/ranking/wallet?filter=true)****
-
-![](<../.gitbook/assets/屏幕快照 2021-01-14 下午7.25.29.png>)
 {% endtab %}
 
 {% tab title="技术社区🏠" %}
