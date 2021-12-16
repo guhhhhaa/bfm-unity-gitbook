@@ -98,5 +98,3 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 {% embed url="https://v2rss.tk/auth/register" %}
 
 {% embed url="https://v2free.org/user" %}
-
-{% embed url="https://www.fxy.pw/#/register" %}
