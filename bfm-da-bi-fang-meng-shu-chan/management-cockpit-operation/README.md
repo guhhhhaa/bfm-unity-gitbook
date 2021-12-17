@@ -23,20 +23,20 @@ description: Management Cockpit (Operation)
 * ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)****
 * [**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)，[**Trust Wallet**](https://trustwallet.com)，[**Blockchain.com**](https://www.blockchain.com/wallet)****
 
-{% content-ref url="si-yao-yun-bao-guan.md" %}
-[si-yao-yun-bao-guan.md](si-yao-yun-bao-guan.md)
+{% content-ref url="../../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/si-yao-yun-bao-guan.md" %}
+[si-yao-yun-bao-guan.md](../../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/si-yao-yun-bao-guan.md)
 {% endcontent-ref %}
 
 ## 资产配置
 
-{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/" %}
-[zi-chan-pei-zhi](../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/)
+{% content-ref url="../zi-chan-pei-zhi/" %}
+[zi-chan-pei-zhi](../zi-chan-pei-zhi/)
 {% endcontent-ref %}
 
 ## 核心显示界面
 
-{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% content-ref url="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 {% content-ref url="../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/" %}

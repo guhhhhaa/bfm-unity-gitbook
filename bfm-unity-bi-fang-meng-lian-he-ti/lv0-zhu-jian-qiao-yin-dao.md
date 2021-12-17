@@ -36,8 +36,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 [lv6-xing-mo-fang-fen-lei](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/)
 {% endcontent-ref %}
 
-{% content-ref url="management-cockpit-operation/" %}
-[management-cockpit-operation](management-cockpit-operation/)
+{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
+[management-cockpit-operation](../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
 
 {% content-ref url="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/" %}
@@ -70,12 +70,12 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 老客户怀旧
 
-{% content-ref url="../bfm-unity-bi-fang-meng-lian-he-ti/roadmap/" %}
-[roadmap](../bfm-unity-bi-fang-meng-lian-he-ti/roadmap/)
+{% content-ref url="roadmap/" %}
+[roadmap](roadmap/)
 {% endcontent-ref %}
 
-{% content-ref url="../bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md" %}
-[qun-gong-gao-bei-fen.md](../bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md)
+{% content-ref url="ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md" %}
+[qun-gong-gao-bei-fen.md](ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md)
 {% endcontent-ref %}
 
 ## 慈善家必进

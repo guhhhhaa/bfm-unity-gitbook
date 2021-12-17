@@ -247,8 +247,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 具体软件如下：
 
-{% content-ref url="../../../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/" %}
-[management-cockpit-operation](../../../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/)
+{% content-ref url="../../management-cockpit-operation/" %}
+[management-cockpit-operation](../../management-cockpit-operation/)
 {% endcontent-ref %}
 
 ## 归一化操作

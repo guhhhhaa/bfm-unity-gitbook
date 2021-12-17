@@ -8,8 +8,8 @@ description: BFM Eco.
 
 曾用名2：比坊梦生态风投(一级市场)🛰️
 
-{% content-ref url="../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/" %}
-[management-cockpit-operation](../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/)
+{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
+[management-cockpit-operation](../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
 
 {% content-ref url="../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/" %}
@@ -40,8 +40,8 @@ description: BFM Eco.
 
 
 
-{% content-ref url="zhi-hui-shi-ipfsfil.md" %}
-[zhi-hui-shi-ipfsfil.md](zhi-hui-shi-ipfsfil.md)
+{% content-ref url="qi-ta-gong-lian/zhi-hui-shi-ipfsfil.md" %}
+[zhi-hui-shi-ipfsfil.md](qi-ta-gong-lian/zhi-hui-shi-ipfsfil.md)
 {% endcontent-ref %}
 
 

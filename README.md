@@ -12,8 +12,8 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 
 ## 你是新人？请点击以下链接：
 
-{% content-ref url="bfm-lite-bi-fang-meng-qing-liang-ban/xin-ren-bi-kan.md" %}
-[xin-ren-bi-kan.md](bfm-lite-bi-fang-meng-qing-liang-ban/xin-ren-bi-kan.md)
+{% content-ref url="xin-ren-bi-kan.md" %}
+[xin-ren-bi-kan.md](xin-ren-bi-kan.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -30,12 +30,12 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 [the-tzolkin-calendar](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-lite-bi-fang-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md" %}
-[lv0-zhu-jian-qiao-yin-dao.md](bfm-lite-bi-fang-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md)
+{% content-ref url="bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md" %}
+[lv0-zhu-jian-qiao-yin-dao.md](bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/" %}
-[management-cockpit-operation](bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/)
+{% content-ref url="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
+[management-cockpit-operation](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
 
 {% content-ref url="bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-discovery.md" %}
