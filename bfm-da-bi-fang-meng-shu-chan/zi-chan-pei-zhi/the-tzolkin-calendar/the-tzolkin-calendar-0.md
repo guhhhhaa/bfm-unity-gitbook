@@ -257,8 +257,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 [zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md](zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../management-cockpit-operation/shu-xue-li-qi.md" %}
-[shu-xue-li-qi.md](../../management-cockpit-operation/shu-xue-li-qi.md)
+{% content-ref url="../../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-xue-li-qi.md" %}
+[shu-xue-li-qi.md](../../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-xue-li-qi.md)
 {% endcontent-ref %}
 
 数据归一到（-1，1）

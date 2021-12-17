@@ -1,4 +1,4 @@
-# 数学利器
+# 数学研究部
 
 ## 1，无监督学习的归一化操作伪代码——&#x20;
 
@@ -111,9 +111,9 @@ else return y_0 # 否则，维持原状态
 }
 ```
 
-![](../../.gitbook/assets/975D5638F160E54637CE82334BC30B2B.jpg)
+![](../.gitbook/assets/975D5638F160E54637CE82334BC30B2B.jpg)
 
-![](../../.gitbook/assets/A4.png)
+![](../.gitbook/assets/A4.png)
 
 ## 3，无监督学习的状态综合——[同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)：
 
@@ -149,12 +149,12 @@ return x_i*(1/MAX(0.0…01,1-ABS(x_i)))/SUM((1/MAX(0.0…01,1-ABS(x_i))))
 }
 ```
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 ## 4，总结应用（已失效，用卓尔金历法代替）
 
-{% content-ref url="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](../zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 ```python

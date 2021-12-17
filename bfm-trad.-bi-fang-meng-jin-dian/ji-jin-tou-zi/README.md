@@ -36,8 +36,8 @@
 
 ## 若尘的且慢基金
 
-{% content-ref url="../../bfmurs/ruo-chen-de-qie-man-ji-jin.md" %}
-[ruo-chen-de-qie-man-ji-jin.md](../../bfmurs/ruo-chen-de-qie-man-ji-jin.md)
+{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/untitled-1/ruo-chen-de-qie-man-ji-jin.md" %}
+[ruo-chen-de-qie-man-ji-jin.md](../../bfm-da-bi-fang-meng-shu-chan/untitled-1/ruo-chen-de-qie-man-ji-jin.md)
 {% endcontent-ref %}
 
 ## [场内ETF指数基金收录大全！（一定要收藏）科技+消费+金融](https://xueqiu.com/6367307975/187393897)

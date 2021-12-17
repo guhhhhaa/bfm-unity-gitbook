@@ -8,8 +8,8 @@ description: Management Cockpit (Operation)
 >
 > 在这里，我们极力简化操作流程，以适合最小可运行投资系统，方便用户进行高效操作。
 
-{% content-ref url="../../bfm-eco.-bi-fang-meng-sheng-tai/command-room-discovery.md" %}
-[command-room-discovery.md](../../bfm-eco.-bi-fang-meng-sheng-tai/command-room-discovery.md)
+{% content-ref url="../../bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-discovery.md" %}
+[command-room-discovery.md](../../bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-discovery.md)
 {% endcontent-ref %}
 
 ![](<../../.gitbook/assets/image (57).png>)
@@ -131,8 +131,8 @@ Users must first migrate their digital assets to the **Arbitrum** network throug
 
 ## 跨链桥
 
-{% content-ref url="../../bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-kua-lian-qiao.md" %}
-[zhi-hui-shi-kua-lian-qiao.md](../../bfm-eco.-bi-fang-meng-sheng-tai/zhi-hui-shi-kua-lian-qiao.md)
+{% content-ref url="../../bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-kua-lian-qiao.md" %}
+[zhi-hui-shi-kua-lian-qiao.md](../../bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-kua-lian-qiao.md)
 {% endcontent-ref %}
 
 ## 元宇宙

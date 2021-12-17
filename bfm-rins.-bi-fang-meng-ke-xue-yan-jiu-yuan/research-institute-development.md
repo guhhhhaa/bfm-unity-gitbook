@@ -2,7 +2,7 @@
 description: Research Institute (Development)
 ---
 
-# 研究院 (架构)
+# 项目架构部
 
 ## 👩‍🔬 👨‍🔬 ➡️ 三角套利研究院 ⚠️ ☢️ ☠️ 🔥 💥 🧪 🔬 💻——黑洞计划
 
@@ -46,8 +46,8 @@ description: Research Institute (Development)
 [dao-you.md](dao-you.md)
 {% endcontent-ref %}
 
-{% content-ref url="suan-fa-yan-jiu-yuan.md" %}
-[suan-fa-yan-jiu-yuan.md](suan-fa-yan-jiu-yuan.md)
+{% content-ref url="suan-fa-yan-jiu-yuan/" %}
+[suan-fa-yan-jiu-yuan](suan-fa-yan-jiu-yuan/)
 {% endcontent-ref %}
 
 ##

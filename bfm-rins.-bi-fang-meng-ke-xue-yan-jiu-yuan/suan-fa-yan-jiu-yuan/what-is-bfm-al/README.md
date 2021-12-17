@@ -14,7 +14,7 @@
 &#x20;                         ****                          ——杜随《杂诗》                  &#x20;
 {% endhint %}
 
-![](../../.gitbook/assets/350714d50313c52b79c51d4dbe932e80.jpeg)
+![](../../../.gitbook/assets/350714d50313c52b79c51d4dbe932e80.jpeg)
 
 ## 为什么 BFM = 共产主义？
 
@@ -94,21 +94,21 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 ## BFM 算法的时间复杂度分析
 
-![本图片引用自《啊哈！算法》](../../.gitbook/assets/ping-mu-kuai-zhao-20200318-shang-wu-9.55.10.png)
+![本图片引用自《啊哈！算法》](../../../.gitbook/assets/ping-mu-kuai-zhao-20200318-shang-wu-9.55.10.png)
 
 ## BFM-Detect 算法 和 BFM-Find 算法 的比较
 
-![](../../.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
+![](../../../.gitbook/assets/6fd45e9485174eb63cdc82611c3ca835.png)
 
 ## find 算法和 predecessor chain 有关。
 
 我们发现了一个术语叫 predecessor chain ，前驱链，这很重要。
 
-![](<../../.gitbook/assets/屏幕快照 2020-03-25 下午5.59.12.png>)
+![](<../../../.gitbook/assets/屏幕快照 2020-03-25 下午5.59.12.png>)
 
 {% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1981&rep=rep1&type=pdf" %}
 
-![](<../../.gitbook/assets/屏幕快照 2021-01-27 下午10.54.01.png>)
+![](<../../../.gitbook/assets/屏幕快照 2021-01-27 下午10.54.01.png>)
 
 {% hint style="info" %}
 检验你是否理解了 BFM 算法，需回答以下几个问题。\
@@ -125,6 +125,6 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 ## 有些问题回答不出来？可以看看这个：
 
-{% content-ref url="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/" %}
-[ruan-jian-bfm-on-python](../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/)
+{% content-ref url="../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/" %}
+[ruan-jian-bfm-on-python](../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/)
 {% endcontent-ref %}

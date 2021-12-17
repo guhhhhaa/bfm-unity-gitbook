@@ -92,6 +92,6 @@ description: BFM Trading Strategy
 * [卓尔金历法](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
   * 智能投顾表格，帮您轻松确定杠杆率，抄底+逃顶
   * **MVRV+S2F+币圈美林时钟+凯利准则收益率和收益率方差控制最大杠杆率+激活函数神经元最终确定仓位+帕累托分布+香农的恶魔+山寨币指数+市值占比幂率修正—共同构筑的基于Excel表格的策略！**
-*   [BFM算法](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/suan-fa-yan-jiu-yuan.md)
+*   [BFM算法](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/suan-fa-yan-jiu-yuan/)
 
     三角套利的升级与扩展+O(N^3)算法优化的极致+FPGA硬件级别优化+量子退火未来发展

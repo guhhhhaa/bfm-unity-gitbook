@@ -2,7 +2,7 @@
 description: BFM Foundation
 ---
 
-# 比坊梦基金会
+# BFM Foundation
 
 > 比坊**梦基金会**
 >
@@ -50,7 +50,7 @@ description: BFM Foundation
 
 ## 4，怎么收费:
 
-![](<../.gitbook/assets/屏幕快照 2021-08-26 下午1.55.30.png>)
+![](<../../.gitbook/assets/屏幕快照 2021-08-26 下午1.55.30.png>)
 
 收费包括：
 
@@ -87,8 +87,8 @@ description: BFM Foundation
 
 策略是公开的，就是客观的卓尔金历法，加上一点主观判断，不过主观判断很少。
 
-{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
-[the-tzolkin-calendar-0.md](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
+{% content-ref url="../zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+[the-tzolkin-calendar-0.md](../zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
 {% endcontent-ref %}
 
 ## 8，申购和赎回费怎么收取:

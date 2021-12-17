@@ -1,4 +1,4 @@
-# 导游
+# 项目流程部
 
 ## 〇，策略学习🚩
 
@@ -6,8 +6,8 @@
 
 [**BellmanFord算法**](https://www.bfm-unity.com/what-is-bfm-al) **+** [**参考文献**](https://www.bfm-unity.com/what-is-bfm-al/bfm-al-ckwx)****
 
-{% content-ref url="suan-fa-yan-jiu-yuan.md" %}
-[suan-fa-yan-jiu-yuan.md](suan-fa-yan-jiu-yuan.md)
+{% content-ref url="suan-fa-yan-jiu-yuan/" %}
+[suan-fa-yan-jiu-yuan](suan-fa-yan-jiu-yuan/)
 {% endcontent-ref %}
 
 ## 一，环境搭建🚩

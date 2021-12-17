@@ -7,11 +7,11 @@
 仅供日后 **查找** ，**不适合细读**。
 {% endhint %}
 
-![](<../../.gitbook/assets/timg (2).jpeg>)
+![](<../../../.gitbook/assets/timg (2).jpeg>)
 
 ## 我们应该查阅什么文献来具体实现BFM算法
 
-![](../../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
+![](../../../.gitbook/assets/b49d19a6fef2385395ae687a10007929.png)
 
 ### [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_lec11.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_lec11.pdf)
 
@@ -49,7 +49,7 @@
 
 ## 我们应该查阅什么文献来具体应用BFM算法
 
-![](../../.gitbook/assets/ab33492c185f8c30f5c21cc40d006134.png)
+![](../../../.gitbook/assets/ab33492c185f8c30f5c21cc40d006134.png)
 
 {% embed url="https://algs4.cs.princeton.edu/44sp/" %}
 

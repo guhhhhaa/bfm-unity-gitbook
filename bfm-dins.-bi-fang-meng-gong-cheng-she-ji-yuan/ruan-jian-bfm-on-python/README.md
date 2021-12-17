@@ -158,6 +158,6 @@ if __name__ == "__main__":
 
 依然不能？回去，重看：
 
-{% content-ref url="../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/" %}
-[what-is-bfm-al](../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/what-is-bfm-al/)
+{% content-ref url="../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/suan-fa-yan-jiu-yuan/what-is-bfm-al/" %}
+[what-is-bfm-al](../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/suan-fa-yan-jiu-yuan/what-is-bfm-al/)
 {% endcontent-ref %}

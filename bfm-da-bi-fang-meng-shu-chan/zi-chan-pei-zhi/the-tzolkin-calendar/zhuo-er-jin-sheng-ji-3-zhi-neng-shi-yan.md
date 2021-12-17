@@ -2,8 +2,8 @@
 
 ## 卓尔金历法实验室
 
-{% content-ref url="../../management-cockpit-operation/shu-xue-li-qi.md" %}
-[shu-xue-li-qi.md](../../management-cockpit-operation/shu-xue-li-qi.md)
+{% content-ref url="../../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-xue-li-qi.md" %}
+[shu-xue-li-qi.md](../../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-xue-li-qi.md)
 {% endcontent-ref %}
 
 ## 1，无监督学习的归一化操作伪代码——&#x20;
