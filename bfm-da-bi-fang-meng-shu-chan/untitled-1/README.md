@@ -22,6 +22,10 @@ description: BFM Foundation
 
 ****[**BTC2x-FLI**](https://www.tokensets.com/portfolio/btcfli)****
 
+WBTC，WETH，DPI，MVI，pBNB，WMATIC
+
+**30，30，10，10，10，10**
+
 ## **比坊梦全球互联网 基金**
 
 {% content-ref url="bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md" %}

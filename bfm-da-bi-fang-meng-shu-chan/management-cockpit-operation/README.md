@@ -81,6 +81,9 @@ description: Management Cockpit (Operation)
 ****\
 ****🆕
 
+*   WBTC，WETH，[DPI](https://www.indexcoop.com/dpi)，[MVI](https://app.zerion.io/invest/asset/MVI-0x72e364f2abdc788b7e918bc238b21f109cd634d7)，pBNB，WMATIC
+
+    **30，30，10，10，10，10**
 * ****[**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=\_5-ycrv%e5%85%91%e6%8d%a2)****
 * ****[**DPI**](https://www.indexcoop.com/dpi)
 * ****[**BCP (PieDAO Balanced Crypto Pie)**](https://pools.piedao.org/#/pie/0xe4f726adc8e89c6a6017f01eada77865db22da14) **(** 🥧 [**Oven**](https://pools.piedao.org/#/oven) **) (**[**介绍**](https://medium.com/piedao/announcing-balanced-crypto-pie-bcp-btc-eth-and-defi-7a2423c5d94e)**)**
