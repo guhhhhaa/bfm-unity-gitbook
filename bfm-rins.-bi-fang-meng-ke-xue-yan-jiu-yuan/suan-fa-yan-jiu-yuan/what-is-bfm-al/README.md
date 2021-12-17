@@ -125,6 +125,6 @@ BELLMAN-FORD-FIND-NEGATIVE-CYCLE(G,w,s)
 
 ## 有些问题回答不出来？可以看看这个：
 
-{% content-ref url="../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/" %}
-[ruan-jian-bfm-on-python](../../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/)
+{% content-ref url="../../dao-you/ruan-jian-bfm-on-python.md" %}
+[ruan-jian-bfm-on-python.md](../../dao-you/ruan-jian-bfm-on-python.md)
 {% endcontent-ref %}

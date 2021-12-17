@@ -10,7 +10,7 @@ BFM Unity 将基于 Hyperledger 的公链项目 Besu，
 BFM Unity 将使用伊斯坦布尔拜占庭式容错（IBFT）作为共识算法。
 {% endhint %}
 
-![](../../.gitbook/assets/u=929135687,1423845009\&fm=26\&gp=0.jpg)
+![](../../../.gitbook/assets/u=929135687,1423845009\&fm=26\&gp=0.jpg)
 
 {% embed url="https://www.hyperledger.org/projects/besu" %}
 
@@ -22,7 +22,7 @@ BFM Unity 将使用伊斯坦布尔拜占庭式容错（IBFT）作为共识算法
 
 BFM Eco System adopts a 3-layer architecture divided into Storage Layer, Core Layer, and Application Layer. The BFM protocol adheres to Google Protobuf, which intrinsically supports multi-language extension.
 
-![](<../../.gitbook/assets/屏幕快照 2020-03-25 上午7.14.14.png>)
+![](<../../../.gitbook/assets/屏幕快照 2020-03-25 上午7.14.14.png>)
 
 ### 1 Core
 

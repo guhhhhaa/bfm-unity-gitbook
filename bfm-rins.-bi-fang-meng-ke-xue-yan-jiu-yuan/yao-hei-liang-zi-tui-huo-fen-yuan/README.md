@@ -10,8 +10,8 @@ description: BFM Unity - Quantum Annealing Institute
 
 ![](<../../.gitbook/assets/BFM Unity Logo square cn.png>)
 
-{% content-ref url="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md" %}
-[chuang-xin-wei-lai-fa-zhan.md](../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md)
+{% content-ref url="../dao-you/chuang-xin-wei-lai-fa-zhan.md" %}
+[chuang-xin-wei-lai-fa-zhan.md](../dao-you/chuang-xin-wei-lai-fa-zhan.md)
 {% endcontent-ref %}
 
 [http://www.quantumforquants.org/](http://www.quantumforquants.org)

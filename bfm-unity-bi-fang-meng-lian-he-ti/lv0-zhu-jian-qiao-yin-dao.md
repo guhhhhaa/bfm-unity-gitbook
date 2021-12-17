@@ -32,8 +32,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 [the-tzolkin-calendar-0.md](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
 {% endcontent-ref %}
 
-{% content-ref url="../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/" %}
-[lv6-xing-mo-fang-fen-lei](../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/)
+{% content-ref url="../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/" %}
+[lv6-xing-mo-fang-fen-lei](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/)
 {% endcontent-ref %}
 
 {% content-ref url="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
@@ -58,8 +58,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 开发者必进
 
-{% content-ref url="../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md" %}
-[research-institute-development.md](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md)
+{% content-ref url="../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/" %}
+[research-institute-development](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/)
 {% endcontent-ref %}
 
 ## 游戏玩家必进

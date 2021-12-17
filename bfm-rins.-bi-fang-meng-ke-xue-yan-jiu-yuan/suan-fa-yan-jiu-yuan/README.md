@@ -16,8 +16,8 @@
 
 ## 深入研究
 
-{% content-ref url="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/" %}
-[ruan-jian-bfm-on-python](../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/)
+{% content-ref url="../dao-you/ruan-jian-bfm-on-python.md" %}
+[ruan-jian-bfm-on-python.md](../dao-you/ruan-jian-bfm-on-python.md)
 {% endcontent-ref %}
 
 ## 交叉研究
@@ -32,6 +32,6 @@
 
 ## 高层研究
 
-{% content-ref url="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md" %}
-[chuang-xin-wei-lai-fa-zhan.md](../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python/chuang-xin-wei-lai-fa-zhan.md)
+{% content-ref url="../dao-you/chuang-xin-wei-lai-fa-zhan.md" %}
+[chuang-xin-wei-lai-fa-zhan.md](../dao-you/chuang-xin-wei-lai-fa-zhan.md)
 {% endcontent-ref %}

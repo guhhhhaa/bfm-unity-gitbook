@@ -46,8 +46,8 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 [lv2-yin-hang](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md" %}
-[research-institute-development.md](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md)
+{% content-ref url="bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/" %}
+[research-institute-development](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/)
 {% endcontent-ref %}
 
 {% content-ref url="bfm-unity-bi-fang-meng-lian-he-ti/roadmap/" %}

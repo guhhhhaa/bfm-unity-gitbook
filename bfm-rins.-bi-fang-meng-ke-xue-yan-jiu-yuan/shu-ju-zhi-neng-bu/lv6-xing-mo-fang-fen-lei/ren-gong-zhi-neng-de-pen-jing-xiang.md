@@ -26,4 +26,4 @@ description: 人工智能的盆景箱
 [.](./)
 {% endcontent-ref %}
 
-![](<../../.gitbook/assets/屏幕快照 2021-08-23 下午6.37.08.png>)
+![](<../../../.gitbook/assets/屏幕快照 2021-08-23 下午6.37.08.png>)

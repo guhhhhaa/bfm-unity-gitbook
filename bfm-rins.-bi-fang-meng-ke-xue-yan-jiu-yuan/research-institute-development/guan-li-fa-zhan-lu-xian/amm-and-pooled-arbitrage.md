@@ -10,11 +10,11 @@ AMM一日，DeFi一年。
 
 {% embed url="https://www.chainnews.com/articles/445280995309.htm" %}
 
-![](../../.gitbook/assets/1fa205fb-8ff3-57b0-aabd-03bbfbe01a6b.jpg)
+![](../../../.gitbook/assets/1fa205fb-8ff3-57b0-aabd-03bbfbe01a6b.jpg)
 
 {% embed url="https://www.chainnews.com/articles/616642213529.htm" %}
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1).png>)
 
 {% embed url="https://www.chainnews.com/articles/127470240340.htm" %}
 

@@ -15,7 +15,7 @@
 {% hint style="info" %}
 ## 问题描述
 
-![](<../../.gitbook/assets/A4 (1).png>)
+![](<../../../.gitbook/assets/A4 (1).png>)
 
 ## [卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)
 
@@ -64,13 +64,13 @@
 [MVRV](https://www.qkl123.com/data/mvrv/btc)  |  [S2F](https://www.qkl123.com/data/s2f/btc)  |  [NVT](https://www.qkl123.com/data/nvt/btc)
 {% endhint %}
 
-![](../../.gitbook/assets/A4\_3.png)
+![](../../../.gitbook/assets/A4\_3.png)
 
 
 
 
 
-![](../../.gitbook/assets/A3.png)
+![](../../../.gitbook/assets/A3.png)
 
 ## 课程学习
 
@@ -90,5 +90,5 @@
 
 ### S2F>MVRV>NVT
 
-![](<../../.gitbook/assets/屏幕快照 2021-08-23 下午6.37.08.png>)
+![](<../../../.gitbook/assets/屏幕快照 2021-08-23 下午6.37.08.png>)
 

@@ -39,8 +39,8 @@ description: Management Cockpit (Operation)
 [the-tzolkin-calendar](../zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
-{% content-ref url="../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/" %}
-[lv6-xing-mo-fang-fen-lei](../../bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/lv6-xing-mo-fang-fen-lei/)
+{% content-ref url="../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/" %}
+[lv6-xing-mo-fang-fen-lei](../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/)
 {% endcontent-ref %}
 
 {% hint style="info" %}

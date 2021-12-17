@@ -6,14 +6,14 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 
 ## Te-s-r-act，是 TensorAct，还是Tesseract ?
 
-{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
-[zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md](../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md)
+{% content-ref url="../../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+[zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md](../../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
 ## 问题描述
 
-![](<../../.gitbook/assets/A4 (1).png>)
+![](<../../../.gitbook/assets/A4 (1).png>)
 
 ##
 
@@ -32,7 +32,7 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 [MVRV](https://www.qkl123.com/data/mvrv/btc)  |  [S2F](https://www.qkl123.com/data/s2f/btc)  |  [NVT](https://www.qkl123.com/data/nvt/btc)
 {% endhint %}
 
-![](../../.gitbook/assets/A4\_3.png)
+![](../../../.gitbook/assets/A4\_3.png)
 
 [22 款神经网络的设计和可视化工具](https://www.huaweicloud.com/articles/d90130bfd852a55e505155e381ebfab1.html)
 
@@ -48,13 +48,13 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 
 ## 开发环境
 
-![](<../../.gitbook/assets/屏幕快照 2021-07-09 上午7.54.06.png>)
+![](<../../../.gitbook/assets/屏幕快照 2021-07-09 上午7.54.06.png>)
 
 [https://www.anaconda.com/](https://www.anaconda.com)
 
 [https://www.anaconda.com/pycharm](https://www.anaconda.com/pycharm)
 
-![](../../.gitbook/assets/QQ20210625-2.jpg)
+![](../../../.gitbook/assets/QQ20210625-2.jpg)
 
 **pandas**是一个数据处理的包，本身提供了许多读取文件的函数，像read\_csv（读取csv文件），read\_excel（读取excel文件）等，只需一行代码就能实现文件的读取。
 
@@ -334,7 +334,7 @@ from scipy import stats  # 其他的子模块类似
 
 `scipy`的主要命名空间通常包含的函数其实是numpy（试一下`scipy.cos`其实是`np.cos`) 。这些函数的暴露只是因为历史原因；通常没有必要在你的代码中使用`import scipy`。
 
-![](../../.gitbook/assets/A3.png)
+![](../../../.gitbook/assets/A3.png)
 
 ## [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)
 

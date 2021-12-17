@@ -12,8 +12,8 @@ description: BFM Eco.
 [management-cockpit-operation](../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
 
-{% content-ref url="../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md" %}
-[research-institute-development.md](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development.md)
+{% content-ref url="../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/" %}
+[research-institute-development](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
