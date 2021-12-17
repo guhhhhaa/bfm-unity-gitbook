@@ -1,12 +1,17 @@
 # Table of contents
 
 * [💎 BF​M Unity : Blockchain · Finance · Metaverse](README.md)
-* [新人必看（🔥）](xin-ren-bi-kan.md)
+
+## BFM Lite | 比坊梦轻量版
+
+* [新人必看（🔥）](bfm-lite-bi-fang-meng-qing-liang-ban/xin-ren-bi-kan.md)
+* [驾驶舱 (运行) （🔥）](bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/README.md)
+  * [私钥云保管 🔑 ☁️](bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/si-yao-yun-bao-guan.md)
+* [BFM Navigation](bfm-lite-bi-fang-meng-qing-liang-ban/bfm-navigation.md)
+* [Main Bridge (Navigator)](bfm-lite-bi-fang-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md)
 
 ## BFM Unity | 比坊梦联合体
 
-* [BFM Navigation](bfm-unity-bi-fang-meng-lian-he-ti/bu-fa-meng-dao-hang.md)
-* [Main Bridge (Navigator)](bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md)
 * [陈列室 (历程)](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/README.md)
   * [虚拟资产编号名录](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/fei-wu-zhi-zi-chan-ming-lu.md)
 * [新人指导](bfm-unity-bi-fang-meng-lian-he-ti/guan-li-wen-ti-jie-da-1-jie-gou-yin-ru/README.md)
@@ -16,12 +21,6 @@
   * [群公告备份](bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md)
 * [【组织】团队构成](bfm-unity-bi-fang-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui.md)
 
-## BFM URS. | 比坊梦联储 <a href="#bfmurs" id="bfmurs"></a>
-
-## BFM Str. | 比坊梦交易策略
-
-* [BFM Trading Strategy♟](bfm-str.-bi-fang-meng-jiao-yi-ce-lve/bu-fa-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
-
 ## 🦣 BFM Eco. | 比坊梦区块生态
 
 * [BFM Eco. 🛰️](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-discovery.md)
@@ -29,22 +28,26 @@
 * [ETH - MainNet](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-eth/README.md)
   * [Arbitrum](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-eth/zhi-hui-shi-arbitrum.md)
   * [Matic - Polygon](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-eth/zhi-hui-shi-polygonmatic.md)
+  * [SHIB - Shiba Inu](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-eth/shib-shiba-inu.md)
 * [BNB - BSC](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-bsc.md)
 * [SOL - Solana](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-sol-solana.md)
-* [ADA - Cardano](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/ada-cardano.md)
-* [SHIB - Shiba Inu](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/shib-shiba-inu.md)
-* [ATOM - Cosmos](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-atom/README.md)
-  * [LUNA - Terra](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-atom/zhi-hui-shi-terra.md)
+* [其他公链](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/qi-ta-gong-lian/README.md)
+  * [ATOM - Cosmos](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/qi-ta-gong-lian/zhi-hui-shi-atom/README.md)
+    * [LUNA - Terra](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/qi-ta-gong-lian/zhi-hui-shi-atom/zhi-hui-shi-terra.md)
+  * [ADA - Cardano](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/qi-ta-gong-lian/ada-cardano.md)
 * [AVAX - Avalanche](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-avax-avalanche.md)
 * [FTM - Fantom](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-ftm-fantom.md)
 * [Flow](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/flow.md)
 * [Near](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-near.md)
 * [IPFS/FIL](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-ipfsfil.md)
+* [BFM Meta](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/bi-fang-meng-yuan-yu-zhou/README.md)
+  * [BFM Meme 🐶 💩](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/bi-fang-meng-yuan-yu-zhou/bfm-meme.md)
+  * [BFM NFT🃏](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-nft.md)
+  * [BFM GameFi 🎮](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-you-xi.md)
+  * [BFM DeFi 🦄️](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/bi-fang-meng-yuan-yu-zhou/bfm-defi.md)
 
 ## BFM DA | 比坊梦数产
 
-* [驾驶舱 (运行) （🔥）](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
-  * [私钥云保管 🔑 ☁️](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/si-yao-yun-bao-guan.md)
 * [资产配置 🕙 ⌚️（🔥）](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/README.md)
   * [战略资产配置——卓尔金历 🕙](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/README.md)
     * [卓尔金升级1——拟合函数](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
@@ -80,6 +83,7 @@
 * [BFM Foundation](bfm-da-bi-fang-meng-shu-chan/untitled-1/README.md)
   * [比坊梦全球互联网 基金](bfm-da-bi-fang-meng-shu-chan/untitled-1/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
   * [若尘的基金](bfm-da-bi-fang-meng-shu-chan/untitled-1/ruo-chen-de-qie-man-ji-jin.md)
+* [BFM Trading Strategy♟](bfm-da-bi-fang-meng-shu-chan/bfm-trading-strategy.md)
 * [影银行 (枢纽)](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/README.md)
   * [自营业务](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/zi-ying-tou-zi.md)
   * [个人业务](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/ge-ren-ye-wu.md)
@@ -109,14 +113,6 @@
 * [International Phone Number](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-shou-ji-hao-ban-li.md)
 * [International Bank Card](bfm-trad.-bi-fang-meng-jin-dian/international-bank-card.md)
 * [草稿](bfm-trad.-bi-fang-meng-jin-dian/cao-gao.md)
-
-## BFM Meta | 比坊梦元宇宙 <a href="#bfm-meta" id="bfm-meta"></a>
-
-* [BFM Meta](bfm-meta/bi-fang-meng-yuan-yu-zhou/README.md)
-  * [BFM Meme 🐶 💩](bfm-meta/bi-fang-meng-yuan-yu-zhou/bfm-meme.md)
-  * [BFM NFT🃏](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-nft.md)
-  * [BFM GameFi 🎮](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-you-xi.md)
-  * [BFM DeFi 🦄️](bfm-meta/bi-fang-meng-yuan-yu-zhou/bfm-defi.md)
 
 ## BFM R-Ins. | 比坊梦科学研究院
 

@@ -29,14 +29,14 @@ description: Management Cockpit (Operation)
 
 ## 资产配置
 
-{% content-ref url="../zi-chan-pei-zhi/" %}
-[zi-chan-pei-zhi](../zi-chan-pei-zhi/)
+{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/" %}
+[zi-chan-pei-zhi](../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/)
 {% endcontent-ref %}
 
 ## 核心显示界面
 
-{% content-ref url="../zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](../zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% content-ref url="../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 {% content-ref url="../../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/" %}
