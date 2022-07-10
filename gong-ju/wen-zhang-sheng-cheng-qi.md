@@ -22,9 +22,9 @@
 
 四字名词:
 
-生命周期，价值转化，强化认知，资源倾斜，完善逻辑，抽离透传，复用打法，商业模式，快速响应，定性定量，关键路径，去中心化，结果导向，垂直领域，如何收口，归因分析，体验度量，信息屏障。​ 
+生命周期，价值转化，强化认知，资源倾斜，完善逻辑，抽离透传，复用打法，商业模式，快速响应，定性定量，关键路径，去中心化，结果导向，垂直领域，如何收口，归因分析，体验度量，信息屏障。​&#x20;
 
-复盘（review），赋能（enable），抓手\(grip\)，对标（benchmark），沉淀\(internalize\)，对齐\(alignment\)，拉通\(stream-line\)，倒逼\(push back\)，颗粒度\(granularity\)，落地\(landing\)，中台\(middle office\)，方法论\(methodology\)，漏斗\(funnel\)，组合拳\(blended measures\)，闭环\(closed loop\)，生命周期\(life cycle\)，打法\(tactics\)，履约\(delivery\)，引爆点\(tipping point\)，串联\(cascade\)，价值转化\(value transfer \)，关联转化\(associated transfer\)，纽带\(bond\)，矩阵\(matrix\)，协同\(collabration\)，反哺\(give back\)，点线面\(point, line and to plane\)，认知\(perception\)，强化认知\(reinfored perception \)，强化心智\(reinforced mind-set\)，智能\(smart-\)，机器学习\(machine learning\)，智能决策\(smart decision\)，交互\(inter-link\)，兼容\(inclusive\)，包装\(package\)，相应\(relative\)，刺激\(stimulate\)，规模\(scale\)，重组\(restructure\)，量化\(measurable\)，宽松\(loose\)，资源倾斜\(resources allocation\)，完善逻辑\(perfect logic\)，抽离透传\(detach and circulate\)，抽象思维\(abstract thinking\)，复用打法\(replicate tactics\)，发力\(put the force on \)，精细化\(refining\)，布局\(layout\)，商业模式\(business model\)​
+复盘（review），赋能（enable），抓手(grip)，对标（benchmark），沉淀(internalize)，对齐(alignment)，拉通(stream-line)，倒逼(push back)，颗粒度(granularity)，落地(landing)，中台(middle office)，方法论(methodology)，漏斗(funnel)，组合拳(blended measures)，闭环(closed loop)，生命周期(life cycle)，打法(tactics)，履约(delivery)，引爆点(tipping point)，串联(cascade)，价值转化(value transfer )，关联转化(associated transfer)，纽带(bond)，矩阵(matrix)，协同(collabration)，反哺(give back)，点线面(point, line and to plane)，认知(perception)，强化认知(reinfored perception )，强化心智(reinforced mind-set)，智能(smart-)，机器学习(machine learning)，智能决策(smart decision)，交互(inter-link)，兼容(inclusive)，包装(package)，相应(relative)，刺激(stimulate)，规模(scale)，重组(restructure)，量化(measurable)，宽松(loose)，资源倾斜(resources allocation)，完善逻辑(perfect logic)，抽离透传(detach and circulate)，抽象思维(abstract thinking)，复用打法(replicate tactics)，发力(put the force on )，精细化(refining)，布局(layout)，商业模式(business model)​
 
 ### 狗屁不通文章生成器
 
@@ -46,11 +46,11 @@
 
 [https://arxiv.org/pdf/1905.07870.pdf](https://arxiv.org/pdf/1905.07870.pdf)
 
-## 白皮书生成器\(已失效\)
+## 白皮书生成器(已失效)
 
 [https://whitepaper.koinster.com/](https://whitepaper.koinster.com/)
 
-## 科幻小说生成器\(有消息，未开源\)
+## 科幻小说生成器(有消息，未开源)
 
 [https://m.hexun.com/tech/2020-10-28/202316282.html](https://m.hexun.com/tech/2020-10-28/202316282.html)
 
@@ -60,9 +60,14 @@
 
 ## 小说续写工具
 
-[http://if.caiyunai.com/dream/\#/](http://if.caiyunai.com/dream/#/)
+[http://if.caiyunai.com/dream/#/](http://if.caiyunai.com/dream/#/)
+
+## 科幻小说续写工具
+
+启灵1.0 科幻小说AI辅助创作平台
+
+[http://smart.pfish.xyz/](http://smart.pfish.xyz/)
 
 ## 高考作文写作工具
 
-[https://gitee.com/chenyang918/EssayKiller\_v2](https://gitee.com/chenyang918/EssayKiller_v2)
-
+[https://gitee.com/chenyang918/EssayKiller\_v2](https://gitee.com/chenyang918/EssayKiller\_v2)
