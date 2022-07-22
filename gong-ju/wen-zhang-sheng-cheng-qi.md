@@ -60,10 +60,13 @@
 
 ## 小说续写工具
 
-{% embed url="http://if.caiyunai.com/dream/#/" %}
-\
+### 免费
 
-{% endembed %}
+{% embed url="http://if.caiyunai.com/dream/#/" %}
+
+### 付费
+
+{% embed url="https://heyfriday.cn/" %}
 
 {% embed url="https://www.mypitaya.com/zh" %}
 
