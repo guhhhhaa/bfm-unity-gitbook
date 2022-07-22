@@ -114,7 +114,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 （[**愿景及使命1**](https://www.bilibili.com/bangumi/play/ss28381/) **|** [**愿景及使命2**](https://www.dilidili3.com/play/7107-1-1/) **|** [**愿景及使命3**](https://www.dm233.cc/anime/20200054.html) **|** [**愿景及使命4**](https://www.bilibili.com/bangumi/play/ss4098/)）
 
-意识存储器：Bilibili，[嘀哩嘀哩](https://dilidili.online/)，[233动漫网](https://www.dm233.me/)，[Age](https://www.agefans.cc/)动漫
+意识存储器：Bilibili，[嘀哩嘀哩](https://dilidili.online/)，[233动漫网](https://www.dm233.me/)，[Age动漫](https://www.agefans.cc/)
 
 ## ‌核心价值观
 
