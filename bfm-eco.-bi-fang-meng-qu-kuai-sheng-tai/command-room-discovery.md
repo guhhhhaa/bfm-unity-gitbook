@@ -20,7 +20,7 @@ description: BFM Eco.
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/BFM Unity 指挥室.png>)
+![](<../.gitbook/assets/BFM Unity 指挥室 (1).png>)
 
 {% content-ref url="command-room-eth/" %}
 [command-room-eth](command-room-eth/)
