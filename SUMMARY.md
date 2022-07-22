@@ -35,7 +35,7 @@
   * [ADA - Cardano](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/ada-cardano.md)
   * [AVAX - Avalanche](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/qi-ta-gong-lian/zhi-hui-shi-avax-avalanche.md)
   * [ATOM - Cosmos](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-atom/README.md)
-    * [LUNA - Terra](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-atom/zhi-hui-shi-terra.md)
+    * [☠ LUNA - Terra（已亡）](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/zhi-hui-shi-atom/zhi-hui-shi-terra.md)
   * [FTM - Fantom](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/qi-ta-gong-lian/zhi-hui-shi-ftm-fantom.md)
   * [Flow](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/qi-ta-gong-lian/flow.md)
   * [Near](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/qi-ta-gong-lian/zhi-hui-shi-near.md)
