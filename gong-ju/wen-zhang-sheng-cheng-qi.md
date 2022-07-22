@@ -61,6 +61,11 @@
 ## 小说续写工具
 
 {% embed url="http://if.caiyunai.com/dream/#/" %}
+\
+
+{% endembed %}
+
+{% embed url="https://www.mypitaya.com/zh" %}
 
 ## 科幻小说续写工具
 
