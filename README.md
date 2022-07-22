@@ -88,4 +88,8 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 | [Discord群组](https://discord.gg/CyEcS2wmzk)                             | [Reddit论坛](https://www.reddit.com/r/BFM\_Unity/)                         |
 | QQ群：708912525                                                          |                                                                          |
 
+## 小吉祥物
+
+![](<.gitbook/assets/BFM Unity 小吉祥物.png>)
+
 **© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**](https://www.bfm-unity.com/)**.** [**比坊梦联合体**](https://www.bfm-unity.com/)**. All Rights Reserved.**
