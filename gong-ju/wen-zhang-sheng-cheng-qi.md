@@ -64,15 +64,21 @@
 
 ### 免费
 
-
+彩云小梦
 
 [https://if.caiyunai.com/#/](https://if.caiyunai.com/#/)
 
-### 付费
+Friday
 
 [https://heyfriday.cn/](https://heyfriday.cn/)
 
+火龙果
+
 [https://www.mypitaya.com/zh](https://www.mypitaya.com/zh)
+
+秘塔写作猫
+
+[https://xiezuocat.com/](https://xiezuocat.com/)
 
 ## 科幻小说续写工具
 
