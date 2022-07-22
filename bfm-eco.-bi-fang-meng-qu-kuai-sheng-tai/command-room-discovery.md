@@ -79,6 +79,33 @@ description: BFM Eco.
 * ~~**Block123 (导航网站)**~~
 * ~~**QKL123 (比特币数据)**~~
 * ~~****~~[~~**链闻**~~](https://medium.com/@winkryptocom)~~**，非小号，币世界**~~
+* 一、Trading数据类网站&#x20;
+* 1、Nansen：https://www.nansen.ai/home-v1&#x20;
+* 2、DappRadar：https://dappradar.com/&#x20;
+*   3、DropsTab：https://dropstab.com/portfolio
+
+
+* 二、NFT数据网站&#x20;
+* 1、Opensea：https://opensea.io/&#x20;
+* 2、WhatsCoin：https://www.whatscoin.com&#x20;
+* 一、Web3工具&#x20;
+* 1、Mirror：https://mirror.xyz/&#x20;
+*   2、Gitcoin：https://gitcoin.co/
+
+
+* 二、defi分析工具&#x20;
+* 1、Defillama：https://defillama.com/&#x20;
+*   2、Coinhippo：https://coinhippo.io/
+
+
+* 三、研报网站&#x20;
+* 1、Delphi Digital：https://delphidigital.io/&#x20;
+*   2、头等仓：https://www.first.vip/#/index
+
+
+* 四、空投网站&#x20;
+* 1、Airdropbob：https://www.airdropbob.com/ &#x20;
+* 2、Airdropalert：https://airdropalert.com/
 {% endtab %}
 
 {% tab title="钱包💰" %}
