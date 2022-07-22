@@ -50,11 +50,9 @@
 
 [https://whitepaper.koinster.com/](https://whitepaper.koinster.com/)
 
-## 科幻小说生成器相关报道
+## 科幻小说生成器(有消息，未开源)
 
 [https://m.hexun.com/tech/2020-10-28/202316282.html](https://m.hexun.com/tech/2020-10-28/202316282.html)
-
-[https://www.sohu.com/a/555787301\_121398522](https://www.sohu.com/a/555787301\_121398522)
 
 ## 清华大学九歌系统
 
@@ -62,17 +60,7 @@
 
 ## 小说续写工具
 
-### 免费
-
-####
-
-[https://if.caiyunai.com/#/](https://if.caiyunai.com/#/)
-
-### 付费
-
-[https://heyfriday.cn/](https://heyfriday.cn/)
-
-[https://www.mypitaya.com/zh](https://www.mypitaya.com/zh)
+[http://if.caiyunai.com/dream/#/](http://if.caiyunai.com/dream/#/)
 
 ## 科幻小说续写工具
 
