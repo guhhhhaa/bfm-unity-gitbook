@@ -108,15 +108,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](<../.gitbook/assets/BFM Unity C级别友商.png>)
 
-### ~~~~[~~我们的友商2~~](https://www.bilibili.com/video/BV1YW411d7ZY)~~~~
-
 ## 愿景及使命 <a href="#yuan-jing-ji-shi-ming" id="yuan-jing-ji-shi-ming"></a>
 
 我喜欢坐在 [**SCP-2950**](http://scp-wiki-cn.wikidot.com/scp-2950) 上，看 [**GOC**](http://scp-wiki-cn.wikidot.com/goc-hub-page) 的公告。
 
 （[**愿景及使命1**](https://www.bilibili.com/bangumi/play/ss28381/) **|** [**愿景及使命2**](https://www.dilidili3.com/play/7107-1-1/) **|** [**愿景及使命3**](https://www.dm233.cc/anime/20200054.html) **|** [**愿景及使命4**](https://www.bilibili.com/bangumi/play/ss4098/)）
 
-意识存储器：Bilibili，[嘀哩嘀哩](https://dilidili.online/)，[233动漫网](https://www.dm233.me/)，[AgeF](https://www.agefans.cc/)
+意识存储器：Bilibili，[嘀哩嘀哩](https://dilidili.online/)，[233动漫网](https://www.dm233.me/)，[Age](https://www.agefans.cc/)动漫
 
 ## ‌核心价值观
 
