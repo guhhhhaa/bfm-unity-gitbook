@@ -64,21 +64,89 @@
 
 ### 免费
 
-彩云小梦
+* 彩云小梦
 
 [https://if.caiyunai.com/#/](https://if.caiyunai.com/#/)
 
-Friday
+* Friday
 
 [https://heyfriday.cn/](https://heyfriday.cn/)
 
-火龙果
+* 火龙果
 
 [https://www.mypitaya.com/zh](https://www.mypitaya.com/zh)
 
-秘塔写作猫
+* 秘塔写作猫
 
 [https://xiezuocat.com/](https://xiezuocat.com/)
+
+*   一丶Get写作
+
+    [http://getgetai.com](https://link.zhihu.com/?target=http%3A//getgetai.com)
+
+    可以根据时事热点智能改写、扩写文章，还能给你提供写作角度的建议。站内有很多现成的写作模板可以套用，比如职场干货文、教育观点文、深度影评文等等\~
+
+    ![](https://pic4.zhimg.com/80/v2-c8db2c5625a8c18ecc5d91f8d1c5010f\_1440w.jpg)
+
+    二丶Giiso写作机器人
+
+    [http://giiso.com](https://link.zhihu.com/?target=http%3A//giiso.com)
+
+    可以帮你一秒get千字思想汇报文，很绝。除此之外其实还有很多类型的文章模板，感觉很适合营销号的工作需求哈哈，按提纲生成文章也很实用\~
+
+    ![](https://pic1.zhimg.com/80/v2-7390b773278521600b930fbd8d41bf8c\_1440w.jpg)
+
+    三丶易撰
+
+    [http://yizhuan5.com](https://link.zhihu.com/?target=http%3A//yizhuan5.com)
+
+    能够分析爆文数据给你参考、输入几个关键词生成文章、智能拟定爆款标题，还能帮你分析文章质量、提供改写建议。缺点是很多功能需要会员。
+
+    ![](https://pic4.zhimg.com/80/v2-f0e6a4aaddf8511f858865261d51505b\_1440w.jpg)
+
+    四丶秘塔写作猫
+
+    [http://xiezuocat.com](https://link.zhihu.com/?target=http%3A//xiezuocat.com)
+
+    好用的文章校对工具，中英文都可，帮你发现标点、用词、语法等错误，规避敏感词。网站、浏览器插件、手机小程序，多平台支持，怎么方便怎么来\~
+
+    ![](https://pic4.zhimg.com/80/v2-c662cdf4593118fa45d763c313cb53a7\_1440w.jpg)
+
+    五丶剧本生成器
+
+    [https://datamuse.guokr.com/web?page=ltd\&from=ter](https://link.zhihu.com/?target=https%3A//datamuse.guokr.com/web%3Fpage%3Dltd%26from%3Dter)
+
+    抓取了国产剧的一百多个常见桥段，只需要输入两个主角的名字、选定想要的故事题材（玄幻、爱情、犯罪...），就能帮你生成一个剧本梗概。
+
+    ![](https://pic3.zhimg.com/80/v2-3eb73cfd336b4f1709c10c0d3c6be94e\_1440w.jpg)
+
+    六丶WPS智能写作
+
+    [http://aiwrite.wps.cn](https://link.zhihu.com/?target=http%3A//aiwrite.wps.cn)
+
+    选择题材–输入主题–选定写作思路–—键生成，用起来超方便。主要是社畜们日常需要的工作汇报、心得体会、演讲致辞之类的，很方便!
+
+    ![](https://pic1.zhimg.com/80/v2-8f66d53bb161af5ec114cd0c7ea33ee4\_1440w.jpg)
+
+    七丶AI写作猫
+
+    [http://xiezuomao.com](https://link.zhihu.com/?target=http%3A//xiezuomao.com)
+
+    输入标题或关键词―键生成文章，或上传一篇文章然后智能改写/仿写，也支持文章的智能排版。但每次使用需要「猫粮」，除了注册账号赠送的那些，一次约一毛。
+
+    ![](https://pic3.zhimg.com/80/v2-4c2edbce70671cda40b9fd4556680476\_1440w.jpg)
+
+    八丶小论文神器
+
+    essay.1ts.fun
+
+    输入学科和两个关键词就可以自动生成一篇小论文，写东西不怕凑字数了!生成后每个段落可以单独处理，结课小作业、读书笔记、思想汇报什么的都能水一水。
+
+    ![](https://pic3.zhimg.com/80/v2-cec9409468b205bf2488299106f55e06\_1440w.jpg)\
+
+* [effidit](https://effidit.qq.com/)
+
+[https://effidit.qq.com/](https://effidit.qq.com/)
 
 ## 科幻小说续写工具
 
