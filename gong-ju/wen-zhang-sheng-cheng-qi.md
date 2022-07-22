@@ -80,6 +80,10 @@
 
 [https://xiezuocat.com/](https://xiezuocat.com/)
 
+* 神码智能写作
+
+[http://www.wz132.com/](http://www.wz132.com/)
+
 *   一丶Get写作
 
     [http://getgetai.com](https://link.zhihu.com/?target=http%3A//getgetai.com)
