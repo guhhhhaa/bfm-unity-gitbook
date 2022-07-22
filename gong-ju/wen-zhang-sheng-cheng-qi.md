@@ -60,15 +60,7 @@
 
 ## 小说续写工具
 
-### 免费
-
-{% embed url="http://if.caiyunai.com/dream/#/" %}
-
-### 付费
-
-{% embed url="https://heyfriday.cn/" %}
-
-{% embed url="https://www.mypitaya.com/zh" %}
+[http://if.caiyunai.com/dream/#/](http://if.caiyunai.com/dream/#/)
 
 ## 科幻小说续写工具
 
