@@ -42,7 +42,7 @@ BFM has a KhaosDB in the full-node memory that can store all the newly forked ch
 
 ### 3 Application
 
-Developers can create a diverse range of DApps and customized wallets on BFM. Since BFM enables smart contracts to be deployed and executed, the opportunities of utility applications are unlimited.Solidity official documentation: [https://solidity.readthedocs.io/](https://solidity.readthedocs.io)
+Developers can create a diverse range of DApps and customized wallets on BFM. Since BFM enables smart contracts to be deployed and executed, the opportunities of utility applications are unlimited.Solidity official documentation: [https://solidity.readthedocs.io/](https://solidity.readthedocs.io/)
 
 ### 4 Protocol
 

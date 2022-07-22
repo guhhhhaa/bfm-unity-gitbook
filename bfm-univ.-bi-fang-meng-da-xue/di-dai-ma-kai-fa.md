@@ -58,4 +58,4 @@ MIS | OA | ERP | DRP | BIP | HR | CRM | BPM | EAM | SCM | PLM | PDM | AI | BI | 
 
 \
 \
-TaskBuilder，[Genexus](https://www.genexus.com/en/) （[2](http://www.genexuschina.com)）
+TaskBuilder，[Genexus](https://www.genexus.com/en/) （[2](http://www.genexuschina.com/)）

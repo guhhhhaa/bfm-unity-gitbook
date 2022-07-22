@@ -6,7 +6,7 @@ bfm-unity.com 是一个社区支持的社区，我们十分感谢任何捐助和
 
 ## 赞助
 
-### 社区Token/NFT拍卖（由 [OpenSea](https://opensea.io/collections) 和 [Rarible](https://rarible.com) 支持）
+### 社区Token/NFT拍卖（由 [OpenSea](https://opensea.io/collections) 和 [Rarible](https://rarible.com/) 支持）
 
 {% tabs %}
 {% tab title="BFM Unity Token" %}

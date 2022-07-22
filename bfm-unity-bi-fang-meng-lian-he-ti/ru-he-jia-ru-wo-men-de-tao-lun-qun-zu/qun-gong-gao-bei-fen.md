@@ -64,7 +64,7 @@ DEX，DeFi，AMM，这些才是主流。
 
 第三步，用 HD钱包 的助记词seed绑定metamask 钱包 ，连接到 Uniswap&#x20;
 
-第四步，通过下方这个链接能一键配置投资组合。建议选择其中的ETH-WBTC组合。 [https://www.zapper.fi/](https://www.zapper.fi)&#x20;
+第四步，通过下方这个链接能一键配置投资组合。建议选择其中的ETH-WBTC组合。 [https://www.zapper.fi/](https://www.zapper.fi/)&#x20;
 
 使用这个链接只有燃气费，没有额外的收费。&#x20;
 

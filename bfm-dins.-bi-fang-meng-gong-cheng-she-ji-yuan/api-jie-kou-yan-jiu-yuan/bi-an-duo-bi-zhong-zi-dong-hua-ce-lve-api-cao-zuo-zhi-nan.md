@@ -2,7 +2,7 @@
 
 币安API文档
 
-[https://www.binance.com](https://www.binance.com)
+[https://www.binance.com](https://www.binance.com/)
 
 [https://binance-docs.github.io/apidocs/spot/cn/](https://binance-docs.github.io/apidocs/spot/cn/)\
 [![](https://github.com/fluidicon.png)sammchardy/python-binance-chain](https://github.com/sammchardy/python-binance-chain/)\

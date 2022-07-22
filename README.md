@@ -8,7 +8,7 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 >
 > **BF​M Unity : Blockchain · Finance · Metaverse**
 
-![](<.gitbook/assets/BFM Unity 3.0 群青 (1).png>)
+![](<.gitbook/assets/BFM Unity 3.0 群青.png>)
 
 ## 你是新人？请点击以下链接：
 
@@ -79,7 +79,7 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
 ## 信息矩阵
 
-| [Gitbook 群主页](https://www.bfm-unity.com)                               | [Trello 看板](https://trello.com/b/z4aDgNAL/todolist)                      |
+| [Gitbook 群主页](https://www.bfm-unity.com/)                              | [Trello 看板](https://trello.com/b/z4aDgNAL/todolist)                      |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | ****[**Github 文档地址0**](https://github.com/guhhhhaa/bfm-gitbook-v1)**** | ****[**Github 代码地址1**](https://github.com/guhhhhaa/bfm-group-file)****   |
 | ****[**Github 文档地址1**](https://github.com/guhhhhaa/bfm-gitbook)****    | ****[**Github 代码地址2**](https://github.com/BFM-Unity/BFM-Unity-2)****     |
@@ -88,4 +88,4 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 | [Discord群组](https://discord.gg/CyEcS2wmzk)                             | [Reddit论坛](https://www.reddit.com/r/BFM\_Unity/)                         |
 | QQ群：708912525                                                          |                                                                          |
 
-**© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com) [**BFM Unity**](https://www.bfm-unity.com)**.** [**比坊梦联合体**](https://www.bfm-unity.com)**. All Rights Reserved.**
+**© 2021.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**](https://www.bfm-unity.com/)**.** [**比坊梦联合体**](https://www.bfm-unity.com/)**. All Rights Reserved.**

@@ -21,7 +21,7 @@ description: Management Cockpit (Operation)
 * ****[**bitkeep.org**](https://bitkeep.org/zh/index.html)****
 * ****[**FTX 交易所**](https://ftx.com/#a=45676115) **** 600种加密货币、美股凭证任你买卖，可以购买B站，台积电，特斯拉，谷歌等公司股票。
 * ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)****
-* [**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)，[**Trust Wallet**](https://trustwallet.com)，[**Blockchain.com**](https://www.blockchain.com/wallet)****
+* [**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)****
 
 {% content-ref url="../../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/si-yao-yun-bao-guan.md" %}
 [si-yao-yun-bao-guan.md](../../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/si-yao-yun-bao-guan.md)
@@ -58,23 +58,23 @@ description: Management Cockpit (Operation)
 
 {% hint style="success" %}
 * ****[**DeBank**](https://debank.com/swap) **(**[**协议列表**](https://debank.com/projects)**)**
-* [**Zapper.fi**](https://www.zapper.fi)
+* [**Zapper.fi**](https://www.zapper.fi/)
 * ****[**Zerion**](https://app.zerion.io/exchange)
 * [**bitkeep**](https://bitkeep.org/zh/index.html)****
-* [defillama.com](https://defillama.com)
-* [Ape Board](https://apeboard.finance)
+* [defillama.com](https://defillama.com/)
+* [Ape Board](https://apeboard.finance/)
 
 
 
 看K线工具
 
-* ****[**dex.guru**](https://dex.guru) **|** [**dextools.io**](https://www.dextools.io/app/)****
+* ****[**dex.guru**](https://dex.guru/) **|** [**dextools.io**](https://www.dextools.io/app/)****
 
 
 
-* **🦄️** [**Uniswap**](https://app.uniswap.org)  **|**  [**Uniswap Info**](https://info.uniswap.org)****
-* ****[**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange)****
-* ****[**Balancer**](https://app.balancer.fi)****
+* **🦄️** [**Uniswap**](https://app.uniswap.org/)  **|**  [**Uniswap Info**](https://info.uniswap.org/)****
+* ****[**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange/)****
+* ****[**Balancer**](https://app.balancer.fi/)****
 * [app.integral.link](https://app.integral.link/swap) 大宗交易
 
 ****\
@@ -89,11 +89,11 @@ description: Management Cockpit (Operation)
 * ****[**BCP (PieDAO Balanced Crypto Pie)**](https://pools.piedao.org/#/pie/0xe4f726adc8e89c6a6017f01eada77865db22da14) **(** 🥧 [**Oven**](https://pools.piedao.org/#/oven) **) (**[**介绍**](https://medium.com/piedao/announcing-balanced-crypto-pie-bcp-btc-eth-and-defi-7a2423c5d94e)**)**
 * [**YPIE**](https://pools.piedao.org/#/pie/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31)  ****  ,  ****  [**DEFI++**](https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033)****
 * [**MVI**](https://app.zerion.io/invest/asset/MVI-0x72e364f2abdc788b7e918bc238b21f109cd634d7)  ****  , **** [**$PLAY**](https://app.zerion.io/invest/asset/PLAY-0x33e18a092a93ff21ad04746c7da12e35d34dc7c4)  **,**  [**NFTX**](https://app.zerion.io/invest/asset/NFTX-0x87d73e916d7057945c9bcd8cdd94e42a6f47f776)****
-*   ****[**https://app.cryptex.finance/**](https://app.cryptex.finance) **TCAP全加密市场指数**
+*   ****[**https://app.cryptex.finance/**](https://app.cryptex.finance/) **TCAP全加密市场指数**
 
     ****\
     ****
-*   ****[**Gas费**](https://gasnow.sparkpool.com)****
+*   ****[**Gas费**](https://gasnow.sparkpool.com/)****
 
     \
     [**估值**](https://terminal.tokenterminal.com/dashboard/Dapps)**（**[**参考链接**](https://www.chainnews.com/articles/649261412781.htm)**）**
@@ -106,10 +106,10 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
 Users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge).&#x20;
 
-* [**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange) **|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
+* [**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange/) **|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
 * [**DeBank - Polygon**](https://debank.com/projects?chain=matic) **项目排名**
-* ****[**polygon.Balancer**](https://polygon.balancer.fi)****
-* ****[**polygon.Curve**](https://polygon.curve.fi)****
+* ****[**polygon.Balancer**](https://polygon.balancer.fi/)****
+* ****[**polygon.Curve**](https://polygon.curve.fi/)****
 
 [Layer 2使用教程系列一：教你使用几大Layer 2应用](https://www.theblockbeats.com/news/21604)
 
@@ -121,13 +121,13 @@ Users must first migrate their digital assets to the Polygon network through the
 {% hint style="danger" %}
 NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
-Users must first migrate their digital assets to the **Arbitrum** network through the [Arbitrum Token Bridge](https://bridge.arbitrum.io).&#x20;
+Users must first migrate their digital assets to the **Arbitrum** network through the [Arbitrum Token Bridge](https://bridge.arbitrum.io/).&#x20;
 
 * ****[**arbitrum.Uniswap**](https://app.uniswap.org/#/swap)  **|**  [**arbitrum.Info**](https://info.uniswap.org/#/arbitrum/)****
 * [**DeBank - Arbitrum**](https://debank.com/projects?chain=arb) **项目排名**
-* ****[**arbitrum.balancer**](https://arbitrum.balancer.fi)****
+* ****[**arbitrum.balancer**](https://arbitrum.balancer.fi/)****
 * ****[**arbitrum.SushiSwap**](https://app.sushi.com/zh\_CN)****
-* ****[**arbitrum.curve**](https://arbitrum.curve.fi)****
+* ****[**arbitrum.curve**](https://arbitrum.curve.fi/)****
 
 ****[热门L2网络Arbitrum启航，有哪些收益耕作机会](https://www.chainnews.com/articles/294841654081.htm)
 {% endhint %}
@@ -147,7 +147,7 @@ Users must first migrate their digital assets to the **Arbitrum** network throug
 {% hint style="info" %}
 [ETH链游排名](https://dappradar.com/rankings/protocol/ethereum/category/games) | [BSC链游排名](https://dappradar.com/rankings/protocol/binance-smart-chain/category/games)
 
-[**Axie**](https://axieinfinity.com) : [bridge](https://bridge.axieinfinity.com) | [marketplace](https://marketplace.axieinfinity.com)
+[**Axie**](https://axieinfinity.com/) : [bridge](https://bridge.axieinfinity.com/) | [marketplace](https://marketplace.axieinfinity.com/)
 {% endhint %}
 
 ## 基金股票

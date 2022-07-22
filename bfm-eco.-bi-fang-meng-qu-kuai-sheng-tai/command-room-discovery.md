@@ -67,34 +67,34 @@ description: BFM Eco.
 * [**QKL123**](https://www.qkl123.com/data) **(比特币数据)**
 * ****[**the Block**](https://www.theblockcrypto.com/data/) **(数据网站)**
 * ****[**AssetDash**](https://assetdash.com/?all=true) **(现实市值比较)**
-* ****[**Coin360**](https://coin360.com) **(加密市值比较)**
-* [**BlockSite**](https://www.blocksite.org) **(项目介绍)**
-* ****[**巴比特**](https://www.8btc.com) **&** [**金色财经**](https://www.jinse.com) **(新闻消息)**
-* ****[**CoinMarketCap**](https://coinmarketcap.com) **(**[**CMC DeFi**](https://coinmarketcap.com/defi/)**) (**[**CMC Farming**](https://coinmarketcap.com/yield-farming/)**)**
+* ****[**Coin360**](https://coin360.com/) **(加密市值比较)**
+* [**BlockSite**](https://www.blocksite.org/) **(项目介绍)**
+* ****[**巴比特**](https://www.8btc.com/) **&** [**金色财经**](https://www.jinse.com/) **(新闻消息)**
+* ****[**CoinMarketCap**](https://coinmarketcap.com/) **(**[**CMC DeFi**](https://coinmarketcap.com/defi/)**) (**[**CMC Farming**](https://coinmarketcap.com/yield-farming/)**)**
 * ****[**CoinGecko**](https://www.coingecko.com/zh/)****
-* ****[**Messari.io**](https://messari.io)****
-* ****[**TokenInsight**](https://tokeninsight.com)****
+* ****[**Messari.io**](https://messari.io/)****
+* ****[**TokenInsight**](https://tokeninsight.com/)****
 * ****[**其他区块链数据分析网站**](https://medium.com/@chainnews/%E9%80%81%E4%BD%A0-22-%E4%B8%AA%E9%93%BE%E4%B8%8A%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%A9%E5%99%A8-%E6%B4%9E%E7%A9%BF%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E9%87%8D%E9%87%8D%E8%BF%B7%E9%9B%BE-b57f5b4b5727)****
-* ****[**Gas费**](https://gasnow.sparkpool.com)****
+* ****[**Gas费**](https://gasnow.sparkpool.com/)****
 * ****[**Block123**](https://www.block123.com/zh-hans/) **(导航网站)**
 {% endtab %}
 
 {% tab title="钱包💰" %}
 ![](<../.gitbook/assets/屏幕快照 2021-01-14 下午7.26.51.png>)
 
-* [**TrustWallet**](https://trustwallet.com)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
-* [**比特派钱包**](https://bitpie.com)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
-* [**BitKeep**](https://bitkeep.org)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
-* [**TokenPocket**](https://www.tokenpocket.pro)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
+* [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
+* [**比特派钱包**](https://bitpie.com/)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
+* [**BitKeep**](https://bitkeep.org/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
+* [**TokenPocket**](https://www.tokenpocket.pro/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
 * ****[**更多-钱包筛选器**](https://www.qkl123.com/ranking/wallet?filter=true)****
 
 ![](<../.gitbook/assets/屏幕快照 2021-01-14 下午7.25.29.png>)
 {% endtab %}
 
 {% tab title="挖矿🔨" %}
-* [**1234btc.com**](https://1234btc.com)****
+* [**1234btc.com**](https://1234btc.com/)****
 * ****[**BitDeer**](https://www.bitdeer.com/zh)****
-* ****[**NiceHash**](https://www.nicehash.com)****
+* ****[**NiceHash**](https://www.nicehash.com/)****
 
 ****
 
@@ -135,8 +135,8 @@ description: BFM Eco.
 ## 法币交易又名：OTC(场外交易)或 C2C(客户对客户交易)
 
 * [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)****
-* [**LocalBitcoins.com**](https://localbitcoins.com)****
-* [**比特派钱包**](https://bitpie.com)（**推荐**）
+* [**LocalBitcoins.com**](https://localbitcoins.com/)****
+* [**比特派钱包**](https://bitpie.com/)（**推荐**）
 
 ![](../.gitbook/assets/费率比较.png)
 
@@ -147,11 +147,11 @@ description: BFM Eco.
 
 {% tab title="礼品卡交易" %}
 * [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)****
-* [**Paxful**](https://paxful.com)****
+* [**Paxful**](https://paxful.com/)****
 {% endtab %}
 
 {% tab title="技术社区🏠" %}
-* [**ETHfans**](https://ethfans.org)****
+* [**ETHfans**](https://ethfans.org/)****
 {% endtab %}
 
 {% tab title="刻字" %}
@@ -177,13 +177,13 @@ description: BFM Eco.
   * ****[**DEX - Dune Analytics**](https://duneanalytics.com/hagaetc/dex-metrics)****
   * ****[**MakerDAO - Dune Analytics**](https://duneanalytics.com/hagaetc/maker-dao---mcd)****
   * ****[**0x - Dune Analytic**](https://duneanalytics.com/0x/0x-trading-activity)
-* ****[**Messari**](https://messari.io)****
-* ****[**NansΞn**](https://www.nansen.ai)****
+* ****[**Messari**](https://messari.io/)****
+* ****[**NansΞn**](https://www.nansen.ai/)****
   * **Token God Mode - NansΞn**
   * **Wallet Profiler - NansΞn**
-* ****[**Token Terminal**](https://www.tokenterminal.com)****
-* ****[**DeFi Pulse**](https://defipulse.com)****
-* ****[**Etherscan**](https://etherscan.io)****
+* ****[**Token Terminal**](https://www.tokenterminal.com/)****
+* ****[**DeFi Pulse**](https://defipulse.com/)****
+* ****[**Etherscan**](https://etherscan.io/)****
   * [**以太坊指标 - Etherscan**](https://etherscan.io/charts)
 
 **著名地址:** [**0xb1**](https://debank.com/profile/0xb1adceddb2941033a090dd166a462fe1c2029484)****
@@ -281,10 +281,10 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 {% tabs %}
 {% tab title="仪表盘" %}
-* [**Datamish**](https://datamish.com)****
-* ****[**Coinfarm**](https://coinfarm.online)****
-* ****[**Bfxrate**](https://bfxrates.com)****
-* ****[**Tensorcharts**](https://www.tensorcharts.com)****\
+* [**Datamish**](https://datamish.com/)****
+* ****[**Coinfarm**](https://coinfarm.online/)****
+* ****[**Bfxrate**](https://bfxrates.com/)****
+* ****[**Tensorcharts**](https://www.tensorcharts.com/)****\
   ****
 * ****[**B站视频**](https://www.bilibili.com/video/BV1Be411s7pj)****
 {% endtab %}
@@ -374,6 +374,6 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="价值大师网" %}
-* [**价值大师网**](https://www.gurufocus.cn)****
+* [**价值大师网**](https://www.gurufocus.cn/)****
 {% endtab %}
 {% endtabs %}

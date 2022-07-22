@@ -4,7 +4,7 @@
 此页面正在建设中……
 {% endhint %}
 
-## [导航1](https://www.ipfshub.com) | [导航2](https://ipfs.bar)
+## [导航1](https://www.ipfshub.com/) | [导航2](https://ipfs.bar/)
 
 ![](../../.gitbook/assets/v2-e4c6e350e544fea0714a457fad3336b3\_1440w.jpeg)
 

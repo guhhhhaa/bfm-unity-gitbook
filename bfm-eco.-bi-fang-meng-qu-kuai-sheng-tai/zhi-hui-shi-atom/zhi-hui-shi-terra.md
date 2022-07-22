@@ -26,7 +26,7 @@ Finder https://finder.terra.money/
 
 储蓄借贷协议：Anchor Protocol[https://twitter.com/anchor\_protocol](https://twitter.com/anchor\_protocol)
 
-支付协议：Chai[https://chai.finance/](https://chai.finance)
+支付协议：Chai[https://chai.finance/](https://chai.finance/)
 
 启动台协议：Pylon Protocol[https://twitter.com/pylon\_protocol](https://twitter.com/pylon\_protocol)
 

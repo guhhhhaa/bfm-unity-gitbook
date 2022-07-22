@@ -7,10 +7,10 @@
 
 users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge).&#x20;
 
-* [**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange) **|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
+* [**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange/) **|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
 * [**DeBank - Polygon**](https://debank.com/projects?chain=matic) **项目排名**
-* ****[**polygon.Balancer**](https://polygon.balancer.fi)****
-* ****[**polygon.Curve**](https://polygon.curve.fi)****
+* ****[**polygon.Balancer**](https://polygon.balancer.fi/)****
+* ****[**polygon.Curve**](https://polygon.curve.fi/)****
 
 [Layer 2使用教程系列一：教你使用几大Layer 2应用](https://www.theblockbeats.com/news/21604)
 

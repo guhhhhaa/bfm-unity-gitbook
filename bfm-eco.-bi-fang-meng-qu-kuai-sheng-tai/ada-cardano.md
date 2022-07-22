@@ -7,15 +7,15 @@ description: Cardano
 {% hint style="danger" %}
 NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
-ErgoDEX：[https://ergodex.io/](https://ergodex.io) [https://beta.ergodex.io/](https://beta.ergodex.io)
+ErgoDEX：[https://ergodex.io/](https://ergodex.io/) [https://beta.ergodex.io/](https://beta.ergodex.io/)
 
-ADAX：[https://adax.pro/](https://adax.pro)
+ADAX：[https://adax.pro/](https://adax.pro/)
 
-SundaeSwap：[https://sundaeswap.finance/](https://sundaeswap.finance)
+SundaeSwap：[https://sundaeswap.finance/](https://sundaeswap.finance/)
 
-Occam.Fi：[https://occam.fi/](https://occam.fi)
+Occam.Fi：[https://occam.fi/](https://occam.fi/)
 
-Cardax：[https://cardax.io/](https://cardax.io)
+Cardax：[https://cardax.io/](https://cardax.io/)
 {% endhint %}
 
 ## 卡尔达诺(Cardano)：5个推荐关注的去中心化交易所(DEX)项目

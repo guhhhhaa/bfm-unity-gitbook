@@ -27,7 +27,7 @@ description: The Tzolkin Calendar
 {% endhint %}
 
 {% hint style="info" %}
-****[**cryptosheets**](https://cryptosheets.com) **|** [templates](https://cryptosheets.com/templates) | [templates2](https://app.cryptosheets.com/#/browse/templates) Excel 插件/模版
+****[**cryptosheets**](https://cryptosheets.com/) **|** [templates](https://cryptosheets.com/templates) | [templates2](https://app.cryptosheets.com/#/browse/templates) Excel 插件/模版
 
 ### [微软Excel在线版](https://www.office.com/launch/excel?ui=zh-CN\&auth=1) | [谷歌Sheet在线版](https://docs.google.com/spreadsheets/u/0/)
 {% endhint %}

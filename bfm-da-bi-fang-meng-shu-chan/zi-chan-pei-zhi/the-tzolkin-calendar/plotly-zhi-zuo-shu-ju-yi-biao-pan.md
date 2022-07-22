@@ -1,4 +1,4 @@
-# Plotly
+# Plotly-制作数据仪表盘
 
 {% embed url="https://zhuanlan.zhihu.com/p/395793035" %}
 
@@ -237,7 +237,7 @@ figure = ff.create_annotated_heatmap(z=corrs.values,x=list(corrs.columns),y=list
 
 
 你还可以在线发布该图表，任何人可以直接通过链接访问到你的图表。\
-（比如我的这个3D图，在浏览器中输入后方链接可直接抵达:[https://plot.ly/\~Allencxl/3/](https://link.zhihu.com/?target=https%3A//plot.ly/\~Allencxl/3)）
+（比如我的这个3D图，在浏览器中输入后方链接可直接抵达:[https://plot.ly/\~Allencxl/3/](https://link.zhihu.com/?target=https%3A//plot.ly/\~Allencxl/3/)）
 
 前面所述的内容还不算是这个库的所有功能，非常鼓励各位小伙伴们去查看 plotly 和 cufflinks 的文档，肯定会有更多不可思议的神级可视化在等着你！
 

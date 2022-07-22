@@ -14,7 +14,7 @@ description: BFM Unity - Quantum Annealing Institute
 [chuang-xin-wei-lai-fa-zhan.md](../dao-you/chuang-xin-wei-lai-fa-zhan.md)
 {% endcontent-ref %}
 
-[http://www.quantumforquants.org/](http://www.quantumforquants.org)
+[http://www.quantumforquants.org/](http://www.quantumforquants.org/)
 
 [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186612](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186612)
 

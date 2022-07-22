@@ -6,7 +6,7 @@
 {% tab title="信用卡云POS无卡支付" %}
 1，申请信用卡
 
-* ****[**51信用卡管家**](https://www.u51.com)，[**卡牛信用卡管家**](https://www.kaniu.com)，各大手机银行
+* ****[**51信用卡管家**](https://www.u51.com/)，[**卡牛信用卡管家**](https://www.kaniu.com/)，各大手机银行
 
 2，激活信用卡
 
@@ -22,7 +22,7 @@
 | [宝贝支付](https://bbpurse.com/flypayfx/popularize/registpage?pcode=00B52S85507)                                   | [电银付](https://cloud.chinaebi.cn/yfapi/regist/#/download-apk?type=1)                   | [大嘉购](https://djg.jiajiepay.com/share/share.html?agenTinvitCode=y1NbcYZI+7vskR2zsCBw199cqbOT+1AhnSHq99HRbd+niPBp9nYyUk/AfNZnC1e65bdVS/5hib5jEaafrAcuYmEk2+tPIT3AQpq0IMcfuBpospgPpLdiBDFf84iY1XTlirbugCd0BNT8J3l4j1YcXTUGWJ3WWJu3aLNSEnArXXw=\&displayCode=\*\*\*\*\*\*\*5521#/) 🚩 |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [汇开优店](https://m.dsyundian.com/mobile/html/share/index.html?phone=otf8g7gwzIYURQD7137JPw==\&flag=1\&barndId=1) | [金运微收](https://jkreg.jytpay.com/index?inviteUser=10375124\&termCode=96\&termSource=1) | [闪电宝Plus](https://star.cloudpnr.com/sdb\_plus/sdbpl-mobile/html/homePicCtr/regH5?phone=DfrR1UGTeALbsDuMu0accQ==\&flag=1\&barndId=1) 🚩                                                                                                                                             |
-| [易刷吧](https://yishuaba.com/yishuaba-share/#/?invitationCode=836602\&regType=0) 🚩                              | [易钱包](https://yqb.net.cn)                                                             | [**颐支付**](http://oss.flmyzf.com/yzf/html/downloadapp/index.html#/)****                                                                                                                                                                                                             |
+| [易刷吧](https://yishuaba.com/yishuaba-share/#/?invitationCode=836602\&regType=0) 🚩                              | [易钱包](https://yqb.net.cn/)                                                            | [**颐支付**](http://oss.flmyzf.com/yzf/html/downloadapp/index.html#/)****                                                                                                                                                                                                             |
 
 |                                                                                                                                        | 是否通过 | 需要门头照 | <p><strong>费率</strong><br><strong>小额</strong></p> | <p>费率<br>大额</p> | 前期费用 | <p>小额<br>到账时间</p>                                    | <p>大额<br>到账时间</p> |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----- | ------------------------------------------------- | --------------- | ---- | ---------------------------------------------------- | ----------------- |
@@ -31,7 +31,7 @@
 | [闪电宝Plus](https://star.cloudpnr.com/sdb\_plus/sdbpl-mobile/html/homePicCtr/regH5?phone=DfrR1UGTeALbsDuMu0accQ==\&flag=1\&barndId=1) 🚩 | 是    | 否     | 0.38%+1                                           | 0.6%+3          | 0    |                                                      |                   |
 | [汇开优店](https://m.dsyundian.com/mobile/html/share/index.html?phone=otf8g7gwzIYURQD7137JPw==\&flag=1\&barndId=1)                         |      |       |                                                   |                 |      |                                                      |                   |
 | [金运微收](https://jkreg.jytpay.com/index?inviteUser=10375124\&termCode=96\&termSource=1)                                                  | 否    | 未知    |                                                   |                 |      |                                                      |                   |
-| [易钱包](https://yqb.net.cn) 🚩                                                                                                           | 是    | 否     | 0.6%+3                                            | 0.6%+3          | 0.5  |                                                      |                   |
+| [易钱包](https://yqb.net.cn/) 🚩                                                                                                          | 是    | 否     | 0.6%+3                                            | 0.6%+3          | 0.5  |                                                      |                   |
 | [易刷吧](https://yishuaba.com/yishuaba-share/#/?invitationCode=836602\&regType=0)                                                         | 未知   | 未知    |                                                   |                 |      |                                                      |                   |
 | [宝贝支付](https://bbpurse.com/flypayfx/popularize/registpage?pcode=00B52S85507) 🚩                                                        | 否    | 是     | 0.38%                                             | 0.38%           |      |                                                      |                   |
 | ****[**颐支付**](http://oss.flmyzf.com/yzf/html/downloadapp/index.html#/)****                                                             |      |       |                                                   |                 |      |                                                      |                   |
@@ -46,7 +46,7 @@
 
 ## 参考：
 
-[http://www.wukazhifu168.com/](http://www.wukazhifu168.com)
+[http://www.wukazhifu168.com/](http://www.wukazhifu168.com/)
 
 [https://www.poszfw.com/posbl/701.html](https://www.poszfw.com/posbl/701.html)\
 [https://www.poszfw.com/posdl/947.html](https://www.poszfw.com/posdl/947.html)
@@ -59,9 +59,9 @@
 {% endtab %}
 
 {% tab title="DeFi" %}
-* [**Aave**](https://app.aave.com)****
+* [**Aave**](https://app.aave.com/)****
 
-闪电贷一般需要用户通过编程实现，但目前也出现了一些工具，比如 [CollateralSwap](https://collateralswap.com)、[DeFi Saver](https://app.defisaver.com)、[Furucombo](https://furucombo.app) 等，使得用户不需要编程也能使用闪电贷。
+闪电贷一般需要用户通过编程实现，但目前也出现了一些工具，比如 [CollateralSwap](https://collateralswap.com/)、[DeFi Saver](https://app.defisaver.com/)、[Furucombo](https://furucombo.app/) 等，使得用户不需要编程也能使用闪电贷。
 {% endtab %}
 
 {% tab title="合约，期货" %}

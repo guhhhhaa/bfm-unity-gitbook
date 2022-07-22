@@ -699,10 +699,10 @@ ccxt.zaif().public_get_ticker_pair ({ 'pair': 'btc_jpy' })  # Python
 | ------------------------- | -------------------------------------------------------------- | -------------------- |
 | publicGetIdOrderbook      | [https://bitbay.net/API/Public](https://bitbay.net/API/Public) | {id}/orderbook       |
 | publicGetPairs            | [https://bitlish.com/api](https://bitlish.com/api)             | pairs                |
-| publicGetJsonMarketTicker | [https://www.bitmarket.net](https://www.bitmarket.net)         | json/{market}/ticker |
-| privateGetUserMargin      | [https://bitmex.com](https://bitmex.com)                       | user/margin          |
+| publicGetJsonMarketTicker | [https://www.bitmarket.net](https://www.bitmarket.net/)        | json/{market}/ticker |
+| privateGetUserMargin      | [https://bitmex.com](https://bitmex.com/)                      | user/margin          |
 | privatePostTrade          | [https://btc-x.is/api](https://btc-x.is/api)                   | trade                |
-| tapiCancelOrder           | [https://yobit.net](https://yobit.net)                         | tapi/CancelOrder     |
+| tapiCancelOrder           | [https://yobit.net](https://yobit.net/)                        | tapi/CancelOrder     |
 | ...                       | ...                                                            | ...                  |
 
 ccxt库同时支持驼峰命名法（JavaScript常用）和下划线命名法（Python和PHP常用）， 因此所有的方法在任何开发语言中都可以上述两种风格之一调用：

@@ -3,18 +3,18 @@
 {% hint style="info" %}
 二层协议：
 
-* ****[**Arbitrum Bridge**](https://bridge.arbitrum.io)****
-* [**Optimism Bridge**](https://gateway.optimism.io)
+* ****[**Arbitrum Bridge**](https://bridge.arbitrum.io/)****
+* [**Optimism Bridge**](https://gateway.optimism.io/)
 * ****[**Polygon Bridge**](https://wallet.polygon.technology/bridge)****
 
 第三方桥：
 
-* [**cBridge**](https://cbridge.celer.network)（♻️ ETH；Arbitrum；Optimism；Polygon；BSC）
-* [**Hop Protocol**](https://app.hop.exchange)（♻️ ETH；Arbitrum；Optimism；Polygon）
-* [**DeGate**](https://bridge.degate.com)（ETH <> Arbitrum）
+* [**cBridge**](https://cbridge.celer.network/)（♻️ ETH；Arbitrum；Optimism；Polygon；BSC）
+* [**Hop Protocol**](https://app.hop.exchange/)（♻️ ETH；Arbitrum；Optimism；Polygon）
+* [**DeGate**](https://bridge.degate.com/)（ETH <> Arbitrum）
 * ****[**RenBridge**](https://bridge.renproject.io/mint)**（**BTC <> Arbitrum）
 * ****[**Anyswap**](https://anyswap.exchange/dashboard)**（**ETH <> Arbitrum）
-* [**Allbridge**](https://app.allbridge.io)（sol↔erc20↔heco↔polygon↔bsc）
+* [**Allbridge**](https://app.allbridge.io/)（sol↔erc20↔heco↔polygon↔bsc）
 
 一层公链：
 
@@ -22,7 +22,7 @@
 * ****[**Solana Wormhole Bridge**](zhi-hui-shi-kua-lian-qiao.md#can-kao)****
 * ****[**Fantom Anyswap Bridge**](https://ftm.anyswap.exchange/bridge)****
 * [**Avalanche Bridge**](https://bridge.avax.network/login)
-* [**Near Rainbow Bridge**](https://ethereum.bridgetonear.org)
+* [**Near Rainbow Bridge**](https://ethereum.bridgetonear.org/)
 {% endhint %}
 
 ## 参考

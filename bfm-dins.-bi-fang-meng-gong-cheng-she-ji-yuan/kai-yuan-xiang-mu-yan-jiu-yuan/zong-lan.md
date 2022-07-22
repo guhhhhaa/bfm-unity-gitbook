@@ -16,7 +16,7 @@ ccxt-rest
 
 [https://github.com/ccxt-rest/ccxt-rest](https://github.com/ccxt-rest/ccxt-rest)
 
-Open Source Unified REST API of 100+ Crypto Exchange Sites (18k+ docker pulls) - [https://ccxt-rest.io/](https://ccxt-rest.io)
+Open Source Unified REST API of 100+ Crypto Exchange Sites (18k+ docker pulls) - [https://ccxt-rest.io/](https://ccxt-rest.io/)
 
 ### Detector Bot
 
@@ -124,7 +124,7 @@ Guides and Instructional YouTube Videos by @BlockchainEng Joaquin Roibal focusin
 
 #### bitmart
 
-[https://www.bitmart.com/](https://www.bitmart.com)
+[https://www.bitmart.com/](https://www.bitmart.com/)
 
 [https://github.com/volkovartem77/bitmart-api-python](https://github.com/volkovartem77/bitmart-api-python)
 
@@ -132,13 +132,13 @@ Guides and Instructional YouTube Videos by @BlockchainEng Joaquin Roibal focusin
 
 #### Bitfinex
 
-[https://www.bitfinex.com/](https://www.bitfinex.com) [https://github.com/bitfinexcom/bitfinex-api-py](https://github.com/bitfinexcom/bitfinex-api-py)
+[https://www.bitfinex.com/](https://www.bitfinex.com/) [https://github.com/bitfinexcom/bitfinex-api-py](https://github.com/bitfinexcom/bitfinex-api-py)
 
 #### BitMEX
 
 [https://github.com/BitMEX/api-connectors](https://github.com/BitMEX/api-connectors)
 
-[https://www.fmz.com/](https://www.fmz.com)
+[https://www.fmz.com/](https://www.fmz.com/)
 
 [https://github.com/chrisacheson/liquidbot](https://github.com/chrisacheson/liquidbot)
 

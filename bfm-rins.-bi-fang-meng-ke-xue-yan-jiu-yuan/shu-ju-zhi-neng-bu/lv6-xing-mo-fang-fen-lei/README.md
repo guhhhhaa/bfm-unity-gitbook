@@ -15,7 +15,7 @@
 {% hint style="info" %}
 ## 问题描述
 
-![](<../../../.gitbook/assets/A4 (1).png>)
+<img src="../../../.gitbook/assets/A4 (1).png" alt="" data-size="original">
 
 ## [卓尔金历法](https://www.bfm-unity.com/qian-xian/management-cockpit-operation/zi-chan-pei-zhi/ling-hang-duo-lei-da)
 
@@ -51,13 +51,13 @@
 
 ## 使用工具
 
-[Anaconda](https://www.anaconda.com) (Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras)还有matplotlib，差点忘了
+[Anaconda](https://www.anaconda.com/) (Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras)还有matplotlib，差点忘了
 
-[**TensorFlow**](https://www.tensorflow.org)  **|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **|**  [**TensorBoard.dev**](https://tensorboard.dev)  **|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)****
+[**TensorFlow**](https://www.tensorflow.org/)  **|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)****
 
-[**https://playground.tensorflow.org/**](https://playground.tensorflow.org)****
+[**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)****
 
-****[**https://nbviewer.jupyter.org/**](https://nbviewer.jupyter.org)****
+****[**https://nbviewer.jupyter.org/**](https://nbviewer.jupyter.org/)****
 
 ### 数据来源
 

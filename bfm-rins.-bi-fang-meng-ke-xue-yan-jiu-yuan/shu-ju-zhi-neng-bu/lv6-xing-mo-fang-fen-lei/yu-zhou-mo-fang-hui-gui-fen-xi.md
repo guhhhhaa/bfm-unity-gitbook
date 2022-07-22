@@ -13,19 +13,19 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 {% hint style="info" %}
 ## 问题描述
 
-![](<../../../.gitbook/assets/A4 (1).png>)
+<img src="../../../.gitbook/assets/A4 (1).png" alt="" data-size="original">
 
 ##
 
 ## 使用工具
 
-[Anaconda](https://www.anaconda.com) (Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras)还有matplotlib，差点忘了
+[Anaconda](https://www.anaconda.com/) (Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras)还有matplotlib，差点忘了
 
-[**TensorFlow**](https://www.tensorflow.org)  **|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **|**  [**TensorBoard.dev**](https://tensorboard.dev)  **|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)****
+[**TensorFlow**](https://www.tensorflow.org/)  **|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)****
 
-[**https://playground.tensorflow.org/**](https://playground.tensorflow.org)****
+[**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)****
 
-****[**https://nbviewer.jupyter.org/**](https://nbviewer.jupyter.org)****
+****[**https://nbviewer.jupyter.org/**](https://nbviewer.jupyter.org/)****
 
 ### 数据来源
 
@@ -50,7 +50,7 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 
 ![](<../../../.gitbook/assets/屏幕快照 2021-07-09 上午7.54.06.png>)
 
-[https://www.anaconda.com/](https://www.anaconda.com)
+[https://www.anaconda.com/](https://www.anaconda.com/)
 
 [https://www.anaconda.com/pycharm](https://www.anaconda.com/pycharm)
 

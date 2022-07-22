@@ -2,7 +2,7 @@
 
 ## 安装下载
 
-[https://www.coolhub.top/](https://www.coolhub.top)
+[https://www.coolhub.top/](https://www.coolhub.top/)
 
 ## 实用极简
 
@@ -63,4 +63,4 @@
 
 ## 社区论坛
 
-* [club.excelhome.net](http://club.excelhome.net)
+* [club.excelhome.net](http://club.excelhome.net/)
