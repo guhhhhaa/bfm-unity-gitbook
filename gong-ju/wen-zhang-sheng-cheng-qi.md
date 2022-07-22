@@ -60,7 +60,7 @@
 
 ## 小说续写工具
 
-[http://if.caiyunai.com/dream/#/](http://if.caiyunai.com/dream/#/)
+{% embed url="http://if.caiyunai.com/dream/#/" %}
 
 ## 科幻小说续写工具
 
