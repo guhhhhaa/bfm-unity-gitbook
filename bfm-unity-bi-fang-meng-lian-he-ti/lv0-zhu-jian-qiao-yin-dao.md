@@ -100,6 +100,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 我们的经合关系 <a href="#zhan-lve-he-zuo-huo-ban" id="zhan-lve-he-zuo-huo-ban"></a>
 
+![](<../.gitbook/assets/BFM Unity 战略合作伙伴 (7).png>)
+
 [全球最大的50家银行在区块链领域的布局](https://cloud.tencent.com/developer/article/1356837)
 
 ![](<../.gitbook/assets/BFM Unity B级友商.png>)
