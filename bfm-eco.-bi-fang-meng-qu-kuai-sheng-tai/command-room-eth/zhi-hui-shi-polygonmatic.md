@@ -2,14 +2,13 @@
 
 ![](../../.gitbook/assets/34BCA558A0944FEF7F6A81540618BE5F.jpg)
 
-{% hint style="info" %}
-[https://polygon.technology/](https://polygon.technology/)
+{% hint style="danger" %}
+不稳定，正在建设中……
 
 users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge).&#x20;
 
 * [**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange/) **|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
 * [**DeBank - Polygon**](https://debank.com/projects?chain=matic) **项目排名**
-* ****[**polygon.Uniswap**](https://app.uniswap.org/#/swap?chain=polygon)****
 * ****[**polygon.Balancer**](https://polygon.balancer.fi/)****
 * ****[**polygon.Curve**](https://polygon.curve.fi/)****
 

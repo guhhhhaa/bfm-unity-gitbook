@@ -106,18 +106,16 @@ description: Management Cockpit (Operation)
 
 users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge).&#x20;
 
+* [**polygon.Uniswap**](https://app.uniswap.org/#/swap?chain=polygon)****
 * [**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange/) **|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
 * [**DeBank - Polygon**](https://debank.com/projects?chain=matic) **项目排名**
-* ****[**polygon.Uniswap**](https://app.uniswap.org/#/swap?chain=polygon)****
 * ****[**polygon.Balancer**](https://polygon.balancer.fi/)****
 * ****[**polygon.Curve**](https://polygon.curve.fi/)****
 {% endhint %}
 
 ## Layer-2 Arbitrum 操作面板
 
-{% hint style="danger" %}
-NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
-
+{% hint style="info" %}
 Users must first migrate their digital assets to the **Arbitrum** network through the [Arbitrum Token Bridge](https://bridge.arbitrum.io/).&#x20;
 
 * ****[**arbitrum.Uniswap**](https://app.uniswap.org/#/swap)  **|**  [**arbitrum.Info**](https://info.uniswap.org/#/arbitrum/)****
