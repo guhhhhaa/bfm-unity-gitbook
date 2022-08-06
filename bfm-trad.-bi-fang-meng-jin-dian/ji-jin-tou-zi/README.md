@@ -1,10 +1,10 @@
 # Fund Investment
 
-###
+## 被动投资
 
 ### 智能投顾 - [理财魔方](https://www.licaimofang.com/)
 
-### 动态平衡 - 且慢｜蛋卷
+### 动态平衡 - [且慢](https://qieman.com/)｜[蛋卷](https://danjuanapp.com/)
 
 ## 常用基金
 
