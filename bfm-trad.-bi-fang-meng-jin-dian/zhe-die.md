@@ -28,6 +28,7 @@
 
 |                                                                 大嘉购 🚩                                                                 | 是  | 否  | 0.38%   | 0.6%   | 0   | <p>300*1, T+1</p><p></p><p>>20000<br>1000*5, T+0</p> | T+0 |
 | :------------------------------------------------------------------------------------------------------------------------------------: | -- | -- | ------- | ------ | --- | ---------------------------------------------------- | --- |
+|                                                                                                                                        |    |    |         |        |     |                                                      |     |
 |                                 [电银付](https://cloud.chinaebi.cn/yfapi/regist/#/download-apk?type=1) 🚩                                 | 否  | 是  | 未知      |        |     |                                                      |     |
 | [闪电宝Plus](https://star.cloudpnr.com/sdb\_plus/sdbpl-mobile/html/homePicCtr/regH5?phone=DfrR1UGTeALbsDuMu0accQ==\&flag=1\&barndId=1) 🚩 | 是  | 否  | 0.38%+1 | 0.6%+3 | 0   |                                                      |     |
 |             [汇开优店](https://m.dsyundian.com/mobile/html/share/index.html?phone=otf8g7gwzIYURQD7137JPw==\&flag=1\&barndId=1)             | 未知 | 未知 |         |        |     |                                                      |     |
