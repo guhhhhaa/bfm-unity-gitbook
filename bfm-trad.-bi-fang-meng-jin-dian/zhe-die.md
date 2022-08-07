@@ -15,7 +15,7 @@
 3，刷卡收款
 
 * [大嘉购](https://djg.jiajiepay.com/share/share.html?agenTinvitCode=y1NbcYZI+7vskR2zsCBw199cqbOT+1AhnSHq99HRbd+niPBp9nYyUk/AfNZnC1e65bdVS/5hib5jEaafrAcuYmEk2+tPIT3AQpq0IMcfuBpospgPpLdiBDFf84iY1XTlirbugCd0BNT8J3l4j1YcXTUGWJ3WWJu3aLNSEnArXXw=\&displayCode=\*\*\*\*\*\*\*5521#/) 🚩
-* [易刷吧](https://yishuaba.com/yishuaba-share/#/?invitationCode=836602\&regType=0) 🚩**（费率0.38%）**
+* [易刷吧](https://yishuaba.com/yishuaba-share/#/?invitationCode=836602\&regType=0)(来刷呗)🚩**（费率0.38%）**
 
 ****[**2021手机POS机最新大全**](https://www.poszfw.com/posdl/947.html)（排名不分先后，按首字母排序）
 
