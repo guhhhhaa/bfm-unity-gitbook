@@ -104,7 +104,7 @@ description: Management Cockpit (Operation)
 {% hint style="info" %}
 [https://polygon.technology/](https://polygon.technology/)
 
-users must first migrate their digital assets to the Polygon network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge).&#x20;
+Users must first migrate their digital assets to the **Polygon** network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge).&#x20;
 
 * [**polygon.Uniswap**](https://app.uniswap.org/#/swap?chain=polygon)****
 * [**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange/) **|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
