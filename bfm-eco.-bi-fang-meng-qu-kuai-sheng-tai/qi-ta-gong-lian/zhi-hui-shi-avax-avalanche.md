@@ -3,7 +3,7 @@
 {% hint style="info" %}
 NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
-Users must first migrate their digital assets to the **Avalanche** network through the [**Avalanche Bridge**](https://bridge.avax.network/login)**.**
+Users must first migrate their digital assets to the **Avalanche** network through the [**Avalanche Bridge**](https://bridge.avax.network/login) **or** [**multichain**](https://app.multichain.org/#/router)**.**
 
 * ****[**Trader Joe**](https://traderjoexyz.com/home#/) **-** 去中心化交易所
 * ****[**Platypus**](https://app.platypus.finance/) **-** 稳定币交易所
