@@ -1,6 +1,8 @@
 # AVAX - Avalanche
 
 {% hint style="info" %}
+NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
+
 [**Avalanche Bridge**](https://bridge.avax.network/login)
 
 ****[**app.pangolin.exchange**](https://app.pangolin.exchange/)****
