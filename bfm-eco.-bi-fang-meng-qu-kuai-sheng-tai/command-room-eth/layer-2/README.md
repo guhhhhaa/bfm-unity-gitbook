@@ -1,5 +1,5 @@
 ---
-description: L2
+description: Layer-2
 ---
 
 # Layer-2
