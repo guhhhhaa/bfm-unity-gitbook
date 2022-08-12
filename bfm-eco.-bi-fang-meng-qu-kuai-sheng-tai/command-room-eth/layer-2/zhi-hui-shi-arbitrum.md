@@ -2,7 +2,7 @@
 
 ## Layer-2 Arbitrum 操作面板
 
-{% hint style="danger" %}
+{% hint style="info" %}
 NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
 Users must first migrate their digital assets to the **Arbitrum** network through the [Arbitrum Token Bridge](https://bridge.arbitrum.io/).&#x20;

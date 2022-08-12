@@ -7,6 +7,8 @@ description: OP - Optimistic Rollup
 ## Layer-2 Optimism 操作面板
 
 {% hint style="info" %}
+NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
+
 [https://www.optimism.io/](https://www.optimism.io/)
 
 Users must first migrate their digital assets to the Optimism network through the [Optimism Bridge 1](https://app.optimism.io/bridge) or [Optimism Bridge 2](https://gateway.optimism.io/).&#x20;

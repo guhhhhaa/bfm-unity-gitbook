@@ -30,12 +30,12 @@ description: BFM Eco.
 [command-room-bsc.md](command-room-bsc.md)
 {% endcontent-ref %}
 
-{% content-ref url="command-room-eth/zhi-hui-shi-polygonmatic.md" %}
-[zhi-hui-shi-polygonmatic.md](command-room-eth/zhi-hui-shi-polygonmatic.md)
+{% content-ref url="command-room-eth/layer-2/zhi-hui-shi-polygonmatic.md" %}
+[zhi-hui-shi-polygonmatic.md](command-room-eth/layer-2/zhi-hui-shi-polygonmatic.md)
 {% endcontent-ref %}
 
-{% content-ref url="command-room-eth/zhi-hui-shi-arbitrum.md" %}
-[zhi-hui-shi-arbitrum.md](command-room-eth/zhi-hui-shi-arbitrum.md)
+{% content-ref url="command-room-eth/layer-2/zhi-hui-shi-arbitrum.md" %}
+[zhi-hui-shi-arbitrum.md](command-room-eth/layer-2/zhi-hui-shi-arbitrum.md)
 {% endcontent-ref %}
 
 

@@ -99,33 +99,11 @@ description: Management Cockpit (Operation)
     [**估值**](https://terminal.tokenterminal.com/dashboard/Dapps)**（**[**参考链接**](https://www.chainnews.com/articles/649261412781.htm)**）**
 {% endhint %}
 
-## Layer-2 Polygon(Matic)操作面板
+## Layer-2
 
-{% hint style="info" %}
-[https://polygon.technology/](https://polygon.technology/)
-
-Users must first migrate their digital assets to the **Polygon** network through the [POS Bridge](https://wallet.matic.network/bridge) or [Zapper Bridge](https://zapper.fi/bridge).&#x20;
-
-* [**polygon.Uniswap**](https://app.uniswap.org/#/swap?chain=polygon)****
-* [**QuickSwap**](https://quickswap.exchange/#/swap)  **|**  [**QuickSwap Info**](https://info.quickswap.exchange/) **|** [**Bitkeep - Quickswap**](https://bitkeep.org/defi.html) **交易对排名**
-* [**DeBank - Polygon**](https://debank.com/projects?chain=matic) **项目排名**
-* ****[**polygon.Balancer**](https://polygon.balancer.fi/)****
-* ****[**polygon.Curve**](https://polygon.curve.fi/)****
-{% endhint %}
-
-## Layer-2 Arbitrum 操作面板
-
-{% hint style="info" %}
-Users must first migrate their digital assets to the **Arbitrum** network through the [Arbitrum Token Bridge](https://bridge.arbitrum.io/).&#x20;
-
-* ****[**arbitrum.Uniswap**](https://app.uniswap.org/#/swap)  **|**  [**arbitrum.Info**](https://info.uniswap.org/#/arbitrum/)****
-* [**DeBank - Arbitrum**](https://debank.com/projects?chain=arb) **项目排名**
-* ****[**arbitrum.balancer**](https://arbitrum.balancer.fi/)****
-* ****[**arbitrum.SushiSwap**](https://app.sushi.com/zh\_CN)****
-* ****[**arbitrum.curve**](https://arbitrum.curve.fi/)****
-
-****[热门L2网络Arbitrum启航，有哪些收益耕作机会](https://www.chainnews.com/articles/294841654081.htm)
-{% endhint %}
+{% content-ref url="../../bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-eth/layer-2/" %}
+[layer-2](../../bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-eth/layer-2/)
+{% endcontent-ref %}
 
 ## 跨链桥
 
