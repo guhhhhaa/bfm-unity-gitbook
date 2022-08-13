@@ -19,12 +19,11 @@
 
 ## 2，机器人（年化收益：100%）
 
-* **通过 波场链TRC20 将 USDT 提到 派网Pionex，**
+* 绑定交易所API直接用 **** [**antbot**](https://www.antbot-ai.org/) **或** [**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html) **交易**
+* **通过 波场链TRC20 将 USDT 提到 派网 Pionex（不推荐）**
 * ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)****
   * **网格机器人——自动低买高卖！**
-  * **屯币宝多币模式——构建你的指数！**\
-    ****
-* 或者绑定交易所API直接用[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)**交易**
+  * **屯币宝多币模式——构建你的指数！**
 
 ## 3，智能投顾表格（年化收益：500%）
 
