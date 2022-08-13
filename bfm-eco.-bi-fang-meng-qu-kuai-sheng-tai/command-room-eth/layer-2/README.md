@@ -6,7 +6,9 @@ description: Layer-2
 
 ## Layer-2 项目比较
 
-[https://l2beat.com/](https://l2beat.com/)&#x20;
+{% embed url="https://l2beat.com/" %}
+
+{% embed url="https://bitkeep.bar/zh/dapp/eth/Bridge?theme=light" %}
 
 ## Layer-2 Arbitrum 操作面板
 
