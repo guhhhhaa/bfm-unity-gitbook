@@ -46,7 +46,7 @@
   * [BFM Meme 🐶 💩](bfm-meta/bi-fang-meng-yuan-yu-zhou/bfm-meme.md)
   * [BFM NFT🃏🧩](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-nft.md)
   * [BFM GameFi 🎮👾](bfm-meta/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-you-xi.md)
-  * [BFM DeFi 🦄️](bfm-meta/bi-fang-meng-yuan-yu-zhou/bfm-defi.md)
+  * [BFM DeFi 🦄️👻](bfm-meta/bi-fang-meng-yuan-yu-zhou/bfm-defi.md)
 
 ## BFM DA | 比坊梦数产
 
