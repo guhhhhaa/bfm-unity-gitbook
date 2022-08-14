@@ -23,7 +23,7 @@
 
 ### 绑定API
 
-* [**AntBot**](https://antrade.io/)
+* [**AntBot**](https://antrade.io/)**（**[**文档**](https://antrade.io/guide/docs/cn)**）**
   * **网格**
   * **移动网格**
   * **双向网格**
