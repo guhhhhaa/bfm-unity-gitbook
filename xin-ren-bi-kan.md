@@ -22,16 +22,22 @@
 
 * API
   * [**AntBot**](https://antrade.io/)
+    * **网格**
+    * **移动网格**
+    * **双向网格**
+    * **屯币宝**
+    * 马丁
   * ****[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)
+    * **网格**
 * 交易所
-* [**OKX**](https://www.okx.com/)****
-  * **网格**
-  * **屯币宝**
-  * 马丁
-* ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)**（不推荐）**
-  * **网格**
-  * **屯币宝**
-  * 马丁
+  * [**OKX**](https://www.okx.com/)****
+    * **网格**
+    * **屯币宝**
+    * 马丁
+  * ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)**（不推荐）**
+    * **网格**
+    * **屯币宝**
+    * 马丁
 
 ## 3，智能投顾表格（年化收益：500%）
 
