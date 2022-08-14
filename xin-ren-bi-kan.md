@@ -16,14 +16,22 @@
 * ****[**Binance**](https://www.binance.com/zh-CN)****
 * ****[**Gate.io**](https://www.gate.io/zh-cn)****
 * ****[**MEXC**](https://www.mexc.com/zh-cn)****
+* ****[**OKX**](https://www.okx.com/)****
 
 ## 2，机器人（年化收益：100%）
 
-* 绑定交易所API直接用 **** [**antbot**](https://www.antbot-ai.org/) **或** [**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html) **交易**
-* **通过 波场链TRC20 将 USDT 提到 派网 Pionex（不推荐）**
-* ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)****
-  * **网格机器人——自动低买高卖！**
-  * **屯币宝多币模式——构建你的指数！**
+* API
+  * [**AntBot**](https://antrade.io/)
+  * ****[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)
+* 交易所
+* [**OKX**](https://www.okx.com/)****
+  * **网格**
+  * **屯币宝**
+  * 马丁
+* ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)**（不推荐）**
+  * **网格**
+  * **屯币宝**
+  * 马丁
 
 ## 3，智能投顾表格（年化收益：500%）
 
