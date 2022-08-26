@@ -21,6 +21,8 @@
 
 ## 2，机器人（年化收益：100%）
 
+<figure><img src=".gitbook/assets/币安生态.png" alt=""><figcaption></figcaption></figure>
+
 ### 绑定API
 
 * [**AntBot**](https://antrade.io/)**（**[**文档**](https://antrade.io/guide/docs/cn)**）**
