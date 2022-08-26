@@ -26,6 +26,12 @@
 
 复盘（review），赋能（enable），抓手(grip)，对标（benchmark），沉淀(internalize)，对齐(alignment)，拉通(stream-line)，倒逼(push back)，颗粒度(granularity)，落地(landing)，中台(middle office)，方法论(methodology)，漏斗(funnel)，组合拳(blended measures)，闭环(closed loop)，生命周期(life cycle)，打法(tactics)，履约(delivery)，引爆点(tipping point)，串联(cascade)，价值转化(value transfer )，关联转化(associated transfer)，纽带(bond)，矩阵(matrix)，协同(collabration)，反哺(give back)，点线面(point, line and to plane)，认知(perception)，强化认知(reinfored perception )，强化心智(reinforced mind-set)，智能(smart-)，机器学习(machine learning)，智能决策(smart decision)，交互(inter-link)，兼容(inclusive)，包装(package)，相应(relative)，刺激(stimulate)，规模(scale)，重组(restructure)，量化(measurable)，宽松(loose)，资源倾斜(resources allocation)，完善逻辑(perfect logic)，抽离透传(detach and circulate)，抽象思维(abstract thinking)，复用打法(replicate tactics)，发力(put the force on )，精细化(refining)，布局(layout)，商业模式(business model)​
 
+### 行政黑话
+
+推进，推动，健全，统领，协调，统筹，转变，提高，实现，适应，改革，创新，扩大，加强，促进，巩固，保障，完善，加快，振兴，崛起，分工，扶持， 改善，调整，优化，解决，宣传，教育，发挥，支持，带动，帮助，深化，规范，强化，统筹，指导，服务，健全，确保，维护，优先，贯彻，实施，深化，保证， 鼓励，引导，坚持，深化，强化，监督，管理，开展，规划，整合，理顺，推行，纠正，严格，满足，推广，遏制，整治，保护，健全，丰富，夯实，树立，尊重， 制约，适应，发扬，拓宽，拓展，规范，改进，形成，逐步，实现，规范，坚持，调节，取缔，调控，把握，弘扬，借鉴，倡导，培育，打牢，武装，凝聚，激发， 说服，感召，尊重，包容，树立，培育，发扬，提倡，营造，促进，唱响，主张，弘扬，通达，引导，疏导，着眼，吸引，塑造，搞好，履行，倾斜，惠及，简化， 衔接，调处，关切，汇集，分析，排查，协商，化解，动员，联动，激发，增进，汲取，检验，保护，鼓励，完善，宽容，增强，融洽，凝聚，汇集，筑牢，考验， 进取，凝聚，设置，吸纳，造就，给力，聚焦，支撑，展现，体现……
+
+关系，力度，速度，反映，诉求，形势，任务，本质属性，重要保证，总体布局，战略任务，内在要求，重要进展，决策部署，结合点，突出地位，最大限 度，指导思想，科学性，协调性，体制机制，基本方略，理念意识，基本路线，基本纲领，秩序，基本经验，出发点，落脚点，要务，核心，主体，积极因素，水 平，方针，结构，增量，比重，规模，标准，办法，主体，作用，特色，差距，渠道，方式，主导，纽带，主体，载体，制度，需求，能力，负担，体系，重点，资 源，职能，倾向，秩序，途径，活力，项目，工程，政策，项目，竞争力，环境，素质，权利，利益，权威，氛围，职能，作用，事权，需要，能力，基础，比重， 长效机制，举措，要素，精神，根本，地位，成果，核心，精神，力量，纽带，思想，理想，活力，信念，信心，风尚，意识，主旋律，正气，热点，情绪，内涵， 管理，格局，准则，网络，稳定，安全，支撑，局面，环境，关键，保证，本领，突出，位置，敏锐性，针对性，有效性，覆盖面，特点，规律，阵地，政策，措 施，制度保障，水平，紧迫，任务，合力。
+
 ### 狗屁不通文章生成器
 
 [https://github.com/menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
