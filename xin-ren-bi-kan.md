@@ -16,6 +16,7 @@
 * ****[**CoinCola**](https://www.coincola.com/?lang=zh-CN)****
 * ****[**Binance**](https://www.binance.com/zh-CN)****
 * ****[**Gate.io**](https://www.gate.io/zh-cn)****
+* ****[**KuCoin**](https://www.kucoin.com/)****
 * ****[**MEXC**](https://www.mexc.com/zh-cn)****
 * ****[**OKX**](https://www.okx.com/)****
 
@@ -38,9 +39,28 @@
 
 * [**Binance**](https://www.binance.com/zh-CN)****
   * **网格**
+    * **现货网格**
+    * **合约网格**
+* [**Gate.io**](https://www.gate.io/zh-cn)****
+  * **网格**
+    * **现货网格**
+  * **无限网格**
+  * **再平衡（智能调仓）**
+  * **组合指标**
+  * **MACD**
+  * **MACD-RSI**
+  * **双均线**
+  * **双均线-RSI**
+* ****[**KuCoin**](https://www.kucoin.com/)****
+  * **网格**
+    * **现货网格**
+    * **合约网格**
+  * **无限网格**
+  * **再平衡（智能持仓）**
+  * **极速定投**
 * [**OKX**](https://www.okx.com/)****
   * **网格**
-  * **屯币宝**
+  * **再平衡（屯币宝）**
   * 马丁
 * ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)**（不推荐）**
   * **网格**
