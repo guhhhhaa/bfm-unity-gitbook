@@ -88,7 +88,7 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 | [Discord群组](https://discord.gg/CyEcS2wmzk)                             | [Reddit论坛](https://www.reddit.com/r/BFM\_Unity/)                         |
 | QQ群：708912525                                                          |                                                                          |
 
-## 小吉祥物
+## 吉祥物
 
 ![](<.gitbook/assets/BFM Unity 小吉祥物.png>)
 
