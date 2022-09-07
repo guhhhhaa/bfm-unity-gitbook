@@ -49,7 +49,7 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 {% endtab %}
 
 {% tab title="MAC" %}
-[V2RayX](https://github.com/Cenmrev/V2RayX/releases)
+[V2RayX](https://github.com/Cenmrev/V2RayX/releases) (很久未更新，不建议使用)
 
 [V2rayU](https://github.com/yanue/V2rayU/releases)
 {% endtab %}
