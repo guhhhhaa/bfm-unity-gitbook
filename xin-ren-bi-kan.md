@@ -13,12 +13,11 @@
 
 ### **使用法币购买USDT**
 
-* ****[**CoinCola**](https://www.coincola.com/?lang=zh-CN)****
 * ****[**Binance**](https://www.binance.com/zh-CN)****
 * ****[**Gate.io**](https://www.gate.io/zh-cn)****
-* ****[**KuCoin**](https://www.kucoin.com/)****
 * ****[**MEXC**](https://www.mexc.com/zh-cn)****
 * ****[**OKX**](https://www.okx.com/)****
+* [**CoinCola**](https://www.coincola.com/?lang=zh-CN)****
 
 ## 2，机器人（年化收益：100%）
 
@@ -33,14 +32,14 @@
 * **网格**
 * **移动网格**
 * **双向网格**
-* **屯币宝**
+* 再平衡（智能调仓）🆓
 * 马丁
 {% endtab %}
 
 {% tab title="BitUniverse" %}
 ****[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)
 
-* **网格**
+* **网格** 🆓
 {% endtab %}
 {% endtabs %}
 
@@ -97,12 +96,12 @@
 {% endtab %}
 {% endtabs %}
 
-| 第一步                                                            | 第二步                                                      | 第三步                                                        | 第四步                                                                                                                                                             |
-| -------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 火箭发射                                                           | 变轨                                                       | 环绕同步                                                       | 空间站展开                                                                                                                                                           |
-| <ul><li>定投</li></ul>                                           | <ul><li>单币网格</li></ul><ul><li>单币流动性挖矿</li></ul>          | <p></p><ul><li>双币网格</li></ul><ul><li>双币流动性挖矿<br></li></ul> | <ul><li>多币动态平衡</li></ul>                                                                                                                                        |
-| <ul><li>USDT<br>->BTC</li></ul><ul><li>USDT<br>->ETH</li></ul> | <ul><li>BTC/USDT</li><li>ETH/USDT</li></ul>              | <p></p><ul><li>ETH/BTC</li><li>MATIC/BNB</li></ul>         | <p></p><ul><li>BTC</li></ul><ul><li>ETH</li></ul><ul><li>BNB</li></ul><ul><li>DOGE</li></ul><ul><li>MATIC</li></ul><ul><li>SHIB</li></ul><ul><li>AVAX</li></ul> |
-| <ul><li>币安</li></ul><ul><li>KuCoin</li></ul>                   | <ul><li>币安+BitUniverse</li></ul><ul><li>KuCoin</li></ul> | <ul><li>币安+BitUniverse</li></ul><ul><li>KuCoin</li></ul>   | <ul><li>币安+AntBot</li></ul><ul><li>KuCoin</li></ul>                                                                                                             |
+| 第一步                                                            | 第二步                                                          | 第三步                                                            | 第四步                                                                                                                                                             |
+| -------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 火箭发射                                                           | 变轨                                                           | 环绕同步                                                           | 空间站展开                                                                                                                                                           |
+| <ul><li>定投</li></ul>                                           | <ul><li>单币网格</li></ul><ul><li>单币流动性挖矿</li></ul>              | <p></p><ul><li>双币网格</li></ul><ul><li>双币流动性挖矿<br></li></ul>     | <ul><li>多币动态平衡</li></ul>                                                                                                                                        |
+| <ul><li>USDT<br>->BTC</li></ul><ul><li>USDT<br>->ETH</li></ul> | <ul><li>BTC/USDT</li><li>ETH/USDT</li></ul>                  | <p></p><ul><li>ETH/BTC</li><li>MATIC/BNB</li></ul>             | <p></p><ul><li>BTC</li></ul><ul><li>ETH</li></ul><ul><li>BNB</li></ul><ul><li>DOGE</li></ul><ul><li>MATIC</li></ul><ul><li>SHIB</li></ul><ul><li>AVAX</li></ul> |
+| <ul><li>币安</li></ul><ul><li>KuCoin</li></ul>                   | <ul><li>币安+BitUniverse 🆓</li></ul><ul><li>KuCoin </li></ul> | <ul><li>币安+BitUniverse 🆓</li></ul><ul><li>KuCoin 🆓</li></ul> | <ul><li>币安+AntBot 🆓</li></ul><ul><li>KuCoin 🆓</li></ul>                                                                                                       |
 
 ## 3，智能投顾表格（年化收益：500%）
 
