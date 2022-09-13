@@ -26,46 +26,76 @@
 
 ### 绑定API
 
-* [**AntBot**](https://antrade.io/)**（**[**文档**](https://antrade.io/guide/docs/cn)**）**
-  * **网格**
-  * **移动网格**
-  * **双向网格**
-  * **屯币宝**
-  * 马丁
-* ****[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)
-  * **网格**
+{% tabs %}
+{% tab title="AntBot" %}
+[**AntBot**](https://antrade.io/)**（**[**文档**](https://antrade.io/guide/docs/cn)**）**
+
+* **网格**
+* **移动网格**
+* **双向网格**
+* **屯币宝**
+* 马丁
+{% endtab %}
+
+{% tab title="BitUniverse" %}
+****[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)
+
+* **网格**
+{% endtab %}
+{% endtabs %}
 
 ### 交易所自带
 
-* [**Binance**](https://www.binance.com/zh-CN)****
-  * **网格**
-    * **现货网格**
-    * **合约网格**
-* [**Gate.io**](https://www.gate.io/zh-cn)****
-  * **网格**
-    * **现货网格**
-  * **无限网格**
-  * **再平衡（智能调仓）**
-  * **组合指标**
-  * **MACD**
-  * **MACD-RSI**
-  * **双均线**
-  * **双均线-RSI**
-* ****[**KuCoin**](https://www.kucoin.com/)****
-  * **网格**
-    * **现货网格**
-    * **合约网格**
-  * **无限网格**
-  * **再平衡（智能持仓）**
-  * **极速定投**
-* [**OKX**](https://www.okx.com/)****
-  * **网格**
-  * **再平衡（屯币宝）**
-  * 马丁
-* ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)**（不推荐）**
-  * **网格**
-  * **屯币宝**
-  * 马丁
+{% tabs %}
+{% tab title="Binance" %}
+[**Binance**](https://www.binance.com/zh-CN)****
+
+* **网格**
+  * **现货网格**
+  * **合约网格**
+{% endtab %}
+
+{% tab title="KuCoin" %}
+[**KuCoin**](https://www.kucoin.com/)****
+
+* **网格**
+  * **现货网格**
+  * **合约网格**
+* **无限网格**
+* **再平衡（智能持仓）**
+* **极速定投**
+{% endtab %}
+
+{% tab title="Gate.io" %}
+[**Gate.io**](https://www.gate.io/zh-cn)****
+
+* **网格**
+  * **现货网格**
+* **无限网格**
+* **再平衡（智能调仓）**
+* **组合指标**
+* **MACD**
+* **MACD-RSI**
+* **双均线**
+* **双均线-RSI**
+{% endtab %}
+
+{% tab title="OKX" %}
+[**OKX**](https://www.okx.com/)****
+
+* **网格**
+* **再平衡（屯币宝）**
+* 马丁
+{% endtab %}
+
+{% tab title="Pionex" %}
+[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)**（不推荐）**
+
+* **网格**
+* **屯币宝**
+* 马丁
+{% endtab %}
+{% endtabs %}
 
 | 第一步                                                            | 第二步                                                      | 第三步                                                        | 第四步                                                                                                                                                             |
 | -------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
