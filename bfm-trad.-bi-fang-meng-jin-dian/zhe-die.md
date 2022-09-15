@@ -56,12 +56,18 @@
 [https://www.84ie.com/shengcaiyoudao/2912.html](https://www.84ie.com/shengcaiyoudao/2912.html)
 {% endtab %}
 
-{% tab title="🌟积分兑换" %}
-[http://www.duiduihuishou.com/](http://www.duiduihuishou.com/) 兑兑回收
+{% tab title="币安" %}
+币安可以抵押借币，日息万五，年18%
+{% endtab %}
 
-[http://www.swzsybk.com/](http://www.swzsybk.com/) 积分好享兑
+{% tab title="DeFi" %}
+* [**Aave**](https://app.aave.com/)****
 
-[https://h5.cdn.kahe.cn/registerJf?invitation=A6ZUTEE2\&proportion=20](https://h5.cdn.kahe.cn/registerJf?invitation=A6ZUTEE2\&proportion=20) 卡盒
+闪电贷一般需要用户通过编程实现，但目前也出现了一些工具，比如 [CollateralSwap](https://collateralswap.com/)、[DeFi Saver](https://app.defisaver.com/)、[Furucombo](https://furucombo.app/) 等，使得用户不需要编程也能使用闪电贷。
+{% endtab %}
+
+{% tab title="合约，期货" %}
+群主不了解，不建议
 {% endtab %}
 {% endtabs %}
 
