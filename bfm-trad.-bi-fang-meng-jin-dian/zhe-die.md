@@ -56,6 +56,10 @@
 [https://www.84ie.com/shengcaiyoudao/2912.html](https://www.84ie.com/shengcaiyoudao/2912.html)
 {% endtab %}
 
+{% tab title="积分兑换" %}
+[http://www.duiduihuishou.com/](http://www.duiduihuishou.com/) 兑兑回收
+{% endtab %}
+
 {% tab title="币安" %}
 币安可以抵押借币，日息万五，年18%
 {% endtab %}
