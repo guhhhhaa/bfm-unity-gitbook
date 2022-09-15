@@ -77,9 +77,13 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 
 {% embed url="https://github.com/freefq/free" %}
 
-## v2cross
+## v2rayshare（🔥）
 
-{% embed url="https://v2cross.com/archives/1884" %}
+{% embed url="https://v2rayshare.com" %}
+
+{% embed url="https://yiyun.io/" %}
+
+###
 
 ### 免费ss账号
 

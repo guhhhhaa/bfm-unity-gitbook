@@ -45,6 +45,8 @@
 
 ### 交易所自带
 
+
+
 {% tabs %}
 {% tab title="Binance" %}
 [**Binance**](https://www.binance.com/zh-CN)****
@@ -96,12 +98,13 @@
 {% endtab %}
 {% endtabs %}
 
-| 第一步                                                                                | 第二步                                                                                | 第三步                                                                                | 第四步                                                                                                                |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <p>火箭发射</p><p><img src=".gitbook/assets/火箭发射.png" alt="" data-size="original"></p> | <p>变轨展开</p><p><img src=".gitbook/assets/变轨展开.png" alt="" data-size="original"></p> | <p>环绕同步</p><p><img src=".gitbook/assets/环绕同步.png" alt="" data-size="original"></p> | <p>空间站组装对接</p><p><img src=".gitbook/assets/空间站组装对接.png" alt="" data-size="original"></p>                           |
-| <ul><li>定投</li></ul>                                                               | <ul><li>单币网格</li><li>单币流动性挖矿</li></ul>                                             | <p></p><ul><li>双币网格</li><li>双币流动性挖矿<br></li></ul>                                  | <ul><li>多币动态平衡</li></ul>                                                                                           |
-| <ul><li>USDT<br>->BTC</li><li>USDT<br>->ETH</li></ul>                              | <ul><li>BTC/USDT</li><li>ETH/USDT</li></ul>                                        | <ul><li>ETH/BTC</li><li>MATIC/BNB</li></ul>                                        | <p></p><ul><li>BTC</li><li>ETH</li><li>BNB</li></ul><ul><li>DOGE</li><li>MATIC</li><li>SHIB</li><li>AVAX</li></ul> |
-| <ul><li>币安 🆓</li><li>KuCoin 🆓</li></ul>                                          | <ul><li>币安+BitUniverse 🆓</li><li>KuCoin 🆓</li></ul>                              | <ul><li>币安+BitUniverse 🆓</li><li>KuCoin 🆓</li></ul>                              | <ul><li>币安+AntBot 🆓</li><li>KuCoin 🆓</li></ul>                                                                   |
+| 第一步                                                              | 第二步                                                              | 第三步                                                              | 第四步                                                                                                                |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 火箭发射                                                             | 变轨展开                                                             | 环绕同步                                                             | 空间站组装对接                                                                                                            |
+| <img src=".gitbook/assets/火箭发射.png" alt="" data-size="original"> | <img src=".gitbook/assets/变轨展开.png" alt="" data-size="original"> | <img src=".gitbook/assets/环绕同步.png" alt="" data-size="original"> | <img src=".gitbook/assets/空间站组装对接.png" alt="" data-size="original">                                                |
+| <ul><li>定投</li></ul>                                             | <ul><li>单币网格</li><li>单币流动性挖矿</li></ul>                           | <p></p><ul><li>双币网格</li><li>双币流动性挖矿<br></li></ul>                | <ul><li>多币动态平衡</li></ul>                                                                                           |
+| <ul><li>USDT<br>->BTC</li><li>USDT<br>->ETH</li></ul>            | <ul><li>BTC/USDT</li><li>ETH/USDT</li></ul>                      | <ul><li>ETH/BTC</li><li>MATIC/BNB</li></ul>                      | <p></p><ul><li>BTC</li><li>ETH</li><li>BNB</li></ul><ul><li>DOGE</li><li>MATIC</li><li>SHIB</li><li>AVAX</li></ul> |
+| <ul><li>币安 🆓</li><li>KuCoin 🆓</li></ul>                        | <ul><li>币安+BitUniverse 🆓</li><li>KuCoin 🆓</li></ul>            | <ul><li>币安+BitUniverse 🆓</li><li>KuCoin 🆓</li></ul>            | <ul><li>币安+AntBot 🆓</li><li>KuCoin 🆓</li></ul>                                                                   |
 
 ## 3，智能投顾表格（年化收益：500%）
 
