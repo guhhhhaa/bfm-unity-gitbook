@@ -58,6 +58,8 @@
 
 {% tab title="积分兑换" %}
 [http://www.duiduihuishou.com/](http://www.duiduihuishou.com/) 兑兑回收
+
+[http://www.swzsybk.com/](http://www.swzsybk.com/) 积分好享兑
 {% endtab %}
 
 {% tab title="币安" %}
