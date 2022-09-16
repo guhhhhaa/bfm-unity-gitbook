@@ -11,13 +11,21 @@
 
 ## 1，入金（年化收益：50%）
 
-### **使用法币购买USDT**
+### **交易所**
 
 * ****[**Binance**](https://www.binance.com/zh-CN)****
+* ****[**FTX**](https://ftx.com/#a=45676115)****
+* ****[**Kraken**](https://www.kraken.com/)****
+* ****
 * ****[**Gate.io**](https://www.gate.io/zh-cn)****
 * ****[**MEXC**](https://www.mexc.com/zh-cn)****
 * ****[**OKX**](https://www.okx.com/)****
-* [**CoinCola**](https://www.coincola.com/?lang=zh-CN)****
+
+### **场外交易**
+
+* [Paxful](https://paxful.com/)
+* [CoinCola](https://www.coincola.com/?lang=zh-CN)
+* [LocalBitcoins](https://localbitcoins.com/)
 
 ## 2，机器人（年化收益：100%）
 
@@ -205,7 +213,7 @@
 可以参与龙头DeFi项目，不要参与土狗DeFi项目。
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="传销，庞氏骗局，资金盘识别" %}
 严重依靠拉新，远离！&#x20;
 
 发了超过2个代币，远离！&#x20;
