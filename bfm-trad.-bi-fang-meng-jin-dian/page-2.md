@@ -1,4 +1,4 @@
-# Page 2
+# 走资教程
 
 [https://youtube.com/c/%E7%8E%8B%E5%B0%8F%E4%BA%8C1986](https://youtube.com/c/%E7%8E%8B%E5%B0%8F%E4%BA%8C1986)\
 \

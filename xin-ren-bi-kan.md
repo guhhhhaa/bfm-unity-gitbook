@@ -16,20 +16,18 @@
 * ****[**Binance**](https://www.binance.com/zh-CN)****
 * ****[**FTX**](https://ftx.com/#a=45676115)****
 * ****[**Kraken**](https://www.kraken.com/)****
-* ****
+* ****[**KuCoin**](https://www.kucoin.com/)****
 * ****[**Gate.io**](https://www.gate.io/zh-cn)****
 * ****[**MEXC**](https://www.mexc.com/zh-cn)****
 * ****[**OKX**](https://www.okx.com/)****
 
 ### **场外交易**
 
-* [Paxful](https://paxful.com/)
-* [CoinCola](https://www.coincola.com/?lang=zh-CN)
-* [LocalBitcoins](https://localbitcoins.com/)
+* [**Paxful**](https://paxful.com/)****
+* ****[**CoinCola**](https://www.coincola.com/?lang=zh-CN)****
+* ****[**LocalBitcoins**](https://localbitcoins.com/)****
 
 ## 2，机器人（年化收益：100%）
-
-<figure><img src=".gitbook/assets/币安生态.png" alt=""><figcaption></figcaption></figure>
 
 ### 绑定API
 
@@ -105,6 +103,8 @@
 * 马丁
 {% endtab %}
 {% endtabs %}
+
+### 创建步骤
 
 | 第一步                                                              | 第二步                                                              | 第三步                                                              | 第四步                                                                                                                |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
