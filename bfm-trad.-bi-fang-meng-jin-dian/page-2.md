@@ -1,5 +1,25 @@
 # 走资教程
 
-[https://youtube.com/c/%E7%8E%8B%E5%B0%8F%E4%BA%8C1986](https://youtube.com/c/%E7%8E%8B%E5%B0%8F%E4%BA%8C1986)\
-\
-最近YouTube上王小二的视频，可以关注一下，有很多走资教程，这对于我们扩大资金流动范围，具有及其深远的意义，以上视频将作为推荐教学视频，供大家学习。
+[王小二](https://www.youtube.com/c/%E7%8E%8B%E5%B0%8F%E4%BA%8C1986) | [币圈小林子](https://www.youtube.com/channel/UC8gj5V4pdK3BSQSXwCsJ9iQ) | [Richer K](https://www.youtube.com/channel/UC1d1se0BqryJYwJDIZn1\_NA) | CoSmile
+
+[bkbpay](https://www.bkbpay.com/) | [epay](https://www.epay.com/) | [wise](https://wise.com/) | [velo](https://www.velobank.com/cn.html) | [advcash](https://advcash.com/) | [payeer](https://payeer.com/) | [paxful](https://paxful.com/)
+
+[https://youtu.be/3lbGDgcsTvU](https://youtu.be/3lbGDgcsTvU) - 如何获取地址证明文件
+
+&#x20;[https://youtu.be/N\_rhQnXyEVk](https://youtu.be/N\_rhQnXyEVk) - Bkbpay贝卡帮激活Wise，无需护照
+
+[https://youtu.be/C9DhfP-LG\_o](https://youtu.be/C9DhfP-LG\_o) - 怎么办护照
+
+[https://youtu.be/G\_TNvW9B20A](https://youtu.be/G\_TNvW9B20A) - Payeer+Epay把USDT转账到国内银行卡
+
+[https://youtu.be/4w70lAiKXlo](https://youtu.be/4w70lAiKXlo) - 走资方法：跨境汇款小结
+
+[https://youtu.be/WVIs3KB16aQ](https://youtu.be/WVIs3KB16aQ) - 5个虚拟信用卡开卡平台分享
+
+* cnriat [https://vcc.cnriat.com/](https://vcc.cnriat.com/)
+* nobepay [https://www.nobepay.com/](https://www.nobepay.com/)
+* 贝卡帮 [https://www.bkbpay.com/](https://www.bkbpay.com/)
+* amzkey [https://goo.gs/o13b2](https://goo.gs/o13b2)
+* depay [https://goo.gs/vtn8z](https://goo.gs/vtn8z)
+
+[https://wzproject.com/](https://wzproject.com/)
