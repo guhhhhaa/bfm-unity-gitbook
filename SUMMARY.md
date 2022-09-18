@@ -114,7 +114,7 @@
 * [Offshore Entity](bfm-trad.-bi-fang-meng-jin-dian/offshore-entity.md)
 * [International Phone Number](bfm-trad.-bi-fang-meng-jin-dian/hai-wai-shou-ji-hao-ban-li.md)
 * [International Bank Card](bfm-trad.-bi-fang-meng-jin-dian/international-bank-card.md)
-* [走资教程](bfm-trad.-bi-fang-meng-jin-dian/page-2.md)
+* [跨境收付](bfm-trad.-bi-fang-meng-jin-dian/kua-jing-shou-fu.md)
 * [礼品卡与场外交易](bfm-trad.-bi-fang-meng-jin-dian/li-pin-ka-yu-chang-wai-jiao-yi.md)
 * [草稿](bfm-trad.-bi-fang-meng-jin-dian/cao-gao.md)
 
