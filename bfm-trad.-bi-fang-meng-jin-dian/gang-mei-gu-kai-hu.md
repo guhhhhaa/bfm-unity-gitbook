@@ -1,12 +1,14 @@
 # Offshore Finance 🌍
 
+![](<../.gitbook/assets/image (54).png>)
+
 ## [互联网券商](https://zhuanlan.zhihu.com/p/349480662)
 
 [老虎](https://www.itiger.com/) | [雪盈](https://www.snowballsecurities.com/) |[ 富途](https://www.futuhk.com/)([富途牛牛](https://www.futunn.com/)) | [微牛](https://www.webull.com/) | [华盛](https://www.vbkr.com/)
 
 ## USDT券商
 
-[WBroker](https://wbroker.com/) | [华通证券](https://www.hhtzq.com/)
+WBroker
 
 ## 美股导航
 
