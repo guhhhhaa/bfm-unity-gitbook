@@ -1,4 +1,4 @@
-# 走资教程
+# 跨境收付
 
 [王小二](https://www.youtube.com/c/%E7%8E%8B%E5%B0%8F%E4%BA%8C1986) | [币圈小林子](https://www.youtube.com/channel/UC8gj5V4pdK3BSQSXwCsJ9iQ) | [Richer K](https://www.youtube.com/channel/UC1d1se0BqryJYwJDIZn1\_NA) | [CoSmile](https://www.youtube.com/channel/UCBvwCvVi2m\_mXmQUn03hZow/playlists) | [金熊猫](https://www.youtube.com/c/%E9%87%91%E7%86%8A%E7%8C%AB) | [DaddyEarn奶爸套利](https://www.youtube.com/c/DaddyEarn%E5%A5%B6%E7%88%B8%E5%A5%97%E5%88%A9)
 

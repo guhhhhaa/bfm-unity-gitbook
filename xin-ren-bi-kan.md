@@ -241,3 +241,56 @@
 有多签钱包字眼，还标榜自己是去中心化项目的，远离！
 {% endtab %}
 {% endtabs %}
+
+## 8，0启动资金币圈生存指南
+
+{% tabs %}
+{% tab title="安装Google Play" %}
+如果手机是华为和小米，建议去拼多多以旧换新oppo，vivo，华为和小米部分机型由于系统限制。无法适用Google Play。
+
+[HiGoPlay服务框架安装器 - 应用宝- 腾讯](https://sj.qq.com/myapp/detail.htm?apkName=com.higoplayservice.higoplay)
+
+安装后看看是否闪退，如果闪退换手机。
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+### 0，
+
+
+
+### 1，
+
+在应用宝搜51信用卡或者云闪付，网申办信用卡。
+
+[51信用卡管家 - 应用宝- 腾讯](https://a.app.qq.com/o/simple.jsp?pkgname=com.zhangdan.app)
+
+[云闪付 - 应用宝- 腾讯](https://sj.qq.com/appdetail/com.unionpay)
+
+### 2，刷卡工具
+
+去拼多多搜“信用卡提额宝典”，点进去问客服搞个拉卡拉电签机。\
+或者去[POS支付网](https://www.poszfw.com/)弄个无卡支付手机App。
+
+### 3，科学上网
+
+去 Github 搜 [V2RayNG](https://github.com/2dust/v2rayNG/releases) 找软件， \
+去 Github 搜 [freefq](https://github.com/freefq/free) 找免费订阅链接。\
+&#x20;注：国内可以访问 Github。 \
+然后试试是否能访问 Google Play。
+
+### 4，期现套利
+
+把信用卡用第2步的工具套出来，留10%用来还进刷出，\
+其余进 Gate.io 做期现套利。
+
+[Gate.io - Buy Bitcoin & Crypto - Apps on Google Play](https://play.google.com/store/apps/details?id=com.gateio.gateio\&hl=en\_US\&gl=US)
+
+### 5，价值投资
+
+套利的收益去 KuCoin 做极速定投，单币网格，双币网格，动态再平衡(智能持仓)。
+
+[KuCoin: BTC, Crypto Exchange - Apps on Google Play](https://play.google.com/store/apps/details?id=com.kubi.kucoin\&hl=en\_US\&gl=US)
