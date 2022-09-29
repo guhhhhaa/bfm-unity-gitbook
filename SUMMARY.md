@@ -215,6 +215,7 @@
 * [文章论文生成器](gong-ju/wen-zhang-sheng-cheng-qi.md)
 * [发现网站](gong-ju/fa-xian-wang-zhan.md)
 * [B站视频下载 🎬 ⏬](gong-ju/b-zhan-shi-pin-xia-zai.md)
+* [绘画生成器](gong-ju/hui-hua-sheng-cheng-qi.md)
 
 ## 链接
 
