@@ -14,12 +14,11 @@
 ### **交易所**
 
 * ****[**Binance**](https://www.binance.com/zh-CN)****
-* ****[**FTX**](https://ftx.com/#a=45676115)****
-* ****[**Kraken**](https://www.kraken.com/)****
-* ****[**KuCoin**](https://www.kucoin.com/)****
-* ****[**Gate.io**](https://www.gate.io/zh-cn)****
-* ****[**MEXC**](https://www.mexc.com/zh-cn)****
 * ****[**OKX**](https://www.okx.com/)****
+* ****[**MEXC**](https://www.mexc.com/zh-cn)****
+* ****[**Gate.io**](https://www.gate.io/zh-cn)****
+* ****[**KuCoin**](https://www.kucoin.com/)****
+* ****[**Kraken**](https://www.kraken.com/)****
 
 ### **场外交易**
 
@@ -125,7 +124,6 @@
 
 ## 4，其他交易所 和 DeFi
 
-* ****[**FTX 交易所**](https://ftx.com/#a=45676115) **** 600种加密货币、美股凭证任你买卖，可以购买B站，台积电，特斯拉，谷歌等公司股票。
 * 可以绑定交易所API用[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)**对以上股票进行网格做市。**
 
 {% content-ref url="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
@@ -298,3 +296,4 @@
 [KuCoin: BTC, Crypto Exchange - Apps on Google Play](https://play.google.com/store/apps/details?id=com.kubi.kucoin\&hl=en\_US\&gl=US)
 {% endtab %}
 {% endtabs %}
+
