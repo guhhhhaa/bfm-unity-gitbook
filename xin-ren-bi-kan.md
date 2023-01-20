@@ -294,6 +294,8 @@
 套利的收益去 KuCoin 做极速定投，单币网格，双币网格，动态再平衡(智能持仓)。
 
 [KuCoin: BTC, Crypto Exchange - Apps on Google Play](https://play.google.com/store/apps/details?id=com.kubi.kucoin\&hl=en\_US\&gl=US)
+
+或者使用[Binance](https://www.binance.com/zh-CN)+[AntBot](https://antrade.io/)
 {% endtab %}
 {% endtabs %}
 
