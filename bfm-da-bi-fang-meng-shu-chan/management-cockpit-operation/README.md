@@ -58,11 +58,9 @@ description: Management Cockpit (Operation)
 
 {% hint style="success" %}
 * ****[**DeBank**](https://debank.com/swap) **(**[**协议列表**](https://debank.com/projects)**)**
-* [**Zapper**](https://www.zapper.fi/)
+* [**Zapper.fi**](https://www.zapper.fi/)
 * ****[**Zerion**](https://app.zerion.io/exchange)
-* ****[**Frontier**](https://www.frontier.xyz/)
-* [**BitKeep**](https://bitkeep.org/zh/index.html)****
-* **TokenPocket**
+* [**bitkeep**](https://bitkeep.org/zh/index.html)****
 * [defillama.com](https://defillama.com/)
 * [Ape Board](https://apeboard.finance/)
 
