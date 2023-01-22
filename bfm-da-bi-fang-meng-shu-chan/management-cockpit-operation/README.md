@@ -47,6 +47,8 @@ description: Management Cockpit (Operation)
 * [**MVRV**](https://www.blockchain.com/charts/mvrv)[（](https://www.jianshu.com/p/f6992e6c6ea6)[Python获取MVRV](https://coinmetrics.io/newdata/split/btc\_CapMVRVCur.txt)，[参考链接](https://www.jianshu.com/p/f6992e6c6ea6)）  |  [**S2F**](https://buybitcoinworldwide.com/stats/stock-to-flow/)  ****  |  [**山寨季指标**](https://www.blockchaincenter.net/altcoin-season-index/)  ****  |  [**HODL Waves**](https://unchained-capital.com/hodlwaves/)  **|**  [减半时间](https://www.qkl123.com/data/halve/btc)  ([减半时间-Gate.io](https://www.gate.io/zh/halving))  |  [CFTC持仓报告](https://www.tradingster.com/cot/futures/fin/133741)  |  [彩虹图🌈](https://www.blockchaincenter.net/bitcoin-rainbow-chart/)  |  [Bitcoin: STH-Cost Basis vs Market Cost-Basis](https://studio.glassnode.com/workbench/2b1042ce-3ca7-44a4-694e-01918080693d)
 * [**CAPE**](https://www.gurufocus.cn/indicator/shiller\_pe)   **|**  [**巴菲特指标**](https://www.gurufocus.cn/indicator/buffett-market-valuation)****\
   ****
+* [**链上数据分析**](https://www.binance.com/zh-CN/feed/profile/59021314)**(**[**推特**](https://twitter.com/0xCryptoChan)**)**\
+  ****
 * [Sharpe Ratio](https://charts.woobull.com/bitcoin-risk-adjusted-return/)  |  [市值比较](https://assetdash.com/?all=true)\
 
 * [跟踪美联储操作](https://robo.datayes.com/v2/landing/monitor\_detail?slotId=243342)\
@@ -58,9 +60,11 @@ description: Management Cockpit (Operation)
 
 {% hint style="success" %}
 * ****[**DeBank**](https://debank.com/swap) **(**[**协议列表**](https://debank.com/projects)**)**
-* [**Zapper.fi**](https://www.zapper.fi/)
+* [**Zapper**](https://www.zapper.fi/)
 * ****[**Zerion**](https://app.zerion.io/exchange)
-* [**bitkeep**](https://bitkeep.org/zh/index.html)****
+* ****[**Frontier**](https://www.frontier.xyz/)
+* [**BitKeep**](https://bitkeep.org/zh/index.html)****
+* **TokenPocket**
 * [defillama.com](https://defillama.com/)
 * [Ape Board](https://apeboard.finance/)
 
