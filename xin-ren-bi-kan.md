@@ -9,6 +9,8 @@
 [ss-v2ray.md](gong-ju/ss-v2ray.md)
 {% endcontent-ref %}
 
+* 安装Google Play ：如果手机是华为和小米，建议去拼多多以旧换新oppo，vivo，华为和小米部分机型由于系统限制。无法适用Google Play。[HiGoPlay服务框架安装器 - 应用宝- 腾讯](https://sj.qq.com/myapp/detail.htm?apkName=com.higoplayservice.higoplay)，安装后看看是否闪退，如果闪退换手机。
+
 ## 1，入金（年化收益：50%）
 
 ### **交易所**
@@ -105,13 +107,13 @@
 
 ### 创建步骤
 
-| 第一步                                                              | 第二步                                                              | 第三步                                                              | 第四步                                                                                                                | 第五步                                               |
-| ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
-| 火箭发射                                                             | 变轨展开                                                             | 环绕同步                                                             | 空间站组装对接                                                                                                            | 湮灭光束                                              |
-| <img src=".gitbook/assets/火箭发射.png" alt="" data-size="original"> | <img src=".gitbook/assets/变轨展开.png" alt="" data-size="original"> | <img src=".gitbook/assets/环绕同步.png" alt="" data-size="original"> | <img src=".gitbook/assets/空间站组装对接.png" alt="" data-size="original">                                                | ![](<.gitbook/assets/image (1).png>)              |
-| <ul><li>定投</li></ul>                                             | <ul><li>单币网格</li><li>单币流动性挖矿</li></ul>                           | <p></p><ul><li>双币网格</li><li>双币流动性挖矿<br></li></ul>                | <ul><li>多币动态平衡</li></ul>                                                                                           | <ul><li>做空！</li><li>割韭菜！</li></ul>                |
-| <ul><li>USDT<br>->BTC</li><li>USDT<br>->ETH</li></ul>            | <ul><li>BTC/USDT</li><li>ETH/USDT</li></ul>                      | <ul><li>ETH/BTC</li><li>MATIC/BNB</li></ul>                      | <p></p><ul><li>BTC</li><li>ETH</li><li>BNB</li></ul><ul><li>DOGE</li><li>MATIC</li><li>SHIB</li><li>AVAX</li></ul> | <ul><li>BTC杠杆代币（做空）</li><li>ETH杠杆代币（做空）</li></ul> |
-| <ul><li>币安 🆓</li><li>KuCoin 🆓</li></ul>                        | <ul><li>币安+BitUniverse 🆓</li><li>KuCoin 🆓</li></ul>            | <ul><li>币安+BitUniverse 🆓</li><li>KuCoin 🆓</li></ul>            | <ul><li>币安+AntBot 🆓</li><li>KuCoin 🆓</li></ul>                                                                   | <ul><li>币安</li></ul>                              |
+| 第一步                                                              | 第二步                                                              | 第三步                                                                                             | 第四步                                                                                                                | 第五步                                               |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| 火箭发射                                                             | 变轨展开                                                             | 环绕同步                                                                                            | 空间站组装对接                                                                                                            | 湮灭光束                                              |
+| <img src=".gitbook/assets/火箭发射.png" alt="" data-size="original"> | <img src=".gitbook/assets/变轨展开.png" alt="" data-size="original"> | <img src=".gitbook/assets/环绕同步.png" alt="" data-size="original">                                | <img src=".gitbook/assets/空间站组装对接.png" alt="" data-size="original">                                                | ![](<.gitbook/assets/image (1).png>)              |
+| <ul><li>定投</li></ul>                                             | <ul><li>单币网格</li><li>单币流动性挖矿</li></ul>                           | <p></p><ul><li>双币网格</li><li>双币流动性挖矿<br></li></ul>                                               | <ul><li>多币动态平衡</li></ul>                                                                                           | <ul><li>做空！</li><li>割韭菜！</li></ul>                |
+| <ul><li>USDT<br>->BTC</li><li>USDT<br>->ETH</li></ul>            | <ul><li>BTC/USDT</li><li>ETH/USDT</li></ul>                      | <ul><li>ETH/BTC</li><li>MATIC/BNB</li><li>DOGE/SHIB</li></ul><ul><li>PAXG/USDT(黄金/美元)</li></ul> | <p></p><ul><li>BTC</li><li>ETH</li><li>BNB</li></ul><ul><li>DOGE</li><li>MATIC</li><li>SHIB</li><li>AVAX</li></ul> | <ul><li>BTC杠杆代币（做空）</li><li>ETH杠杆代币（做空）</li></ul> |
+| <ul><li>币安 🆓</li><li>KuCoin 🆓</li></ul>                        | <ul><li>币安+BitUniverse 🆓</li><li>KuCoin 🆓</li></ul>            | <ul><li>币安+BitUniverse 🆓</li><li>KuCoin 🆓</li></ul>                                           | <ul><li>币安+AntBot 🆓</li><li>KuCoin 🆓</li></ul>                                                                   | <ul><li>币安</li></ul>                              |
 
 ## 3，智能投顾表格（年化收益：500%）
 
