@@ -40,7 +40,7 @@ BFM Unity 并不需要新加入的 Unit(s) 公开响应或者认同价值观。
 
 ## 我们使用GOC代表多角套利和BFM算法。
 
-![全球超自然联盟GOC](../.gitbook/assets/image.png)
+![全球超自然联盟GOC](<../.gitbook/assets/image (2).png>)
 
 {% embed url="http://scp-wiki-cn.wikidot.com/goc-hub-page" %}
 
