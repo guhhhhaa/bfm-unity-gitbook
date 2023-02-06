@@ -9,6 +9,11 @@
 [ss-v2ray.md](gong-ju/ss-v2ray.md)
 {% endcontent-ref %}
 
+去 Github 搜 [V2RayNG](https://github.com/2dust/v2rayNG/releases) 找软件， \
+去 Github 搜 [freefq](https://github.com/freefq/free) 找免费订阅链接。\
+&#x20;注：国内可以访问 Github。 \
+然后试试是否能访问 Google Play。
+
 ## 0.2 安装Google Play
 
 * 如果手机是华为和小米，建议去拼多多以旧换新oppo，vivo，华为和小米部分机型由于系统限制。无法适用Google Play。
