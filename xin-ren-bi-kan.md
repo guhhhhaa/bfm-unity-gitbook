@@ -299,6 +299,13 @@ VR，AIGC，现在都是爆死！
 安装后看看是否闪退，如果闪退换手机。
 {% endtab %}
 
+{% tab title="科学上网" %}
+去 Github 搜 [V2RayNG](https://github.com/2dust/v2rayNG/releases) 找软件， \
+去 Github 搜 [freefq](https://github.com/freefq/free) 找免费订阅链接。\
+&#x20;注：国内可以访问 Github。 \
+然后试试是否能访问 Google Play。
+{% endtab %}
+
 {% tab title="办信用卡" %}
 在应用宝搜51信用卡或者云闪付，网申办信用卡。
 
@@ -309,14 +316,7 @@ VR，AIGC，现在都是爆死！
 
 {% tab title="刷卡工具" %}
 去拼多多搜“信用卡提额宝典”，点进去问客服搞个拉卡拉电签机。\
-或者去[POS支付网](https://www.poszfw.com/)弄个无卡支付手机App。
-{% endtab %}
-
-{% tab title="科学上网" %}
-去 Github 搜 [V2RayNG](https://github.com/2dust/v2rayNG/releases) 找软件， \
-去 Github 搜 [freefq](https://github.com/freefq/free) 找免费订阅链接。\
-&#x20;注：国内可以访问 Github。 \
-然后试试是否能访问 Google Play。
+或者弄个无卡支付手机App。
 {% endtab %}
 
 {% tab title="期现套利" %}
