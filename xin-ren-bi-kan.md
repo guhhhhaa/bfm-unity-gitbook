@@ -2,20 +2,20 @@
 
 ## 0.1，科学上网
 
-* 首先你需要科学上网，才能正常访问本网站
-* 由于兔国政策不友好，本网站已经屏蔽兔国IP，不对兔国人民提供服务
+* 首先你需要科学上网，才能正常访问本网站和其他币圈网站
+* 由于兔国政策不友好，本网站和大不币圈网站已经屏蔽兔国IP，不对兔国人民提供服务
 
 {% content-ref url="gong-ju/ss-v2ray.md" %}
 [ss-v2ray.md](gong-ju/ss-v2ray.md)
 {% endcontent-ref %}
 
-如果你是只有安卓Android手机的苦鬼：\
+如果你只有一台安卓Android手机：\
 去 Github 搜 [V2RayNG](https://github.com/2dust/v2rayNG/releases) 找软件， \
 去 Github 搜 [freefq](https://github.com/freefq/free) 找免费订阅链接。\
 &#x20;注：国内可以访问 Github。 \
 然后试试是否能访问 Google Play。
 
-## 0.2，安装Google Play
+## 0.2，手机安装Google Play
 
 * 如果手机是华为和小米，建议去拼多多以旧换新oppo，vivo，华为和小米部分机型由于系统限制。无法适用Google Play。
 * [HiGoPlay服务框架安装器 - 应用宝- 腾讯](https://sj.qq.com/myapp/detail.htm?apkName=com.higoplayservice.higoplay)，安装Google Play后，看看Google Play是否闪退，如果闪退，很可能是系统限制，解决方案是换手机品牌。
