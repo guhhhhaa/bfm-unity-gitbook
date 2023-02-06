@@ -9,6 +9,7 @@
 [ss-v2ray.md](gong-ju/ss-v2ray.md)
 {% endcontent-ref %}
 
+如果你是只有安卓Android手机的苦鬼：\
 去 Github 搜 [V2RayNG](https://github.com/2dust/v2rayNG/releases) 找软件， \
 去 Github 搜 [freefq](https://github.com/freefq/free) 找免费订阅链接。\
 &#x20;注：国内可以访问 Github。 \
