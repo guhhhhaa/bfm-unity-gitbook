@@ -126,8 +126,6 @@
 
 ## 4，其他交易所 和 DeFi
 
-* 可以绑定交易所API用[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)**对以上股票进行网格做市。**
-
 {% content-ref url="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
 [management-cockpit-operation](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
 {% endcontent-ref %}
