@@ -140,17 +140,7 @@
 [ru-he-jia-ru-wo-men-de-tao-lun-qun-zu](bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/)
 {% endcontent-ref %}
 
-## 6，投资治理通证Token，或者自立门户！
-
-{% content-ref url="bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md" %}
-[juan-zeng-da-shang.md](bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md)
-{% endcontent-ref %}
-
-{% content-ref url="bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/" %}
-[ru-he-jia-ru-wo-men-de-tao-lun-qun-zu](bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/)
-{% endcontent-ref %}
-
-## 7，新人小白币圈避坑指南
+## 6，新人小白币圈避坑指南
 
 {% tabs %}
 {% tab title="量化交易" %}
@@ -284,9 +274,11 @@ VR，AIGC，现在都是爆死！
 {% endtab %}
 {% endtabs %}
 
-## 8，0启动资金币圈生存指南
+## 7，0启动资金币圈生存指南
 
-0启动资金，币圈生存指南 0启动资金，爆仓后上岸攻略。&#x20;
+0启动资金，币圈生存指南&#x20;
+
+0启动资金，爆仓破产后上岸攻略。&#x20;
 
 1，网申办信用卡&#x20;
 
