@@ -27,6 +27,7 @@
 * [**Paxful**](https://paxful.com/)****
 * ****[**CoinCola**](https://www.coincola.com/?lang=zh-CN)****
 * ****[**LocalBitcoins**](https://localbitcoins.com/)****
+* ****[**Pexpay**](https://www.pexpay.com/)****
 
 ## 2，机器人（年化收益：100%）
 
