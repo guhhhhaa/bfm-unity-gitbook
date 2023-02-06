@@ -20,6 +20,8 @@
 
 {% embed url="https://www.okx.com/cn/learn" %}
 
+{% embed url="https://github.tokenpocket.pro/BlockchainGuideSeries/#/" %}
+
 ## 1，入金（年化收益：50%）
 
 ### **交易所**
