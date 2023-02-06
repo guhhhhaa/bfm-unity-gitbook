@@ -1,6 +1,6 @@
 # 新人必看（🔥）
 
-## 0，科学上网（BUFF++,DEBUFF--）
+## 0.1，科学上网
 
 * 首先你需要科学上网，才能正常访问本网站
 * 由于兔国政策不友好，本网站已经屏蔽兔国IP，不对兔国人民提供服务
@@ -9,7 +9,16 @@
 [ss-v2ray.md](gong-ju/ss-v2ray.md)
 {% endcontent-ref %}
 
-* 安装Google Play ：如果手机是华为和小米，建议去拼多多以旧换新oppo，vivo，华为和小米部分机型由于系统限制。无法适用Google Play。[HiGoPlay服务框架安装器 - 应用宝- 腾讯](https://sj.qq.com/myapp/detail.htm?apkName=com.higoplayservice.higoplay)，安装后看看是否闪退，如果闪退换手机。
+## 0.2 安装Google Play
+
+* 如果手机是华为和小米，建议去拼多多以旧换新oppo，vivo，华为和小米部分机型由于系统限制。无法适用Google Play。
+* [HiGoPlay服务框架安装器 - 应用宝- 腾讯](https://sj.qq.com/myapp/detail.htm?apkName=com.higoplayservice.higoplay)，安装后看看是否闪退，如果闪退换手机。
+
+## 0.3，学习区块链知识
+
+{% embed url="https://academy.binance.com/zh" %}
+
+{% embed url="https://www.okx.com/cn/learn" %}
 
 ## 1，入金（年化收益：50%）
 
