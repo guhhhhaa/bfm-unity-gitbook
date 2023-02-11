@@ -52,6 +52,7 @@
 ## BFM DA | 比坊梦数产
 
 * [资产配置 🕙 ⌚️（🔥）](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/README.md)
+  * [时间校准研究](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/shi-jian-xiao-zhun-yan-jiu.md)
   * [战略资产配置——卓尔金历 🕙](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/README.md)
     * [卓尔金升级1——拟合函数](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
     * [卓尔金升级2——误差分析](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
