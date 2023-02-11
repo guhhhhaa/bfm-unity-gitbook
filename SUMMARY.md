@@ -167,6 +167,8 @@
   * [实验室2](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/shi-yan-shi-2.md)
   * [py重点实验室](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/py-zhong-dian-shi-yan-shi.md)
   * [以太坊部署实验室](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/yi-tai-fang-bu-shu-shi-yan-shi.md)
+* [衍生产品部](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yan-sheng-chan-pin-bu.md)
+* [量化交易部](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/liang-hua-jiao-yi-bu.md)
 
 ## BFM Univ. | 比坊梦大学
 
