@@ -29,6 +29,8 @@
 
 {% embed url="https://github.tokenpocket.pro/BlockchainGuideSeries/#/" %}
 
+
+
 ## 1，入金（不确定且有风险的年化收益：约50%）
 
 ### **交易所**
@@ -144,8 +146,16 @@
 [the-tzolkin-calendar](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
+* 链上数据分析工具集锦
+
 {% content-ref url="bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/lian-shang-shu-ju-fen-xi.md" %}
 [lian-shang-shu-ju-fen-xi.md](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/lian-shang-shu-ju-fen-xi.md)
+{% endcontent-ref %}
+
+* 减半，顶部，底部时间预测
+
+{% content-ref url="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/shi-jian-xiao-zhun-yan-jiu.md" %}
+[shi-jian-xiao-zhun-yan-jiu.md](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/shi-jian-xiao-zhun-yan-jiu.md)
 {% endcontent-ref %}
 
 ## 4，其他交易所 和 DeFi（年化收益：未知）
