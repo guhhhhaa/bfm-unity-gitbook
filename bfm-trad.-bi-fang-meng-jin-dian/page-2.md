@@ -23,7 +23,7 @@
 * cnriat [https://vcc.cnriat.com/](https://vcc.cnriat.com/)
 * nobepay [https://www.nobepay.com/](https://www.nobepay.com/)
 * 贝卡帮 [https://www.bkbpay.com/](https://www.bkbpay.com/)
-* amzkey [https://goo.gs/o13b2](https://goo.gs/o13b2)
-* depay [https://goo.gs/vtn8z](https://goo.gs/vtn8z)
+* amzkey [https://amzkeys.com/](https://amzkeys.com/)
+* depay [https://depay.depay.one/web-app/register-h5](https://depay.depay.one/web-app/register-h5)
 
 [https://wzproject.com/](https://wzproject.com/)
