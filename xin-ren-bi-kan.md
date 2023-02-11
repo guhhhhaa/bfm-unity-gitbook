@@ -137,7 +137,7 @@
 | <ul><li>USDT<br>->BTC</li><li>USDT<br>->ETH</li></ul>            | <ul><li>BTC/USDT</li><li>ETH/USDT</li></ul>                                | <ul><li>ETH/BTC</li><li>MATIC/BNB</li><li>DOGE/SHIB</li></ul><ul><li>PAXG/USDT(黄金/美元)</li></ul> | <p></p><ul><li>BTC</li><li>ETH</li><li>BNB</li><li>ADA</li><li>DOGE</li><li>MATIC</li></ul><ul><li>SHIB</li><li>AVAX</li><li>ATOM</li><li>LDO</li><li>TWT</li><li>ENS</li></ul><ul><li>COCOS</li></ul> | <ul><li>BTC杠杆代币（做空）</li><li>ETH杠杆代币（做空）</li></ul> |
 | <ul><li>币安 🆓</li><li>KuCoin 🆓</li></ul>                        | <ul><li>币安+BitUniverse 🆓</li><li>币安+AntBot 🆓</li><li>KuCoin 🆓</li></ul> | <ul><li>币安+BitUniverse 🆓</li><li>KuCoin 🆓</li></ul>                                           | <ul><li>币安+AntBot 🆓</li><li>KuCoin 🆓</li></ul>                                                                                                                                                       | <ul><li>币安</li></ul>                              |
 
-## 3，智能投顾相关（年化收益：约500%）
+## 3，智能投顾相关（不确定且有风险的年化收益：约500%）
 
 1. **智能投顾表格，帮您轻松确定杠杆率，抄底+逃顶**
 
@@ -159,7 +159,7 @@ MVRV+S2F+币圈美林时钟+激活函数神经元确定仓位+帕累托分布+�
 [shi-jian-xiao-zhun-yan-jiu.md](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/shi-jian-xiao-zhun-yan-jiu.md)
 {% endcontent-ref %}
 
-## 4，其他交易所 和 DeFi（年化收益：未知）
+## 4，其他交易所 和 DeFi（不确定且有风险的年化收益：未知）
 
 {% content-ref url="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
 [management-cockpit-operation](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
