@@ -16,13 +16,14 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 [xin-ren-bi-kan.md](xin-ren-bi-kan.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
+<details>
+
+<summary>免责提示</summary>
+
 NOTE: **💀 This project is in beta. Use at your own risk.**
 
 NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://academy.binance.com/zh/glossary/do-your-own-research)\
 
-
-免责提示：
 
 1，本网站所载的资料并不构成投资的意见或建议。
 
@@ -34,8 +35,9 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 5，我们不对因分析结果，方案模拟，未来预测的变化和准确性做任何投资担保。&#x20;
 
+</details>
 
-
+{% hint style="info" %}
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
 ## [赞助](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [加群](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) | [看板](https://trello.com/b/z4aDgNAL/todolist)

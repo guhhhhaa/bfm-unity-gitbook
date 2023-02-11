@@ -1,10 +1,14 @@
 # 🌱 新人必看（🔥）
 
+<details>
+
+<summary>免责提示</summary>
+
 NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
 NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://academy.binance.com/zh/glossary/do-your-own-research)
 
-免责提示：
+
 
 1，本网站所载的资料并不构成投资的意见或建议。
 
@@ -15,6 +19,8 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 4，我们的分析和方案，仅供参考，若您因此进行投资行为，所面临的损失，须自行承担。
 
 5，我们不对因分析结果，方案模拟，未来预测的变化和准确性做任何投资担保。
+
+</details>
 
 ## 0.1，科学上网
 
