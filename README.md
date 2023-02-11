@@ -10,12 +10,6 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 
 ![](<.gitbook/assets/BFM Unity 4.0 群青.png>)
 
-## 你是新人？请点击以下链接：
-
-{% content-ref url="xin-ren-bi-kan.md" %}
-[xin-ren-bi-kan.md](xin-ren-bi-kan.md)
-{% endcontent-ref %}
-
 <details>
 
 <summary>免责提示</summary>
@@ -36,6 +30,12 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 5，我们不对因分析结果，方案模拟，未来预测的变化和准确性做任何投资担保。&#x20;
 
 </details>
+
+## 你是新人？请点击以下链接：
+
+{% content-ref url="xin-ren-bi-kan.md" %}
+[xin-ren-bi-kan.md](xin-ren-bi-kan.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
