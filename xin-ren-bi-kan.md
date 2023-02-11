@@ -17,7 +17,7 @@
 
 ## 0.2，手机安装Google Play
 
-* 如果手机是华为和小米，建议去拼多多以旧换新oppo，vivo，华为和小米部分机型由于系统限制。无法适用Google Play。
+* 如果手机品牌是华为和小米，建议去拼多多以旧换新oppo，vivo，华为和小米部分机型由于系统限制。无法适用Google Play。
 * [HiGoPlay服务框架安装器 - 应用宝- 腾讯](https://sj.qq.com/myapp/detail.htm?apkName=com.higoplayservice.higoplay)，安装Google Play后，看看Google Play是否闪退，如果闪退，很可能是系统限制，解决方案是换手机品牌。
 * 如果不通过Google Play渠道下载手机软件，很可能下载到盗版手机软件造成资金损失，因此这一步必须做。
 
