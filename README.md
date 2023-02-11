@@ -90,6 +90,6 @@ NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
 
 ## 吉祥物
 
-![](<.gitbook/assets/BFM Unity 小吉祥物.png>)
+![](<.gitbook/assets/BFM Unity 吉祥物.png>)
 
 **© 2023.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**](https://www.bfm-unity.com/)**.** [**比坊梦联合体**](https://www.bfm-unity.com/)**. All Rights Reserved.**
