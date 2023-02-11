@@ -2,6 +2,8 @@
 
 {% embed url="https://iyideng.fun/blog/dingtone.html" %}
 
+{% embed url="https://sms-activate.org/" %}
+
 ![](<../.gitbook/assets/image (56).png>)
 
 * [**从零开始认识 Google Voice**](https://zhuanlan.zhihu.com/p/117420254)
