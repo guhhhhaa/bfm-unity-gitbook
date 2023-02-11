@@ -144,6 +144,10 @@
 [the-tzolkin-calendar](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
+{% content-ref url="bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/lian-shang-shu-ju-fen-xi.md" %}
+[lian-shang-shu-ju-fen-xi.md](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/lian-shang-shu-ju-fen-xi.md)
+{% endcontent-ref %}
+
 ## 4，其他交易所 和 DeFi（年化收益：未知）
 
 {% content-ref url="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
@@ -152,6 +156,10 @@
 
 {% content-ref url="bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-discovery.md" %}
 [command-room-discovery.md](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-discovery.md)
+{% endcontent-ref %}
+
+{% content-ref url="bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yan-sheng-chan-pin-bu.md" %}
+[yan-sheng-chan-pin-bu.md](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yan-sheng-chan-pin-bu.md)
 {% endcontent-ref %}
 
 ## 5，加群讨论
