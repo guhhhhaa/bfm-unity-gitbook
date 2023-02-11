@@ -4,6 +4,12 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 
 # 💎 BF​M Unity : Blockchain · Finance · Metaverse
 
+> ##
+>
+> ##
+>
+> ##
+>
 > ## 比坊**梦 : 区块链 · 金融 · 元宇宙**
 >
 > **BF​M Unity : Blockchain · Finance · Metaverse**
@@ -17,7 +23,23 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 {% endcontent-ref %}
 
 {% hint style="info" %}
-NOTE: **💀 This project is in beta. Use at your own risk.**&#x20;
+NOTE: **💀 This project is in beta. Use at your own risk.**
+
+****
+
+免责提示：
+
+1，本网站所载的资料并不构成投资的意见或建议。
+
+2，在作出任何投资决策前，您应考虑自己的财务状况、投资目标及经验、风险承受能力，及理解相关区块链金融产品的性质和风险。
+
+3，我们的分析和理论，仅供参考，若你相信并依照实行，所面临的风险，须自行承担。
+
+4，我们的分析和方案，仅供参考，若您因此进行投资行为，所面临的损失，须自行承担。
+
+5，我们不对因分析结果，方案模拟，未来预测的变化和准确性做任何投资担保。&#x20;
+
+
 
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
