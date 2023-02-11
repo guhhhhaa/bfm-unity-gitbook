@@ -42,10 +42,10 @@
 
 ### **场外交易**
 
-* ****[**Pexpay**](https://www.pexpay.com/)**（与Binance合作，可互相免手续费划转）**
 * [**Paxful**](https://paxful.com/)****
-* ****[**CoinCola**](https://www.coincola.com/?lang=zh-CN)**（**不再支持CNY交易**）**
-* ****[**LocalBitcoins**](https://localbitcoins.com/)**（停止运行）**
+* ****[**CoinCola**](https://www.coincola.com/?lang=zh-CN)****
+* ****[**LocalBitcoins**](https://localbitcoins.com/)****
+* ****[**Pexpay**](https://www.pexpay.com/)****
 
 ## 2，机器人（年化收益：约100%）
 
