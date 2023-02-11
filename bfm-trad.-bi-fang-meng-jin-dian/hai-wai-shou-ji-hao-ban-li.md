@@ -4,6 +4,8 @@
 
 {% embed url="https://sms-activate.org/" %}
 
+{% embed url="https://play.google.com/store/apps/details?id=com.multibyte.esender.jiedian&hl=zh&gl=US" %}
+
 ![](<../.gitbook/assets/image (56).png>)
 
 * [**从零开始认识 Google Voice**](https://zhuanlan.zhihu.com/p/117420254)
