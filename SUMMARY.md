@@ -4,7 +4,7 @@
 
 ## BFM Lite | 比坊梦轻量版
 
-* [新人必看（🔥）](xin-ren-bi-kan.md)
+* [🌱 新人必看（🔥）](xin-ren-bi-kan.md)
 * [驾驶舱 (运行) （🔥）](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
   * [私钥云保管 🔑 ☁️](bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/si-yao-yun-bao-guan.md)
 * [BFM Navigation](bfm-unity-bi-fang-meng-lian-he-ti/bu-fa-meng-dao-hang.md)
