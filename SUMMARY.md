@@ -153,7 +153,7 @@
 * [高并发](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yi-bu-bing-fa-xie-cheng-1/README.md)
   * [新版本高并发实验室🚩](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yi-bu-bing-fa-xie-cheng-1/xin-ban-ben-gao-bing-fa-shi-yan-shi.md)
   * [旧版本高并发实验室](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/yi-bu-bing-fa-xie-cheng-1/yi-bu-bing-fa-xie-cheng.md)
-* [开源项目](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/README.md)
+* [开源项目部](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/README.md)
   * [总览](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/zong-lan.md)
   * [Freqtrade 领域级重点实验室](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/freqtrade-shi-yan-shi.md)
   * [HummingBot领域级重点实验室🚩](bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/kai-yuan-xiang-mu-yan-jiu-yuan/hummingbot-ling-yu-ji-zhong-dian-shi-yan-shi.md)
