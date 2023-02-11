@@ -25,6 +25,9 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 {% hint style="info" %}
 NOTE: **💀 This project is in beta. Use at your own risk.**
 
+[Do Your Own Research (DYOR) - Binance Academy](https://academy.binance.com/zh/glossary/do-your-own-research)\
+
+
 ****
 
 免责提示：
