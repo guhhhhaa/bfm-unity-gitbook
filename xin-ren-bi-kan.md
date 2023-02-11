@@ -29,7 +29,7 @@
 
 {% embed url="https://github.tokenpocket.pro/BlockchainGuideSeries/#/" %}
 
-## 1，入金（年化收益：约50%）
+## 1，入金（不确定且有风险的年化收益：约50%）
 
 ### **交易所**
 
@@ -47,7 +47,7 @@
 * ~~****~~[~~**CoinCola**~~](https://www.coincola.com/?lang=zh-CN)**（**不再支持CNY交易**）**
 * ~~****~~[~~**LocalBitcoins**~~](https://localbitcoins.com/)（停止运行）
 
-## 2，机器人（年化收益：约100%）
+## 2，机器人（不确定且有风险的年化收益：约100%）
 
 ### 绑定API
 
