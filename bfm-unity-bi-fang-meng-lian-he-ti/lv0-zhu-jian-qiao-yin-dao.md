@@ -114,7 +114,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 （[**愿景及使命1**](https://xiaoheimi.net/index.php/vod/play/id/36392/sid/1/nid/1.html) **- 《游戏人生》 |** [**愿景及使命2**](https://xiaoheimi.net/index.php/vod/play/id/12405/sid/1/nid/1.html) **- 《BLAME!》 | 愿景及使命** [**3.1**](https://xiaoheimi.net/index.php/vod/detail/id/36637.html) **** [**3.2**](https://xiaoheimi.net/index.php/vod/detail/id/12152.html) **** [**3.3**](https://xiaoheimi.net/index.php/vod/detail/id/41193.html)**- 《来自深渊》 |** [**愿景及使命4**](https://www.bilibili.com/bangumi/play/ss4098/) **- 《尸者的帝国》**）
 
-意识存储器：Bilibili，[嘀哩嘀哩](https://dilidili.online/)，[233动漫网](https://www.dm233.me/)，[Age动漫](https://www.agefans.cc/)
+意识存储器：Bilibili，[嘀哩嘀哩](https://dilidili.online/)，[233动漫网](https://www.dm233.me/)，[Age动漫](https://www.agefans.cc/)，[小宝影院](https://xiaoheimi.net/)
 
 ## ‌核心价值观
 
