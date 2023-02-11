@@ -7,6 +7,7 @@
 * [新人必看（🔥）](xin-ren-bi-kan.md)
 * [驾驶舱 (运行) （🔥）](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/README.md)
   * [私钥云保管 🔑 ☁️](bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/si-yao-yun-bao-guan.md)
+* [链上数据分析](bfm-lite-bi-fang-meng-qing-liang-ban/lian-shang-shu-ju-fen-xi.md)
 * [BFM Navigation](bfm-unity-bi-fang-meng-lian-he-ti/bu-fa-meng-dao-hang.md)
 * [Main Bridge (Navigator)](bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md)
 
