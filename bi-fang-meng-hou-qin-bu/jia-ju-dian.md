@@ -11,3 +11,7 @@
 简易三人椅子：三人位，黑色无垫（三人位连排椅休息椅公共座椅医院等候诊输液椅不锈钢机场长条椅子）
 
 [https://mobile.yangkeduo.com/goods2.html?goods\_id=124978968453](https://mobile.yangkeduo.com/goods2.html?goods\_id=124978968453)
+
+简易椅子：单人黑色（北欧塑料靠背椅镂空创意几何椅休闲餐椅加厚网红洽谈椅咖啡厅简约）
+
+[https://mobile.yangkeduo.com/goods.html?goods\_id=245371627239](https://mobile.yangkeduo.com/goods.html?goods\_id=245371627239)
