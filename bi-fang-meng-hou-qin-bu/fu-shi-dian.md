@@ -124,9 +124,13 @@
 
 如果需要视力矫正，统一佩戴无框类矩形眼镜，镜腿金色或银白色。镜片为树脂非球面工艺，请验光后拿到数据去拼多多购买。
 
+[https://mobile.yangkeduo.com/sjs\_cat\_rank\_list.html?list\_id=9957010201](https://mobile.yangkeduo.com/sjs\_cat\_rank\_list.html?list\_id=9957010201)
+
 普通无框眼镜128（银色架无色片）/208元（金色架茶色片）
 
 [https://mobile.yangkeduo.com/goods1.html?goods\_id=413679344089](https://mobile.yangkeduo.com/goods1.html?goods\_id=413679344089)
+
+也可选择雅士路或其他品牌。
 
 如果不需要视力矫正，则不需佩戴。
 
