@@ -9,7 +9,7 @@
 ****[**https://justmysocks.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html**](https://justmysocks.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)****
 {% endtab %}
 
-{% tab title="MAC" %}
+{% tab title="MacOS" %}
 MacOS:
 
 v2ray:\
@@ -48,10 +48,10 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 [https://v2free.org/doc/#/](https://v2free.org/doc/#/)
 {% endtab %}
 
-{% tab title="MAC" %}
-[V2RayX](https://github.com/Cenmrev/V2RayX/releases) (很久未更新，不建议使用)
-
+{% tab title="MacOS" %}
 [V2rayU](https://github.com/yanue/V2rayU/releases)
+
+[V2RayX](https://github.com/Cenmrev/V2RayX/releases) (很久未更新，不建议使用)
 {% endtab %}
 
 {% tab title="Windows" %}
@@ -78,7 +78,7 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 [https://clashfree.eu.org/137.html](https://clashfree.eu.org/137.html)
 {% endtab %}
 
-{% tab title="MAC" %}
+{% tab title="MacOS" %}
 [ClashX](https://github.com/yichengchen/clashX/releases)
 {% endtab %}
 
