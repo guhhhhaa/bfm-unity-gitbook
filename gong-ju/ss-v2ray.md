@@ -71,6 +71,32 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 {% endtab %}
 {% endtabs %}
 
+## Clash
+
+{% tabs %}
+{% tab title="Software download links" %}
+[https://clashfree.eu.org/137.html](https://clashfree.eu.org/137.html)
+{% endtab %}
+
+{% tab title="MAC" %}
+[ClashX](https://github.com/yichengchen/clashX/releases)
+{% endtab %}
+
+{% tab title="Windows" %}
+[ClashForWindows](https://github.com/Fndroid/clash\_for\_windows\_pkg/releases)
+{% endtab %}
+
+{% tab title="Android" %}
+[ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
+{% endtab %}
+
+{% tab title="iOS" %}
+[Quantumult](https://apps.apple.com/us/app/quantumult/id1252015438?l=zh)
+
+[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh)
+{% endtab %}
+{% endtabs %}
+
 ## 免费账号获取（🔥）
 
 {% tabs %}
