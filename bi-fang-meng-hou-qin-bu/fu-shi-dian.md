@@ -1,10 +1,14 @@
 # 服饰店
 
-## BFM Unity 正式成员需要统一着装，非正式成员和普通用户则无所谓。
+## BFM Unity 正式成员统一着装，非正式成员则无所谓
 
 ## 原则1：简约，舒适，合体，正式，便宜。
 
-## 原则2：适用多，不过时；只推荐，不强制。
+## 原则2：高端，大气，低调，优雅，品味。
+
+## 原则3：适用多，不过时
+
+## 原则4：只推荐，不强制。
 
 ## 以你自己的认知决定你自己是否是正式成员。
 
@@ -36,19 +40,19 @@
 
 短袖卫衣：（11元）
 
-https://mobile.yangkeduo.com/goods1.html?goods\_id=243436032106
+[https://mobile.yangkeduo.com/goods1.html?goods\_id=243436032106](https://mobile.yangkeduo.com/goods1.html?goods\_id=243436032106)
 
 普通拉链卫衣：（20元）
 
-https://mobile.yangkeduo.com/goods2.html?goods\_id=325798953308
+[https://mobile.yangkeduo.com/goods2.html?goods\_id=325798953308](https://mobile.yangkeduo.com/goods2.html?goods\_id=325798953308)
 
 长款风衣：（26元）
 
-https://mobile.yangkeduo.com/goods2.html?goods\_id=203937837364
+[https://mobile.yangkeduo.com/goods2.html?goods\_id=203937837364](https://mobile.yangkeduo.com/goods2.html?goods\_id=203937837364)
 
 下半身：黑色休闲卫裤（17元）（纯色无商标），随季节看是否加入衬裤和绒裤。
 
-https://mobile.yangkeduo.com/goods1.html?goods\_id=326617735873
+[https://mobile.yangkeduo.com/goods1.html?goods\_id=326617735873](https://mobile.yangkeduo.com/goods1.html?goods\_id=326617735873)
 
 ## 高端工装（¥66，¥66+¥9=¥75）
 
@@ -60,13 +64,13 @@ https://mobile.yangkeduo.com/goods1.html?goods\_id=326617735873
 
 西装66元：
 
-https://mobile.yangkeduo.com/goods1.html?goods\_id=411474699253
+[https://mobile.yangkeduo.com/goods1.html?goods\_id=411474699253](https://mobile.yangkeduo.com/goods1.html?goods\_id=411474699253)
 
-https://mobile.yangkeduo.com/goods2.html?goods\_id=411465825009
+[https://mobile.yangkeduo.com/goods2.html?goods\_id=411465825009](https://mobile.yangkeduo.com/goods2.html?goods\_id=411465825009)
 
 领带9元：
 
-https://mobile.yangkeduo.com/goods.html?goods\_id=6916606587
+[https://mobile.yangkeduo.com/goods.html?goods\_id=6916606587](https://mobile.yangkeduo.com/goods.html?goods\_id=6916606587)
 
 ## 鞋袜（¥66）
 
@@ -74,7 +78,7 @@ https://mobile.yangkeduo.com/goods.html?goods\_id=6916606587
 
 多威运动鞋（66元）
 
-https://mobile.yangkeduo.com/goods2.html?goods\_id=437956121872
+[https://mobile.yangkeduo.com/goods2.html?goods\_id=437956121872](https://mobile.yangkeduo.com/goods2.html?goods\_id=437956121872)
 
 统一穿黑色长款袜子，不要露出脚踝。
 
