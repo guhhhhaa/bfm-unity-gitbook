@@ -15,7 +15,7 @@
 注：工装不分男女，均可穿着。连帽卫衣与西装同时适合男性和女性。
 
 {% tabs %}
-{% tab title="普通工装" %}
+{% tab title="休闲卫衣" %}
 品牌没有，拼多多挑最便宜的不贴牌的：
 
 上半身：
@@ -63,7 +63,7 @@
 [https://mobile.yangkeduo.com/goods1.html?goods\_id=326617735873](https://mobile.yangkeduo.com/goods1.html?goods\_id=326617735873)
 {% endtab %}
 
-{% tab title="高端工装" %}
+{% tab title="正式西服" %}
 品牌没有，拼多多挑最便宜的不贴牌的：
 
 黑色西装外套+白色/浅蓝色衬衫+黑色西裤+黑色/深蓝色/灰色易拉得领带
