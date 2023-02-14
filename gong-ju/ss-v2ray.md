@@ -71,19 +71,33 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 {% endtab %}
 {% endtabs %}
 
-## 账号获取
+## 免费账号获取（🔥）
 
-### Freefq（🔥）
-
+{% tabs %}
+{% tab title="Freefq（🔥）" %}
 {% embed url="https://github.com/freefq/free" %}
+{% endtab %}
 
-## v2rayshare（🔥）
+{% tab title="aiboboxx 系列（🔥）" %}
+{% embed url="https://github.com/aiboboxx/clashfree" %}
 
-{% embed url="https://v2rayshare.com" %}
+{% embed url="https://clashfree.eu.org/" %}
+
+{% embed url="https://github.com/aiboboxx/v2rayfree" %}
+
+{% embed url="https://www.v2rayfree.eu.org/" %}
+{% endtab %}
+
+{% tab title="v2rayshare（🔥）" %}
+{% embed url="https://v2rayshare.com/" %}
 
 {% embed url="https://yiyun.io/" %}
+{% endtab %}
 
-###
+{% tab title="Alvin999" %}
+{% embed url="https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7" %}
+{% endtab %}
+{% endtabs %}
 
 ### 免费ss账号
 
@@ -94,10 +108,6 @@ Potatso: [**Potatso Lite**](https://apps.apple.com/us/app/potatso-lite/id1239860
 {% embed url="https://free-ss.site/" %}
 
 ![](../.gitbook/assets/direct\_access.png)
-
-### Alvin999
-
-{% embed url="https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7" %}
 
 ### V2free.org（付费）
 

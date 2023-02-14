@@ -2,6 +2,8 @@
 
 {% embed url="https://www.panewslab.com/zh/articledetails/1639654376071749.html" %}
 
+{% embed url="https://foresightnews.pro/article/detail/19293" %}
+
 <details>
 
 <summary><strong>1、综合类数据分析</strong></summary>
