@@ -20,7 +20,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 ### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/l21pilUf)
 {% endhint %}
 
-![](<../.gitbook/assets/BFM Unity 2.0 (1).png>)
+![](<../.gitbook/assets/BFM Unity 2.0.png>)
 
 ## 交易员必进
 
