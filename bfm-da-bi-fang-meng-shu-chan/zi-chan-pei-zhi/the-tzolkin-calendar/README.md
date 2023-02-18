@@ -17,7 +17,11 @@ description: The Tzolkin Calendar
 ![](<../../../.gitbook/assets/image (58).png>)
 
 {% hint style="success" %}
-## **现在部署你的飞行船：**[**飞行船6.12**](https://share.weiyun.com/LhAj6uYm)（表格在此下载）
+## **现在部署你的飞行船：**
+
+## ****[**简版飞行船0.1**](https://share.weiyun.com/xahXYk4Z)**（新版推荐🔥）**
+
+****[**飞行船6.12**](https://share.weiyun.com/LhAj6uYm)（大型旧版，表格在此下载，不推荐）
 {% endhint %}
 
 {% hint style="success" %}
