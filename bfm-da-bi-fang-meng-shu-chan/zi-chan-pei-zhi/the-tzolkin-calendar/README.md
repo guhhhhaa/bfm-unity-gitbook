@@ -19,7 +19,9 @@ description: The Tzolkin Calendar
 {% hint style="success" %}
 ## **现在部署你的飞行船：**
 
-## ****[**简版飞行船0.1**](https://share.weiyun.com/6A8bEuC2)**（新版推荐🔥）**
+## ****[**简版飞行船0.2**](https://share.weiyun.com/bky3C7YB)**（新版推荐🔥）**
+
+****[**简版飞行船0.1**](https://share.weiyun.com/6A8bEuC2)****
 
 ****[**飞行船6.12**](https://share.weiyun.com/LhAj6uYm)（大型旧版，表格在此下载，不推荐）
 {% endhint %}
