@@ -216,6 +216,7 @@
 
 * [SS/V2Ray 科学上网 ✈️](gong-ju/ss-v2ray.md)
 * [华谷套件（Google Play商店）](gong-ju/hua-gu-tao-jian-google-play-shang-dian.md)
+* [AIGC](gong-ju/aigc.md)
 * [文章论文生成器](gong-ju/wen-zhang-sheng-cheng-qi.md)
 * [绘画生成器](gong-ju/hui-hua-sheng-cheng-qi.md)
 * [AI 导航网站](gong-ju/ai-dao-hang-wang-zhan.md)
