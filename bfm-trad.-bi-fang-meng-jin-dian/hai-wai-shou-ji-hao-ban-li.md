@@ -1,6 +1,6 @@
 # International Phone Number
 
-## 接码平台
+## 接码平台（适用ChatGPT等的手机号验证）
 
 {% embed url="https://sms-activate.org/" %}
 
