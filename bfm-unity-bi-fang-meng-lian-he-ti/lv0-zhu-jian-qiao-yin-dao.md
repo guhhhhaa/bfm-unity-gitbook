@@ -108,6 +108,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ![](<../.gitbook/assets/BFM Unity C级别友商.png>)
 
+<figure><img src="../.gitbook/assets/BFM Unity D级别友商.png" alt=""><figcaption></figcaption></figure>
+
 ## 愿景及使命 <a href="#yuan-jing-ji-shi-ming" id="yuan-jing-ji-shi-ming"></a>
 
 我喜欢坐在 [**SCP-2950**](http://scp-wiki-cn.wikidot.com/scp-2950) 上，看 [**GOC**](http://scp-wiki-cn.wikidot.com/goc-hub-page) 的公告。
