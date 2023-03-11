@@ -38,7 +38,11 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 {% endcontent-ref %}
 
 {% hint style="info" %}
-v3.0.0 版本已经被锁定，不再修改和维护，锁定时间是 2023.3.1
+## 警告：v3.0.0 版本已经被锁定，不再修改和维护
+
+## 锁定时间是 2023年3月11日
+
+## 下一个Fork升级版本为4.0.0
 
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
