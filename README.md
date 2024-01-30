@@ -1,12 +1,12 @@
 ---
-description: 'BF​M Unity : Blockchain · Finance · Metaverse'
+description: 'BF​M Unity : Blockchain · Finance · Multiverse'
 ---
 
-# 💎 BF​M Unity : Blockchain · Finance · Metaverse
+# 💎 BF​M Unity : Blockchain · Finance · Multiverse
 
 > ### 比坊**梦 : 区块链 · 金融 · 元宇宙**
 >
-> **BF​M Unity : Blockchain · Finance · Metaverse**
+> **BF​M Unity : Blockchain · Finance ·** Multiverse
 
 ![](<.gitbook/assets/BFM Unity 4.0 群青.png>)
 

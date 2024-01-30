@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💎 BF​M Unity : Blockchain · Finance · Metaverse](README.md)
+* [💎 BF​M Unity : Blockchain · Finance · Multiverse](README.md)
 
 ## BFM Lite | 比坊梦轻量版
 
