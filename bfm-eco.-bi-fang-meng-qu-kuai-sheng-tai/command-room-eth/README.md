@@ -8,13 +8,13 @@
 
 ## **DeFi**
 
-![](<../../.gitbook/assets/DeFi\_2 (1).png>)
+![](../../.gitbook/assets/DeFi\_2%20\(1\).png)
 
 {% tabs %}
 {% tab title="工具" %}
-## **AMM**
+### **AMM**
 
-### [**项目列表-DeBank**](https://debank.com/projects)
+#### [**项目列表-DeBank**](https://debank.com/projects)
 
 * [**Zapper.fi**](https://www.zapper.fi/)**（**[**DeFi Zap 使用说明**](https://www.fmz.com/bbs-topic/5371)**，小白专用，🎵**[**Atom bomb baby**](https://music.163.com/song?id=567215077\&userid=273670441)**）**
 * [**Zerion**](https://app.zerion.io/exchange)
@@ -38,16 +38,14 @@
     **其他：**[**BlackHoleSwap**](https://blackholeswap.com/swap)
 * [其他工具](https://www.bilibili.com/video/BV13D4y1o7Wh?p=1)
 
-
-
 [autofarm.network](https://autofarm.network/) - iUSDT vault
 
-## **聚合器**
+### **聚合器**
 
 ![](../../.gitbook/assets/DeFi.png)
 
 * 资产管理平台， [**Zapper Finance**](https://zapper.fi/)**、**[**Zerion**](https://zerion.io/)**、**[**Debank**](https://debank.com/)**、**[**TokenSets**](https://tokensets.com/)
-* 交易类聚合器， [**1inch Exchange**](https://1inch.exchange/)、[Matcha](https://matcha.xyz/)、[ParaSwap](https://paraswap.io/#/)、[InstaDapp](https://defi.instadapp.io/)&#x20;
+* 交易类聚合器， [**1inch Exchange**](https://1inch.exchange/)、[Matcha](https://matcha.xyz/)、[ParaSwap](https://paraswap.io/#/)、[InstaDapp](https://defi.instadapp.io/)
 * 收益类聚合器，[**YFI**](https://yearn.finance/)**、**[**YFII**](https://dfi.money/)**、**[**YFV**](https://valuedefi.io/)、[Rari Capital](https://app.rari.capital/)
 * 机枪池，[**YFV-Vault**](https://valuedefi.io/value-vaults)
 * FARM，[Badger](https://app.badger.finance/)**，**[**Harvest**](https://harvest.finance/)
@@ -58,38 +56,35 @@
   [**https://www.coingecko.com/en/coins/defipulse-index**](https://www.coingecko.com/en/coins/defipulse-index)\
   [**https://www.indexcoop.com/**](https://www.indexcoop.com/)[**https://www.indexcoop.com/dpi**](https://www.indexcoop.com/dpi)[**https://www.indexcoop.com/farm**](https://www.indexcoop.com/farm)
 * [**https://app.cryptex.finance/**](https://app.cryptex.finance/) **TCAP全加密市场指数**
-*   **理财，**[**Indexed.finance**](https://indexed.finance/)**、**[**Rari Capital**](http://rari.capital/)**、**[**PieDAO**](https://www.piedao.org/)
-
-
+* **理财，**[**Indexed.finance**](https://indexed.finance/)**、**[**Rari Capital**](http://rari.capital/)**、**[**PieDAO**](https://www.piedao.org/)
 
 ![](../../.gitbook/assets/0\_F4DRZR5wSBT3Fbdw.jpeg)
 
-## 币安智能链
+### 币安智能链
 
 [在币安智能链中关联MetaMask钱包](https://academy.binance.com/zh/articles/connecting-metamask-to-binance-smart-chain)
 
 [PancakeSwap指南](https://academy.binance.com/zh/articles/a-guide-to-pancakeswap)
 
-## 借贷
+### 借贷
 
 * [**Compound**](https://app.compound.finance/)
 * [**Aave**](https://app.aave.com/)
 * [**Cream**](https://app.cream.finance/)
 *   [**KeeperDAO**](https://app.keeperdao.com/)
 
-    \
-
+    \\
 * [**88mph**](https://88mph.app/)
 
-### 闪电贷
+#### 闪电贷
 
 * [**Aave**](https://app.aave.com/)
 
 闪电贷一般需要用户通过编程实现，但目前也出现了一些工具，比如 [CollateralSwap](https://collateralswap.com/)、[DeFi Saver](https://app.defisaver.com/)、[Furucombo](https://furucombo.app/) 等，使得用户不需要编程也能使用闪电贷。
 
-## **衍生品**
+### **衍生品**
 
-* [**dYdX**](https://dydx.exchange/)&#x20;
+* [**dYdX**](https://dydx.exchange/)
 * [**Synthetix**](https://synthetix.io/)
 * [**Hegic**](https://www.hegic.co/)——如果说 Oypn 是订单簿式的期权，Hegic 就是 AMM 版期权，正如 Idex 与 Uniswap 的区别；
 * [**Barnbridge**](https://barnbridge.com/) 一个把圈内各种波动率 Token 化的协议，通过建立分级收益债券来对冲圈内各种风险。
@@ -101,26 +96,26 @@
 {% endtab %}
 
 {% tab title="资产🚩" %}
-## **ETH**
+### **ETH**
 
 **智能合约，DeFi入金渠道**
 
-## **BTC**
+### **BTC**
 
 * WBTC
 * [**RenBridge**](https://bridge.renproject.io/)
 
-## [**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
+### [**DPI**](https://www.indexcoop.com/dpi) **—— DeFi指数**
 
-## [**PieDAO**](https://www.piedao.org/)
+### [**PieDAO**](https://www.piedao.org/)
 
 [**BCP (PieDAO Balanced Crypto Pie)**](https://pools.piedao.org/#/pie/0xe4f726adc8e89c6a6017f01eada77865db22da14) **(** 🥧 [**Oven**](https://pools.piedao.org/#/oven)**) (**[**介绍**](https://medium.com/piedao/announcing-balanced-crypto-pie-bcp-btc-eth-and-defi-7a2423c5d94e)**)**
 
-[**YPIE**](https://pools.piedao.org/#/pie/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31)  ,  [**DEFI++**](https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033)
+[**YPIE**](https://pools.piedao.org/#/pie/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31) , [**DEFI++**](https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033)
 
-## **USD**
+### **USD**
 
-### [**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=\_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
+#### [**yCRV**](https://docs.dfi.money/#/zh-cn/buy-tokens?id=\_5-ycrv%e5%85%91%e6%8d%a2) **—— 复合债券**
 
 融合了利息，机枪池，流动性挖矿
 
@@ -135,7 +130,7 @@
 
 * Lien——无需 MakerDAO 150% 超额抵押，而是通过风险分级债券形式实现的基于 ETH 抵押的稳定币；
 
-## 美股&#x20;
+### 美股
 
 * [**Mirror.finance**](https://mirror.finance/)
 
@@ -143,16 +138,16 @@
 {% endtab %}
 
 {% tab title="前沿" %}
-## PolkaDot
+### PolkaDot
 
 * [**PolkaSwap**](https://polkaswap.io/)
 * [**Reef**](https://reef.finance/)
 
-## **LINK**
+### **LINK**
 
 * [**YFLink**](https://yflink.io/#/)
 
-## **Fantom (FTM)(AC站台)**
+### **Fantom (FTM)(AC站台)**
 
 [**https://www.fantom.foundation/**](https://www.fantom.foundation/)
 
@@ -162,7 +157,7 @@
 [**https://www.fantom.foundation/blog/how-to-use-c-r-e-a-m-on-fantom/**](https://www.fantom.foundation/blog/how-to-use-c-r-e-a-m-on-fantom/)\
 [**https://www.fantom.foundation/blog/how-to-use-curve-on-fantom/**](https://www.fantom.foundation/blog/how-to-use-curve-on-fantom/)
 
-## **树图Conflux (不推荐，观望)**
+### **树图Conflux (不推荐，观望)**
 
 {% embed url="https://moonswap.fi/" %}
 {% endtab %}
@@ -308,7 +303,7 @@
 
 ## Layer-2
 
-![](<../../.gitbook/assets/image (31) (1).png>)
+![](../../.gitbook/assets/image%20\(31\)%20\(1\).png)
 
 ### ZK Rollup(零知卷叠)
 

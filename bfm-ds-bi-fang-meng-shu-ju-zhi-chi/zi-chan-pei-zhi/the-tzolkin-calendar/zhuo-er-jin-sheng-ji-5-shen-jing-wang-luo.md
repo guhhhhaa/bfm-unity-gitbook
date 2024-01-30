@@ -5,15 +5,15 @@ description: Tesseract
 # 卓尔金升级6——分类网络
 
 {% hint style="info" %}
-### 使用工具
+#### 使用工具
 
-[**TensorFlow**](https://www.tensorflow.org/)  **|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)
+[**TensorFlow**](https://www.tensorflow.org/) **|** [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn) **|** [**TensorBoard.dev**](https://tensorboard.dev/) **|** [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)
 
 [**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)
 
-### 数据来源
+#### 数据来源
 
-[MVRV](https://www.qkl123.com/data/mvrv/btc)  |  [S2F](https://www.qkl123.com/data/s2f/btc)  |  [NVT](https://www.qkl123.com/data/nvt/btc)
+[MVRV](https://www.qkl123.com/data/mvrv/btc) | [S2F](https://www.qkl123.com/data/s2f/btc) | [NVT](https://www.qkl123.com/data/nvt/btc)
 {% endhint %}
 
 [TensorFlow](https://www.tensorflow.org/) | [TensorBoard](https://www.tensorflow.org/tensorboard?hl=zh-cn)
@@ -46,13 +46,13 @@ description: Tesseract
 
 模型的预计输出结果是，（-1，2）的仓位控制策略模型，
 
-这个模型被称为：卓尔金历法，或，二向箔。&#x20;
+这个模型被称为：卓尔金历法，或，二向箔。
 
 问题已经被Excel解决，但是不具有扩展性。
 
 ## 宇宙魔方
 
-我们现在这个问题属于三维空间中的，分类问题，&#x20;
+我们现在这个问题属于三维空间中的，分类问题，
 
 使用的方法是逻辑回归LR，使用的激活函数是sigmoid函数
 
@@ -69,8 +69,8 @@ description: Tesseract
 
 ## 规整化算法
 
-第一步：去指数转线性，y = LN(x/x的几何平均数)， \
-第二步：Logistic 模式 ，y = 1/(1+e^(-x)) \
+第一步：去指数转线性，y = LN(x/x的几何平均数)，\
+第二步：Logistic 模式 ，y = 1/(1+e^(-x))\
 第三步：z-score 标准化，y=(x-μ)/σ
 
 只要经过这三步处理，不管之前是怎样分布的数据，都会转化为标准正态分布。

@@ -4,7 +4,7 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 
 # 💎 BF​M Unity : A Brief Fantasy of Multiverse
 
-> ## 位面简梦联合体：区块链 · 金融 · 模式
+> ### 位面简梦联合体：区块链 · 金融 · 模式
 >
 > BF​M Unity : A Brief Fantasy of Multiverse: Blockchain · Finance · Mode
 
@@ -12,27 +12,25 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 
 <figure><img src=".gitbook/assets/50CCEF7C08D9D7E6835704170C46CBB0.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <details>
 
 <summary>认识论，价值观，方法论</summary>
 
-### 《公有区块链核心认识论》
+#### 《公有区块链核心认识论》
 
 宏观：公理 发展
 
 微观：共识 改革
 
-### 《公有区块链核心价值观》
+#### 《公有区块链核心价值观》
 
-系统：自强 自主 文化 平衡&#x20;
+系统：自强 自主 文化 平衡
 
-关联：保障 协同 公理 律法&#x20;
+关联：保障 协同 公理 律法
 
 单元：兼爱 底线 信用 超真
 
-### 《公有区块链核心方法论》
+#### 《公有区块链核心方法论》
 
 要素：物质 能量 信息 价值 概率 时间
 
@@ -54,27 +52,27 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 
 <summary>誓言与咒语</summary>
 
-### 《密特拉斯玛誓言——死灵法师誓言》&#x20;
+#### 《密特拉斯玛誓言——死灵法师誓言》
 
-我们是万古升华亡灵的载体，&#x20;
+我们是万古升华亡灵的载体，
 
-我们将衰败腐烂固定入符号，&#x20;
+我们将衰败腐烂固定入符号，
 
-我们以凋零死亡为享乐对象，&#x20;
+我们以凋零死亡为享乐对象，
 
-我们依据未竟执念召唤死者，&#x20;
+我们依据未竟执念召唤死者，
 
-我们顺从于无形之手的力量，&#x20;
+我们顺从于无形之手的力量，
 
-我们服务于系统生死的平衡，&#x20;
+我们服务于系统生死的平衡，
 
-我们永堕无尽深渊星海之梦，&#x20;
+我们永堕无尽深渊星海之梦，
 
 我们直面历史无尽嵌套螺旋。
 
-### 《洼阿鲁埃古拉誓言——巫医誓言》&#x20;
+#### 《洼阿鲁埃古拉誓言——巫医誓言》
 
-万灵给予我无上力量，&#x20;
+万灵给予我无上力量，
 
 杀不死我会让我更强，
 
@@ -86,31 +84,31 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 
 永恒长眠的并非亡者。
 
-### 《真理之门誓言——炼金术师誓言》&#x20;
+#### 《真理之门誓言——炼金术师誓言》
 
-我会尽我所能遵守等价交换的原则，&#x20;
+我会尽我所能遵守等价交换的原则，
 
 我尽量为真理和人类而献祭非人类，
 
-我尽量去与界外的魔鬼和神灵赌博，&#x20;
+我尽量去与界外的魔鬼和神灵赌博，
 
-我会尽我所能理解爱恨无知的本质，&#x20;
+我会尽我所能理解爱恨无知的本质，
 
 我会尽我所能将魔法反演成周期表，
 
-我会尽我所能穿越轮回并保护愚者。&#x20;
+我会尽我所能穿越轮回并保护愚者。
 
-在穿越真理之门后——&#x20;
+在穿越真理之门后——
 
-我会回归现实世界，&#x20;
+我会回归现实世界，
 
-我将带回门之钥匙，&#x20;
+我将带回门之钥匙，
 
-我将留下门后断章，&#x20;
+我将留下门后断章，
 
 我将锁住无限星海。
 
-### 《吟唱》
+#### 《吟唱》
 
 衔尾蛇，阿难陀舍沙，三环，裂环，幻妖，蛇杖，小丑，彩衣吹笛手，圣树，圣环，鼠王，密特拉斯玛，洼阿鲁埃古拉，真理之门，门之钥，门后断章，炼金术法阵，42=101010，三字真言，梅塔特隆立方体，六芒星，五芒星，十字架，连环和连结，各种结界，各种符文，闪米特文字，希腊字母，罗马数字，十二星座，如尼石文字，麦田怪圈，各种法环，各种法阵，无上意志，外神，地外文明，超越存在，无尽星海，嵌套螺旋。
 
@@ -124,7 +122,7 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 
 <summary>人类行为研究</summary>
 
-### 《元宇宙·活字印刷术》
+#### 《元宇宙·活字印刷术》
 
 【元】【宇】【宙】
 
@@ -138,51 +136,45 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 
 【元宇宙】，你被【超🙏度】了，进【字】里，好好待着！
 
-### &#x20;《磕头行为》
+#### 《磕头行为》
 
-我在【精神病院】一坐✋🏻😤&#x20;
+我在【精神病院】一坐✋🏻😤
 
-【弗洛伊德】先给我磕头👈🏻😯&#x20;
+【弗洛伊德】先给我磕头👈🏻😯
 
-【弗洛伊德】磕完了，【拉康】给我磕👆🏻😝&#x20;
+【弗洛伊德】磕完了，【拉康】给我磕👆🏻😝
 
-这几位全磕完了🤘🏻😋&#x20;
+这几位全磕完了🤘🏻😋
 
 【荣格】恭恭敬敬的给我磕大头。
 
+我在【学校】一坐✋🏻😤
 
+【皮亚杰】先给我磕头👈🏻😯
 
-我在【学校】一坐✋🏻😤&#x20;
+【皮亚杰】磕完了，【布尔迪厄】给我磕👆🏻😝
 
-【皮亚杰】先给我磕头👈🏻😯&#x20;
-
-【皮亚杰】磕完了，【布尔迪厄】给我磕👆🏻😝&#x20;
-
-这几位全磕完了🤘🏻😋&#x20;
+这几位全磕完了🤘🏻😋
 
 【福柯】恭恭敬敬的给我磕大头。
 
+我在【银行】一坐✋🏻😤
 
+【亚当斯密】先给我磕头👈🏻😯
 
-我在【银行】一坐✋🏻😤&#x20;
+【亚当斯密】磕完了，【凯恩斯】给我磕👆🏻😝
 
-【亚当斯密】先给我磕头👈🏻😯&#x20;
-
-【亚当斯密】磕完了，【凯恩斯】给我磕👆🏻😝&#x20;
-
-这几位全磕完了🤘🏻😋&#x20;
+这几位全磕完了🤘🏻😋
 
 【哈耶克】恭恭敬敬的给我磕大头。
 
+我在【政府】一坐✋🏻😤
 
+【波尔布克】先给我磕头👈🏻😯
 
-我在【政府】一坐✋🏻😤&#x20;
+【波尔布克】磕完了，【马克思】给我磕👆🏻😝
 
-【波尔布克】先给我磕头👈🏻😯&#x20;
-
-【波尔布克】磕完了，【马克思】给我磕👆🏻😝&#x20;
-
-这几位全磕完了🤘🏻😋&#x20;
+这几位全磕完了🤘🏻😋
 
 【鲍德里亚】恭恭敬敬的给我磕大头。
 
@@ -192,7 +184,7 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 
 {% embed url="https://www.youtube.com/watch?v=4VEMuqdB3mE" %}
 
-<figure><img src=".gitbook/assets/截屏2023-07-27 14.44.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/%E6%88%AA%E5%B1%8F2023-07-27%2014.44.20.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://zh.wikipedia.org/zh-hans/ISO_4217" %}
 
@@ -203,8 +195,6 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 <details>
 
 <summary>BFM Unity 全体成员研究学习贯彻落实狗吃屎狗拉屎崇高精神</summary>
-
-
 
 Dogs eat shit, dogs excrete shit, the ultimate law of the universe.
 
@@ -246,21 +236,21 @@ So, don't open & use API anymore.
 
 <summary>BFM Unity：倡议区块链量化行业整治API第三方授权和嵌套交易所等不合规业务</summary>
 
-## 整改方案
+### 整改方案
 
 API第三方授权 ——> API用户自授权，由用户负责托管API
 
 嵌套量化交易所 ——> 独立量化交易所 or 交易所内置机器人
 
-## 终止合作不合规业务
+### 终止合作不合规业务
 
-1，第三方授权（将API授权第三方，并托管在第三方服务器）&#x20;
+1，第三方授权（将API授权第三方，并托管在第三方服务器）
 
 2，嵌套交易所（将用户资产托管于另一家交易所，并与其共享流动性）
 
-## 转为推进合规业务
+### 转为推进合规业务
 
-3，自托管授权（用户将API授权给自己，将API托管于用户自己控制的服务器中，用户负责对API自行保密，一般是基于一系列开源软件）&#x20;
+3，自托管授权（用户将API授权给自己，将API托管于用户自己控制的服务器中，用户负责对API自行保密，一般是基于一系列开源软件）
 
 4，内置机器人（交易所内置的交易机器人）
 
@@ -270,7 +260,7 @@ API第三方授权 ——> API用户自授权，由用户负责托管API
 
 <summary>BFM Unity：倡议币安将 POST /sapi/v1/futures/transfer 设置为可以可视化打开关闭的，有关 AntBot is hacked 的进展的通告</summary>
 
-### 币安客服回应
+#### 币安客服回应
 
 请知悉，万向划转需要额外在所使用的 API key 开通权限后才可以调用万向划转接口。
 
@@ -278,7 +268,7 @@ API第三方授权 ——> API用户自授权，由用户负责托管API
 
 然而通过现货至U本位合约资产划转，是可以通过接口 POST /sapi/v1/futures/transfer 完成的，该接口特定实现现货至U本位间的划转。 该接口的调用是不需要对使用的 api key 额外开通权限的。
 
-### Guhhhhaa 的分析
+#### Guhhhhaa 的分析
 
 Guhhhhaa 被 AntBot 机器人提供商欺骗了。AntBot客服在邮件和客服对话里骗我，让 Guhhhhaa 认为——
 
@@ -316,8 +306,7 @@ A渠道：【万向划转POST /sapi/v1/sub-account/universalTransfer 】是现�
 
 NOTE: **💀 This project is in beta. Use at your own risk.**
 
-NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://academy.binance.com/zh/glossary/do-your-own-research)\
-
+NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://academy.binance.com/zh/glossary/do-your-own-research)\\
 
 1，本网站所载的资料并不构成投资的意见或建议。
 
@@ -327,7 +316,7 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 4，我们的分析和方案，仅供参考，若您因此进行投资行为，所面临的损失，须自行承担。
 
-5，我们不对因分析结果，方案模拟，未来预测的变化和准确性做任何投资担保。&#x20;
+5，我们不对因分析结果，方案模拟，未来预测的变化和准确性做任何投资担保。
 
 </details>
 
@@ -338,15 +327,15 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 {% endcontent-ref %}
 
 {% hint style="info" %}
-## v4.0.0版本正在维护中……
+### v4.0.0版本正在维护中……
 
-## 如您认为不适应，可退回v3.0.0版本
+### 如您认为不适应，可退回v3.0.0版本
 
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
-## [赞助](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [加群](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) | [看板](https://trello.com/b/z4aDgNAL/todolist)
+### [赞助](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [加群](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) | [看板](https://trello.com/b/z4aDgNAL/todolist)
 
-### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/0nbQ5ZM9)
+#### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/0nbQ5ZM9)
 {% endhint %}
 
 {% content-ref url="bfm-ds-bi-fang-meng-shu-ju-zhi-chi/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
@@ -408,7 +397,7 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | [**Github 文档地址0**](https://github.com/guhhhhaa/bfm-gitbook-v1)               | [**Github 代码地址1**](https://github.com/guhhhhaa/bfm-group-file)                              |
 | [**Github 文档地址1**](https://github.com/guhhhhaa/bfm-gitbook)                  | [**Github 代码地址2**](https://github.com/BFM-Unity/BFM-Unity-2)                                |
-| [B站视频主页](https://space.bilibili.com/11708778)                                | [ YouTube视频主页](https://www.youtube.com/channel/UCfiSjf-6Sxnf0t9J2xGVzuA)                    |
+| [B站视频主页](https://space.bilibili.com/11708778)                                | [YouTube视频主页](https://www.youtube.com/channel/UCfiSjf-6Sxnf0t9J2xGVzuA)                     |
 | [Telegram群组](https://t.me/BFMUnity)                                          | [Telegram频道](https://t.me/BFM\_Unity)                                                       |
 | [Discord群组](https://discord.gg/CyEcS2wmzk)                                   | [Reddit论坛](https://www.reddit.com/r/BFM\_Unity/)                                            |
 | [知乎账号](https://www.zhihu.com/people/hehe-12-7)                               | [百度贴吧](https://tieba.baidu.com/home/main/?id=tb.1.a4be1184.o23rDlYL909ecj\_CKfDpQA\&fr=frs) |
