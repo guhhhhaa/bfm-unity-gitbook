@@ -44,6 +44,7 @@
   * [已废弃](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-haab-calendar/yi-fei-qi.md)
 * [资产配置 🕙 ⌚️（🔥）](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/zi-chan-pei-zhi.md)
 * [时间校准研究](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/shi-jian-xiao-zhun-yan-jiu.md)
+* [Page 3](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/page-3.md)
 
 ## BFM Unity | 位面简梦联合体
 
