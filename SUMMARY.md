@@ -273,6 +273,7 @@
 * [区块链安全](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-an-quan.md)
 * [区块链共识算法](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-gong-shi-suan-fa.md)
 * [区块链分类与层次](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-fen-lei-yu-ceng-ci.md)
+* [区块链要素理论](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-yao-su-li-lun.md)
 * [区块链评级](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-ping-ji.md)
 * [私钥与BIP44](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/si-yue-yu-bip44.md)
 * [钱包](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qian-bao.md)
