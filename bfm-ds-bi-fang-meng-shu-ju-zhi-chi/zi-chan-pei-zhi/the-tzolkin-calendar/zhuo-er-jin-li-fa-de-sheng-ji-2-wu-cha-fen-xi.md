@@ -1,7 +1,7 @@
 # 卓尔金升级2——误差分析
 
 {% hint style="success" %}
-### 尊享版 4.0 —— 优化了UI，增加了误差分析功能 🚩
+#### 尊享版 4.0 —— 优化了UI，增加了误差分析功能 🚩
 
 [卓尔金飞船](https://share.weiyun.com/5vy0sGcS)
 

@@ -11,25 +11,25 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 {% endcontent-ref %}
 
 {% hint style="info" %}
-## 问题描述
+### 问题描述
 
 <img src="../../../.gitbook/assets/A4.png" alt="" data-size="original">
 
-##
+###
 
-## 使用工具
+### 使用工具
 
 [Anaconda](https://www.anaconda.com/) (Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras)还有matplotlib，差点忘了
 
-[**TensorFlow**](https://www.tensorflow.org/)  **|**  [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn)  **|**  [**TensorBoard.dev**](https://tensorboard.dev/)  **|**  [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)
+[**TensorFlow**](https://www.tensorflow.org/) **|** [**TensorBoard**](https://www.tensorflow.org/tensorboard?hl=zh-cn) **|** [**TensorBoard.dev**](https://tensorboard.dev/) **|** [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb)
 
 [**https://playground.tensorflow.org/**](https://playground.tensorflow.org/)
 
 [**https://nbviewer.jupyter.org/**](https://nbviewer.jupyter.org/)
 
-### 数据来源
+#### 数据来源
 
-[MVRV](https://www.qkl123.com/data/mvrv/btc)  |  [S2F](https://www.qkl123.com/data/s2f/btc)  |  [NVT](https://www.qkl123.com/data/nvt/btc)
+[MVRV](https://www.qkl123.com/data/mvrv/btc) | [S2F](https://www.qkl123.com/data/s2f/btc) | [NVT](https://www.qkl123.com/data/nvt/btc)
 {% endhint %}
 
 ![](../../../.gitbook/assets/A4\_3.png)
@@ -60,15 +60,15 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 
 ## 规整化算法
 
-第一步：去指数转线性，y = LN(x/x的几何平均数)， \
-第二步：Logistic 模式 ，y = 1/(1+e^(-x)) \
+第一步：去指数转线性，y = LN(x/x的几何平均数)，\
+第二步：Logistic 模式 ，y = 1/(1+e^(-x))\
 第三步：z-score 标准化，y=(x-μ)/σ
 
 只要经过这三步处理，不管之前是怎样分布的数据，都会转化为标准正态分布。
 
 ## 研发进度
 
-### 2021.7.9&#x20;
+### 2021.7.9
 
 安装了Anaconda，借助Anaconda 安装了\
 Jupyter Notebook，Jupyter Lab，Numpy，Pandas，SciPy，TensorFlow，Keras\
@@ -83,9 +83,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
-找到了 [TensorFlow学习笔记](https://www.zhihu.com/column/c\_1377756991213998081) ，发现逻辑回归分类问题应该用**交叉熵损失函数，**而不是**均方误差MSE损失函数**
+找到了 [TensorFlow学习笔记](https://www.zhihu.com/column/c\_1377756991213998081) ，发现逻辑回归分类问题应该用**交叉熵损失函数，而不是均方误差MSE损失函数**
 
-[交叉熵](https://baike.baidu.com/item/%E4%BA%A4%E5%8F%89%E7%86%B5/8983241) |  [损失函数](https://baike.baidu.com/item/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/1783236)  |  [归一化指数函数](https://baike.baidu.com/item/%E5%BD%92%E4%B8%80%E5%8C%96%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0)(Softmax函数)
+[交叉熵](https://baike.baidu.com/item/%E4%BA%A4%E5%8F%89%E7%86%B5/8983241) | [损失函数](https://baike.baidu.com/item/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/1783236) | [归一化指数函数](https://baike.baidu.com/item/%E5%BD%92%E4%B8%80%E5%8C%96%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0)(Softmax函数)
 
 [matplotlib-tutorial](https://www.runoob.com/w3cnote/matplotlib-tutorial.html) 学会复制粘贴了，这是一种进步
 
@@ -175,11 +175,9 @@ In [147]: df.to_excel('foo.xlsx', sheet_name='Sheet1')
 In [148]: pd.read_excel('foo.xlsx', 'Sheet1', index_col=None, na_values=['NA'])
 ```
 
-
-
 ### Pandas 数据结构 <a href="#pandas-shu-ju-jie-gou" id="pandas-shu-ju-jie-gou"></a>
 
-#### 1. Series <a href="#1-series" id="1-series"></a>
+#### 1. Series <a href="#id-1-series" id="id-1-series"></a>
 
 Series 是一种一维数组，和 NumPy 里的数组很相似。事实上，Series 基本上就是基于 NumPy 的数组对象来的。和 NumPy 的数组不同，Series 能为数据自定义标签，也就是索引（index），然后通过索引来访问数组中的数据。
 
@@ -194,7 +192,7 @@ import pandas as pd
 my_series = pd.Series(data, index)
 ```
 
-#### 2. DataFrames <a href="#2-dataframes" id="2-dataframes"></a>
+#### 2. DataFrames <a href="#id-2-dataframes" id="id-2-dataframes"></a>
 
 Pandas 的 DataFrame（数据表）是一种 2 维数据结构，数据以表格的形式存储，分成若干行和列。通过 DataFrame，你能很方便地处理数据。常见的操作比如选取、替换行或列的数据，还能重组数据表、修改索引、多重筛选等。
 
@@ -246,7 +244,7 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 ![可视化2](https://static.pypandas.cn/public/static/images/frame\_plot\_basic.png)
 
-## [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY)  🚩
+## [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY) 🚩
 
 ## [python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP)🚩
 
@@ -260,9 +258,7 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 ## [【2021新版】Python入门编程100例，用小例子提升实战技能！](https://www.bilibili.com/video/BV1of4y1a7pz)
 
-[python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP)\
-
-
+[python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP)\\
 
 |                      |                              |                                                                                                                |
 | -------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -289,7 +285,7 @@ Out[142]: <matplotlib.legend.Legend at 0x7f2b539728d0>
 
 * [scipy：高级科学计算| SciPy Lecture Notes 中文版 🚩](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/4.html)
 
-## 1.5 Scipy：高级科学计算 <a href="#15scipy-gao-ji-ke-xue-ji-suan" id="15scipy-gao-ji-ke-xue-ji-suan"></a>
+## 1.5 Scipy：高级科学计算 <a href="#id-15scipy-gao-ji-ke-xue-ji-suan" id="id-15scipy-gao-ji-ke-xue-ji-suan"></a>
 
 作者：Adrien Chauve, Andre Espaze, Emmanuelle Gouillart, Gaël Varoquaux, Ralf Gommers
 
@@ -339,12 +335,12 @@ from scipy import stats  # 其他的子模块类似
 ## [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)
 
 {% hint style="info" %}
-* [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY)  🚩
+* [【美国微软大神的数据分析课】Pandas vs Excel](https://www.bilibili.com/video/BV1rt411y7PY) 🚩
 * [python3带你玩转excel--工作党福利--（评论区附有课件和代码）](https://www.bilibili.com/video/BV1W7411G7wP)🚩
 * [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159/answer/304720890)🚩
 * [**机器学习之数据的偏态分布和数据的标准化**](https://blog.csdn.net/m0\_37870649/article/details/80638179)**🚩**
 * [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002?tid=1452937471)🚩
-  *   源码下载链接：[https://pan.baidu.com/s/19XC28Hz\_TwnSQeuVifg1UQ](https://pan.baidu.com/s/19XC28Hz\_TwnSQeuVifg1UQ)&#x20;
+  *   源码下载链接：[https://pan.baidu.com/s/19XC28Hz\_TwnSQeuVifg1UQ](https://pan.baidu.com/s/19XC28Hz\_TwnSQeuVifg1UQ)
 
       提取码：mocm
 {% endhint %}
@@ -363,9 +359,9 @@ pandas.concat()通常用来连接DataFrame对象。\
 ### 索引 pandas (loc、iloc、ix)
 
 [pandas (loc、iloc、ix)的区别](https://www.cnblogs.com/keye/p/7825280.html)\
-**loc：**通过行标签索引数据\
-**iloc：**通过行号索引行数据\
-**ix：**通过行标签或行号索引数据（基于loc和iloc的混合）
+\*\*loc：\*\*通过行标签索引数据\
+\*\*iloc：\*\*通过行号索引行数据\
+\*\*ix：\*\*通过行标签或行号索引数据（基于loc和iloc的混合）
 
 ### 删除 pandas.drop(columns=\_\_\_\_\_)
 
@@ -383,8 +379,6 @@ pandas.concat()通常用来连接DataFrame对象。\
 
 ### 删除行.index
 
-
-
 ### .concat(),.iloc(),.drop(),.insert(),.rename(),.append(),.reset\_index(),.at(),.index()
 
 [原创 PANDAS 数据合并与重塑（concat篇）](https://blog.csdn.net/stevenkwong/article/details/52528616)
@@ -394,8 +388,6 @@ pandas.concat()通常用来连接DataFrame对象。\
 [原创 pandas笔记 基础／groupby／concat／merge／join](https://blog.csdn.net/sinat\_27400761/article/details/79647448)
 
 [原创 Series 创建、索引、删除、数学运算 归纳总结](https://blog.csdn.net/Krinys/article/details/105668376)
-
-
 
 [数据分析之Pandas（四）DataFrame运算](https://blog.csdn.net/qq\_42642945/article/details/88636151)
 
@@ -417,21 +409,15 @@ pandas.concat()通常用来连接DataFrame对象。\
 
 [matplotlib绘制直方图、条形图和饼图](https://blog.csdn.net/hohaizx/article/details/79101322)
 
-
-
 [68–95–99.7原则](https://zh.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7%E5%8E%9F%E5%89%87)
 
 [Python求均值，方差，标准差](https://blog.csdn.net/qq\_38826019/article/details/82875407)
-
-
 
 [pandas数据合并之一文弄懂pd.concat（）](https://zhuanlan.zhihu.com/p/132593960)
 
 [pandas-DataFrame列移动](https://blog.csdn.net/sinat\_41701878/article/details/80945861)
 
 [Python-pandas的fillna()方法-填充空值](https://blog.csdn.net/qq\_17753903/article/details/89892631)
-
-
 
 [Pandas中把dataframe和np.array的相互转换](https://blog.csdn.net/weixin\_39223665/article/details/79935467)
 
@@ -440,8 +426,6 @@ pandas.concat()通常用来连接DataFrame对象。\
 [pandas将字段中的字符类型转化为时间类型，并设置为索引](https://blog.csdn.net/onemorepoint/article/details/86174624)
 
 [pandas设置index索引的标签名](https://blog.csdn.net/RogerFedereYY/article/details/109121721)
-
-
 
 [高效的5个pandas函数，你都用过吗？](https://zhuanlan.zhihu.com/p/258699675)
 
@@ -453,21 +437,15 @@ pandas.concat()通常用来连接DataFrame对象。\
 
 [pandas应用——滚动计算、筛选、判断空值、列移动、行列删除](https://blog.csdn.net/lamusique/article/details/95099965)
 
-
-
 [python数据处理——同一行或同一列的错位相减法](https://blog.csdn.net/m0\_37876745/article/details/85163883)
 
 [【python】pandas库常用函数之shift详解](https://blog.csdn.net/brucewong0516/article/details/80157639)
-
-
 
 [pandas选择单元格，选择行列](https://www.cnblogs.com/guxh/p/8627251.html) 🚩
 
 [数据可视化—使用matplotlib绘制常用类型图表](https://zhuanlan.zhihu.com/p/357477796)
 
 [matplotlib画3D图形时设置z轴尺寸](https://blog.csdn.net/qq\_41009742/article/details/106292396)
-
-
 
 [np.log 和math.log的底数是什么，默认都是e](https://www.cnblogs.com/cgmcoding/p/13640281.html)
 

@@ -1,16 +1,16 @@
 # 三角套利程序众筹（中止）
 
 {% hint style="danger" %}
-## Ellite大神不同意定金方式，已经下架，未来再合作
+### Ellite大神不同意定金方式，已经下架，未来再合作
 {% endhint %}
 
 ## 众筹声明
 
-[https://github.com/zlq4863947/triangular-arbitrage2](https://github.com/zlq4863947/triangular-arbitrage2)&#x20;
+[https://github.com/zlq4863947/triangular-arbitrage2](https://github.com/zlq4863947/triangular-arbitrage2)
 
 这个是Ellite大神的Github地址。
 
-![](<../.gitbook/assets/image (16) (1).png>)
+![](../.gitbook/assets/image%20\(16\)%20\(1\).png)
 
 ## 群主需要找24个人，每人出¥1000，体验一个三角套利程序
 
@@ -56,7 +56,7 @@
 
 ![](<../.gitbook/assets/image (13).png>)
 
-## 或者你们也可以考虑自己直接和Ellite大神沟通，上面有Ellite大神的支付ID  如果众筹失败，我会转给Ellite大神价值1000元人民币的USDT，并赠送价值500元人民币的BFM代币，但是条件是要保证大神留在这个群（QQ群：708912525），接受我们的膜拜。&#x20;
+## 或者你们也可以考虑自己直接和Ellite大神沟通，上面有Ellite大神的支付ID 如果众筹失败，我会转给Ellite大神价值1000元人民币的USDT，并赠送价值500元人民币的BFM代币，但是条件是要保证大神留在这个群（QQ群：708912525），接受我们的膜拜。
 
 ## 内容
 

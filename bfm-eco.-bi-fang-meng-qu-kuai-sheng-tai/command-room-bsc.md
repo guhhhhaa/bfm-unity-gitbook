@@ -16,8 +16,7 @@ BSC的格局之大，在于构建CeFi与DeFi之间的超级桥梁，媲美甚至
 
 {% tabs %}
 {% tab title="设置钱包" %}
-如果你是第一次参与 BSC，需要设置 BSC 网络。以小狐狸钱包为例，在 Google 浏览器上打开小狐狸插件，选择自定义 RPC，网络名称填写币安智能链，新的 RPC URL 填写 [https://bsc-dataseed1.binance.org/](https://bsc-dataseed1.binance.org/)，链 ID 填写 56，符号填写 BNB，屏蔽管理器 URL 填写 [https://bscscan.com/](https://bscscan.com/)（具体设置可以参考这篇 [文档](https://bscscan.freshdesk.com/support/solutions/articles/67000185905-how-to-connect-metamask-to-binance-smart-chain-)）\
-
+如果你是第一次参与 BSC，需要设置 BSC 网络。以小狐狸钱包为例，在 Google 浏览器上打开小狐狸插件，选择自定义 RPC，网络名称填写币安智能链，新的 RPC URL 填写 [https://bsc-dataseed1.binance.org/](https://bsc-dataseed1.binance.org/)，链 ID 填写 56，符号填写 BNB，屏蔽管理器 URL 填写 [https://bscscan.com/](https://bscscan.com/)（具体设置可以参考这篇 [文档](https://bscscan.freshdesk.com/support/solutions/articles/67000185905-how-to-connect-metamask-to-binance-smart-chain-)）\\
 {% endtab %}
 
 {% tab title="币安桥" %}
@@ -25,11 +24,11 @@ BSC的格局之大，在于构建CeFi与DeFi之间的超级桥梁，媲美甚至
 {% endtab %}
 
 {% tab title="浏览器" %}
-#### 区块链浏览器：[bscscan](https://bscscan.com/) <a href="#bscscan" id="bscscan"></a>
+**区块链浏览器：**[**bscscan**](https://bscscan.com/)
 {% endtab %}
 
 {% tab title="动态数据" %}
-**动态数据：**[defistation](https://www.defistation.io/)&#x20;
+**动态数据：**[defistation](https://www.defistation.io/)
 {% endtab %}
 
 {% tab title="项目" %}
@@ -46,7 +45,7 @@ BSC的格局之大，在于构建CeFi与DeFi之间的超级桥梁，媲美甚至
 {% endtab %}
 
 {% tab title="开发" %}
-## ****[**BSC 开发快速上手指南 (第一版)**](https://obsidianlabs.medium.com/bsc-%E5%BC%80%E5%8F%91%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97-7a84efa128ea)**** <a href="#fe07" id="fe07"></a>
+### [**BSC 开发快速上手指南 (第一版)**](https://obsidianlabs.medium.com/bsc-%E5%BC%80%E5%8F%91%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97-7a84efa128ea) <a href="#fe07" id="fe07"></a>
 {% endtab %}
 {% endtabs %}
 
@@ -73,13 +72,13 @@ BSC的格局之大，在于构建CeFi与DeFi之间的超级桥梁，媲美甚至
 
 我们最好避开火币的Heco MDEX生态，我一直对火币的信用感到怀疑，因为毕竟火币分裂出的FCoin跑路了
 
-belt.fi，目前综合来看最好的稳定币项目&#x20;
+belt.fi，目前综合来看最好的稳定币项目
 
-autofarm.network，bsc/heco/polygon链自动复投&#x20;
+autofarm.network，bsc/heco/polygon链自动复投
 
-pancakebunny.finance，锁仓量最大的耕作聚合器&#x20;
+pancakebunny.finance，锁仓量最大的耕作聚合器
 
-dex.guru，dex聚合器（买小币用）&#x20;
+dex.guru，dex聚合器（买小币用）
 
 然后最近polygon链很火，所以matic回调迅猛
 {% endhint %}

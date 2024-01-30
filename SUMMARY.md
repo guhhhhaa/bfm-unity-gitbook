@@ -1,7 +1,6 @@
 # Table of contents
 
 * [💎 BF​M Unity : A Brief Fantasy of Multiverse](README.md)
-* [新天安门](xin-tian-an-men.md)
 * [旧版主页](master-1.md)
 
 ## BFM Lite | 比坊梦轻量版

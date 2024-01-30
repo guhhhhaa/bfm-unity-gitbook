@@ -4,16 +4,16 @@ description: BFM Trading Strategy
 
 # BFM Trading Strategy♟
 
-> ## 比坊梦交易策略
+> ### 比坊梦交易策略
 >
-> ### BFM Trading Strategy
+> #### BFM Trading Strategy
 
 {% hint style="info" %}
-## 游戏已经开始，请选择你的英雄。
+### 游戏已经开始，请选择你的英雄。
 
-### 注：不同的英雄分属不同的派系，你只能选择一种。
+#### 注：不同的英雄分属不同的派系，你只能选择一种。
 
-### 开场后，请不要换英雄，否则[后果自负](https://www.bilibili.com/video/BV1hJ411G7jN)。
+#### 开场后，请不要换英雄，否则[后果自负](https://www.bilibili.com/video/BV1hJ411G7jN)。
 {% endhint %}
 
 ## 写在前面
@@ -26,7 +26,7 @@ description: BFM Trading Strategy
 
 2，研究成本高的策略，能等就等等。 机器学习成本太高了，小资金带不动这个研究成本。 而且收益率提高这个，暂时证明不了。
 
-3，能看书就别研究，让别人研究去，等他研究明白了，他也亏完了，而且市面上也烂大街了，一个策略，别人嫌弃的时候，这个时候用最好。&#x20;
+3，能看书就别研究，让别人研究去，等他研究明白了，他也亏完了，而且市面上也烂大街了，一个策略，别人嫌弃的时候，这个时候用最好。
 
 4，盈亏同源，策略没有优劣，但是，非要选一个的话，动态平衡最牛逼，毕竟是信息论祖师爷香农钦定的。
 
@@ -36,9 +36,9 @@ description: BFM Trading Strategy
 
 <summary>标的选择</summary>
 
-投资原则1，树杈易折，主干长青&#x20;
+投资原则1，树杈易折，主干长青
 
-投资原则2，你相信的，你确定的&#x20;
+投资原则2，你相信的，你确定的
 
 投资原则3，基本面好，投资方稳
 
@@ -48,11 +48,11 @@ description: BFM Trading Strategy
 
 <summary>投资难度</summary>
 
-对于单一标的的概率统计分析是简单的，但是足够你在赌场赚的盆满钵满。&#x20;
+对于单一标的的概率统计分析是简单的，但是足够你在赌场赚的盆满钵满。
 
-对于多个标的的概率统计分析，是诺贝尔经济学奖级别的困难。&#x20;
+对于多个标的的概率统计分析，是诺贝尔经济学奖级别的困难。
 
-对于单一标的的跨周期性时间校准是较为困难的，而价格点位校准是不可能的。&#x20;
+对于单一标的的跨周期性时间校准是较为困难的，而价格点位校准是不可能的。
 
 对于多个标的的跨周期性时间校准是神灵的工作。
 
@@ -64,13 +64,13 @@ description: BFM Trading Strategy
 
 量化行业的发展，是五个阶段：数字化，自动化，标准化，数据化，智能化。
 
-1，数字化：机器人可以执行简单的人工操作。（比如冰山委托，时间加权委托，定投等）&#x20;
+1，数字化：机器人可以执行简单的人工操作。（比如冰山委托，时间加权委托，定投等）
 
-2，自动化：机器人可以自动读取市场参数进行简单操作。（如马丁，网格，动态平衡智能持仓，均线系统，通道系统等。）&#x20;
+2，自动化：机器人可以自动读取市场参数进行简单操作。（如马丁，网格，动态平衡智能持仓，均线系统，通道系统等。）
 
-3，标准化：机器人从位于交易所外，转为被内置于交易所之内。（目前处于这个阶段）&#x20;
+3，标准化：机器人从位于交易所外，转为被内置于交易所之内。（目前处于这个阶段）
 
-4，数据化：机器人可以读取链上数据和市场数据，进行简单微观短期分析和简单宏观长期判断，如分析比特币减半时间，分析恐惧贪婪指数，分析合约数据，分析流入流出数据，借助MVRV，S2F，NVT等指标分析比特币的宏观经济，借助山寨季节指标，分析是否处于山寨季节等。&#x20;
+4，数据化：机器人可以读取链上数据和市场数据，进行简单微观短期分析和简单宏观长期判断，如分析比特币减半时间，分析恐惧贪婪指数，分析合约数据，分析流入流出数据，借助MVRV，S2F，NVT等指标分析比特币的宏观经济，借助山寨季节指标，分析是否处于山寨季节等。
 
 5，智能化：机器人可以借助统计学习，机器学习，深度学习，对链上数据和市场数据，进行自动分析和研究，做出复杂的多策略组合交易，调仓，调节杠杆率等的操作。
 
@@ -82,15 +82,15 @@ description: BFM Trading Strategy
 
 <summary>量化行业 合规整改</summary>
 
-### 终止合作不合规业务：
+#### 终止合作不合规业务：
 
-1，第三方授权（将API授权第三方，并托管在第三方服务器）&#x20;
+1，第三方授权（将API授权第三方，并托管在第三方服务器）
 
 2，嵌套交易所（将用户资产托管于另一家交易所，并与其共享流动性）
 
-### 转为推进合规业务：
+#### 转为推进合规业务：
 
-3，自托管授权（用户将API授权给自己，将API托管于用户自己控制的服务器中，用户负责对API自行保密，一般是基于一系列开源软件）&#x20;
+3，自托管授权（用户将API授权给自己，将API托管于用户自己控制的服务器中，用户负责对API自行保密，一般是基于一系列开源软件）
 
 4，内置机器人（交易所内置的交易机器人）
 
@@ -122,24 +122,24 @@ description: BFM Trading Strategy
 
 ### 再平衡有这样几种模式
 
-| 理论                                                                                                                                                                                        |                                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **公允理论**                                                                                                                                                                                  | **公允公式**                                                                                                                                                                                                                         |
-| 凯利公式：单标的版本                                                                                                                                                                                | 仓位权重=收益率/方差                                                                                                                                                                                                                      |
-| 凯利公式：多元化版本                                                                                                                                                                                | 仓位权重向量=收益率向量/协方差矩阵                                                                                                                                                                                                               |
-| 马科维兹：CAPM理论                                                                                                                                                                               | 仓位权重=收益率/标准差                                                                                                                                                                                                                     |
-| 桥水基金：全天候，波动率倒数理论                                                                                                                                                                          | 仓位权重=1/标准差                                                                                                                                                                                                                       |
-| 指数基金：按市值，被动投资                                                                                                                                                                             | 仓位权重=市值比例                                                                                                                                                                                                                        |
-| **自创理论**                                                                                                                                                                                  | **自创公式**                                                                                                                                                                                                                         |
-| <p>主动基金：按市值，主动投资，季节性</p><p>又名：<a href="../bfm-ds-bi-fang-meng-shu-ju-zhi-chi/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md">帕累托分布与市值修正幂率投资法</a><br></p> | <p>仓位权重=市值比例^修正幂率</p><p></p><p>确定修正幂率：<br>山寨季指标=100山寨币中多少比BTC收益高<br>修正因子=山寨季节指标/50－1 <br>修正幂率=EXP(修正因子)</p>                                                                                                                      |
-| [同根策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)                                                                 | <p>ax = x/(1-x)/(1/(1-x)+1/(1-y)+1/(1-z))</p><p>by = y/(1-y)/(1/(1-x)+1/(1-y)+1/(1-z))</p><p>cz = z/(1-z)/(1/(1-x)+1/(1-y)+1/(1-z))<br></p><p>ax+by+cz=(x/(1-x)+y/(1-y)+z/(1-z))/(1/(1-x)+1/(1-y)+1/(1-z))</p>                   |
-| [同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)                                                                 | <p>ax = x^2/(1-x)/(x/(1-x)+y/(1-y)+z/(1-z))</p><p>by = y^2/(1-y)/(x/(1-x)+y/(1-y)+z/(1-z))</p><p>cz = z^2/(1-z)/(x/(1-x)+y/(1-y)+z/(1-z))<br></p><p>ax+by+cz = (x^2/(1-x)+y^2/(1-y)+z^2/(1-z))/(x/(1-x)+y/(1-y)+z/(1-z))</p>     |
-| [cholesky分解策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/ruo-chen-de-ce-lve)                                                                         | <p>对于可用的n种资产，平均收益率向量为b，对数协方差矩阵为A，</p><p>那么对A作cholesky分解得到A=R'R，最优资产配置就是(R^{-1})'b（的归一化） </p><p><a href="https://github.com/sffred/fundFuser/blob/main/README.md">https://github.com/sffred/fundFuser/blob/main/README.md</a></p> |
+| 理论                                                                                                                                                                                        |                                                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **公允理论**                                                                                                                                                                                  | **公允公式**                                                                                                                                                                                                                        |
+| 凯利公式：单标的版本                                                                                                                                                                                | 仓位权重=收益率/方差                                                                                                                                                                                                                     |
+| 凯利公式：多元化版本                                                                                                                                                                                | 仓位权重向量=收益率向量/协方差矩阵                                                                                                                                                                                                              |
+| 马科维兹：CAPM理论                                                                                                                                                                               | 仓位权重=收益率/标准差                                                                                                                                                                                                                    |
+| 桥水基金：全天候，波动率倒数理论                                                                                                                                                                          | 仓位权重=1/标准差                                                                                                                                                                                                                      |
+| 指数基金：按市值，被动投资                                                                                                                                                                             | 仓位权重=市值比例                                                                                                                                                                                                                       |
+| **自创理论**                                                                                                                                                                                  | **自创公式**                                                                                                                                                                                                                        |
+| <p>主动基金：按市值，主动投资，季节性</p><p>又名：<a href="../bfm-ds-bi-fang-meng-shu-ju-zhi-chi/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md">帕累托分布与市值修正幂率投资法</a><br></p> | <p>仓位权重=市值比例^修正幂率</p><p>确定修正幂率：<br>山寨季指标=100山寨币中多少比BTC收益高<br>修正因子=山寨季节指标/50－1<br>修正幂率=EXP(修正因子)</p>                                                                                                                             |
+| [同根策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)                                                                 | <p>ax = x/(1-x)/(1/(1-x)+1/(1-y)+1/(1-z))</p><p>by = y/(1-y)/(1/(1-x)+1/(1-y)+1/(1-z))</p><p>cz = z/(1-z)/(1/(1-x)+1/(1-y)+1/(1-z))<br></p><p>ax+by+cz=(x/(1-x)+y/(1-y)+z/(1-z))/(1/(1-x)+1/(1-y)+1/(1-z))</p>                  |
+| [同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)                                                                 | <p>ax = x^2/(1-x)/(x/(1-x)+y/(1-y)+z/(1-z))</p><p>by = y^2/(1-y)/(x/(1-x)+y/(1-y)+z/(1-z))</p><p>cz = z^2/(1-z)/(x/(1-x)+y/(1-y)+z/(1-z))<br></p><p>ax+by+cz = (x^2/(1-x)+y^2/(1-y)+z^2/(1-z))/(x/(1-x)+y/(1-y)+z/(1-z))</p>    |
+| [cholesky分解策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/ruo-chen-de-ce-lve)                                                                         | <p>对于可用的n种资产，平均收益率向量为b，对数协方差矩阵为A，</p><p>那么对A作cholesky分解得到A=R'R，最优资产配置就是(R^{-1})'b（的归一化）</p><p><a href="https://github.com/sffred/fundFuser/blob/main/README.md">https://github.com/sffred/fundFuser/blob/main/README.md</a></p> |
 
 * [固定比例动态平衡多标的优化（4332221111准则，或322111准则）](../bfm-ds-bi-fang-meng-shu-ju-zhi-chi/zi-chan-pei-zhi/the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
 * 🔥 [帕累托分布与市值修正幂率投资法](../bfm-ds-bi-fang-meng-shu-ju-zhi-chi/zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)（按照市值的N次幂（N取0～3）分配投资组合，再定期再平衡）（虽然这个链接是比特币，但是道理相同，也可以用于股票）
 * [凯利公式](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi)
-* [**马科维兹均值方差模型**  与 **凯利准则（几何平均数准则）**结合](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi)
+* [**马科维兹均值方差模型** 与 \*\*凯利准则（几何平均数准则）\*\*结合](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi)
 * [同根策略 与 同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)
 * [cholesky分解策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/ruo-chen-de-ce-lve)
 

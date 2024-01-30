@@ -54,7 +54,7 @@ NOTE: 策略推荐市盈率，市净率策略，
 
 真正需要做的是，股票指数和债券的配比关系。而股票指数和债券的配比关系是按照大盘的市净率和市盈率来决定的。
 
-一切通过技术分析，想要跑赢沪深300和纳指100的尝试都是徒劳的。选股和操作没有用，噪声操作会加大你的亏损，不信你做个10年回测就明白——[https://www.joinquant.com/view/factorlib/list](https://www.joinquant.com/view/factorlib/list) 这个是因子分析，可以选择你的选股策略进行回测，如果你把周期拉到10年，你会发现，相比技术分析指数才是真正有效的选择。&#x20;
+一切通过技术分析，想要跑赢沪深300和纳指100的尝试都是徒劳的。选股和操作没有用，噪声操作会加大你的亏损，不信你做个10年回测就明白——[https://www.joinquant.com/view/factorlib/list](https://www.joinquant.com/view/factorlib/list) 这个是因子分析，可以选择你的选股策略进行回测，如果你把周期拉到10年，你会发现，相比技术分析指数才是真正有效的选择。
 
 如果说什么有用，也就是，市净率，市盈率，才有用。 而且市净率，市盈率只有下跌行情有用，能抗跌，
 
@@ -63,24 +63,22 @@ NOTE: 策略推荐市盈率，市净率策略，
 {% embed url="https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/ji-ben-mian-xuan-gu" %}
 
 {% hint style="success" %}
-## 选股，成长性：
+### 选股，成长性：
 
-净资产收益率ROE＞15%（**>10%**就不错）（ROE=PB/PE），\
+净资产收益率ROE＞15%（\*\*>10%\*\*就不错）（ROE=PB/PE），\
 且用杜邦分析剔除杠杆（权益乘数<3）。
 
 股息率＞5%，（[不绝对](https://xueqiu.com/4195046382/148444383)，可以不加）
 
 市盈率相对盈利增长比率[PEG](https://xueqiu.com/8287840120/74917276)＜0.5。（<1也可）（[参考](https://xueqiu.com/8287840120/83909262)）
 
-## 确定买卖点，相对估值，低估高估：
+### 确定买卖点，相对估值，低估高估：
 
-&#x20;介绍：[估值和资本结构因子](https://xueqiu.com/8287840120/102600210)
+介绍：[估值和资本结构因子](https://xueqiu.com/8287840120/102600210)
 
 市盈率P/E＜10，—— 0 - 12买入，>20卖出
 
-市净率P/B＜2，  —— 0 - 1.2买入，>2卖出
-
-
+市净率P/B＜2， —— 0 - 1.2买入，>2卖出
 
 [**https://www.ricequant.com/quant/wizard/**](https://www.ricequant.com/quant/wizard/)
 
@@ -93,7 +91,7 @@ NOTE: 策略推荐市盈率，市净率策略，
 
 ![](<../../.gitbook/assets/屏幕快照 2021-02-28 下午1.24.27.png>)
 
-![   横轴是估值，纵轴是仓位和操作](../../.gitbook/assets/0E2ABFCC2987F6AAEB09ECE758F3E8AC.jpg)
+![横轴是估值，纵轴是仓位和操作](../../.gitbook/assets/0E2ABFCC2987F6AAEB09ECE758F3E8AC.jpg)
 
 ## 林园投资
 

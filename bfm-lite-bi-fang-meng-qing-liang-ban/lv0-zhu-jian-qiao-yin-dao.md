@@ -4,9 +4,9 @@ description: Main Bridge (Navigator)
 
 # Main Bridge (Navigator)
 
-> ## 主舰桥 (引导)
+> ### 主舰桥 (引导)
 >
-> ### Main Bridge (Navigator)
+> #### Main Bridge (Navigator)
 
 ![](../.gitbook/assets/OK6W\_koKDTOqqqLDbIoPAnX28uhvA7L7rCRXv1CKxGU.jpeg)
 
@@ -15,12 +15,12 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
-### [赞助](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [加群](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) | [看板](https://trello.com/b/z4aDgNAL/todolist)
+#### [赞助](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [加群](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) | [看板](https://trello.com/b/z4aDgNAL/todolist)
 
-### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/l21pilUf)
+#### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/l21pilUf)
 {% endhint %}
 
-![](<../.gitbook/assets/BFM Unity 4.0.png>)
+![](../.gitbook/assets/BFM%20Unity%204.0.png)
 
 ## 交易员必进
 
@@ -64,8 +64,8 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 游戏玩家必进
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 ## 老客户怀旧
@@ -86,9 +86,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## ₿TC 投资路径 <a href="#tc-tou-zi-lu-jing" id="tc-tou-zi-lu-jing"></a>
 
-<figure><img src="../.gitbook/assets/DeFi_2 (2).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/DeFi_2%20(2).png" alt=""><figcaption></figcaption></figure>
 
 ## **ΞTH** 生态 <a href="#th-sheng-tai" id="th-sheng-tai"></a>
 
@@ -104,7 +102,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ## 我们的经合关系 <a href="#zhan-lve-he-zuo-huo-ban" id="zhan-lve-he-zuo-huo-ban"></a>
 
-<figure><img src="../.gitbook/assets/BFM Unity 战略合作伙伴 (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BFM%20Unity%20%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%20(26).png" alt=""><figcaption></figcaption></figure>
 
 [全球最大的50家银行在区块链领域的布局](https://cloud.tencent.com/developer/article/1356837)
 
@@ -112,7 +110,7 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 <figure><img src="../.gitbook/assets/BFM Unity C级别友商.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/BFM Unity D级别友商 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BFM%20Unity%20D%E7%BA%A7%E5%88%AB%E5%8F%8B%E5%95%86%20(1).png" alt=""><figcaption></figcaption></figure>
 
 ## 愿景及使命 <a href="#yuan-jing-ji-shi-ming" id="yuan-jing-ji-shi-ming"></a>
 
@@ -126,13 +124,13 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 ### 0.0.0
 
-> ## [寻找网络终端遗传因子](https://xiaoheimi.net/index.php/vod/play/id/12405/sid/1/nid/1.html)
+> ### [寻找网络终端遗传因子](https://xiaoheimi.net/index.php/vod/play/id/12405/sid/1/nid/1.html)
 
 ### 1.0.0
 
 > 算法交易 · 量化投资
 >
-> #### BFM Unity
+> **BFM Unity**
 >
 > 服务 · 信用 · 价值
 
@@ -140,35 +138,35 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 > 品牌升级，
 >
-> 由 服务·信用·价值&#x20;
+> 由 服务·信用·价值
 >
-> #### 升级为 **金融·科技·智慧**&#x20;
+> **升级为 金融·科技·智慧**
 >
-> #### 金融：服务·信用·价值&#x20;
+> **金融：服务·信用·价值**
 >
-> #### 科技：算法交易·量化投资·区块链·量子退火&#x20;
+> **科技：算法交易·量化投资·区块链·量子退火**
 >
-> #### 智慧：数学·经济学·计算机科学(人工智能)&#x20;
+> **智慧：数学·经济学·计算机科学(人工智能)**
 >
-> 品牌颜色: 金融:橙黄色&#x20;
+> 品牌颜色: 金融:橙黄色
 >
-> 科技:蓝色&#x20;
+> 科技:蓝色
 >
 > 智慧:黑色或白色
 
 ### 3.0.0
 
-> ## **比坊梦 —— 区块链 · 金融 · 元宇宙**
+> ### **比坊梦 —— 区块链 · 金融 · 元宇宙**
 >
 > **BF​M Unity —— Blockchain · Finance · Metaverse**
 
 ### 4.0.0
 
-> ## **比坊梦 —— 区块链 · 金融 · 模式**
+> ### **比坊梦 —— 区块链 · 金融 · 模式**
 >
 > **BF​M Unity —— Blockchain · Finance · Mode**
 
-> ### 《公有区块链核心方法论》
+> #### 《公有区块链核心方法论》
 >
 > 要素：物质 能量 信息 价值 概率 时间
 >
@@ -186,9 +184,9 @@ NOTE: **This project is in beta. Use at your own risk.**
 
 色号：#0f00ff #0f88ff #ffcc00
 
-![](../.gitbook/assets/底部栏1.png)
+![](../.gitbook/assets/%E5%BA%95%E9%83%A8%E6%A0%8F1.png)
 
-![](../.gitbook/assets/底部栏2.png)
+![](../.gitbook/assets/%E5%BA%95%E9%83%A8%E6%A0%8F2.png)
 
 #### ​[BFM Unity](https://www.bfm-unity.com/) | [Bellman-Ford-Moore Unity](https://www.bfm-unity.com/) | [**比坊梦联合体**](https://www.bfm-unity.com/) <a href="#fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li" id="fm-unity-itcoinfinancemanagement-unity-bellmanfordmoore-unity-bfm-lian-ti-2020-3-23-zhi-jin-guan-li"></a>
 
