@@ -8,12 +8,12 @@
 
 ## BFM Unity 的组织性质是什么？
 
-> BFM Unity 在政治，经济和世界范围内均保持中立。 \
+> BFM Unity 在政治，经济和世界范围内均保持中立。\
 > 它是耗散结构集群的去中心化的金融和经济统一体，\
 > 由智能算法驱动的微观经济结构的模块化单元的分布式自组织形成。
 
-> BFM Unity is neutral politically, economically and worldwide. \
-> It is a decentralized financial and economic continuum of dissipative structure clusters, \
+> BFM Unity is neutral politically, economically and worldwide.\
+> It is a decentralized financial and economic continuum of dissipative structure clusters,\
 > formed by distributed self-organization of modular units of microeconomic structures driven by intelligent algorithms.
 
 BFM Unity 并不需要新加入的 Unit(s) 公开响应或者认同价值观。
@@ -34,7 +34,7 @@ BFM Unity 并不需要新加入的 Unit(s) 公开响应或者认同价值观。
 
 {% embed url="https://t.me/BFMUnity" %}
 
-### BFM Unity 比坊梦联合体 官方频道&#x20;
+### BFM Unity 比坊梦联合体 官方频道
 
 {% embed url="https://t.me/BFM_Unity" %}
 
@@ -54,13 +54,13 @@ BFM Unity 并不需要新加入的 Unit(s) 公开响应或者认同价值观。
 
 {% tabs %}
 {% tab title="主群" %}
-## 708912525
+### 708912525
 
 ![QQ群组：708912525](../../.gitbook/assets/1584954098283.png)
 {% endtab %}
 
 {% tab title="社区群" %}
-## &#x20;社区群：860820181
+### 社区群：860820181
 
 ![](../../.gitbook/assets/FDA31D0980BA1CB7FE8980D9112FB2BC.jpg)
 {% endtab %}
@@ -72,7 +72,7 @@ BFM Unity 并不需要新加入的 Unit(s) 公开响应或者认同价值观。
 
 ![](../../.gitbook/assets/6ba1bcf02ffd6ab8f4186253e7759948.png)
 
-## 群名称：BFM Unity&#x20;
+## 群名称：BFM Unity
 
 ## 群文档
 

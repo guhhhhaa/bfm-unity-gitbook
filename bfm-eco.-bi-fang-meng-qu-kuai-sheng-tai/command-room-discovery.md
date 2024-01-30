@@ -8,16 +8,16 @@ description: BFM Eco.
 
 曾用名2：比坊梦生态风投(一级市场)🛰️
 
-{% content-ref url="../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
-[management-cockpit-operation](../bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
+{% content-ref url="../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/" %}
+[management-cockpit-operation](../bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/)
 {% endcontent-ref %}
 
 {% content-ref url="../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/" %}
 [research-institute-development](../bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 ![](<../.gitbook/assets/BFM Unity 指挥室 (1).png>)
@@ -38,13 +38,9 @@ description: BFM Eco.
 [zhi-hui-shi-arbitrum.md](command-room-eth/layer-2/zhi-hui-shi-arbitrum.md)
 {% endcontent-ref %}
 
-
-
 {% content-ref url="qi-ta-gong-lian/zhi-hui-shi-ipfsfil.md" %}
 [zhi-hui-shi-ipfsfil.md](qi-ta-gong-lian/zhi-hui-shi-ipfsfil.md)
 {% endcontent-ref %}
-
-
 
 {% content-ref url="../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
 [the-tzolkin-calendar](../bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
@@ -64,96 +60,88 @@ description: BFM Eco.
 
 {% tabs %}
 {% tab title="导航网站🧭" %}
-* ****[**the Block**](https://www.theblockcrypto.com/data/) **(数据网站)**
-* ****[**AssetDash**](https://assetdash.com/?all=true) **(现实市值比较)**
-* ****[**Coin360**](https://coin360.com/) **(加密市值比较)**
-* ****[**MyToken**](https://www.mytokencap.com/zh)****
-* ****[**巴比特**](https://www.8btc.com/) **&** [**金色财经**](https://www.jinse.com/) **(新闻消息)**
-* ****[**CoinMarketCap**](https://coinmarketcap.com/) **(**[**CMC DeFi**](https://coinmarketcap.com/defi/)**) (**[**CMC Farming**](https://coinmarketcap.com/yield-farming/)**)**
-* ****[**CoinGecko**](https://www.coingecko.com/zh/)****
-* ****[**Messari.io**](https://messari.io/)****
-* ****[**TokenInsight**](https://tokeninsight.com/)****
-* ****[**其他区块链数据分析网站**](https://medium.com/@chainnews/%E9%80%81%E4%BD%A0-22-%E4%B8%AA%E9%93%BE%E4%B8%8A%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%A9%E5%99%A8-%E6%B4%9E%E7%A9%BF%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E9%87%8D%E9%87%8D%E8%BF%B7%E9%9B%BE-b57f5b4b5727)****
-* ****[**Gas费**](https://gasnow.sparkpool.com/)****
+* \*\*\*\*[**the Block**](https://www.theblockcrypto.com/data/) **(数据网站)**
+* \*\*\*\*[**AssetDash**](https://assetdash.com/?all=true) **(现实市值比较)**
+* \*\*\*\*[**Coin360**](https://coin360.com/) **(加密市值比较)**
+* [**MyToken**](https://www.mytokencap.com/zh)
+* \*\*\*\*[**巴比特**](https://www.8btc.com/) **&** [**金色财经**](https://www.jinse.com/) **(新闻消息)**
+* \*\*\*\*[**CoinMarketCap**](https://coinmarketcap.com/) **(**[**CMC DeFi**](https://coinmarketcap.com/defi/)**) (**[**CMC Farming**](https://coinmarketcap.com/yield-farming/)**)**
+* [**CoinGecko**](https://www.coingecko.com/zh/)
+* [**Messari.io**](https://messari.io/)
+* [**TokenInsight**](https://tokeninsight.com/)
+* [**其他区块链数据分析网站**](https://medium.com/@chainnews/%E9%80%81%E4%BD%A0-22-%E4%B8%AA%E9%93%BE%E4%B8%8A%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%A9%E5%99%A8-%E6%B4%9E%E7%A9%BF%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E9%87%8D%E9%87%8D%E8%BF%B7%E9%9B%BE-b57f5b4b5727)
+* [**Gas费**](https://gasnow.sparkpool.com/)
 * [~~**BlockSite**~~](https://www.blocksite.org/) ~~**(项目介绍)**~~
 * ~~**Block123 (导航网站)**~~
 * ~~**QKL123 (比特币数据)**~~
-* ~~****~~[~~**链闻**~~](https://medium.com/@winkryptocom)~~**，非小号，币世界**~~
-* 一、Trading数据类网站&#x20;
-* 1、Nansen：[https://www.nansen.ai/home-v1 ](https://www.nansen.ai/home-v1)
-* 2、DappRadar：[https://dappradar.com/](https://dappradar.com/)&#x20;
-*   3、DropsTab：[https://dropstab.com/portfolio](https://dropstab.com/portfolio)
-
-
-* 二、NFT数据网站&#x20;
-* 1、Opensea：[https://opensea.io/ ](https://opensea.io/)
-* 2、WhatsCoin：[https://www.whatscoin.com](https://www.whatscoin.com)&#x20;
-* 一、Web3工具&#x20;
-* 1、Mirror：[https://mirror.xyz/ ](https://mirror.xyz/)
-*   2、Gitcoin：[https://gitcoin.co/](https://mirror.xyz/)
-
-
-* 二、defi分析工具&#x20;
-* 1、Defillama：[https://defillama.com/ ](https://defillama.com/)
-*   2、Coinhippo：[https://coinhippo.io/](https://coinhippo.io/)
-
-
-* 三、研报网站&#x20;
-* 1、Delphi Digital：[https://delphidigital.io/ ](https://delphidigital.io/)
-*   2、头等仓：https://www.first.vip/#/index
-
-
-* 四、空投网站&#x20;
-* 1、Airdropbob：https://www.airdropbob.com/ &#x20;
+* ~~\*\*\*\*~~[~~**链闻**~~](https://medium.com/@winkryptocom)~~**，非小号，币世界**~~
+* 一、Trading数据类网站
+* 1、Nansen：[https://www.nansen.ai/home-v1](https://www.nansen.ai/home-v1)
+* 2、DappRadar：[https://dappradar.com/](https://dappradar.com/)
+* 3、DropsTab：[https://dropstab.com/portfolio](https://dropstab.com/portfolio)
+* 二、NFT数据网站
+* 1、Opensea：[https://opensea.io/](https://opensea.io/)
+* 2、WhatsCoin：[https://www.whatscoin.com](https://www.whatscoin.com)
+* 一、Web3工具
+* 1、Mirror：[https://mirror.xyz/](https://mirror.xyz/)
+* 2、Gitcoin：[https://gitcoin.co/](https://mirror.xyz/)
+* 二、defi分析工具
+* 1、Defillama：[https://defillama.com/](https://defillama.com/)
+* 2、Coinhippo：[https://coinhippo.io/](https://coinhippo.io/)
+* 三、研报网站
+* 1、Delphi Digital：[https://delphidigital.io/](https://delphidigital.io/)
+* 2、头等仓：https://www.first.vip/#/index
+* 四、空投网站
+* 1、Airdropbob：https://www.airdropbob.com/
 * 2、Airdropalert：https://airdropalert.com/
 {% endtab %}
 
 {% tab title="钱包💰" %}
 ![](<../.gitbook/assets/屏幕快照 2021-01-14 下午7.26.51.png>)
 
-* [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包**）**
-* [**比特派钱包**](https://bitpie.com/)**（**非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
+* [**TrustWallet**](https://trustwallet.com/)**（**[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包\*\*）\*\*
+* [**比特派钱包**](https://bitpie.com/)\*\*（\*\*非[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，可添加[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)，支持法币交易）
 * [**BitKeep**](https://bitkeep.org/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
 * [**TokenPocket**](https://www.tokenpocket.pro/)（[BIP44](https://learnblockchain.cn/2018/09/28/hdwallet/)钱包，对DeFi支持较好）
-* ****[**更多-钱包筛选器**](https://www.qkl123.com/ranking/wallet?filter=true)****
+* [**更多-钱包筛选器**](https://www.qkl123.com/ranking/wallet?filter=true)
 
 ![](<../.gitbook/assets/屏幕快照 2021-01-14 下午7.25.29.png>)
 {% endtab %}
 
 {% tab title="挖矿🔨" %}
-* [**1234btc.com**](https://1234btc.com/)****
-* ****[**BitDeer**](https://www.bitdeer.com/zh)****
-* ****[**NiceHash**](https://www.nicehash.com/)****
+* [**1234btc.com**](https://1234btc.com/)\*\*\*\*
+* [**BitDeer**](https://www.bitdeer.com/zh)
+* [**NiceHash**](https://www.nicehash.com/)
 
-****
+***
 
 **(仅供参考，不构成本网站意见)**
 {% endtab %}
 
 {% tab title="交易所🏦" %}
-## **交易所**
+### **交易所**
 
-****[**CoinMarketCap交易所排名**](https://coinmarketcap.com/rankings/exchanges/)****
+[**CoinMarketCap交易所排名**](https://coinmarketcap.com/rankings/exchanges/)
 
-* ****[**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI) **（返现比例：我**10%，你10%**）**
-* ****[**FTX 交易所**](https://ftx.com/#a=45676115) **** 600种加密货币、美股凭证任你买卖
+* \*\*\*\*[**币安**](https://www.binancezh.co/cn/register?ref=EQ89E7WI) **（返现比例：我**10%，你10%**）**
+* \*\*\*\*[**FTX 交易所**](https://ftx.com/#a=45676115) \*\*\*\* 600种加密货币、美股凭证任你买卖
 
 ![](../.gitbook/assets/限价单，止损单，OCO单.png)
 
 ![](<../.gitbook/assets/image (4).png>)
 
-## [流动性挖矿](https://www.binance.com/zh-CN/swap/liquidity)
+### [流动性挖矿](https://www.binance.com/zh-CN/swap/liquidity)
 
 ![](<../.gitbook/assets/Binance LP.png>)
 
 ![](<../.gitbook/assets/Binance LP2.png>)
 
-## 量化
+### 量化
 
-* ****[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)****
-* ****[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S) ****&#x20;
-* ****[**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
-* ****[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
+* [**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)
+* \*\*\*\*[**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S) \*\*\*\*
+* \*\*\*\*[**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/) **（Woobull）或** [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）**
+* \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）
 
 ![](../.gitbook/assets/MVRV.png)
 
@@ -161,34 +149,34 @@ description: BFM Eco.
 {% endtab %}
 
 {% tab title="法币交易👔" %}
-## 法币交易又名：OTC(场外交易)或 C2C(客户对客户交易)
+### 法币交易又名：OTC(场外交易)或 C2C(客户对客户交易)
 
-* [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)****
-* [**LocalBitcoins.com**](https://localbitcoins.com/)****
+* [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)\*\*\*\*
+* [**LocalBitcoins.com**](https://localbitcoins.com/)\*\*\*\*
 * [**比特派钱包**](https://bitpie.com/)（**推荐**）
 
 ![](../.gitbook/assets/费率比较.png)
 
-* ****[**币安**](https://www.binance.com/cn) **（需要交提币手续费）**
+* \*\*\*\*[**币安**](https://www.binance.com/cn) **（需要交提币手续费）**
 
 ![](<../.gitbook/assets/image (4).png>)
 {% endtab %}
 
 {% tab title="礼品卡交易" %}
-* [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)****
-* [**Paxful**](https://paxful.com/)****
+* [**可盈可乐|CoinCola官网**](https://www.coincola.com/?lang=zh-CN)\*\*\*\*
+* [**Paxful**](https://paxful.com/)\*\*\*\*
 {% endtab %}
 
 {% tab title="技术社区🏠" %}
-* [**ETHfans**](https://ethfans.org/)****
+* [**ETHfans**](https://ethfans.org/)\*\*\*\*
 {% endtab %}
 
 {% tab title="刻字" %}
-[**如何在区块链上刻字**](https://www.jianshu.com/p/3668a66f3eba)****
+[**如何在区块链上刻字**](https://www.jianshu.com/p/3668a66f3eba)\*\*\*\*
 
-****[**刻字2**](https://www.babaofan.com/news/popular/53507.html)****
+[**刻字2**](https://www.babaofan.com/news/popular/53507.html)
 
-****[**刻字3**](https://www.528btc.com/ask/158555831343012.html)****
+[**刻字3**](https://www.528btc.com/ask/158555831343012.html)
 {% endtab %}
 
 {% tab title="发币" %}
@@ -202,22 +190,22 @@ description: BFM Eco.
 
 ## 数据分析工具
 
-* ****[**Dune Analytic**](https://duneanalytics.com/home)
-  * ****[**DEX - Dune Analytics**](https://duneanalytics.com/hagaetc/dex-metrics)****
-  * ****[**MakerDAO - Dune Analytics**](https://duneanalytics.com/hagaetc/maker-dao---mcd)****
-  * ****[**0x - Dune Analytic**](https://duneanalytics.com/0x/0x-trading-activity)
-* ****[**Messari**](https://messari.io/)****
-* ****[**NansΞn**](https://www.nansen.ai/)****
+* \*\*\*\*[**Dune Analytic**](https://duneanalytics.com/home)
+  * [**DEX - Dune Analytics**](https://duneanalytics.com/hagaetc/dex-metrics)
+  * [**MakerDAO - Dune Analytics**](https://duneanalytics.com/hagaetc/maker-dao---mcd)
+  * \*\*\*\*[**0x - Dune Analytic**](https://duneanalytics.com/0x/0x-trading-activity)
+* [**Messari**](https://messari.io/)
+* [**NansΞn**](https://www.nansen.ai/)
   * **Token God Mode - NansΞn**
   * **Wallet Profiler - NansΞn**
-* ****[**Token Terminal**](https://www.tokenterminal.com/)****
-* ****[**DeFi Pulse**](https://defipulse.com/)****
-* ****[**Etherscan**](https://etherscan.io/)****
+* [**Token Terminal**](https://www.tokenterminal.com/)
+* [**DeFi Pulse**](https://defipulse.com/)
+* [**Etherscan**](https://etherscan.io/)
   * [**以太坊指标 - Etherscan**](https://etherscan.io/charts)
 
-**著名地址:** [**0xb1**](https://debank.com/profile/0xb1adceddb2941033a090dd166a462fe1c2029484)****
+**著名地址:** [**0xb1**](https://debank.com/profile/0xb1adceddb2941033a090dd166a462fe1c2029484)\*\*\*\*
 
-****
+***
 
 {% tabs %}
 {% tab title="Crypto分析⼯具" %}
@@ -256,18 +244,18 @@ description: BFM Eco.
 {% tab title="MVRV" %}
 *   [**MVRV**](https://www.blockchain.com/charts/mvrv)**（Blockchain.com）或** [**MVRV**](https://charts.woobull.com/bitcoin-mvrv-ratio/)**（Woobull）**
 
-    ****[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）\
+    \*\*\*\*[**MVRV**](https://medium.com/@kenoshaking/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)**：3.7**（表示高估）和 **1**（表示低估）\
     （以7天平均为准）
-* [**同架策略**](https://share.weiyun.com/xUw40P4l)****
+* [**同架策略**](https://share.weiyun.com/xUw40P4l)\*\*\*\*
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 {% endtab %}
 
 {% tab title="S2F" %}
-* ****[**S2F目标价格**](https://www.qkl123.com/data/s2f/btc)****
-* ****[**https://stats.buybitcoinworldwide.com/stock-to-flow/**](https://stats.buybitcoinworldwide.com/stock-to-flow/)****
+* [**S2F目标价格**](https://www.qkl123.com/data/s2f/btc)
+* [**https://stats.buybitcoinworldwide.com/stock-to-flow/**](https://stats.buybitcoinworldwide.com/stock-to-flow/)
 {% endtab %}
 
 {% tab title="山寨季节指数" %}
@@ -289,9 +277,9 @@ description: BFM Eco.
 {% endtab %}
 
 {% tab title="🚩减半" %}
-* ****[**比特币减半 - QKL123**](https://www.qkl123.com/data/halve/btc)****
-* ****[**比特币减半 - 币安学院**](https://academy.binance.com/zh/halving)****\
-  ****[**其他数据**](https://www.qkl123.com/data)****
+* [**比特币减半 - QKL123**](https://www.qkl123.com/data/halve/btc)
+* [**比特币减半 - 币安学院**](https://academy.binance.com/zh/halving)\
+  [**其他数据**](https://www.qkl123.com/data)
 {% endtab %}
 
 {% tab title="CFTC持仓报告" %}
@@ -310,31 +298,32 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 {% tabs %}
 {% tab title="仪表盘" %}
-* [**Datamish**](https://datamish.com/)****
-* ****[**Coinfarm**](https://coinfarm.online/)****
-* ****[**Bfxrate**](https://bfxrates.com/)****
-* ****[**Tensorcharts**](https://www.tensorcharts.com/)****\
-  ****
-* ****[**B站视频**](https://www.bilibili.com/video/BV1Be411s7pj)****
+* [**Datamish**](https://datamish.com/)\*\*\*\*
+* [**Coinfarm**](https://coinfarm.online/)
+* [**Bfxrate**](https://bfxrates.com/)
+*   [**Tensorcharts**](https://www.tensorcharts.com/)\\
+
+    ***
+* [**B站视频**](https://www.bilibili.com/video/BV1Be411s7pj)
 {% endtab %}
 
 {% tab title="NVT & NVTS" %}
 * [**NVT**](https://charts.woobull.com/bitcoin-nvt-ratio/) **&** [**NVTS**](https://charts.woobull.com/bitcoin-nvt-signal/) **（Woobull）或** [**NVT**](https://www.blockchain.com/charts/nvt) **&** [**NVTS**](https://www.blockchain.com/charts/nvts)**（Blockchain.com）**\
-  ****[**NVT**](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/#fnref2)**：90**（表示高估）和 **40**（表示低估）\
+  \*\*\*\*[**NVT**](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/#fnref2)**：90**（表示高估）和 **40**（表示低估）\
   **如果价格小幅下跌后，NVT依然>90，说明是泡沫，应该立即离场。**\
-  ****[**NVTS**](https://woobull.com/nvt-signal-a-new-trading-indicator-to-pick-tops-and-bottoms/)**：150**（表示高估）和 **45**（表示低估）
+  \*\*\*\*[**NVTS**](https://woobull.com/nvt-signal-a-new-trading-indicator-to-pick-tops-and-bottoms/)**：150**（表示高估）和 **45**（表示低估）
 
 ![](<../.gitbook/assets/image (8).png>)
 {% endtab %}
 
-{% tab title="梅特卡夫定律 Metcalfe's law" %}
+{% tab title="梅特卡夫定律 Metcalfe" %}
 * [Bitcoin Market Cap should be $40b according to Metcalfe's law](https://woobull.com/bitcoin-market-cap-should-be-40b-according-to-metcalfes-law/)
 * [Metcalfe’s Law and Bitcoin’s Value](https://dcresearch.medium.com/metcalfes-law-and-bitcoin-s-value-2b99c7efd1fa)
-* [基于交易指标衍生而来的**NVT (Network Value to Transactions)**，和基于用户指标衍生而来的**梅特卡夫指标(Metcalfe's law)**](https://new.qq.com/omn/20190807/20190807A0K3X200.html?pc)****
+* [基于交易指标衍生而来的**NVT (Network Value to Transactions)**，和基于用户指标衍生而来的**梅特卡夫指标(Metcalfe's law)**](https://new.qq.com/omn/20190807/20190807A0K3X200.html?pc)\*\*\*\*
 {% endtab %}
 
 {% tab title="Sharpe Ratio" %}
-****[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)
+\*\*\*\*[**Sharpe Ratio**](https://charts.woobull.com/bitcoin-risk-adjusted-return/)
 {% endtab %}
 
 {% tab title="活跃地址数" %}
@@ -342,7 +331,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="RVT" %}
-* [**RVT介绍**](https://medium.com/@\_Checkmatey\_/the-bitcoin-rvt-ratio-a-high-conviction-macro-indicator-615b68715b77)****
+* [**RVT介绍**](https://medium.com/@\_Checkmatey\_/the-bitcoin-rvt-ratio-a-high-conviction-macro-indicator-615b68715b77)\*\*\*\*
 
 ![](<../.gitbook/assets/image (6).png>)
 
@@ -356,7 +345,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="UTXO" %}
-### UTXO (< 1 month)
+#### UTXO (< 1 month)
 
 一月以下的 UTXO 的增加，代表着更多的 Holder 参与到市场交易中；突然的极端行情会造成该值的异常升高，这种情况下另行分析背后原因对市场状态的影响。
 
@@ -364,7 +353,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 {% endtab %}
 
 {% tab title="布林带" %}
-* ****[**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/)****\
+* [**TradingView**](https://www.tradingview.com/chart/ooNfs1M1/)\
   **下跌至第二条布林线离场**
 
 ![](../.gitbook/assets/2324D53C92773EFA8DAF7E8F3F2213BD.jpg)
@@ -383,7 +372,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ## 纳指指标
 
-[**The total market capitalization of Nasdaq 100**](https://markets.businessinsider.com/index/market-capitalization/nasdaq\_100)****
+[**The total market capitalization of Nasdaq 100**](https://markets.businessinsider.com/index/market-capitalization/nasdaq\_100)\*\*\*\*
 
 {% tabs %}
 {% tab title="CAPE" %}
@@ -398,11 +387,7 @@ USDT市值增长的导数，决定了比特币的涨跌
 * [巴菲特指标](http://www.currentmarketvaluation.com/models/buffett-indicator.php) 或 [巴菲特指标](https://www.gurufocus.cn/indicator/buffett-market-valuation)（推荐）。以股市总市值占GNP（或GDP）的比例来衡量一国股市的估值水平，又被称作资产证券化率指标。（[**介绍**](https://www.sohu.com/a/437526687\_146833)）一般情况，巴菲特指标位于70%至80%之间时是买入美股的好时机。如果巴菲特指标超过100%，则投资者需要关注美国股市的风险，并应该考虑持币观察。
 {% endtab %}
 
-{% tab title="VIX" %}
-
-{% endtab %}
-
 {% tab title="价值大师网" %}
-* [**价值大师网**](https://www.gurufocus.cn/)****
+* [**价值大师网**](https://www.gurufocus.cn/)\*\*\*\*
 {% endtab %}
 {% endtabs %}

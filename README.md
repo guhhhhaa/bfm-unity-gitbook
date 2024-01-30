@@ -4,7 +4,7 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 
 # 💎 BF​M Unity : Blockchain · Finance · Metaverse
 
-> ## 比坊**梦 : 区块链 · 金融 · 元宇宙**
+> ### 比坊**梦 : 区块链 · 金融 · 元宇宙**
 >
 > **BF​M Unity : Blockchain · Finance · Metaverse**
 
@@ -16,8 +16,7 @@ description: 'BF​M Unity : Blockchain · Finance · Metaverse'
 
 NOTE: **💀 This project is in beta. Use at your own risk.**
 
-NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://academy.binance.com/zh/glossary/do-your-own-research)\
-
+NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://academy.binance.com/zh/glossary/do-your-own-research)\\
 
 1，本网站所载的资料并不构成投资的意见或建议。
 
@@ -27,40 +26,40 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 4，我们的分析和方案，仅供参考，若您因此进行投资行为，所面临的损失，须自行承担。
 
-5，我们不对因分析结果，方案模拟，未来预测的变化和准确性做任何投资担保。&#x20;
+5，我们不对因分析结果，方案模拟，未来预测的变化和准确性做任何投资担保。
 
 </details>
 
 ## 你是新人？请点击以下链接：
 
-{% content-ref url="xin-ren-bi-kan.md" %}
-[xin-ren-bi-kan.md](xin-ren-bi-kan.md)
+{% content-ref url="bfm-lite-bi-fang-meng-qing-liang-ban/xin-ren-bi-kan.md" %}
+[xin-ren-bi-kan.md](bfm-lite-bi-fang-meng-qing-liang-ban/xin-ren-bi-kan.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-## 警告：v3.0.0 版本已经被锁定，不再修改和维护
+### 警告：v3.0.0 版本已经被锁定，不再修改和维护
 
-## 锁定时间是 2023年3月11日
+### 锁定时间是 2023年3月11日
 
-## 下一个Fork升级版本为4.0.0
+### 下一个Fork升级版本为4.0.0
 
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
-## [赞助](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [加群](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) | [看板](https://trello.com/b/z4aDgNAL/todolist)
+### [赞助](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [加群](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) | [看板](https://trello.com/b/z4aDgNAL/todolist)
 
-### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/0nbQ5ZM9)
+#### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/0nbQ5ZM9)
 {% endhint %}
 
 {% content-ref url="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
 [the-tzolkin-calendar](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md" %}
-[lv0-zhu-jian-qiao-yin-dao.md](bfm-unity-bi-fang-meng-lian-he-ti/lv0-zhu-jian-qiao-yin-dao.md)
+{% content-ref url="bfm-lite-bi-fang-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md" %}
+[lv0-zhu-jian-qiao-yin-dao.md](bfm-lite-bi-fang-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/" %}
-[management-cockpit-operation](bfm-da-bi-fang-meng-shu-chan/management-cockpit-operation/)
+{% content-ref url="bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/" %}
+[management-cockpit-operation](bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/)
 {% endcontent-ref %}
 
 {% content-ref url="bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-discovery.md" %}
@@ -104,14 +103,14 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 ## 信息矩阵
 
-| [Gitbook 群主页](https://www.bfm-unity.com/)                              | [Trello 看板](https://trello.com/b/z4aDgNAL/todolist)                      |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| ****[**Github 文档地址0**](https://github.com/guhhhhaa/bfm-gitbook-v1)**** | ****[**Github 代码地址1**](https://github.com/guhhhhaa/bfm-group-file)****   |
-| ****[**Github 文档地址1**](https://github.com/guhhhhaa/bfm-gitbook)****    | ****[**Github 代码地址2**](https://github.com/BFM-Unity/BFM-Unity-2)****     |
-| [B站视频主页](https://space.bilibili.com/11708778)                          | [ YouTube视频主页](https://www.youtube.com/channel/UCfiSjf-6Sxnf0t9J2xGVzuA) |
-| [Telegram群组](https://t.me/BFMUnity)                                    | [Telegram频道](https://t.me/BFM\_Unity)                                    |
-| [Discord群组](https://discord.gg/CyEcS2wmzk)                             | [Reddit论坛](https://www.reddit.com/r/BFM\_Unity/)                         |
-| QQ群：708912525                                                          |                                                                          |
+| [Gitbook 群主页](https://www.bfm-unity.com/)                      | [Trello 看板](https://trello.com/b/z4aDgNAL/todolist)                     |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [**Github 文档地址0**](https://github.com/guhhhhaa/bfm-gitbook-v1) | [**Github 代码地址1**](https://github.com/guhhhhaa/bfm-group-file)          |
+| [**Github 文档地址1**](https://github.com/guhhhhaa/bfm-gitbook)    | [**Github 代码地址2**](https://github.com/BFM-Unity/BFM-Unity-2)            |
+| [B站视频主页](https://space.bilibili.com/11708778)                  | [YouTube视频主页](https://www.youtube.com/channel/UCfiSjf-6Sxnf0t9J2xGVzuA) |
+| [Telegram群组](https://t.me/BFMUnity)                            | [Telegram频道](https://t.me/BFM\_Unity)                                   |
+| [Discord群组](https://discord.gg/CyEcS2wmzk)                     | [Reddit论坛](https://www.reddit.com/r/BFM\_Unity/)                        |
+| QQ群：708912525                                                  |                                                                         |
 
 ## 吉祥物
 
