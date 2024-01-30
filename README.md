@@ -4,7 +4,7 @@ description: 'BF​M Unity : Blockchain · Finance · Multiverse'
 
 # 💎 BF​M Unity : Blockchain · Finance · Multiverse
 
-> ### 位面简**梦联合体 : 区块链 · 金融 · 元宇宙**
+> ### 位面简**梦联合体 : 区块链 · 金融 · 多元宇宙**
 >
 > **BF​M Unity : Blockchain · Finance ·** Multiverse
 
@@ -32,8 +32,8 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 ## 你是新人？请点击以下链接：
 
-{% content-ref url="bfm-lite-bi-fang-meng-qing-liang-ban/xin-ren-bi-kan.md" %}
-[xin-ren-bi-kan.md](bfm-lite-bi-fang-meng-qing-liang-ban/xin-ren-bi-kan.md)
+{% content-ref url="bfm-lite-wei-mian-jian-meng-qing-liang-ban/xin-ren-bi-kan.md" %}
+[xin-ren-bi-kan.md](bfm-lite-wei-mian-jian-meng-qing-liang-ban/xin-ren-bi-kan.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -44,40 +44,40 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 #### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/0nbQ5ZM9)
 {% endhint %}
 
-{% content-ref url="bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](bfm-da-bi-fang-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% content-ref url="bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-lite-bi-fang-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md" %}
-[lv0-zhu-jian-qiao-yin-dao.md](bfm-lite-bi-fang-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md)
+{% content-ref url="bfm-lite-wei-mian-jian-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md" %}
+[lv0-zhu-jian-qiao-yin-dao.md](bfm-lite-wei-mian-jian-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/" %}
-[management-cockpit-operation](bfm-lite-bi-fang-meng-qing-liang-ban/management-cockpit-operation/)
+{% content-ref url="bfm-lite-wei-mian-jian-meng-qing-liang-ban/management-cockpit-operation/" %}
+[management-cockpit-operation](bfm-lite-wei-mian-jian-meng-qing-liang-ban/management-cockpit-operation/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-discovery.md" %}
-[command-room-discovery.md](bfm-eco.-bi-fang-meng-qu-kuai-sheng-tai/command-room-discovery.md)
+{% content-ref url="bfm-eco.-wei-mian-jian-meng-qu-kuai-sheng-tai/command-room-discovery.md" %}
+[command-room-discovery.md](bfm-eco.-wei-mian-jian-meng-qu-kuai-sheng-tai/command-room-discovery.md)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/" %}
-[lv2-yin-hang](bfm-da-bi-fang-meng-shu-chan/lv2-yin-hang/)
+{% content-ref url="bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/" %}
+[lv2-yin-hang](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/" %}
-[research-institute-development](bfm-rins.-bi-fang-meng-ke-xue-yan-jiu-yuan/research-institute-development/)
+{% content-ref url="bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/research-institute-development/" %}
+[research-institute-development](bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/research-institute-development/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-unity-bi-fang-meng-lian-he-ti/roadmap/" %}
-[roadmap](bfm-unity-bi-fang-meng-lian-he-ti/roadmap/)
+{% content-ref url="bfm-unity-wei-mian-jian-meng-lian-he-ti/roadmap/" %}
+[roadmap](bfm-unity-wei-mian-jian-meng-lian-he-ti/roadmap/)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md" %}
-[qun-gong-gao-bei-fen.md](bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md)
+{% content-ref url="bfm-unity-wei-mian-jian-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md" %}
+[qun-gong-gao-bei-fen.md](bfm-unity-wei-mian-jian-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md)
 {% endcontent-ref %}
 
-{% content-ref url="bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md" %}
-[juan-zeng-da-shang.md](bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang.md)
+{% content-ref url="bfm-da-wei-mian-jian-meng-shu-chan/juan-zeng-da-shang.md" %}
+[juan-zeng-da-shang.md](bfm-da-wei-mian-jian-meng-shu-chan/juan-zeng-da-shang.md)
 {% endcontent-ref %}
 
 ![](<.gitbook/assets/截屏2021-12-09 下午4.38.59.png>)
