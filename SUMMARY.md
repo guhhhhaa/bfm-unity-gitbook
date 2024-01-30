@@ -122,7 +122,6 @@
 * [International Phone Number](bfm-trad.-wei-mian-jian-meng-chuan-tong-jin-rong/hai-wai-shou-ji-hao-ban-li.md)
 * [International Bank Card](bfm-trad.-wei-mian-jian-meng-chuan-tong-jin-rong/international-bank-card.md)
 * [桥接性数字钱包](bfm-trad.-wei-mian-jian-meng-chuan-tong-jin-rong/qiao-jie-xing-shu-zi-qian-bao.md)
-* [跨境收付](bfm-trad.-wei-mian-jian-meng-chuan-tong-jin-rong/page-2.md)
 * [礼品卡与场外交易](bfm-trad.-wei-mian-jian-meng-chuan-tong-jin-rong/li-pin-ka-yu-chang-wai-jiao-yi.md)
 * [草稿](bfm-trad.-wei-mian-jian-meng-chuan-tong-jin-rong/cao-gao.md)
 
@@ -221,8 +220,6 @@
 
 ## 工具
 
-* [SS/V2Ray 科学上网 ✈️](gong-ju/ss-v2ray.md)
-* [华谷套件（Google Play商店）](gong-ju/hua-gu-tao-jian-google-play-shang-dian.md)
 * [AIGC](gong-ju/aigc.md)
 * [文章论文生成器](gong-ju/wen-zhang-sheng-cheng-qi.md)
 * [绘画生成器](gong-ju/hui-hua-sheng-cheng-qi.md)
@@ -250,7 +247,39 @@
 * [钱包店](wei-mian-jian-meng-hou-qin-bu/qian-bao-dian.md)
 * [家具店](wei-mian-jian-meng-hou-qin-bu/jia-ju-dian.md)
 
-## 位面简梦障碍解除
+## BFM LIB.｜位面简梦图书馆
 
-* [Page 1](wei-mian-jian-meng-zhang-ai-jie-chu/page-1.md)
-* [Page 2](wei-mian-jian-meng-zhang-ai-jie-chu/page-2.md)
+* [Page 1](bfm-lib.-wei-mian-jian-meng-tu-shu-guan/page-1.md)
+* [Page 2](bfm-lib.-wei-mian-jian-meng-tu-shu-guan/page-2.md)
+
+## BFM OL｜位面简梦障碍解除
+
+* [SS/V2Ray 科学上网 ✈️](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/ss-v2ray.md)
+* [华谷套件（Google Play商店）](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/hua-gu-tao-jian-google-play-shang-dian.md)
+* [跨境收付](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/page-2.md)
+* [离岸实体](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/li-an-shi-ti.md)
+* [Page 3](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/page-3.md)
+
+## BFM AI｜位面简梦智能
+
+* [Page 4](bfm-ai-wei-mian-jian-meng-zhi-neng/page-4.md)
+
+## BFM DS｜位面简梦数据支撑
+
+* [Page 5](bfm-ds-wei-mian-jian-meng-shu-ju-zhi-cheng/page-5.md)
+
+## BFM BM｜位面简梦区块基础
+
+* [区块链安全](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-an-quan.md)
+* [区块链共识算法](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-gong-shi-suan-fa.md)
+* [区块链分类与层次](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-fen-lei-yu-ceng-ci.md)
+* [区块链评级](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-ping-ji.md)
+* [私钥与BIP44](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/si-yue-yu-bip44.md)
+* [私钥云保管](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/si-yue-yun-bao-guan.md)
+* [钱包](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qian-bao.md)
+* [交易所](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/jiao-yi-suo.md)
+* [实体挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/shi-ti-wa-kuang.md)
+* [质押挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zhi-ya-wa-kuang.md)
+* [云算力挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/yun-suan-li-wa-kuang.md)
+* [桥接性钱包&加密银行卡](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qiao-jie-xing-qian-bao-jia-mi-yin-hang-ka.md)
+* [礼品卡&场外交易](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/li-pin-ka-chang-wai-jiao-yi.md)

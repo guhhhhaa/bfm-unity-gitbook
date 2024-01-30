@@ -155,6 +155,6 @@ description: Management Cockpit (Operation)
 
 ## 科学上网
 
-{% content-ref url="../../gong-ju/ss-v2ray.md" %}
-[ss-v2ray.md](../../gong-ju/ss-v2ray.md)
+{% content-ref url="../../bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/ss-v2ray.md" %}
+[ss-v2ray.md](../../bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/ss-v2ray.md)
 {% endcontent-ref %}

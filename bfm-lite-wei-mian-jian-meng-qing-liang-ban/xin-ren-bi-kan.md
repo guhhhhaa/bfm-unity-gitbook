@@ -27,8 +27,8 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 * 首先你需要科学上网，才能正常访问本网站和大部分币圈网站
 * 由于兔国政策不友好，本网站和大部分币圈网站已经屏蔽兔国IP，不对兔国人民提供服务
 
-{% content-ref url="../gong-ju/ss-v2ray.md" %}
-[ss-v2ray.md](../gong-ju/ss-v2ray.md)
+{% content-ref url="../bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/ss-v2ray.md" %}
+[ss-v2ray.md](../bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/ss-v2ray.md)
 {% endcontent-ref %}
 
 如果你只有一台安卓 Android 手机：\
