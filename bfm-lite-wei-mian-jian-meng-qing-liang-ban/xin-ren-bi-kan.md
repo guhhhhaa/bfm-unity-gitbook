@@ -162,8 +162,8 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 MVRV+S2F+币圈美林时钟+激活函数神经元确定仓位+帕累托分布+香农的恶魔+山寨币指数+市值占比幂率修正——共同构筑的基于Excel表格的策略！
 
-{% content-ref url="../bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](../bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% content-ref url="../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 2. **链上数据分析工具集锦**
@@ -174,8 +174,8 @@ MVRV+S2F+币圈美林时钟+激活函数神经元确定仓位+帕累托分布+�
 
 3. **减半，顶部，底部时间预测**
 
-{% content-ref url="../bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/shi-jian-xiao-zhun-yan-jiu.md" %}
-[shi-jian-xiao-zhun-yan-jiu.md](../bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/shi-jian-xiao-zhun-yan-jiu.md)
+{% content-ref url="../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/shi-jian-xiao-zhun-yan-jiu.md" %}
+[shi-jian-xiao-zhun-yan-jiu.md](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/shi-jian-xiao-zhun-yan-jiu.md)
 {% endcontent-ref %}
 
 ## 4，其他交易所 和 DeFi（不确定且有风险的年化收益：未知）

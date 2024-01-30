@@ -4,7 +4,7 @@ description: The Tzolkin Calendar
 
 # 卓尔金历法旧版页面
 
-![](../../../.gitbook/assets/v2-57e4789f96a64829e512ff545e8cc34d\_1440w.jpeg)
+![](../../.gitbook/assets/v2-57e4789f96a64829e512ff545e8cc34d\_1440w.jpeg)
 
 > My clock is paper financial time 我的**时钟**显示账面的**金融时间**
 >
@@ -14,12 +14,12 @@ description: The Tzolkin Calendar
 >
 > —— 《三体》- 刘慈欣
 
-{% content-ref url="../" %}
-[..](../)
+{% content-ref url="../zi-chan-pei-zhi.md" %}
+[zi-chan-pei-zhi.md](../zi-chan-pei-zhi.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
-[yu-zhou-mo-fang-hui-gui-fen-xi.md](../../../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
+{% content-ref url="../../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md" %}
+[yu-zhou-mo-fang-hui-gui-fen-xi.md](../../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/yu-zhou-mo-fang-hui-gui-fen-xi.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -231,7 +231,7 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 ## **周期发现**
 
-![](../../../.gitbook/assets/卓尔金历法-大周期.png)
+![](../../.gitbook/assets/卓尔金历法-大周期.png)
 
 #### [http://www.chidaolian.com/article-45496-1](http://www.chidaolian.com/article-45496-1)
 
@@ -247,8 +247,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 
 具体软件如下：
 
-{% content-ref url="../../../bfm-lite-wei-mian-jian-meng-qing-liang-ban/management-cockpit-operation/" %}
-[management-cockpit-operation](../../../bfm-lite-wei-mian-jian-meng-qing-liang-ban/management-cockpit-operation/)
+{% content-ref url="../../bfm-lite-wei-mian-jian-meng-qing-liang-ban/management-cockpit-operation/" %}
+[management-cockpit-operation](../../bfm-lite-wei-mian-jian-meng-qing-liang-ban/management-cockpit-operation/)
 {% endcontent-ref %}
 
 ## 归一化操作
@@ -257,8 +257,8 @@ Disclaimer: **Any information found on this page is not to be considered as fina
 [zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md](zhuo-er-jin-sheng-ji-3-zhi-neng-shi-yan.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/shu-xue-li-qi.md" %}
-[shu-xue-li-qi.md](../../../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/shu-xue-li-qi.md)
+{% content-ref url="../../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/shu-xue-li-qi.md" %}
+[shu-xue-li-qi.md](../../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/shu-xue-li-qi.md)
 {% endcontent-ref %}
 
 数据归一到（-1，1）
@@ -287,17 +287,17 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 **纵Y轴——S2F月预测价格/价格——**[**数据来源**](https://www.qkl123.com/data/s2f/btc)\*\*\*\*
 
-![](<../../../.gitbook/assets/屏幕快照 2021-04-02 下午8.50.46.png>)
+![](<../../.gitbook/assets/屏幕快照 2021-04-02 下午8.50.46.png>)
 
-![](<../../../.gitbook/assets/屏幕快照 2021-04-02 下午8.50.59.png>)
+![](<../../.gitbook/assets/屏幕快照 2021-04-02 下午8.50.59.png>)
 
-![](<../../../.gitbook/assets/屏幕快照 2021-04-03 上午7.12.11.png>)
+![](<../../.gitbook/assets/屏幕快照 2021-04-03 上午7.12.11.png>)
 
 ## 归纳推理
 
-![卓尔金历法](../../../.gitbook/assets/卓尔金历法-领航舵.png)
+![卓尔金历法](../../.gitbook/assets/卓尔金历法-领航舵.png)
 
-![图中数字指的是推荐仓位](../../../.gitbook/assets/卓尔金历法-雷达.png)
+![图中数字指的是推荐仓位](../../.gitbook/assets/卓尔金历法-雷达.png)
 
 ## **历法**说明
 
@@ -315,7 +315,7 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 ## **与美林时钟的关系**
 
-![](<../../../.gitbook/assets/屏幕快照 2021-04-03 上午10.44.27.png>)
+![](<../../.gitbook/assets/屏幕快照 2021-04-03 上午10.44.27.png>)
 
 两个随机变量，才能校准、判断一个周期。
 
@@ -388,7 +388,7 @@ b_1 =   算数平均数(极大值(LN(f_1()/a_1),N)
 
 我建议你先看一下《三体》，里面有一个假说，射手和农场主假设，这是很可怕的。
 
-![](../../../.gitbook/assets/98C03B7C3C216D56BB61D0199DFF9239.jpg)
+![](../../.gitbook/assets/98C03B7C3C216D56BB61D0199DFF9239.jpg)
 
 但是，我们会因为害怕就放弃寻找规则吗？
 

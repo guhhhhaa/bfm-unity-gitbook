@@ -29,14 +29,14 @@ description: Management Cockpit (Operation)
 
 ## 资产配置
 
-{% content-ref url="../../bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/" %}
-[zi-chan-pei-zhi](../../bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/)
+{% content-ref url="../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/zi-chan-pei-zhi.md" %}
+[zi-chan-pei-zhi.md](../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/zi-chan-pei-zhi.md)
 {% endcontent-ref %}
 
 ## 核心显示界面
 
-{% content-ref url="../../bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](../../bfm-da-wei-mian-jian-meng-shu-chan/zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% content-ref url="../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 {% content-ref url="../../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/shu-ju-zhi-neng-bu/lv6-xing-mo-fang-fen-lei/" %}

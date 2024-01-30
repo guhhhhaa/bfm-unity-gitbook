@@ -12,11 +12,10 @@ description: BFM Unity Reserve System
 
 The BFM Unity Reserve System Established on August 24, 2021, it is a decentralized central bank of the BFM Unity. Every entity with The Tzolkin Calendar can execute its monetary policy anytime and anywhere.
 
-{% content-ref url="zi-chan-pei-zhi/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](zi-chan-pei-zhi/the-tzolkin-calendar/)
+{% content-ref url="../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 {% embed url="https://www.youtube.com/playlist?list=PLy5s8SHCGHgMLYF-wC085-H_IonBW7k8c" %}
 
 {% embed url="https://www.youtube.com/watch?v=hd9FL18Q-sw&list=PLy5s8SHCGHgOhZ0KjlfRaQVBWFSUSQPNS" %}
-

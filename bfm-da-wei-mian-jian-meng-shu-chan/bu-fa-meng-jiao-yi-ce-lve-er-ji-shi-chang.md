@@ -40,8 +40,8 @@ description: BFM Trading Strategy
 >
 > 由于算数平均收益总是高于几何平均收益，因此，一只几何平均收益为0（假设）的不稳定股票的算数平均收益一定为正值。
 
-* [固定比例动态平衡多标的优化（4332221111准则，或322111准则）](zi-chan-pei-zhi/the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
-* 🔥 [帕累托分布与市值修正幂率投资法](zi-chan-pei-zhi/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)（按照市值的N次幂（N取0～3）分配投资组合，再定期再平衡）（虽然这个链接是比特币，但是道理相同，也可以用于股票）
+* [固定比例动态平衡多标的优化（4332221111准则，或322111准则）](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-haab-calendar/zhuo-er-jin-sheng-ji-6-cang-wei-dan-yuan.md)
+* 🔥 [帕累托分布与市值修正幂率投资法](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-10-shi-zhan-mi-xiu.md)（按照市值的N次幂（N取0～3）分配投资组合，再定期再平衡）（虽然这个链接是比特币，但是道理相同，也可以用于股票）
 * [凯利公式](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi)
 * [**马科维兹均值方差模型** 与 \*\*凯利准则（几何平均数准则）\*\*结合](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi)
 * [同根策略 与 同架策略](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie/zi-chan-pei-zhi/tong-gen-ce-lve-yu-tong-jia-ce-lve)
@@ -89,7 +89,7 @@ description: BFM Trading Strategy
 
 ## 不想玩游戏了？可以去抢游戏之神特图的星杯
 
-* [卓尔金历法](zi-chan-pei-zhi/the-tzolkin-calendar/)
+* [卓尔金历法](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/)
   * 智能投顾表格，帮您轻松确定杠杆率，抄底+逃顶
   * **MVRV+S2F+币圈美林时钟+凯利准则收益率和收益率方差控制最大杠杆率+激活函数神经元最终确定仓位+帕累托分布+香农的恶魔+山寨币指数+市值占比幂率修正—共同构筑的基于Excel表格的策略！**
 *   [BFM算法](../bfm-rins.-wei-mian-jian-meng-ke-xue-yan-jiu-yuan/suan-fa-yan-jiu-yuan/)
