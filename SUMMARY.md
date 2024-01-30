@@ -181,7 +181,7 @@
 ## BFM Univ. | 位面简梦大学
 
 * [素白 · 密斯卡托尼克大学 🏫](bfm-univ.-wei-mian-jian-meng-da-xue/xiao-bai-xue-cheng.md)
-* [如何混入中国人民银行](bfm-univ.-wei-mian-jian-meng-da-xue/ru-he-hun-ru-zhong-guo-ren-min-yin-hang.md)
+* [如何接管中国人民银行](bfm-univ.-wei-mian-jian-meng-da-xue/ru-he-jie-guan-zhong-guo-ren-min-yin-hang.md)
 * [Excel 教室](bfm-univ.-wei-mian-jian-meng-da-xue/excel-jiao-shi.md)
 * [Power BI 教室](bfm-univ.-wei-mian-jian-meng-da-xue/power-bi-jiao-cheng.md)
 * [SPSS 教室](bfm-univ.-wei-mian-jian-meng-da-xue/spss-jiao-cheng.md)
