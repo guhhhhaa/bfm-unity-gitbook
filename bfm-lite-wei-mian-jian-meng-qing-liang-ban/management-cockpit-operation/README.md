@@ -19,9 +19,7 @@ description: Management Cockpit (Operation)
 * [**币安 - Binance**](https://accounts.binancezh.cz/zh-CN/register?ref=H7ZMPFPE) **(此链接返现比例: 20%**)([**流动性挖矿**](https://www.binance.com/zh-CN/swap/liquidity)**）**
 * \*\*\*\*[**欧易 - OKEx**](https://www.ouyi.fit/join/3626787447)**（支持中国大陆新用户注册，法币入金）**
 * [**bitkeep.org**](https://bitkeep.org/zh/index.html)
-* [**派网 - Pionex**](https://www.pionex.cc/zh-CN/sign/ref/NxwM4W0S)
-* [**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)，[**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)\*\*\*\*
-* [**小蚁 - AntBot**](https://antrade.io/)
+* [**Trust Wallet**](https://trustwallet.com/)，[**Blockchain.com**](https://www.blockchain.com/wallet)
 
 {% content-ref url="si-yao-yun-bao-guan.md" %}
 [si-yao-yun-bao-guan.md](si-yao-yun-bao-guan.md)
