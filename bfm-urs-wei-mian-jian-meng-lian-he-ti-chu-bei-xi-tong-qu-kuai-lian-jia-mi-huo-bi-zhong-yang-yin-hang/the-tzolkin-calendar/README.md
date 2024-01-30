@@ -14,10 +14,12 @@ description: The Tzolkin Calendar
 
 > [什么是卓尔金历？](https://www.jianshu.com/p/5b3a31f95a1d)
 
-![](<../../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (58).png>)
 
 {% hint style="success" %}
 ### **现在部署你的飞行船：**
+
+[简版飞行船0.3](https://share.weiyun.com/57ZJmSnA)
 
 ### \*\*\*\*[**简版飞行船0.2**](https://share.weiyun.com/bky3C7YB)**（新版推荐🔥，需输入你的Glassnode API）**
 
@@ -176,13 +178,13 @@ MVRV+S2F——>仓位杠杆率&#x20;
 
 ## **周期发现**
 
-![](../../../.gitbook/assets/卓尔金历法-大周期.png)
+![](../../.gitbook/assets/卓尔金历法-大周期.png)
 
 ## 归纳推理
 
-![卓尔金历法](../../../.gitbook/assets/卓尔金历法-领航舵.png)
+![卓尔金历法](../../.gitbook/assets/卓尔金历法-领航舵.png)
 
-![图中数字指的是推荐仓位](../../../.gitbook/assets/卓尔金历法-雷达.png)
+![图中数字指的是推荐仓位](../../.gitbook/assets/卓尔金历法-雷达.png)
 
 ## **历法**说明
 
@@ -200,7 +202,7 @@ MVRV+S2F——>仓位杠杆率&#x20;
 
 ## **美林时钟**
 
-![](<../../../.gitbook/assets/屏幕快照 2021-04-03 上午10.44.27.png>)
+![](<../../.gitbook/assets/屏幕快照 2021-04-03 上午10.44.27.png>)
 
 ## 参数设置
 
@@ -210,7 +212,7 @@ MVRV+S2F——>仓位杠杆率&#x20;
 
 ## 回测结果
 
-![](<../../../.gitbook/assets/屏幕快照 2021-09-20 上午11.47.15.png>)
+![](<../../.gitbook/assets/屏幕快照 2021-09-20 上午11.47.15.png>)
 
 {% content-ref url="zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md" %}
 [zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md](zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
