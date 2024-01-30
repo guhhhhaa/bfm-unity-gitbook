@@ -275,7 +275,6 @@
 * [区块链分类与层次](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-fen-lei-yu-ceng-ci.md)
 * [区块链评级](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-ping-ji.md)
 * [私钥与BIP44](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/si-yue-yu-bip44.md)
-* [私钥云保管](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/si-yue-yun-bao-guan.md)
 * [钱包](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qian-bao.md)
 * [交易所](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/jiao-yi-suo.md)
 * [实体挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/shi-ti-wa-kuang.md)
