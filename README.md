@@ -4,7 +4,7 @@ description: 'BF​M Unity : Blockchain · Finance · Multiverse'
 
 # 💎 BF​M Unity : Blockchain · Finance · Multiverse
 
-> ### 比坊**梦 : 区块链 · 金融 · 元宇宙**
+> ### 位面简**梦联合体 : 区块链 · 金融 · 元宇宙**
 >
 > **BF​M Unity : Blockchain · Finance ·** Multiverse
 
@@ -37,12 +37,6 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 {% endcontent-ref %}
 
 {% hint style="info" %}
-### 警告：v3.0.0 版本已经被锁定，不再修改和维护
-
-### 锁定时间是 2023年3月11日
-
-### 下一个Fork升级版本为4.0.0
-
 [**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
 
 ### [赞助](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [加群](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) | [看板](https://trello.com/b/z4aDgNAL/todolist)
