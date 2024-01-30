@@ -6,8 +6,8 @@ description: 混乱的实验室：Te-s-r-act，是 TensorAct，还是 Tesseract 
 
 ## Te-s-r-act，是 TensorAct，还是Tesseract ?
 
-{% content-ref url="../../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
-[zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md](../../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md)
+{% content-ref url="../../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md" %}
+[zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md](../../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-5-shen-jing-wang-luo.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

@@ -44,8 +44,8 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 #### [**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) | [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/0nbQ5ZM9)
 {% endhint %}
 
-{% content-ref url="bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/)
+{% content-ref url="bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 {% content-ref url="bfm-lite-wei-mian-jian-meng-qing-liang-ban/lv0-zhu-jian-qiao-yin-dao.md" %}

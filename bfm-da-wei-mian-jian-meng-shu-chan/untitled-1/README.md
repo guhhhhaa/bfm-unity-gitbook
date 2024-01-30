@@ -91,8 +91,8 @@ WBTC，WETH，DPI，MVI，pBNB，WMATIC
 
 策略是公开的，就是客观的卓尔金历法，加上一点主观判断，不过主观判断很少。
 
-{% content-ref url="../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
-[the-tzolkin-calendar-0.md](../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
+{% content-ref url="../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+[the-tzolkin-calendar-0.md](../../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
 {% endcontent-ref %}
 
 ## 8，申购和赎回费怎么收取:

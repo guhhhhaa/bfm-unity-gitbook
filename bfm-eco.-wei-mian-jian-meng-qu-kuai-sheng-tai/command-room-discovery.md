@@ -42,8 +42,8 @@ description: BFM Eco.
 [zhi-hui-shi-ipfsfil.md](qi-ta-gong-lian/zhi-hui-shi-ipfsfil.md)
 {% endcontent-ref %}
 
-{% content-ref url="../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/" %}
-[the-tzolkin-calendar](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/)
+{% content-ref url="../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/" %}
+[the-tzolkin-calendar](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/)
 {% endcontent-ref %}
 
 ## 网络安全
@@ -366,8 +366,8 @@ USDT市值增长的导数，决定了比特币的涨跌
 
 ### MVRV和S2F投资策略
 
-{% content-ref url="../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
-[the-tzolkin-calendar-0.md](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-zhong-yang-yin-hang-huo-bi-zheng/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
+{% content-ref url="../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/the-tzolkin-calendar-0.md" %}
+[the-tzolkin-calendar-0.md](../bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
 {% endcontent-ref %}
 
 ## 纳指指标
