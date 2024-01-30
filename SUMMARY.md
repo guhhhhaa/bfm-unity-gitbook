@@ -44,7 +44,8 @@
   * [已废弃](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-haab-calendar/yi-fei-qi.md)
 * [资产配置 🕙 ⌚️（🔥）](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/zi-chan-pei-zhi.md)
 * [时间校准研究](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/shi-jian-xiao-zhun-yan-jiu.md)
-* [Page 3](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/page-3.md)
+* [如何接管中国人民银行](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-zhong-guo-ren-min-yin-hang.md)
+* [如何接管美联储](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-mei-lian-chu.md)
 
 ## BFM Unity | 位面简梦联合体
 
@@ -181,7 +182,6 @@
 ## BFM Univ. | 位面简梦大学
 
 * [素白 · 密斯卡托尼克大学 🏫](bfm-univ.-wei-mian-jian-meng-da-xue/xiao-bai-xue-cheng.md)
-* [如何接管中国人民银行](bfm-univ.-wei-mian-jian-meng-da-xue/ru-he-jie-guan-zhong-guo-ren-min-yin-hang.md)
 * [Excel 教室](bfm-univ.-wei-mian-jian-meng-da-xue/excel-jiao-shi.md)
 * [Power BI 教室](bfm-univ.-wei-mian-jian-meng-da-xue/power-bi-jiao-cheng.md)
 * [SPSS 教室](bfm-univ.-wei-mian-jian-meng-da-xue/spss-jiao-cheng.md)
