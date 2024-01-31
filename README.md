@@ -78,7 +78,11 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 [juan-zeng-da-shang.md](bfm-da-wei-mian-jian-meng-shu-chan/juan-zeng-da-shang.md)
 {% endcontent-ref %}
 
-![](<.gitbook/assets/截屏2021-12-09 下午4.38.59.png>)
+|     |     |     |
+| :-: | :-: | :-: |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 
 ## 本项目使用 GNU General Public License v3.0
 
