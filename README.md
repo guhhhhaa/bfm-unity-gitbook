@@ -4,8 +4,6 @@ description: 'BF​M Unity : Blockchain · Finance · Multiverse'
 
 # 💎 BF​M Unity : Blockchain · Finance · Multiverse
 
-
-
 > #### 位面简**梦联合体 : 区块链 · 金融 · 多元宇宙**
 >
 > **BF​M Unity : Blockchain · Finance ·** Multiverse
@@ -37,14 +35,6 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 {% content-ref url="bfm-lite-wei-mian-jian-meng-qing-liang-ban/xin-ren-bi-kan.md" %}
 [xin-ren-bi-kan.md](bfm-lite-wei-mian-jian-meng-qing-liang-ban/xin-ren-bi-kan.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-[**怀念旧版**](https://guhhhhaa.gitbook.io/bfm-unity-doc-v1/) **+ 曾用域名：**[**https://guhhhhaa.gitbook.io/bfm**](https://guhhhhaa.gitbook.io/bfm)
-
-#### [赞助](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang) | [加群](https://www.bfm-unity.com/bfm-unity-bi-fang-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu) | [看板](https://trello.com/b/z4aDgNAL/todolist)
-
-[**系统核心代码**](https://www.bfm-unity.com/bfm-dins.-bi-fang-meng-gong-cheng-she-ji-yuan/ruan-jian-bfm-on-python) **|** [**投资方法论**](https://guhhhhaa.gitbook.io/joinquant/jin-rong-li-lun-zong-jie) **|** [**设计Assets**](https://share.weiyun.com/0nbQ5ZM9)
-{% endhint %}
 
 {% content-ref url="bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/" %}
 [the-tzolkin-calendar](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/)
