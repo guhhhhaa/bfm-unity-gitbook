@@ -90,7 +90,7 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 [gpl-v3.md](feng-kong-yu-he-gui/gpl-v3.md)
 {% endcontent-ref %}
 
-## 价值矩阵
+## 价值矩阵（Don't Trust This，Updating）
 
 | [代币购买](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang)                    | [直接捐赠](https://www.bfm-unity.com/bfm-da-bi-fang-meng-shu-chan/juan-zeng-da-shang)                        |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
