@@ -32,6 +32,8 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 7，本网站会定期更新，就像有机体进行新陈代谢那样。
 
+8，本网站唯一的去中心化就是，你可以复制本网站，其他都是中心化的。
+
 </details>
 
 ## 你是新人？请点击以下链接：
