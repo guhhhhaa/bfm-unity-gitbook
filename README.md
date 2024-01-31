@@ -70,6 +70,8 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 </details>
 
+{% embed url="https://youtu.be/MUrnJ08lav0" %}
+
 <details>
 
 <summary>誓言与咒语</summary>
