@@ -1,0 +1,17 @@
+# 创世业务
+
+![](../../.gitbook/assets/银行牌匾.png)
+
+![](../../.gitbook/assets/银行告示.png)
+
+{% hint style="danger" %}
+正在建设中……
+{% endhint %}
+
+| 发币业务                                                | 发链业务 | 永久刻字                                                                                                                                                                                                                                                                | 存储业务                                                  | 永久网站                                |
+| --------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------- |
+| [TokenDIY-ETH](http://tokendiy.defiplot.com/#/)     | 跨链   | <p><a href="https://www.jianshu.com/p/3668a66f3eba"><strong>刻字1</strong></a></p><p><a href="https://www.babaofan.com/news/popular/53507.html"><strong>刻字2</strong></a></p><p><a href="https://www.528btc.com/ask/158555831343012.html"><strong>刻字3</strong></a></p> | [STORJ](https://www.storj.io/)                        | [Neocities](https://neocities.org/) |
+| [TokenDIY-BSC](http://bsc.tokendiy.defiplot.com/#/) | 公链   |                                                                                                                                                                                                                                                                     | [IPFS](https://ipfs.io/)([FIL](https://filecoin.io/)) |                                     |
+| [Kaleido.io](https://www.kaleido.io/)               | 侧链   |                                                                                                                                                                                                                                                                     |                                                       |                                     |
+| [Coin98 Issur](https://terminals.coin98.com/issuer) | 联盟链  |                                                                                                                                                                                                                                                                     |                                                       |                                     |
+|                                                     | 私有链  |                                                                                                                                                                                                                                                                     |                                                       |                                     |
