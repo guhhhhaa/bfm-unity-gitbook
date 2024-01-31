@@ -180,12 +180,6 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 [juan-zeng-da-shang.md](bfm-da-wei-mian-jian-meng-shu-chan/juan-zeng-da-shang.md)
 {% endcontent-ref %}
 
-|     |     |     |
-| :-: | :-: | :-: |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-
 ## 本项目使用 GNU General Public License v3.0
 
 {% content-ref url="feng-kong-yu-he-gui/gpl-v3.md" %}
