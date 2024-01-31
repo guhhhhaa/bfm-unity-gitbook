@@ -2,7 +2,7 @@
 description: 'BF​M Unity : Blockchain · Finance · Multiverse'
 ---
 
-# 💎 BF​M Unity : Blockchain · Finance · Multiverse（正在修复中…）
+# 💎 BF​M Unity : Blockchain · Finance · Multiverse（Don't Trust This Now，Updating…）
 
 > #### 位面简**梦联合体 : 区块链 · 金融 · 多元宇宙**
 >
@@ -69,8 +69,6 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 能力：探究 执行 洞察 服务 智慧 超越
 
 </details>
-
-{% embed url="https://youtu.be/MUrnJ08lav0" %}
 
 <details>
 
