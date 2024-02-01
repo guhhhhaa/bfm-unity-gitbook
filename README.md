@@ -2,11 +2,19 @@
 description: 'BF​M Unity : Blockchain · Finance · Multiverse'
 ---
 
-# 💎 BF​M Unity : Blockchain · Finance · Multiverse（Don't Trust This Now，Updating…）
+# 💎 BF​M Unity : Blockchain · Finance · Multiverse（Don't Trust This Now，Updating and Repairing…）
 
 > #### 位面简**梦联合体 : 区块链 · 金融 · 多元宇宙**
 >
 > **BF​M Unity : Blockchain · Finance · Multiverse**
+
+## Don't Trust This Now，Updating and Repairing…
+
+## Just Wait, Watch, Go to the safe place, Until here is safe.
+
+## OK, you can find here, find what you need,&#x20;
+
+## but this place now, is on fire, in danger, and we are repairing.
 
 ![](<.gitbook/assets/BFM Unity 5.0  升级版群青 (1).png>)
 
