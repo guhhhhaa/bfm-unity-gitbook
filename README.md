@@ -212,6 +212,10 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 | [Discord群组](https://discord.gg/CyEcS2wmzk)                     | [Reddit论坛](https://www.reddit.com/r/BFM\_Unity/)                        |
 | QQ群：708912525                                                  |                                                                         |
 
+## 组织架构
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>BFM Unity</td><td></td><td><a href=".gitbook/assets/BFM Unity logo 4.0@2x.png">BFM Unity logo 4.0@2x.png</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>BFM Institude</td><td></td><td><a href=".gitbook/assets/BFM Institute.png">BFM Institute.png</a></td></tr><tr><td></td><td>BFM Units</td><td></td><td><a href=".gitbook/assets/BFM  Units.png">BFM  Units.png</a></td></tr><tr><td></td><td>BFM URS</td><td></td><td><a href=".gitbook/assets/BFM URS (2).png">BFM URS (2).png</a></td></tr></tbody></table>
+
 ## 吉祥物
 
 ![](<.gitbook/assets/BFM Unity 吉祥物.png>)
