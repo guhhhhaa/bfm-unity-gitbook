@@ -1,22 +1,14 @@
 # 精神危害🧪🔬精神湮灭实验室
 
-
-
-
-
 <div>
 
-<figure><img src="../.gitbook/assets/精神危害简单.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/%E7%B2%BE%E7%A5%9E%E5%8D%B1%E5%AE%B3%E7%AE%80%E5%8D%95.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/世界精神安全实验室.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E5%AE%89%E5%85%A8%E5%AE%9E%E9%AA%8C%E5%AE%A4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-
-
-
 
 <div>
 
@@ -53,11 +45,11 @@
 
 {% embed url="https://www.orphandriftarchive.com/becoming-cyberpositive/syzygy/syzygy2/" %}
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image%20(5)%20(2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://hermitix.teachable.com/p/the-philosophy-of-the-ccru" %}
 
