@@ -275,6 +275,7 @@
   * [介绍在座的各位](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/jie-shao-zai-zuo-de-ge-wei.md)
   * [问候在座的各位](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/wen-hou-zai-zuo-de-ge-wei.md)
   * [评价在座的各位](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/ping-jia-zai-zuo-de-ge-wei.md)
+* [Page 6](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/page-6.md)
 * [区块链安全](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-an-quan.md)
 * [区块链共识算法](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-gong-shi-suan-fa.md)
 * [区块链分类与层次](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-fen-lei-yu-ceng-ci.md)
