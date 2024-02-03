@@ -58,6 +58,21 @@
   * [群公告备份](bfm-unity-wei-mian-jian-meng-lian-he-ti/ru-he-jia-ru-wo-men-de-tao-lun-qun-zu/qun-gong-gao-bei-fen.md)
 * [【组织】团队构成](bfm-unity-wei-mian-jian-meng-lian-he-ti/zu-zhi-wo-men-de-tuan-dui.md)
 
+## BFM DA | 位面简梦数产
+
+* [BFM Unity Reserve System](bfm-da-wei-mian-jian-meng-shu-chan/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
+* [BFM Foundation](bfm-da-wei-mian-jian-meng-shu-chan/untitled-1/README.md)
+  * [比坊梦全球互联网 基金](bfm-da-wei-mian-jian-meng-shu-chan/untitled-1/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
+  * [若尘的基金](bfm-da-wei-mian-jian-meng-shu-chan/untitled-1/ruo-chen-de-qie-man-ji-jin.md)
+* [BFM Trading Strategy♟](bfm-da-wei-mian-jian-meng-shu-chan/bu-fa-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
+* [影银行 (枢纽)](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/README.md)
+  * [自营业务](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/zi-ying-tou-zi.md)
+  * [个人业务](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/ge-ren-ye-wu.md)
+  * [企业业务](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/untitled.md)
+  * [创世业务](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/chuang-shi-ye-wu.md)
+* [会客厅 (赞助) 💰 & 资产公示](bfm-da-wei-mian-jian-meng-shu-chan/juan-zeng-da-shang.md)
+* [财务](bfm-da-wei-mian-jian-meng-shu-chan/ji-du-cai-wu-bao-biao.md)
+
 ## 🦣 BFM Eco. | 位面简梦区块生态
 
 * [BFM Eco. 🛰️](bfm-eco.-wei-mian-jian-meng-qu-kuai-sheng-tai/command-room-discovery.md)
@@ -86,20 +101,31 @@
   * [BFM Meme 🐶 💩](bfm-eco.-wei-mian-jian-meng-qu-kuai-sheng-tai/bi-fang-meng-yuan-yu-zhou/bfm-meme.md)
   * [BFM GameFi 🎮👾](bfm-eco.-wei-mian-jian-meng-qu-kuai-sheng-tai/bi-fang-meng-yuan-yu-zhou/bi-fang-meng-you-xi.md)
 
-## BFM DA | 位面简梦数产
+## BFM DS｜位面简梦数据支撑
 
-* [BFM Unity Reserve System](bfm-da-wei-mian-jian-meng-shu-chan/bi-fang-meng-lian-he-ti-chu-bei-xi-tong.md)
-* [BFM Foundation](bfm-da-wei-mian-jian-meng-shu-chan/untitled-1/README.md)
-  * [比坊梦全球互联网 基金](bfm-da-wei-mian-jian-meng-shu-chan/untitled-1/bi-fang-meng-quan-qiu-hu-lian-wang-ji-jin.md)
-  * [若尘的基金](bfm-da-wei-mian-jian-meng-shu-chan/untitled-1/ruo-chen-de-qie-man-ji-jin.md)
-* [BFM Trading Strategy♟](bfm-da-wei-mian-jian-meng-shu-chan/bu-fa-meng-jiao-yi-ce-lve-er-ji-shi-chang.md)
-* [影银行 (枢纽)](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/README.md)
-  * [自营业务](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/zi-ying-tou-zi.md)
-  * [个人业务](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/ge-ren-ye-wu.md)
-  * [企业业务](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/untitled.md)
-  * [创世业务](bfm-da-wei-mian-jian-meng-shu-chan/lv2-yin-hang/chuang-shi-ye-wu.md)
-* [会客厅 (赞助) 💰 & 资产公示](bfm-da-wei-mian-jian-meng-shu-chan/juan-zeng-da-shang.md)
-* [财务](bfm-da-wei-mian-jian-meng-shu-chan/ji-du-cai-wu-bao-biao.md)
+* [Page 5](bfm-ds-wei-mian-jian-meng-shu-ju-zhi-cheng/page-5.md)
+
+## BFM BM｜位面简梦区块基础
+
+* [“在座的各位”总集篇](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/README.md)
+  * [讲师阵容](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/jiang-shi-zhen-rong.md)
+  * [介绍在座的各位](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/jie-shao-zai-zuo-de-ge-wei.md)
+  * [问候在座的各位](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/wen-hou-zai-zuo-de-ge-wei.md)
+  * [评价在座的各位](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/ping-jia-zai-zuo-de-ge-wei.md)
+* [《精通比特币》《精通以太坊》](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/jing-tong-bi-te-bi-jing-tong-yi-tai-fang.md)
+* [区块链安全](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-an-quan.md)
+* [区块链共识算法](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-gong-shi-suan-fa.md)
+* [区块链分类与层次](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-fen-lei-yu-ceng-ci.md)
+* [区块链要素理论](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-yao-su-li-lun.md)
+* [区块链评级](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-ping-ji.md)
+* [私钥与BIP44](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/si-yue-yu-bip44.md)
+* [钱包](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qian-bao.md)
+* [交易所](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/jiao-yi-suo.md)
+* [实体挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/shi-ti-wa-kuang.md)
+* [质押挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zhi-ya-wa-kuang.md)
+* [云算力挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/yun-suan-li-wa-kuang.md)
+* [桥接性钱包&加密银行卡](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qiao-jie-xing-qian-bao-jia-mi-yin-hang-ka.md)
+* [礼品卡&场外交易](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/li-pin-ka-chang-wai-jiao-yi.md)
 
 ## BFM Trad. | 位面简梦传统金融
 
@@ -263,29 +289,3 @@
 ## BFM AI｜位面简梦智能
 
 * [Page 4](bfm-ai-wei-mian-jian-meng-zhi-neng/page-4.md)
-
-## BFM DS｜位面简梦数据支撑
-
-* [Page 5](bfm-ds-wei-mian-jian-meng-shu-ju-zhi-cheng/page-5.md)
-
-## BFM BM｜位面简梦区块基础
-
-* [“在座的各位”总集篇](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/README.md)
-  * [讲师阵容](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/jiang-shi-zhen-rong.md)
-  * [介绍在座的各位](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/jie-shao-zai-zuo-de-ge-wei.md)
-  * [问候在座的各位](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/wen-hou-zai-zuo-de-ge-wei.md)
-  * [评价在座的各位](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/ping-jia-zai-zuo-de-ge-wei.md)
-* [《精通比特币》《精通以太坊》](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/jing-tong-bi-te-bi-jing-tong-yi-tai-fang.md)
-* [区块链安全](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-an-quan.md)
-* [区块链共识算法](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-gong-shi-suan-fa.md)
-* [区块链分类与层次](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-fen-lei-yu-ceng-ci.md)
-* [区块链要素理论](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-yao-su-li-lun.md)
-* [区块链评级](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qu-kuai-lian-ping-ji.md)
-* [私钥与BIP44](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/si-yue-yu-bip44.md)
-* [钱包](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qian-bao.md)
-* [交易所](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/jiao-yi-suo.md)
-* [实体挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/shi-ti-wa-kuang.md)
-* [质押挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zhi-ya-wa-kuang.md)
-* [云算力挖矿](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/yun-suan-li-wa-kuang.md)
-* [桥接性钱包&加密银行卡](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/qiao-jie-xing-qian-bao-jia-mi-yin-hang-ka.md)
-* [礼品卡&场外交易](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/li-pin-ka-chang-wai-jiao-yi.md)
