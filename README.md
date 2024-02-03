@@ -1,8 +1,8 @@
 ---
-description: 'BF​M Unity : Blockchain · Finance · Multiverse'
+description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 ---
 
-# 💎 BF​M Unity : Blockchain · Finance · Multiverse（Don't Trust This Now，Updating and Repairing…）
+# 💎 BF​M Unity : A Brief Fantasy of Multiverse
 
 > #### 位面简**梦联合体 : 区块链 · 金融 · 多元宇宙**
 >
