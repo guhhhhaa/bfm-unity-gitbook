@@ -105,6 +105,14 @@
 
 * [Page 5](bfm-ds-wei-mian-jian-meng-shu-ju-zhi-cheng/page-5.md)
 
+## BFM OL｜位面简梦障碍解除
+
+* [SS/V2Ray 科学上网 ✈️](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/ss-v2ray.md)
+* [华谷套件（Google Play商店）](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/hua-gu-tao-jian-google-play-shang-dian.md)
+* [跨境收付](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/page-2.md)
+* [离岸实体](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/li-an-shi-ti.md)
+* [Page 3](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/page-3.md)
+
 ## BFM BM｜位面简梦区块基础
 
 * [“在座的各位”总集篇](bfm-bm-wei-mian-jian-meng-qu-kuai-ji-chu/zai-zuo-de-ge-wei-zong-ji-pian/README.md)
@@ -226,6 +234,11 @@
 * [计算机考试](bfm-univ.-wei-mian-jian-meng-da-xue/ji-suan-ji-kao-shi.md)
 * [发卡卡密交易平台](bfm-univ.-wei-mian-jian-meng-da-xue/fa-ka-ka-mi-jiao-yi-ping-tai.md)
 
+## BFM LIB.｜位面简梦图书馆
+
+* [Page 1](bfm-lib.-wei-mian-jian-meng-tu-shu-guan/page-1.md)
+* [Page 2](bfm-lib.-wei-mian-jian-meng-tu-shu-guan/page-2.md)
+
 ## BFM Cult. | 位面简梦文化
 
 * [组织文化宣传](bfm-cult.-wei-mian-jian-meng-wen-hua/dang-jian-xuan-chuan.md)
@@ -272,19 +285,6 @@
 * [数码店](wei-mian-jian-meng-hou-qin-bu/shu-ma-dian.md)
 * [钱包店](wei-mian-jian-meng-hou-qin-bu/qian-bao-dian.md)
 * [家具店](wei-mian-jian-meng-hou-qin-bu/jia-ju-dian.md)
-
-## BFM LIB.｜位面简梦图书馆
-
-* [Page 1](bfm-lib.-wei-mian-jian-meng-tu-shu-guan/page-1.md)
-* [Page 2](bfm-lib.-wei-mian-jian-meng-tu-shu-guan/page-2.md)
-
-## BFM OL｜位面简梦障碍解除
-
-* [SS/V2Ray 科学上网 ✈️](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/ss-v2ray.md)
-* [华谷套件（Google Play商店）](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/hua-gu-tao-jian-google-play-shang-dian.md)
-* [跨境收付](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/page-2.md)
-* [离岸实体](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/li-an-shi-ti.md)
-* [Page 3](bfm-ol-wei-mian-jian-meng-zhang-ai-jie-chu/page-3.md)
 
 ## BFM AI｜位面简梦智能
 
