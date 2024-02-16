@@ -8,13 +8,7 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 >
 > **BF​M Unity : Blockchain · Finance · Multiverse**
 
-## Don't Trust This Now，Updating and Repairing…
-
-## Just Wait, Watch, Go to the safe place, Until here is safe.
-
-## OK, you can find here, find what you need,&#x20;
-
-## but this place now, is on fire, in danger, and we are repairing.
+## 由于经费不足，而且只有我一个人在维护此网站，因此其他的项目暂时推迟，目前全部精力用于升级卓尔金历法EXCEL表格。至于其他的功能，只会复制一些链接（以前也是如此）
 
 ![](<.gitbook/assets/BFM Unity 5.0  升级版群青 (1).png>)
 
