@@ -36,6 +36,7 @@
   * [卓尔金升级A12——杠杆风险控制，凯利准则](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a12-gang-gan-feng-xian-kong-zhi-kai-li-zhun-ze.md)
   * [Plotly-制作数据仪表盘](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/plotly-zhi-zuo-shu-ju-yi-biao-pan.md)
   * [如何获取数字货币数据](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/ru-he-huo-qu-shu-zi-huo-bi-shu-ju.md)
+  * [卓尔金升级A13](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/zhuo-er-jin-sheng-ji-a13.md)
   * [卓尔金历法旧版页面](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/the-tzolkin-calendar-0.md)
 * [战术资产配置——哈布历⌚️](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-haab-calendar/README.md)
   * [哈布历法1层次](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-haab-calendar/ha-bu-li-fa-yan-jiu.md)
