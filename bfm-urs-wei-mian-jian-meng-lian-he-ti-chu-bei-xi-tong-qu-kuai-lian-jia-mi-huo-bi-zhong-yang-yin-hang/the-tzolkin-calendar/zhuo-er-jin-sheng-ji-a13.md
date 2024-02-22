@@ -96,4 +96,33 @@ Y=A+B_t+C_EXP(D\*t)的，其中A，B，C，D为常数。
 5. **使用Solver工具**：在Excel中打开Solver工具，设置目标为最小化D1单元格的值，通过改变参数a、b、c和d的值来实现这个目标。
 6. **求解**：点击Solver工具中的“求解”按钮，Excel将自动调整参数a、b、c和d的值，使得残差平方和最小。
 
-[请注意，这种方法需要一定的Excel技能，而且可能不会总是给出最佳的结果，因为非线性最小二乘法的求解可能会受到初始值的影响](https://blog.csdn.net/weixin\_44436677/article/details/105153142)[1](https://blog.csdn.net/weixin\_44436677/article/details/105153142)。如果可能的话，我建议使用专门的统计软件来进行非线性回归分析。希望这个答案对你有所帮助！
+[请注意，这种方法需要一定的Excel技能，而且可能不会总是给出最佳的结果，因为非线性最小二乘法的求解可能会受到初始值的影响](https://blog.csdn.net/weixin\_44436677/article/details/105153142)[1](https://blog.csdn.net/weixin\_44436677/article/details/105153142)。如果可能的话，我建议使用专门的统计软件来进行非线性回归分析。希望这个答案对你有所帮助！\
+\
+
+
+要从网络上的金融交互式图表获取CSV数据并下载到Mac电脑，你可以使用Python的一些库，如`requests`和`pandas`。以下是一个基本的步骤：
+
+1. 首先，你需要找到图表数据的URL。这通常可以在网页的源代码中找到，或者通过浏览器的开发者工具查看网络请求。
+2. 然后，你可以使用`requests`库从该URL获取数据。
+3. 获取到数据后，你可以使用`pandas`库将数据转换为DataFrame，然后保存为CSV文件。
+
+以下是一个简单的示例代码：
+
+```python
+import requests
+import pandas as pd
+
+# 图表数据的URL
+url = "http://example.com/chart-data"
+
+# 使用requests获取数据
+response = requests.get(url)
+
+# 将数据转换为DataFrame
+data = pd.read_json(response.text)
+
+# 保存为CSV文件
+data.to_csv("/path/to/your/file.csv")
+```
+
+请注意，这只是一个基本的示例，实际的代码可能需要根据图表数据的具体格式和网站的具体情况进行调整。例如，如果数据是通过JavaScript动态加载的，你可能需要使用像`Selenium`这样的工具来模拟浏览器行为。此外，一些网站可能需要登录或其他形式的身份验证，这可能需要额外的处理。最后，确保你有权访问和下载这些数据，并且遵守所有相关的使用条款和隐私政策。
