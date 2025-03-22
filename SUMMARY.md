@@ -4,9 +4,9 @@
 * [🌟 BF​M UNITY : A Brief Fantasy of Multiverse](<README (1).md>)
 * [Page 6](page-6.md)
 
-## BFM  Revenge ｜ 位面简梦复仇名单
+## BFM  Revenge ｜ 位面简梦复仇做空名单
 
-* [中国加密项目名录](bfm-revenge-wei-mian-jian-meng-fu-chou-ming-dan/zhong-guo-jia-mi-xiang-mu-ming-lu.md)
+* [中国加密项目名录](bfm-revenge-wei-mian-jian-meng-fu-chou-zuo-kong-ming-dan/zhong-guo-jia-mi-xiang-mu-ming-lu.md)
 
 ***
 
@@ -14,7 +14,15 @@
 * [红杉资本中国生态](hong-shan-zi-ben-zhong-guo-sheng-tai.md)
 * [红杉资本全球生态](hong-shan-zi-ben-quan-qiu-sheng-tai.md)
 * [NEO 生态](neo-sheng-tai.md)
+* [币安投资](bi-an-tou-zi.md)
 * [做市商名单](zuo-shi-shang-ming-dan.md)
+* [华尔街RWA](hua-er-jie-rwa.md)
+* [隐私代币](yin-si-dai-bi.md)
+* [人工智障](ren-gong-zhi-zhang.md)
+* [NFT](nft.md)
+* [跨链桥](kua-lian-qiao.md)
+* [隐私代币](yin-si-dai-bi-1.md)
+* [launchpad](launchpad.md)
 
 ## BFM Lite | 位面简梦轻量版
 
