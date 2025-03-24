@@ -4,9 +4,9 @@
 * [B.F.M. R.V.C. 执行令](b.f.m.-r.v.c.-zhi-xing-ling.md)
 * [🌟 BF​M UNITY : A Brief Fantasy of Multiverse](<README (1).md>)
 
-## BFM  Revenge ｜ 位面简梦复仇做空名单
+## B.F.M.  R.V.C. ｜ 位面简梦复仇做空风投
 
-* [中国加密项目名录](bfm-revenge-wei-mian-jian-meng-fu-chou-zuo-kong-ming-dan/zhong-guo-jia-mi-xiang-mu-ming-lu.md)
+* [中国加密项目名录](b.f.m.-r.v.c.-wei-mian-jian-meng-fu-chou-zuo-kong-feng-tou/zhong-guo-jia-mi-xiang-mu-ming-lu.md)
 
 ***
 
