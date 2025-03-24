@@ -37,9 +37,9 @@
 | BTCUSDT（SHORT）             | 25%               |
 | PAXGUSDT or XAUGUSDT（LONG） | 25%               |
 
-
-
 <figure><img src=".gitbook/assets/fe84e23b51f714826c6595d4b16d6c5e.jpg" alt=""><figcaption></figcaption></figure>
+
+## 《对冲清算执行令》
 
 红杉资本中国和达鸿飞NEO生态与群主有生死仇恨，各位自查一下哪个币种与这两个有关，然后自己出清一下(持币的抛售再做空，挖矿的换币种挖)
 
