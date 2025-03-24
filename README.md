@@ -36,3 +36,9 @@
 
 
 <figure><img src=".gitbook/assets/fe84e23b51f714826c6595d4b16d6c5e.jpg" alt=""><figcaption></figcaption></figure>
+
+红杉资本中国和达鸿飞NEO生态与群主有生死仇恨，各位自查一下哪个币种与这两个有关，然后自己出清一下(持币的抛售再做空，挖矿的换币种挖)
+
+在BYBIT做合约拼盘，杠杆率4或5倍，保持多空相等比例，阈值选择4h，3%，做多币种可选择BTC，BNB，TRX，LEO，PAXG
+
+做空币种选择可以去Coinmarketcamp，Coincarp，Coingecko，IT橘子，CrunchBase，CB insights，Hongshan官网筛选与红杉资本中国相关的币种或者NEO GAS ONG ONT MERL FLM PERP TRB 生态有关的币种。
