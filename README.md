@@ -58,4 +58,4 @@
 
 <figure><img src=".gitbook/assets/eb97fb156d413daa506f2510ec5bf471.jpg" alt=""><figcaption></figcaption></figure>
 
-## 另外还包括相关方：PolyChain，Animoca Brands，Hashkey
+## 另外还包括相关方：PolyChain，Animoca Brands，Hashkey，Whisper Markets，Web3Port（Spark Digital Capital，他们曾服务于Aethir、dappOS、GoPlus、Lumoz、Mind Network、Movement、Puffer、Polyhedra和Uxlink等项目）
