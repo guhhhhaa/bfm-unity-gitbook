@@ -10,6 +10,8 @@
 
 <figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
+
+
 ## 黃 #D0D000&#x20;
 
 ## 蒼 #3030FF
@@ -30,3 +32,7 @@
 | ETHUSDT（LONG）              | 25%               |
 | BTCUSDT（SHORT）             | 25%               |
 | PAXGUSDT or XAUGUSDT（LONG） | 25%               |
+
+
+
+<figure><img src=".gitbook/assets/fe84e23b51f714826c6595d4b16d6c5e.jpg" alt=""><figcaption></figcaption></figure>
