@@ -57,3 +57,5 @@
 做空币种选择可以去Coinmarketcamp，Coincarp，Coingecko，IT橘子，CrunchBase，CB insights，Hongshan官网筛选与红杉资本中国相关的币种或者NEO GAS ONG ONT MERL FLM PERP TRB 生态有关的币种。
 
 <figure><img src=".gitbook/assets/eb97fb156d413daa506f2510ec5bf471.jpg" alt=""><figcaption></figcaption></figure>
+
+## 另外还包括相关方：PolyChain，Animoca Brands，Hashkey
