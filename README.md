@@ -41,5 +41,4 @@
 
 <div><figure><img src=".gitbook/assets/吉祥物 1.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/吉祥物 2.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/吉祥物 3.png" alt=""><figcaption></figcaption></figure></div>
 
-
-
+<figure><img src=".gitbook/assets/fe84e23b51f714826c6595d4b16d6c5e.jpg" alt=""><figcaption></figcaption></figure>
