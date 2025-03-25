@@ -1,4 +1,4 @@
-# B.F.M. UNITY & B.F.M. U.R.S.
+# 🏁 B.F.M. UNITY & B.F.M. U.R.S.
 
 
 
@@ -36,6 +36,10 @@
 | ETHUSDT（LONG）              | 25%               |
 | BTCUSDT（SHORT）             | 25%               |
 | PAXGUSDT or XAUGUSDT（LONG） | 25%               |
+
+## 吉祥物
+
+<div><figure><img src=".gitbook/assets/吉祥物 1.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/吉祥物 2.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/吉祥物 3.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
