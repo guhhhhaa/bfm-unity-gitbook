@@ -4,12 +4,8 @@
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
-
-
 {% tabs %}
-{% tab title="First Tab" %}
-####
-
+{% tab title="SCP-2264（阿拉卡达迷城）概述" %}
 #### SCP-2264（阿拉卡达迷城）概述
 
 **1. ‌基础信息‌‌1**
