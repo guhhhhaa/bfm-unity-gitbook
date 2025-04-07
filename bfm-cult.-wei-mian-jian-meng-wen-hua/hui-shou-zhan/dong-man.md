@@ -4,7 +4,7 @@
 
 {% embed url="https://www.ranker.com/list/anime-about-outer-space/anna-lindwasser" %}
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ## [上面这个标志的由来](http://www.dilidili3.com/play/3998/135852.html)（请直接跳到01:27:52）
 
@@ -12,7 +12,7 @@
 
 {% embed url="https://www.bilibili.com/bangumi/play/ep114882" %}
 
-#### [《C 金钱掌控》](http://www.baidu.com/link?url=sGrC17Q10tsoJXFi\_hhRnrxH\_lVMWUBXf4druUy-MWE\_qBkCj9m7baj2peAYsfkl7ZI0fQeT35SK\_E2Jj8U3e5fuzibJm2aJ7jesHXFB9\_O)《BLAME!》《尸者的帝国》《来自深渊》《来自新世界》
+#### [《C 金钱掌控》](http://www.baidu.com/link?url=sGrC17Q10tsoJXFi_hhRnrxH_lVMWUBXf4druUy-MWE_qBkCj9m7baj2peAYsfkl7ZI0fQeT35SK_E2Jj8U3e5fuzibJm2aJ7jesHXFB9_O)《BLAME!》《尸者的帝国》《来自深渊》《来自新世界》
 
 [BLAME! Log.1](http://www.youtube.com/watch?v=KHoXnfpz-rk)
 

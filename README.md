@@ -6,6 +6,8 @@
 
 {% tabs %}
 {% tab title="SCP-2264（阿拉卡达迷城）概述" %}
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 #### SCP-2264（阿拉卡达迷城）概述
 
 **1. ‌基础信息‌‌1**
@@ -244,7 +246,9 @@ N={∑(k=1,∞)|ak⋅∅k∣ak∈R,∅k为虚空算子}
 {% endtab %}
 
 {% tab title="哈斯塔" %}
-黄衣之王哈斯塔与深空星海之主哈斯塔的区别‌
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### 黄衣之王哈斯塔与深空星海之主哈斯塔的区别‌
 
 1. 本质归属‌\
    黄衣之王‌：是哈斯塔（Hastur）的‌化身之一‌，表现为身穿黄衣、佩戴柔软面具的类人形态，常与《黄衣之王》剧本及黄印符号关联‌。\
