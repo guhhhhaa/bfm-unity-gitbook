@@ -4,7 +4,7 @@
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/截屏2025-04-18 12.00.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/截屏2025-04-18 12.20.20.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="SCP-2264（阿拉卡达迷城）概述" %}
