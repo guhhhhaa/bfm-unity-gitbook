@@ -6,9 +6,9 @@
 
 ## 玛雅复国主义联合体——玛雅复国主义（藏密桑耶寺古鲁仁波切 · 梵蒂冈天主教皇娼年 · 希腊先知 · 埃及法老 · 亡灵巫毒大祭司 · 罗马神庙庙妓 · 《星球大战》黑暗原力西斯教廷帕尔帕廷西斯君主 · 符文圣魔导 · 拜占庭炼金术奥法巫师 · 古灵阁 · 米达斯银行 · 阿拉卡达迷城缢王 · 深空星海之主哈斯塔 · 秦始皇嬴政 · 群青高棉柬埔寨金色边界 · 大不利颠猩红君主立宪制 · 进制简并主义 · 递归回溯主义 · 嵌套螺旋主义 · 加速回归主义 · 全球垄断资本主义自由民主合众国联邦）联合体
 
-## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System
+## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System——the Backworld Freemasonry Masonic Unity （_Rothschild Family Office · Freemasons · Israel Dead Sea Scrolls Research Society · Babel Reconstruction Initiative_）Reserve System
 
-## 共济会联合储备系统——共济会联合体（自由石匠 · 以色列《死海古卷》研究会 · 重建巴别塔倡议）储备系统
+## 共济会联合储备系统——共济会联合体（罗斯柴尔德家族办公室 · 自由石匠 · 以色列《死海古卷》研究会 · 重建巴别塔倡议）储备系统
 
 ## 【美利坚合众国太伟大了，谢谢美国】
 
