@@ -6,7 +6,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
-## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义联合体（不是以色列🇮🇱的犹太复国主义）
+## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义的联合体（不是以色列🇮🇱的犹太复国主义）
 
 ## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后的自由石匠共济会联合储备系统
 
