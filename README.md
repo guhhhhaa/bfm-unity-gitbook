@@ -34,7 +34,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## Because of the People's Bank of China's ban on cryptocurrencies, Central Huijin-Investment Corporation Limited's brutal exploitation of state monopoly capitalism in China, the Chinese Ministry of Education's test-taking education and insider operations, the Chinese Ministry of Health's connivance at psychiatric hospitals in China, the collusion between the Chinese Ministry of Public Security and psychiatric hospitals and the abuse of narcotic drugs and political persecution of dissidents, the egregious fascist behavior and hooligan exploitation of China Sequoia Capital China and AntShares Neo Blockchain in China, Our BFM UNITY has declared war on Sequoia Capital China and AntShares Neo Blockchain, hoping that the war will be controlled within a certain scale, and that unrelated companies or entities will not be involved in our financial information war. On the premise that the other side abides by the Geneva Conventions and the Hague Conventions, we will abide by the Geneva Conventions and the Hague Conventions, otherwise we (BFM UNITY) will fight to the end.
 
-
+{% embed url="https://www.bilibili.com/video/BV1J54y1p7Nn" %}
 
 | 灭掉红杉中国             | Kill Sequoia hongshan cn | 灭掉小蚁区块链            | Kill Antshares Neo Blockchain |
 | ------------------ | ------------------------ | ------------------ | ----------------------------- |
