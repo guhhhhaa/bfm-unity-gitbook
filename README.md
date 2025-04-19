@@ -49,6 +49,8 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 | STRKUSDT (SHORT)   | 5%                       | TAIKOUSDT (SHORT)  | 5%                            |
 | ZROUSDT (SHORT)    | 5%                       | TRBUSDT (SHORT)    | 5%                            |
 
+## 第二死星设计图纸：
+
 <figure><img src=".gitbook/assets/截屏2025-04-18 12.20.20.png" alt=""><figcaption></figcaption></figure>
 
 
