@@ -8,6 +8,12 @@
 
 
 
+## 美国太伟大了，谢谢美国
+
+## 我真他妈的谢谢你，中国
+
+
+
 <figure><img src=".gitbook/assets/截屏2025-04-18 12.20.20.png" alt=""><figcaption></figcaption></figure>
 
 
