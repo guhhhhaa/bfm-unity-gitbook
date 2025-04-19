@@ -1,8 +1,8 @@
 ---
-description: warwithSEQUOIANEOAntsharess
+description: hongshanHwarwithSEQUOIANEOAntsharess
 ---
 
-# 🏁 B.F.M. UNITY & B.F.M. U.R.S.（On war with SEQUOIA & NEO Antshares）
+# 🏁 B.F.M. UNITY & B.F.M. U.R.S.（On war with SEQUOIA Hongshan & NEO Antshares）
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
