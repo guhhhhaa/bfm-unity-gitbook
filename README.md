@@ -22,9 +22,9 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## &#x200C;**"Thanks a fucking lot, my fucking motherland People's Republic of China."**
 
-## \[金钱和钞票属于美国和比特币，技术和经验属于中国，荣耀和梦想属于位面简梦联合体。]
+## \[金钱和钞票属于美国和比特币，科学技术和经验属于中国，荣耀和梦想属于位面简梦联合体。]
 
-## &#x200C;**"**&#x4D;oney and bills belong to the United States and Bitcoin, technology and experience belong to China, and glory and dreams belong to the BFM Unity.&#x200C;**"**
+## &#x200C;**"**&#x4D;oney and Bills belong to the United States and Bitcoin, Science technology and experience belong to China, and glory and dreams belong to the B.F.M. Unity.&#x200C;**"**
 
 ## 因为中国人民银行对加密货币的禁止，中央汇金在中国境内的国家垄断资本主义残酷剥削行径，中国教育部的应试教育和内幕暗箱操作，中国卫生部对于中国境内精神病院的纵容，中国公安部与精神病医院的勾结和滥用精麻药品毒品以及对不同政见者的政治迫害，中国红杉资本中国和小蚁区块链在中国的恶劣法西斯行为和流氓剥削行径，我们位面简梦联合体已经向红杉资本中国和小蚁尼奥区块链宣战，希望战争控制在一定规模内，希望无关公司或实体请不要卷入我们的金融信息战争。在对方遵守日内瓦公约和海牙公约的前提下，我们位面简梦联合体会遵守日内瓦公约和海牙公约，否则我们会抗争到底。
 
