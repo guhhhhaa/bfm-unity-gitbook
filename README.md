@@ -20,7 +20,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## 【我真他妈谢谢你，中华人民共和国】
 
-## &#x200C;**"Thanks a fucking lot, People's Republic of China."**
+## &#x200C;**"Thanks a fucking lot, my fucking motherland People's Republic of China."**
 
 ## \[金钱和钞票属于美国和比特币，技术和经验属于中国，荣耀和梦想属于位面简梦联合体。]
 
