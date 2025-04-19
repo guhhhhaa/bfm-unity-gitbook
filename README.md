@@ -12,7 +12,11 @@
 
 ## 【美利坚合众国太伟大了，谢谢美国】
 
+## **"The United States of America is truly magnificent. Thank you, America!"**&#x200C;
+
 ## 【我真他妈谢谢你，中华人民共和国】
+
+## &#x200C;**"Thanks a fucking lot, People's Republic of China."**
 
 <figure><img src=".gitbook/assets/截屏2025-04-18 12.20.20.png" alt=""><figcaption></figcaption></figure>
 
