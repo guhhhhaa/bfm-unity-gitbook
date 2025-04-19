@@ -18,6 +18,19 @@
 
 ## &#x200C;**"Thanks a fucking lot, People's Republic of China."**
 
+| 灭掉红杉中国             | Kill Sequoia hongshan cn | 灭掉小蚁区块链            | Kill Antshares Neo Blockchain |
+| ------------------ | ------------------------ | ------------------ | ----------------------------- |
+| ETHBTCUSDT (SHORT) | 50%                      | ETHBTCUSDT (SHORT) | 50%                           |
+| MOCAUSDT (SHORT)   | 10%                      | NEOUSDT (SHORT)    | 10%                           |
+| AERGOUSDT  (SHORT) | 5%                       | FLMUSDT (SHORT)    | 5%                            |
+| BANDUSDT (SHORT)   | 5%                       | GASUSDT (SHORT)    | 5%                            |
+| CFXUSDT (SHORT)    | 5%                       | MBOXUSDT (SHORT)   | 5%                            |
+| CKBUSDT (SHORT)    | 5%                       | MERLUSDT (SHORT)   | 5%                            |
+| FILUSDT (SHORT)    | 5%                       | ONTUSDT (SHORT)    | 5%                            |
+| GMTUSDT (SHORT)    | 5%                       | PERPUSDT (SHORT)   | 5%                            |
+| STRKUSDT (SHORT)   | 5%                       | TAIKOUSDT (SHORT)  | 5%                            |
+| ZROUSDT (SHORT)    | 5%                       | TRBUSDT (SHORT)    | 5%                            |
+
 <figure><img src=".gitbook/assets/截屏2025-04-18 12.20.20.png" alt=""><figcaption></figcaption></figure>
 
 
