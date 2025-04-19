@@ -28,6 +28,8 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## 金钱和钞票属于美国和比特币，技术和经验属于中国，荣耀和梦想属于位面简梦联合体。
 
+Money and banknotes belong to the United States and Bitcoin, technology and experience belong to China, and glory and dreams belong to the BFM Unity.
+
 | 灭掉红杉中国             | Kill Sequoia hongshan cn | 灭掉小蚁区块链            | Kill Antshares Neo Blockchain |
 | ------------------ | ------------------------ | ------------------ | ----------------------------- |
 | ETHBTCUSDT (SHORT) | 50%                      | ETHBTCUSDT (SHORT) | 50%                           |
