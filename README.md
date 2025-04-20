@@ -20,6 +20,12 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 | LEO          | 20%               |
 | USDT or USDC | 20%               |
 
+## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
+
+### 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与中国财政部，共产党中央，国务院，央行，世界贸易组织，国际清算银行，世界银行，国际货币基金组织同级别）
+
+<figure><img src=".gitbook/assets/BFM-URS-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
+
 | 杠杆率：4x                     | 时间调仓：3h，空间调仓：2.5% |
 | -------------------------- | ----------------- |
 | ETHBTCUSDT（SHORT）          | 25%               |
@@ -27,15 +33,13 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 | BTCUSDT（SHORT）             | 25%               |
 | PAXGUSDT or XAUGUSDT（LONG） | 25%               |
 
-## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
+## B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄天麻银杏复仇风险资本（前称：位面简梦风投）
 
-### 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与中国财政部，共产党中央，国务院，央行，世界贸易组织，国际清算银行，世界银行，国际货币基金组织同级别）
+### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与世界红十字会，世界卫生组织，共青团中央，中央汇金同级别）
 
-<figure><img src=".gitbook/assets/BFM-URS-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/BFM-RVC-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
-
-
-| 杠杆率：4x            | 时间调仓：3h，空间调仓：2.5% |
+| 杠杆率：7x            | 时间调仓：3h，空间调仓：2.5% |
 | ----------------- | ----------------- |
 | ETHBTCUSDT（SHORT） | 40%               |
 | AAA（SHORT）        | 10%               |
@@ -44,12 +48,6 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 | DDD（SHORT）        | 10%               |
 | EEE（SHORT）        | 10%               |
 | FFF（SHORT）        | 10%               |
-
-## B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄天麻银杏复仇风险资本（前称：位面简梦风投）
-
-### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与世界红十字会，世界卫生组织，共青团中央，中央汇金同级别）
-
-<figure><img src=".gitbook/assets/BFM-RVC-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
 ## 基于全球垄断资本主义建立的，共产国际反法西斯联盟，作为全球垄断的去中心化的自组织的耗散结构的信息符号类永动机结构，
 
