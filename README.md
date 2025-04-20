@@ -22,10 +22,12 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 | 杠杆率：4x                     | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ETHBTCUSDT（SHORT）          | 25%                                                                                                                                              |
-| ETHUSDT（LONG）              | 25%                                                                                                                                              |
-| BTCUSDT（SHORT）             | 25%                                                                                                                                              |
+| ETHBTCUSDT（SHORT）          | 20%                                                                                                                                              |
+| ETHUSDT（LONG）              | 20%                                                                                                                                              |
+| BTCUSDT（SHORT）             | 20%                                                                                                                                              |
 | PAXGUSDT or XAUGUSDT（LONG） | 25%                                                                                                                                              |
+| TRX（LONG）                  |                                                                                                                                                  |
+| BNB（SHORT）                 |                                                                                                                                                  |
 
 ## 世界影子央行：B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
 
