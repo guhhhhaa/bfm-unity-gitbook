@@ -8,7 +8,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）
 
-### 性质：超非国家实体，MNSE：Meta-Non-State Entity（与主权国家，联合国，同级别）
+### 性质：超非国家实体，MNSE：Meta-Non-State Entity（与主权国家中南海全国人民代表大会，联合国，同级别）
 
 <figure><img src=".gitbook/assets/BFM-UEG-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
