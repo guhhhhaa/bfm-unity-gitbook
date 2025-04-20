@@ -12,10 +12,9 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-UEG-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
-| 杠杆率：5x       | 时间调仓：3h，空间调仓：2.5% |
+| 杠杆率：1x       | 时间调仓：3h，空间调仓：2.5% |
 | ------------ | ----------------- |
 | BTC          | 20%               |
-| ETH          | 20%               |
 | PAXG or XAUT | 20%               |
 | LEO          | 20%               |
 | USDT or USDC | 20%               |
