@@ -6,9 +6,9 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
-## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）性质：超非国家实体，Meta-Non-State Entity（与主权国家或联合国同级别）
+## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）性质：超非国家实体，Meta-Non-State Entity（与主权国家，联合国，同级别）
 
-## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合储备系统（前称：位面简梦联合储备系统）性质：超非政府组织，Meta-Non-Governmental Organization（与国务院和央行同级别）
+## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合储备系统（前称：位面简梦联合储备系统）性质：超非政府组织，Meta-Non-Governmental Organization（与财政部，国务院，央行，同级别）
 
 ## B.F.M. R.V.C.：Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄复仇风险资本（前称：位面简梦风投）性质：超非营利组织，Meta-Non-Profit Organization（与中央汇金同级别）
 
