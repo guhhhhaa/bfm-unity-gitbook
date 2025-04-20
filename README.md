@@ -6,7 +6,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
-## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）性质：非国家实体（与主权国家或联合国同级别）
+## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）性质：超国家实体，Meta-State Entity（与主权国家或联合国同级别）
 
 ## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合储备系统（前称：位面简梦联合储备系统）性质：非政府组织（与国务院和央行同级别）
 
