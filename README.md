@@ -20,7 +20,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄复仇风险资本（前称：位面简梦风投）
 
-### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与世界卫生组织，共青团中央，中央汇金同级别）
+### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与世界红十字会，世界卫生组织，共青团中央，中央汇金同级别）
 
 <figure><img src=".gitbook/assets/BFM-RVC-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
