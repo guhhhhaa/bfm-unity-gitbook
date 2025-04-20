@@ -12,12 +12,13 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-UEG-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
-| 杠杆率：1x       | 时间调仓：3h，空间调仓：2.5% |
-| ------------ | ----------------- |
-| BTC          | 20%               |
-| PAXG or XAUT | 20%               |
-| LEO          | 20%               |
-| USDT or USDC | 20%               |
+| 杠杆率：1x       | 时间调仓：3h，空间调仓：2.5%（一天全自动开八次会，每次加减零点二五） |
+| ------------ | ------------------------------------- |
+| BTC          | 20%                                   |
+| ETH          | 20%                                   |
+| PAXG or XAUT | 20%                                   |
+| LEO          | 20%                                   |
+| USDT or USDC | 20%                                   |
 
 ## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
 
@@ -25,12 +26,12 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-URS-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
-| 杠杆率：4x                     | 时间调仓：3h，空间调仓：2.5% |
-| -------------------------- | ----------------- |
-| ETHBTCUSDT（SHORT）          | 25%               |
-| ETHUSDT（LONG）              | 25%               |
-| BTCUSDT（SHORT）             | 25%               |
-| PAXGUSDT or XAUGUSDT（LONG） | 25%               |
+| 杠杆率：4x                     | 时间调仓：3h，空间调仓：2.5%（一天全自动开八次会，每次加减零点二五） |
+| -------------------------- | ------------------------------------- |
+| ETHBTCUSDT（SHORT）          | 25%                                   |
+| ETHUSDT（LONG）              | 25%                                   |
+| BTCUSDT（SHORT）             | 25%                                   |
+| PAXGUSDT or XAUGUSDT（LONG） | 25%                                   |
 
 ## B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄天麻银杏复仇风险资本（前称：位面简梦风投）
 
@@ -38,15 +39,37 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-RVC-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
-| 杠杆率：7x            | 时间调仓：3h，空间调仓：2.5% |
-| ----------------- | ----------------- |
-| ETHBTCUSDT（SHORT） | 40%               |
-| AAA（SHORT）        | 10%               |
-| BBB（SHORT）        | 10%               |
-| CCC（SHORT）        | 10%               |
-| DDD（SHORT）        | 10%               |
-| EEE（SHORT）        | 10%               |
-| FFF（SHORT）        | 10%               |
+| 杠杆率：7x            | 时间调仓：3h，空间调仓：2.5%（一天全自动开八次会，每次加减零点二五） |
+| ----------------- | ------------------------------------- |
+| ETHBTCUSDT（SHORT） | 40%                                   |
+| AAA（SHORT）        | 10%                                   |
+| BBB（SHORT）        | 10%                                   |
+| CCC（SHORT）        | 10%                                   |
+| DDD（SHORT）        | 10%                                   |
+| EEE（SHORT）        | 10%                                   |
+| FFF（SHORT）        | 10%                                   |
+
+| 灭掉红杉中国             | Kill Sequoia hongshan cn | 灭掉小蚁尼奥区块链          | Kill Antshares Neo Blockchain |
+| ------------------ | ------------------------ | ------------------ | ----------------------------- |
+| ETHBTCUSDT (SHORT) | 50%                      | ETHBTCUSDT (SHORT) | 50%                           |
+| MOCAUSDT (SHORT)   | 10%                      | NEOUSDT (SHORT)    | 10%                           |
+| AERGOUSDT  (SHORT) | 5%                       | FLMUSDT (SHORT)    | 5%                            |
+| BANDUSDT (SHORT)   | 5%                       | GASUSDT (SHORT)    | 5%                            |
+| CFXUSDT (SHORT)    | 5%                       | MBOXUSDT (SHORT)   | 5%                            |
+| CKBUSDT (SHORT)    | 5%                       | MERLUSDT (SHORT)   | 5%                            |
+| FILUSDT (SHORT)    | 5%                       | ONTUSDT (SHORT)    | 5%                            |
+| GMTUSDT (SHORT)    | 5%                       | PERPUSDT (SHORT)   | 5%                            |
+| STRKUSDT (SHORT)   | 5%                       | TAIKOUSDT (SHORT)  | 5%                            |
+| ZROUSDT (SHORT)    | 5%                       | TRBUSDT (SHORT)    | 5%                            |
+
+## 《对冲清算执行令》
+
+|    |      |    |      |
+| -- | ---- | -- | ---- |
+| 2多 | 各26% | 8空 | 各6%  |
+| 3多 | 各17% | 7空 | 各7%  |
+| 4多 | 各13% | 6空 | 各8%  |
+| 5多 | 各10% | 5空 | 各10% |
 
 ## 基于全球垄断资本主义建立的，共产国际反法西斯联盟，作为全球垄断的去中心化的自组织的耗散结构的信息符号类永动机结构，
 
