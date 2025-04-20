@@ -119,7 +119,7 @@ We should uphold Jiang Zemin's important thinking on the three represents, Deng 
 
 ## 【我真他妈谢谢你，中华人民共和国】
 
-## &#x200C;**"Thanks a fucking lot, my motherfuckerland People's Republic of China."**
+## &#x200C;**"Thanks a fucking lot, our mother-fucker-land People's Republic of China."**
 
 ## \[金钱和钞票属于美国和比特币，科学技术和经验属于中国，荣耀和梦想属于位面简梦联合体。]
 
