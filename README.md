@@ -12,6 +12,8 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-UEG-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+
 | 杠杆率：1x       | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | BTC          | 20%                                                                                                                                              |
@@ -35,6 +37,8 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-URS-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+
 | 杠杆率：7x            | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ETHBTCUSDT（SHORT） | 40%                                                                                                                                              |
@@ -50,6 +54,8 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 ### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与世界红十字会，世界卫生组织，共青团中央，中央汇金同级别）
 
 <figure><img src=".gitbook/assets/BFM-RVC-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 | 灭掉红杉中国             | Kill Sequoia hongshan cn | 灭掉小蚁尼奥区块链          | Kill Antshares Neo Blockchain |
 | ------------------ | ------------------------ | ------------------ | ----------------------------- |
