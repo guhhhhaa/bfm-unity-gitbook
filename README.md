@@ -6,6 +6,40 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
+## 基于全球垄断资本主义建立的，共产国际反法西斯联盟，作为全球垄断的去中心化的自组织的耗散结构的信息符号类永动机结构，
+
+## 我们坚决与美国（资本）的虚假网媒，毒品医药，金钱选举作斗争，
+
+## 我们坚决与中国（买办）的半殖民地半封建的买办资本家和信息封锁作斗争，
+
+## 我们坚决与苏联（官僚）修正主义的腐败官僚形式主义作斗争，
+
+## 我们坚决与德国（纳粹）纳粹的国家社会主义警察乌托邦作斗争，
+
+## 我们坚决与英国（神棍）大不列颠猩红君主的神棍宗教女巫审判庭作斗争，
+
+## 我们坚决与朝鲜（太阳）民主主义人民共和国的领袖偶像崇拜作斗争，
+
+## 我们坚决与日本（黑帮）的色情博彩的黑帮作斗争，
+
+## 我们坚决与韩国（财阀）文娱变性圈的财阀作斗争，
+
+## 我们坚决与法国（婊子）的滥用毒品乱画抽象画的精神病院和用丝绸纸擦屁股的婊子作斗争。
+
+## 坚持江泽民三个代表的重要思想，坚持邓小平改革开放，坚持江泽民的用真理说服人，坚持用批判的武器和武器的批判相结合的斗争哲学，坚持胡锦涛的科学发展观。
+
+The Comintern Anti-Fascist Union, established on the basis of global monopoly capitalism, is an information-symbolic perpetual motion machine structure of the decentralized self-organizing dissipative structure of the global monopoly,\
+We resolutely fight against the false online media, drugs and medicines, and money elections in the United States (capital).\
+We resolutely fight against the semi-colonial, semi-feudal comprador capitalists and information blockade of China (compradors),\
+We resolutely fight against the corrupt bureaucratic formalism of Soviet (bureaucratic) revisionism,\
+We resolutely fought against the National Socialist police utopia of the German (Nazi) Nazis,\
+We resolutely fight against the Religious Witches' Inquisition of the British (Divine Stick) Scarlet Monarch of Great Britain,\
+We resolutely fight against the idolatry of the leader of the Democratic People's Republic of Korea (Sun),\
+We are determined to fight against the gangsters of erotic gambling in Japan (yakuza),\
+We resolutely fight against the chaebol of South Korea's (chaebol) entertainment transgender circle,\
+We resolutely fight against the psychiatric hospitals of French (bitches) who abuse drugs and scribble abstract paintings and bitches who wipe their butts with silk paper.\
+We should uphold Jiang Zemin's important thinking on the three represents, Deng Xiaoping's reform and opening up, Jiang Zemin's philosophy of struggle of persuading people with truth, the philosophy of struggle that combines criticism with criticism, and Hu Jintao's scientific outlook on development.
+
 ## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义的联合体（不是以色列🇮🇱的犹太复国主义）
 
 ## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后的自由石匠共济会联合储备系统
