@@ -44,7 +44,7 @@ Because of the People's Bank of China's ban on cryptocurrencies, Central Huijin-
 
 ## 另外还包括相关方：PolyChain，Animoca Brands，Hashkey，Whisper Markets，Web3Port（Spark Digital Capital，他们曾服务于Aethir、dappOS、GoPlus、Lumoz、Mind Network、Movement、Puffer、Polyhedra和Uxlink等项目）
 
-## 《Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital》
+## Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital
 
 我觉得我应该成立一个Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital，把Sequoia Capital灭了。红杉下面不长草，但是长灵芝和层孔菌。红杉把阳光雨露肥料都吸干了，我们没有办法，只能变成真菌把红杉灭了
 
