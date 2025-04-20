@@ -14,13 +14,13 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
 
-### 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与财政部，共产党中央，国务院，央行，同级别）
+### 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与中国财政部，共产党中央，国务院，央行，世界贸易组织，国际清算银行，世界银行，国际货币基金组织同级别）
 
 <figure><img src=".gitbook/assets/BFM-URS-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
 ## B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄复仇风险资本（前称：位面简梦风投）
 
-### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与共青团中央，中央汇金同级别）
+### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与世界卫生组织，共青团中央，中央汇金同级别）
 
 <figure><img src=".gitbook/assets/BFM-RVC-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
