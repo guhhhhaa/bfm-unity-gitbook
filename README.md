@@ -14,7 +14,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与财政部，国务院，央行，同级别）
 
-## B.F.M. R.V.C.：Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄复仇风险资本（前称：位面简梦风投）
+## B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄复仇风险资本（前称：位面简梦风投）
 
 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与中央汇金同级别）
 
