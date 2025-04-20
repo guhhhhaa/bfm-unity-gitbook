@@ -8,15 +8,15 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）
 
-性质：超非国家实体，MNSE：Meta-Non-State Entity（与主权国家，联合国，同级别）
+### 性质：超非国家实体，MNSE：Meta-Non-State Entity（与主权国家，联合国，同级别）
 
 ## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
 
-性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与财政部，国务院，央行，同级别）
+### 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与财政部，国务院，央行，同级别）
 
 ## B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄复仇风险资本（前称：位面简梦风投）
 
-性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与中央汇金同级别）
+### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与中央汇金同级别）
 
 ## 基于全球垄断资本主义建立的，共产国际反法西斯联盟，作为全球垄断的去中心化的自组织的耗散结构的信息符号类永动机结构，
 
