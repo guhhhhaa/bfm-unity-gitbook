@@ -14,6 +14,8 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+
 | 杠杆率：1x       | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | BTC          | 20%                                                                                                                                              |
@@ -37,7 +39,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-URS-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 | 杠杆率：7x            | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -160,7 +162,7 @@ We should uphold Jiang Zemin's important thinking on the three represents, Deng 
 
 {% tabs %}
 {% tab title="SCP-2264（阿拉卡达迷城）概述" %}
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 SCP-2264（阿拉卡达迷城）概述
 
@@ -400,7 +402,7 @@ N={∑(k=1,∞)|ak⋅∅k∣ak∈R,∅k为虚空算子}
 {% endtab %}
 
 {% tab title="哈斯塔" %}
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 黄衣之王哈斯塔与深空星海之主哈斯塔的区别‌
 

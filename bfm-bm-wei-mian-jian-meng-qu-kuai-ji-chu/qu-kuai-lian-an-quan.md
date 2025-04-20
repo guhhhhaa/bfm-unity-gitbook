@@ -30,7 +30,7 @@
 
 {% embed url="https://www.sohu.com/a/363708247_100018121" %}
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.bilibili.com/video/BV1ja4y1j7d8" %}
 
