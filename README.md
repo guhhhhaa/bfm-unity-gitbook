@@ -12,6 +12,10 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-UEG-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
+## 第二死星设计图纸：
+
+<figure><img src=".gitbook/assets/截屏2025-04-18 12.20.20.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
@@ -153,10 +157,6 @@ We should uphold Jiang Zemin's important thinking on the three represents, Deng 
 | GMTUSDT (SHORT)    | 5%                       | PERPUSDT (SHORT)   | 5%                            |
 | STRKUSDT (SHORT)   | 5%                       | TAIKOUSDT (SHORT)  | 5%                            |
 | ZROUSDT (SHORT)    | 5%                       | TRBUSDT (SHORT)    | 5%                            |
-
-## 第二死星设计图纸：
-
-<figure><img src=".gitbook/assets/截屏2025-04-18 12.20.20.png" alt=""><figcaption></figcaption></figure>
 
 
 
