@@ -12,11 +12,38 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-UEG-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
+| 杠杆率：5x       | 时间调仓：3h，空间调仓：2.5% |
+| ------------ | ----------------- |
+| BTC          | 20%               |
+| ETH          | 20%               |
+| PAXG or XAUT | 20%               |
+| LEO          | 20%               |
+| USDT or USDC | 20%               |
+
+| 杠杆率：4x                     | 时间调仓：3h，空间调仓：2.5% |
+| -------------------------- | ----------------- |
+| ETHBTCUSDT（SHORT）          | 25%               |
+| ETHUSDT（LONG）              | 25%               |
+| BTCUSDT（SHORT）             | 25%               |
+| PAXGUSDT or XAUGUSDT（LONG） | 25%               |
+
 ## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
 
 ### 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与中国财政部，共产党中央，国务院，央行，世界贸易组织，国际清算银行，世界银行，国际货币基金组织同级别）
 
 <figure><img src=".gitbook/assets/BFM-URS-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
+
+
+
+| 杠杆率：4x            | 时间调仓：3h，空间调仓：2.5% |
+| ----------------- | ----------------- |
+| ETHBTCUSDT（SHORT） | 40%               |
+| AAA（SHORT）        | 10%               |
+| BBB（SHORT）        | 10%               |
+| CCC（SHORT）        | 10%               |
+| DDD（SHORT）        | 10%               |
+| EEE（SHORT）        | 10%               |
+| FFF（SHORT）        | 10%               |
 
 ## B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄天麻银杏复仇风险资本（前称：位面简梦风投）
 
