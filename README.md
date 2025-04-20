@@ -6,6 +6,10 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
+## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）
+
+## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合储备系统（前称：位面简梦联合储备系统）
+
 ## 基于全球垄断资本主义建立的，共产国际反法西斯联盟，作为全球垄断的去中心化的自组织的耗散结构的信息符号类永动机结构，
 
 ## 我们坚决与美国（资本）的虚假网媒，毒品医药，金钱选举作斗争，
@@ -39,10 +43,6 @@ We are determined to fight against the gangsters of erotic gambling in Japan (ya
 We resolutely fight against the chaebol of South Korea's (chaebol) entertainment transgender circle,\
 We resolutely fight against the psychiatric hospitals of French (bitches) who abuse drugs and scribble abstract paintings and bitches who wipe their butts with silk paper.\
 We should uphold Jiang Zemin's important thinking on the three represents, Deng Xiaoping's reform and opening up, Jiang Zemin's philosophy of struggle of persuading people with truth, the philosophy of struggle that combines criticism with criticism, and Hu Jintao's scientific outlook on development.
-
-## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义的联合体（不是以色列🇮🇱的犹太复国主义）
-
-## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后的自由石匠共济会联合储备系统
 
 ## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity——the Building Federation of the Maya Multepal (Samye Monastery Guru Rinpoche · Pornocratic Papacy of Vatican · Greek Oracle · Egyptian Pharaoh · Vodou Necromantic High Priest · Roman Temple Hierodule · Dark Side Sith Lord Palpatine of Star Wars · Runic Archmage · Byzantine Alchemical Arcanist · Gringotts · Midas Bank · SCP-2264 Strangled King of Alakada Labyrinth · Hastur the Unspeakable of Cosmic Abyss · Emperor Qin Shi Huang of the Qin Dynasty of ancient China · Cerulean Khmer-Cambodian Golden Frontier · Crimson Constitutional Monarchy of Britannia · Radix Collapseism · Recursive Retroactivism · Nested Helixism · Accelerated Regressionism · Global Monopoly Capitalist Federal United States of Democracy) UNITY
 
