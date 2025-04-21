@@ -24,6 +24,8 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <div><figure><img src=".gitbook/assets/截屏2025-04-21 07.48.03.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/截屏2025-04-21 07.48.15.png" alt=""><figcaption></figcaption></figure></div>
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 | 杠杆率：1x          | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | BTC 现货          | 20%                                                                                                                                              |
@@ -47,7 +49,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/BFM-URS-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 | 杠杆率：7x              | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -408,7 +410,7 @@ N={∑(k=1,∞)|ak⋅∅k∣ak∈R,∅k为虚空算子}
 {% endtab %}
 
 {% tab title="哈斯塔" %}
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 黄衣之王哈斯塔与深空星海之主哈斯塔的区别‌
 
