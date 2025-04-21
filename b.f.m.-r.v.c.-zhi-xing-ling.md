@@ -4,7 +4,7 @@ description: BFMRVC
 
 # 🩸 B.F.M. R.V.C. 执行令
 
-
+<figure><img src=".gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/fe84e23b51f714826c6595d4b16d6c5e.jpg" alt=""><figcaption></figcaption></figure>
 
