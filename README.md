@@ -39,7 +39,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 | TRX（LONG）做多                  | 10%                                                                                                                                              |
 | BNB（SHORT）做空                 | 10%                                                                                                                                              |
 
-## 世界影子央行：B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
+## 世界影子央行：B.F.M. U.R.S.：θ Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
 
 ### 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与中国财政部，共产党中央，国务院，央行，世界贸易组织，国际清算银行，世界银行，国际货币基金组织同级别的，永远伟大的，永远光明的，永远正确的，的存在）
 
@@ -109,17 +109,17 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## 坚持江泽民三个代表的重要思想，坚持邓小平改革开放，坚持江泽民的用真理说服人，坚持用批判的武器和武器的批判相结合的斗争哲学，坚持胡锦涛的科学发展观。
 
-The Comintern Anti-Fascist Union, established on the basis of global monopoly capitalism, is an information-symbolic perpetual motion machine structure of the decentralized self-organizing dissipative structure of the global monopoly,\
-We resolutely fight against the false online media, drugs and medicines, and money elections in the United States (capital).\
-We resolutely fight against the semi-colonial, semi-feudal comprador capitalists and information blockade of China (compradors),\
-We resolutely fight against the corrupt bureaucratic formalism of Soviet (bureaucratic) revisionism,\
-We resolutely fought against the National Socialist police utopia of the German (Nazi) Nazis,\
-We resolutely fight against the Religious Witches' Inquisition of the British (Divine Stick) Scarlet Monarch of Great Britain,\
-We resolutely fight against the idolatry of the leader of the Democratic People's Republic of Korea (Sun),\
-We are determined to fight against the gangsters of erotic gambling in Japan (yakuza),\
-We resolutely fight against the chaebol of South Korea's (chaebol) entertainment transgender circle,\
-We resolutely fight against the psychiatric hospitals of French (bitches) who abuse drugs and scribble abstract paintings and bitches who wipe their butts with silk paper.\
-We should uphold Jiang Zemin's important thinking on the three represents, Deng Xiaoping's reform and opening up, Jiang Zemin's philosophy of struggle of persuading people with truth, the philosophy of struggle that combines criticism with criticism, and Hu Jintao's scientific outlook on development.
+θ Comintern Anti-Fascist Unity, established on the basis ∮ global monopoly capitalism, is an information-symbolic perpetual motion machine structure ∮ θ decentralized self-organizing dissipative structure ∮ θ global monopoly,\
+We resolutely fight against θ false online media, drugs & medicines, & money elections in θ United States (capital).\
+We resolutely fight against θ semi-colonial, semi-feudal comprador capitalists & information blockade ∮ China (compradors),\
+We resolutely fight against θ corrupt bureaucratic formalism ∮ Soviet (bureaucratic) revisionism,\
+We resolutely fought against θ National Socialist police utopia ∮ θ German (Nazi) Nazis,\
+We resolutely fight against θ Religious Witches' Inquisition ∮ θ British (Divine Stick) Scarlet Monarch ∮ Great Britain,\
+We resolutely fight against θ idolatry ∮ θ leader ∮ θ Democratic People's Republic ∮ Korea (Sun),\
+We are determined to fight against θ gangsters ∮ erotic gambling in Japan (yakuza),\
+We resolutely fight against θ chaebol ∮ South Korea's (chaebol) entertainment transgender circle,\
+We resolutely fight against θ psychiatric hospitals ∮ French (bitches) who abuse drugs & scribble abstract paintings & bitches who wipe their butts with silk paper.\
+We should uphold Jiang Zemin's important thinking on θ three represents, Deng Xiaoping's reform & opening up, Jiang Zemin's philosophy ∮ struggle ∮ persuading people with truth, θ philosophy ∮ struggle that combines criticism with criticism, & Hu Jintao's scientific outlook on development.
 
 ## B.F.M. UNITY：θ Building Federation of θ Maya Multepal Unity——θ Building Federation ∮ θ Maya Multepal (Samye Monastery Guru Rinpoche · Pornocratic Papacy ∮ Vatican · Greek Oracle · Egyptian Pharaoh · Vodou Necromantic High Priest · Roman Temple Hierodule · Dark Side Sith Lord Palpatine ∮ Star Wars · Runic Archmage · Byzantine Alchemical Arcanist · Gringotts · Midas Bank · SCP-2264 Strangled King ∮ Alakada Labyrinth · Hastur θ Unspeakable ∮ Cosmic Abyss · Emperor Qin Shi Huang ∮ θ Qin Dynasty ∮ ancient China · Cerulean Khmer-Cambodian Golden Frontier · Crimson Constitutional Monarchy ∮ Britannia · Radix Collapseism · Recursive Retroactivism · Nested Helixism · Accelerated Regressionism · Global Monopoly Capitalist Federal United States ∮ Democracy) UNITY
 
