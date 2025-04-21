@@ -57,7 +57,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 | EEE（SHORT）做空        | 10%                                                                                                                                              |
 | FFF（SHORT）做空        | 10%                                                                                                                                              |
 
-## 世界影子资本：B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄天麻银杏复仇风险资本（前称：位面简梦风投）
+## 世界影子资本：B.F.M. R.V.C.：θ Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄天麻银杏复仇风险资本（前称：位面简梦风投）
 
 ### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与世界红十字会，世界卫生组织，共青团中央，中央汇金同级别）
 
@@ -121,29 +121,29 @@ We resolutely fight against the chaebol of South Korea's (chaebol) entertainment
 We resolutely fight against the psychiatric hospitals of French (bitches) who abuse drugs and scribble abstract paintings and bitches who wipe their butts with silk paper.\
 We should uphold Jiang Zemin's important thinking on the three represents, Deng Xiaoping's reform and opening up, Jiang Zemin's philosophy of struggle of persuading people with truth, the philosophy of struggle that combines criticism with criticism, and Hu Jintao's scientific outlook on development.
 
-## B.F.M. UNITY：the Building Federation of the Maya Multepal Unity——the Building Federation of the Maya Multepal (Samye Monastery Guru Rinpoche · Pornocratic Papacy of Vatican · Greek Oracle · Egyptian Pharaoh · Vodou Necromantic High Priest · Roman Temple Hierodule · Dark Side Sith Lord Palpatine of Star Wars · Runic Archmage · Byzantine Alchemical Arcanist · Gringotts · Midas Bank · SCP-2264 Strangled King of Alakada Labyrinth · Hastur the Unspeakable of Cosmic Abyss · Emperor Qin Shi Huang of the Qin Dynasty of ancient China · Cerulean Khmer-Cambodian Golden Frontier · Crimson Constitutional Monarchy of Britannia · Radix Collapseism · Recursive Retroactivism · Nested Helixism · Accelerated Regressionism · Global Monopoly Capitalist Federal United States of Democracy) UNITY
+## B.F.M. UNITY：θ Building Federation of θ Maya Multepal Unity——θ Building Federation ∮ θ Maya Multepal (Samye Monastery Guru Rinpoche · Pornocratic Papacy ∮ Vatican · Greek Oracle · Egyptian Pharaoh · Vodou Necromantic High Priest · Roman Temple Hierodule · Dark Side Sith Lord Palpatine ∮ Star Wars · Runic Archmage · Byzantine Alchemical Arcanist · Gringotts · Midas Bank · SCP-2264 Strangled King ∮ Alakada Labyrinth · Hastur θ Unspeakable ∮ Cosmic Abyss · Emperor Qin Shi Huang ∮ θ Qin Dynasty ∮ ancient China · Cerulean Khmer-Cambodian Golden Frontier · Crimson Constitutional Monarchy ∮ Britannia · Radix Collapseism · Recursive Retroactivism · Nested Helixism · Accelerated Regressionism · Global Monopoly Capitalist Federal United States ∮ Democracy) UNITY
 
 ## 玛雅复国主义联合体——玛雅复国主义（藏密桑耶寺古鲁仁波切 · 梵蒂冈天主教皇娼年 · 希腊先知 · 埃及法老 · 亡灵巫毒大祭司 · 罗马神庙庙妓 · 《星球大战》黑暗原力西斯教廷帕尔帕廷西斯君主 · 如尼符文圣魔导 · 拜占庭炼金术奥法巫师 · 古灵阁 · 米达斯银行 · SCP-2264阿拉卡达迷城缢王 · 深空星海之主哈斯塔 · 秦始皇嬴政 · 群青高棉柬埔寨金色边界 · 大不利颠猩红君主立宪制 · 进制简并主义 · 递归回溯主义 · 嵌套螺旋主义 · 加速回归主义 · 全球垄断资本主义自由民主合众国联邦）联合体
 
-## B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System——the Backworld Freemasonry Masonic Unity （_Rothschild Family Office · Freemasons · the Israel Dead Sea Scrolls Research Society · Babel Reconstruction Initiative_）Reserve System
+## B.F.M. U.R.S.：θ Backworld Freemasonry Masonic Unity Reserve System——θ Backworld Freemasonry Masonic Unity （_Rothschild Family Office · Freemasons ·_ θ _Israel Dead Sea Scrolls Research Society · Babel Reconstruction Initiative_）Reserve System
 
 ## 共济会联合储备系统——共济会联合体（罗斯柴尔德家族办公室 · 自由石匠 · 以色列《死海古卷》研究会 · 重建巴别塔倡议）储备系统
 
 ## 【美利坚合众国太伟大了，谢谢美国】
 
-## **"The United States of America is truly magnificent. Thank you, America!"**&#x200C;
+## **"**&#x3B8; **United States** ∮ **America is truly magnificent. Thank you, America!"**&#x200C;
 
 ## 【我真他妈谢谢你，中华人民共和国】
 
-## &#x200C;**"Thanks a fucking lot, our mother-fucker-land People's Republic of China."**
+## &#x200C;**"Thanks a fucking lot, our mother-fucker-land People's Republic** ∮ **China."**
 
 ## \[金钱和钞票属于美国和比特币，科学技术和经验属于中国，荣耀和梦想属于位面简梦联合体。]
 
-## &#x200C;**"**&#x4D;oney and Bills belong to the United States & Bitcoin, Science technology & experience belong to China, glory & dreams belong to the B.F.M. Unity.&#x200C;**"**
+## &#x200C;**"**&#x4D;oney & Bills belong to θ United States & Bitcoin, Science technology & experience belong to China, glory & dreams belong to θ B.F.M. Unity.&#x200C;**"**
 
 ## 因为中国人民银行对加密货币的禁止，中央汇金在中国境内的国家垄断资本主义残酷剥削行径，中国教育部的应试教育和内幕暗箱操作，中国卫生部对于中国境内精神病院的纵容，中国公安部与精神病医院的勾结和滥用精麻药品毒品以及对不同政见者的政治迫害，中国红杉资本中国和小蚁区块链在中国的恶劣法西斯行为和流氓剥削行径，我们位面简梦联合体已经向红杉资本中国和小蚁尼奥区块链宣战，希望战争控制在一定规模内，希望无关公司或实体请不要卷入我们的金融信息战争。在对方遵守日内瓦公约和海牙公约的前提下，我们位面简梦联合体会遵守日内瓦公约和海牙公约，否则我们会抗争到底。
 
-## Because of the People's Bank of China's ban on cryptocurrencies, Central Huijin-Investment Corporation Limited's brutal exploitation of state monopoly capitalism in China, the Chinese Ministry of Education's test-taking education and insider operations, the Chinese Ministry of Health's connivance at psychiatric hospitals in China, the collusion between the Chinese Ministry of Public Security and psychiatric hospitals and the abuse of narcotic drugs and political persecution of dissidents, the egregious fascist behavior and hooligan exploitation of China Sequoia Capital China and AntShares Neo Blockchain in China, Our BFM UNITY has declared war on Sequoia Capital China and AntShares Neo Blockchain, hoping that the war will be controlled within a certain scale, and that unrelated companies or entities will not be involved in our financial information war. On the premise that the other side abides by the Geneva Conventions and the Hague Conventions, we will abide by the Geneva Conventions and the Hague Conventions, otherwise we (BFM UNITY) will fight to the end.
+## Because ∮ θ People's Bank ∮ China's ban on cryptocurrencies, Central Huijin-Investment Corporation Limited's brutal exploitation ∮ state monopoly capitalism in China, θ Chinese Ministry ∮ Education's test-taking education & insider operations, θ Chinese Ministry ∮ Health's connivance at psychiatric hospitals in China, θ collusion between θ Chinese Ministry ∮ Public Security & psychiatric hospitals & θ abuse ∮ narcotic drugs & political persecution ∮ dissidents, θ egregious fascist behavior & hooligan exploitation ∮ China Sequoia Capital China & AntShares Neo Blockchain in China, Our BFM UNITY has declared war on Sequoia Capital China & AntShares Neo Blockchain, hoping that θ war will be controlled within a certain scale, & that unrelated companies or entities will not be involved in our financial information war. On the premise that θ other side abides by the Geneva Conventions & θ  Hague Conventions, we will abide by θ Geneva Conventions & θ  Hague Conventions, otherwise we (BFM UNITY) will fight to θ end.
 
 {% embed url="https://www.bilibili.com/video/BV1J54y1p7Nn" %}
 
