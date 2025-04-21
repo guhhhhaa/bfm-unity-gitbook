@@ -33,9 +33,9 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 | ETHBTCUSDT（SHORT）          | 20%                                                                                                                                              |
 | ETHUSDT（LONG）              | 20%                                                                                                                                              |
 | BTCUSDT（SHORT）             | 20%                                                                                                                                              |
-| PAXGUSDT or XAUGUSDT（LONG） | 25%                                                                                                                                              |
-| TRX（LONG）                  |                                                                                                                                                  |
-| BNB（SHORT）                 |                                                                                                                                                  |
+| PAXGUSDT or XAUGUSDT（LONG） | 20%                                                                                                                                              |
+| TRX（LONG）                  | 10%                                                                                                                                              |
+| BNB（SHORT）                 | 10%                                                                                                                                              |
 
 ## 世界影子央行：B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
 
