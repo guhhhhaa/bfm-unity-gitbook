@@ -6,7 +6,9 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
-## 世界影子政府：B.F.M. UNITY：the Building Federation of the Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）
+世界影子政府：B.F.M. UNITY：θ Building Federation \
+∮ θ Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）
+---------------------------------------------
 
 ### 性质：超非国家实体，MNSE：Meta-Non-State Entity（与主权国家中南海全国人民代表大会，联合国，同级别）
 
@@ -20,22 +22,22 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <div><figure><img src=".gitbook/assets/截屏2025-04-21 07.48.03.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/截屏2025-04-21 07.48.15.png" alt=""><figcaption></figcaption></figure></div>
 
-| 杠杆率：1x       | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| BTC          | 20%                                                                                                                                              |
-| ETH          | 20%                                                                                                                                              |
-| PAXG or XAUT | 20%                                                                                                                                              |
-| LEO          | 20%                                                                                                                                              |
-| USDT or USDC | 20%                                                                                                                                              |
+| 杠杆率：1x          | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| BTC 现货          | 20%                                                                                                                                              |
+| ETH 现货          | 20%                                                                                                                                              |
+| PAXG or XAUT 现货 | 20%                                                                                                                                              |
+| LEO 现货          | 20%                                                                                                                                              |
+| USDT or USDC 现货 | 20%                                                                                                                                              |
 
-| 杠杆率：4x                     | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ETHBTCUSDT（SHORT）          | 20%                                                                                                                                              |
-| ETHUSDT（LONG）              | 20%                                                                                                                                              |
-| BTCUSDT（SHORT）             | 20%                                                                                                                                              |
-| PAXGUSDT or XAUGUSDT（LONG） | 20%                                                                                                                                              |
-| TRX（LONG）                  | 10%                                                                                                                                              |
-| BNB（SHORT）                 | 10%                                                                                                                                              |
+| 杠杆率：4x                       | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ETHBTCUSDT（SHORT）做空          | 20%                                                                                                                                              |
+| ETHUSDT（LONG）做多              | 20%                                                                                                                                              |
+| BTCUSDT（SHORT）做空             | 20%                                                                                                                                              |
+| PAXGUSDT or XAUGUSDT（LONG）做多 | 20%                                                                                                                                              |
+| TRX（LONG）做多                  | 10%                                                                                                                                              |
+| BNB（SHORT）做空                 | 10%                                                                                                                                              |
 
 ## 世界影子央行：B.F.M. U.R.S.：the Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
 
@@ -45,15 +47,15 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-| 杠杆率：7x            | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ETHBTCUSDT（SHORT） | 40%                                                                                                                                              |
-| AAA（SHORT）        | 10%                                                                                                                                              |
-| BBB（SHORT）        | 10%                                                                                                                                              |
-| CCC（SHORT）        | 10%                                                                                                                                              |
-| DDD（SHORT）        | 10%                                                                                                                                              |
-| EEE（SHORT）        | 10%                                                                                                                                              |
-| FFF（SHORT）        | 10%                                                                                                                                              |
+| 杠杆率：7x              | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ETHBTCUSDT（SHORT）做空 | 40%                                                                                                                                              |
+| AAA（SHORT）做空        | 10%                                                                                                                                              |
+| BBB（SHORT）做空        | 10%                                                                                                                                              |
+| CCC（SHORT）做空        | 10%                                                                                                                                              |
+| DDD（SHORT）做空        | 10%                                                                                                                                              |
+| EEE（SHORT）做空        | 10%                                                                                                                                              |
+| FFF（SHORT）做空        | 10%                                                                                                                                              |
 
 ## 世界影子资本：B.F.M. R.V.C.：the Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄天麻银杏复仇风险资本（前称：位面简梦风投）
 
