@@ -6,6 +6,8 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/GreatDodecahedron.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+
 世界影子政府：B.F.M. UNITY：θ Building Federation \
 ∮ θ Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）
 ---------------------------------------------
