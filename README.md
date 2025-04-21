@@ -18,7 +18,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 <figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src=".gitbook/assets/截屏2025-04-21 07.48.03.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/截屏2025-04-21 07.48.15.png" alt=""><figcaption></figcaption></figure></div>
 
 | 杠杆率：1x       | 币圈一天，人间一年，所以时间调仓：24h/8=3h，空间调仓：2.5%（一天全自动开八次会，每次全自动加减零点二五折），连美联储主席 艾伦·格林斯潘 (Alan Greenspan) 潘功胜（潘家园宫里的外甥），彼得潘，潘长江，潘金莲，潘多拉的魔盒，潘建伟，潘神的迷宫也对我们也没有话说。 |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
