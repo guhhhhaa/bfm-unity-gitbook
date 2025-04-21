@@ -10,7 +10,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 ∮ θ Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）
 ---------------------------------------------
 
-### 性质：超非国家实体，MNSE：Meta-Non-State Entity（与主权国家中南海全国人民代表大会，联合国，同级别的，永远伟大，永远光明，永远正确的，的存在）
+### 性质：超非国家实体，MNSE：Meta-Non-State Entity（与主权国家中南海，全国人民代表大会，联合国，同级别的，永远伟大，永远光明，永远正确的，的存在）
 
 <figure><img src=".gitbook/assets/BFM-UEG-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
