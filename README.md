@@ -12,7 +12,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 ∮ θ Maya Multepal Unity 玛雅复国主义联合体（前称：位面简梦联合体）
 ---------------------------------------------
 
-### 性质：超非国家实体，MNSE：Meta-Non-State Entity（与主权国家中南海，全国人民代表大会，联合国，同行组织的，同仇敌忾的，同甘共苦的，协同的，同伦的，同调的，同态的，同胚的，同构的，同理想的，同行是冤家的，同级别的，死道友不死贫道的，永远伟大的，永远光明的，永远正确的，的万岁的，的存在）
+### 性质：超非国家实体，MNSE：Meta-Non-State Entity（与主权国家中南海，全国人民代表大会，联合国，同仇敌忾的，同甘共苦的，协同的，同伦的，同调的，同态的，同胚的，同构的，同理想的，同行组织的，同行是冤家的，同级别的，死道友不死贫道的，永远伟大的，永远光明的，永远正确的，的万岁的，的存在）
 
 <figure><img src=".gitbook/assets/BFM-UEG-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +45,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## 世界影子央行：B.F.M. U.R.S.：θ Backworld Freemasonry Masonic Unity Reserve System 世界幕后自由石匠共济会联合体储备系统（前称：位面简梦联合储备系统）
 
-### 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与中国财政部，共产党中央，国务院，央行，世界贸易组织，国际清算银行，世界银行，国际货币基金组织，同行组织的，同仇敌忾的，同甘共苦的，协同的，同伦的，同调的，同态的，同胚的，同构的，同理想的，同行是冤家的，同级别的，死道友不死贫道的，永远伟大的，永远光明的，永远正确的，的万岁的，的存在）
+### 性质：超非政府组织，MNGO：Meta-Non-Governmental Organization（与中国财政部，共产党中央，国务院，央行，世界贸易组织，国际清算银行，世界银行，国际货币基金组织，同仇敌忾的，同甘共苦的，协同的，同伦的，同调的，同态的，同胚的，同构的，同理想的，同行组织的，同行是冤家的，同级别的，死道友不死贫道的，永远伟大的，永远光明的，永远正确的，的万岁的，的存在）
 
 <figure><img src=".gitbook/assets/BFM-URS-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
@@ -63,7 +63,7 @@ description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
 
 ## 世界影子资本：B.F.M. R.V.C.：θ Botryosphaeria Fomitopsis Melampsora Revenge Venture Capital 桑黄天麻银杏复仇风险资本（前称：位面简梦风投）
 
-### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与世界红十字会，世界卫生组织，共青团中央，中央汇金，同行组织的，同仇敌忾的，同甘共苦的，协同的，同伦的，同调的，同态的，同胚的，同构的，同理想的，同行是冤家的，同级别的，死道友不死贫道的，永远伟大的，永远光明的，永远正确的，的万岁的，的存在）
+### 性质：超非营利组织，MNPO：Meta-Non-Profit Organization（与世界红十字会，世界卫生组织，共青团中央，中央汇金，同仇敌忾的，同甘共苦的，协同的，同伦的，同调的，同态的，同胚的，同构的，同理想的，同行组织的，同行是冤家的，同级别的，死道友不死贫道的，永远伟大的，永远光明的，永远正确的，的万岁的，的存在）
 
 <figure><img src=".gitbook/assets/BFM-RVC-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
