@@ -157,18 +157,18 @@ We should uphold Jiang Zemin's important thinking on θ three represents, Deng X
 
 {% embed url="https://www.bilibili.com/video/BV1J54y1p7Nn" %}
 
-| 灭掉红杉中国             | Kill Sequoia hongshan cn | 灭掉小蚁区块链            | Kill Antshares Neo Blockchain |
-| ------------------ | ------------------------ | ------------------ | ----------------------------- |
-| ETHBTCUSDT (SHORT) | 50%                      | ETHBTCUSDT (SHORT) | 50%                           |
-| MOCAUSDT (SHORT)   | 10%                      | NEOUSDT (SHORT)    | 10%                           |
-| AERGOUSDT  (SHORT) | 5%                       | FLMUSDT (SHORT)    | 5%                            |
-| BANDUSDT (SHORT)   | 5%                       | GASUSDT (SHORT)    | 5%                            |
-| CFXUSDT (SHORT)    | 5%                       | MBOXUSDT (SHORT)   | 5%                            |
-| CKBUSDT (SHORT)    | 5%                       | MERLUSDT (SHORT)   | 5%                            |
-| FILUSDT (SHORT)    | 5%                       | ONTUSDT (SHORT)    | 5%                            |
-| GMTUSDT (SHORT)    | 5%                       | PERPUSDT (SHORT)   | 5%                            |
-| STRKUSDT (SHORT)   | 5%                       | TAIKOUSDT (SHORT)  | 5%                            |
-| ZROUSDT (SHORT)    | 5%                       | TRBUSDT (SHORT)    | 5%                            |
+| 灭掉红杉中国                    | Kill Sequoia hongshan cn | 灭掉小蚁区块链               | Kill Antshares Neo Blockchain |
+| ------------------------- | ------------------------ | --------------------- | ----------------------------- |
+| ETHBTCUSDT (SHORT) 做空     | 50%                      | ETHBTCUSDT (SHORT) 做空 | 50%                           |
+| MOCAUSDT (SHORT)    做空    | 10%                      | NEOUSDT (SHORT) 做空    | 10%                           |
+| AERGOUSDT  (SHORT) 做空     | 5%                       | FLMUSDT (SHORT) 做空    | 5%                            |
+| BANDUSDT (SHORT)  做空      | 5%                       | GASUSDT (SHORT) 做空    | 5%                            |
+| CFXUSDT (SHORT) 做空        | 5%                       | MBOXUSDT (SHORT) 做空   | 5%                            |
+| CKBUSDT (SHORT) 做空        | 5%                       | MERLUSDT (SHORT) 做空   | 5%                            |
+| FILUSDT (SHORT) 做空        | 5%                       | ONTUSDT (SHORT) 做空    | 5%                            |
+| GMTUSDT (SHORT) 做空        | 5%                       | PERPUSDT (SHORT) 做空   | 5%                            |
+| STRKUSDT (SHORT) 做空       | 5%                       | TAIKOUSDT (SHORT) 做空  | 5%                            |
+| ZROUSDT (SHORT) 做空        | 5%                       | TRBUSDT (SHORT) 做空    | 5%                            |
 
 
 
