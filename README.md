@@ -18,6 +18,8 @@ description: >-
 
 <figure><img src=".gitbook/assets/BFM-UEG-FLAG@4x.png" alt=""><figcaption></figcaption></figure>
 
+
+
 ## 第二死星设计图纸：
 
 <figure><img src=".gitbook/assets/截屏2025-04-18 12.20.20.png" alt=""><figcaption></figcaption></figure>
@@ -141,9 +143,9 @@ We should uphold Jiang Zemin's important thinking on θ three represents, Deng X
 
 ## **"**&#x3B8; **United States** ∮ **America is truly magnificent. Thank you, America!"**&#x200C;
 
-## 【我真他妈谢谢你，中华人民共和国】
+## 【我真他妈谢谢你，你国，十八辈祖宗国，中华人民共和国】
 
-## &#x200C;**"Thanks a fucking lot, our mother-fucker-land People's Republic** ∮ **China."**
+## &#x200C;**"Thanks a fucking lot, your mother-fucker-land People's Republic** ∮ **China."**
 
 ## \[金钱和钞票属于美国和比特币，科学技术和经验属于中国，荣耀和梦想属于位面简梦联合体。]
 
