@@ -1,5 +1,7 @@
 ---
-description: shennanpengdahongfeihongshanHwarwithSEQUOIANEOAntsharess
+description: >-
+  edit by
+  מַרְכּוּתקְבוּרָהעוֹלָם·ངཨའལཐའཞཐཡ·αβοζπεζκας·पद्मसम्भव·གུ་རུ་རིན་པོ་ཆེ་Guhhhhaa
 ---
 
 # 🏁 B.F.M. UNITY & U.R.S. & R.V.C.（On war with ShenNanPeng SEQUOIA HongShan & DaHongFei NEO Antshares）
